@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ပရီမီယံ</string>
+    <string name="browse" formatted="false">လိုက်ကြည့်သည်။</string>
+    <string name="downloads" formatted="false">ဒေါင်းလုဒ်များ</string>
+    <string name="guide" formatted="false">လမ်းညွှန်</string>
+    <string name="settings" formatted="false">ဆက်တင်များ</string>
+    <string name="home_title" formatted="false">သင့်ဗီဒီယိုများ။ သင်၏စုဆောင်းမှု။</string>
+    <string name="home_subtitle" formatted="false">ထိန်းသိမ်းရကျိုးနပ်တဲ့အရာကို ရှာပါ။</string>
+    <string name="search_hint" formatted="false">ဝဘ်ဆိုဒ်တစ်ခုကို ရှာဖွေပါ သို့မဟုတ် ဝင်ရောက်ပါ။</string>
+    <string name="go" formatted="false">သွားတော့</string>
+    <string name="paste_link" formatted="false">ဗီဒီယိုလင့်ခ်ကို ကူးထည့်ပါ။</string>
+    <string name="direct_link" formatted="false">တိုက်ရိုက်ဗီဒီယိုလင့်ခ်</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ဒေါင်းလုဒ်လုပ်ပါ။</string>
+    <string name="detect" formatted="false">ဗီဒီယိုများကို ရှာပါ။</string>
+    <string name="detected" formatted="false">ဤစာမျက်နှာရှိဗီဒီယိုများ</string>
+    <string name="no_media" formatted="false">ဒေါင်းလုဒ်လုပ်နိုင်သော ဗီဒီယိုကို ရှာမတွေ့ပါ။ ဗီဒီယိုကို စတင်ဖွင့်ပြီးနောက် ထပ်စမ်းကြည့်ပါ။ ကာကွယ်ထားသော စီးကြောင်းများနှင့် မြှုပ်ထားသောဘောင်များကို မရနိုင်ပါ။</string>
+    <string name="safe_note" formatted="false">သင်ပိုင်ဆိုင်သည့် ဗီဒီယိုများကိုသာ ဒေါင်းလုဒ်လုပ်ပါ သို့မဟုတ် သိမ်းဆည်းရန် ခွင့်ပြုချက်ရှိသည်။ ကာကွယ်ထားသော စီးကြောင်းများနှင့် YouTube ဒေါင်းလုဒ်များကို မရရှိနိုင်ပါ။</string>
+    <string name="quick_start" formatted="false">ဤနေရာတွင် စတင်ပါ။</string>
+    <string name="quick_browse" formatted="false">ဝဘ်ကို စူးစမ်းပါ။</string>
+    <string name="quick_browse_body" formatted="false">Built-in browser တွင် သင်နှစ်သက်သောအင်ဂျင်ဖြင့် ရှာဖွေပါ။</string>
+    <string name="quick_download" formatted="false">ဗီဒီယိုကို သိမ်းဆည်းပါ။</string>
+    <string name="quick_download_body" formatted="false">တိုက်ရိုက် HTTPS ဗီဒီယိုလင့်ခ်ကို ကူးထည့်ပါ သို့မဟုတ် စာမျက်နှာတစ်ခုပေါ်ရှိ ဗီဒီယိုကို ရှာပါ။</string>
+    <string name="quick_guide" formatted="false">လမ်းညွှန်ချက်အနည်းငယ်</string>
+    <string name="quick_guide_body" formatted="false">ရှာဖွေတွေ့ရှိမှုမှ သင့်စုစည်းမှုအထိ သရုပ်ဖော်ထားသည့် အဆင့်လေးဆင့်။</string>
+    <string name="back" formatted="false">ကျော</string>
+    <string name="forward" formatted="false">ရှေ့သို့</string>
+    <string name="reload" formatted="false">ပြန်တင်ပါ။</string>
+    <string name="home" formatted="false">အိမ်</string>
+    <string name="bookmark" formatted="false">ညှပ်</string>
+    <string name="bookmarks" formatted="false">ညှပ်</string>
+    <string name="empty_bookmarks" formatted="false">သိမ်းဆည်းထားသော ဝဘ်ဆိုဒ်များ ဤနေရာတွင် ပေါ်လာပါမည်။</string>
+    <string name="saved" formatted="false">သိမ်းဆည်းခဲ့သည်။</string>
+    <string name="remove" formatted="false">ဖယ်ရှားပါ။</string>
+    <string name="cancel" formatted="false">မလုပ်တော့</string>
+    <string name="close" formatted="false">ပိတ်လိုက်</string>
+    <string name="confirm_download" formatted="false">ဤဗီဒီယိုကို သိမ်းဆည်းမလား။</string>
+    <string name="filename" formatted="false">ဖိုင်အမည်</string>
+    <string name="download_location" formatted="false">ဒေါင်းလုဒ်များ / Video Downloader Premium တွင် သိမ်းဆည်းထားသည်။</string>
+    <string name="permission_confirm" formatted="false">ဤဗီဒီယိုကို ကျွန်ုပ်ပိုင်ဆိုင်သည် သို့မဟုတ် ဒေါင်းလုဒ်လုပ်ရန် ခွင့်ပြုချက်ရှိသည်။</string>
+    <string name="permission_required" formatted="false">ဤဗီဒီယိုကို သိမ်းဆည်းရန် သင့်တွင် ခွင့်ပြုချက်ရှိကြောင်း အတည်ပြုပါ။</string>
+    <string name="invalid_url" formatted="false">တရားဝင် HTTPS ဗီဒီယိုလင့်ခ်ကို ထည့်ပါ။</string>
+    <string name="unsupported" formatted="false">ဤလင့်ခ်သည် ဒေါင်းလုဒ်လုပ်နိုင်သော ဗီဒီယိုမဟုတ်ပါ။ DRM၊ တိုက်ရိုက်ထုတ်လွှင့်မှုများ၊ အစီအစဉ်များနှင့် YouTube ဒေါင်းလုဒ်များကို ပံ့ပိုးမထားပါ။</string>
+    <string name="queued" formatted="false">ဒေါင်းလုဒ်ကို တန်းစီရန် ထည့်ထားသည်။</string>
+    <string name="download_error" formatted="false">ဒေါင်းလုဒ်လုပ်၍မရပါ။ ချိတ်ဆက်မှုကို စစ်ဆေးပါ သို့မဟုတ် လတ်ဆတ်သော ဗီဒီယိုလင့်ခ်ကို အသုံးပြုပါ။</string>
+    <string name="collection_title" formatted="false">သင်၏စုဆောင်းမှု</string>
+    <string name="collection_subtitle" formatted="false">သိမ်းဆည်းထားသော ဗီဒီယိုများ၊ သင်ရှိနေချိန်တွင် အဆင်သင့်ဖြစ်ပါစေ။</string>
+    <string name="empty_downloads" formatted="false">မင်းရဲ့နောက်ထပ်အကြိုက်ဆုံးက ဒီမှာ။</string>
+    <string name="empty_downloads_body" formatted="false">သင့်စုစည်းမှုစတင်ရန်အတွက် Browse တွင် ဗီဒီယိုတစ်ခုရှာပါ သို့မဟုတ် တိုက်ရိုက်ဗီဒီယိုလင့်ခ်ကို ကူးထည့်ပါ။</string>
+    <string name="pending" formatted="false">တန်းစီနေသည်။</string>
+    <string name="running" formatted="false">ဒေါင်းလုဒ်လုပ်နေသည်။</string>
+    <string name="paused" formatted="false">ကွန်ရက်ကို စောင့်နေသည် သို့မဟုတ် ထပ်စမ်းကြည့်ပါ။</string>
+    <string name="complete" formatted="false">ပြီးအောင်</string>
+    <string name="failed" formatted="false">မအောင်မြင်</string>
+    <string name="missing" formatted="false">ဖိုင်မရနိုင်ပါ။</string>
+    <string name="play" formatted="false">ကစားပါ။</string>
+    <string name="share" formatted="false">မျှဝေပါ။</string>
+    <string name="retry" formatted="false">ပြန်ကြိုးစားပါ။</string>
+    <string name="delete_download" formatted="false">ဒေါင်းလုဒ်နှင့် ၎င်း၏ဖိုင်ကို ဖယ်ရှားမလား။</string>
+    <string name="no_player" formatted="false">ဤဖိုင်ကိုဖွင့်ရန် တွဲဖက်အသုံးပြုနိုင်သောအက်ပ်မရှိပါ။</string>
+    <string name="guide_title" formatted="false">ရှာဖွေတွေ့ရှိမှုမှ ဒေါင်းလုဒ်လုပ်ရန်။</string>
+    <string name="guide_subtitle" formatted="false">သင်နှစ်သက်သော ဗီဒီယိုများကို ထိန်းသိမ်းရန် ရိုးရှင်းသော လမ်းညွှန်ချက်။</string>
+    <string name="step_one_title" formatted="false">သင့်ဗီဒီယိုကို ရှာပါ။</string>
+    <string name="step_one_body" formatted="false">Browse ကိုဖွင့်ပါ။ ဝဘ်ဆိုက်လိပ်စာကို ရှာပါ သို့မဟုတ် ထည့်ပါ။ အခြားအက်ပ်တစ်ခုမှ ဗီဒီယိုလင့်ခ်တစ်ခုကိုလည်း မျှဝေနိုင်သည်။</string>
+    <string name="step_two_title" formatted="false">အရင်းအမြစ်ကိုရှာဖွေပါ။</string>
+    <string name="step_two_body" formatted="false">ဗီဒီယိုတစ်ခုကို ဖွင့်ပါ၊ ထို့နောက် ဗီဒီယိုများကို ရှာပါ ကိုနှိပ်ပါ။ တွေ့ရှိထားသောဖိုင်ကို ရွေးပါ သို့မဟုတ် တိုက်ရိုက် HTTPS ဗီဒီယိုလင့်ခ်ကို ကူးထည့်ပါ။</string>
+    <string name="step_three_title" formatted="false">သင့်အတွက်လုပ်ပါ။</string>
+    <string name="step_three_body" formatted="false">ဖိုင်အမည်ကို ရွေးချယ်ပါ၊ ဗီဒီယိုကို သိမ်းဆည်းရန် သင့်ခွင့်ပြုချက်ကို အတည်ပြုပြီး ဒေါင်းလုဒ်ကို နှိပ်ပါ။ Android သည် နောက်ခံတွင် ဒေါင်းလုဒ်ကို ဆက်လက်လုပ်ဆောင်သည်။</string>
+    <string name="step_four_title" formatted="false">သင်၏စုဆောင်းမှုကိုခံစားပါ။</string>
+    <string name="step_four_body" formatted="false">တိုးတက်မှုကိုစစ်ဆေးရန် ဒေါင်းလုဒ်များကိုဖွင့်ပါ။ ပြီးသွားသော ဗီဒီယိုများကို ဖွင့်ပါ သို့မဟုတ် မျှဝေပါ။ လိုအပ်သည့်အခါတွင် လင့်ခ်အသစ်တစ်ခုဖြင့် မအောင်မြင်သောဒေါင်းလုဒ်များကို ပြန်လည်ကြိုးစားပါ။</string>
+    <string name="try_now" formatted="false">ယခုစမ်းကြည့်ပါ။</string>
+    <string name="preferences" formatted="false">သင့်ကိုယ်ပိုင်လုပ်ပါ။</string>
+    <string name="preferences_subtitle" formatted="false">သင်၏နေ့စဉ်ရှာဖွေခြင်းအတွက် တွေးခေါ်မြော်မြင်နိုင်သော ထိန်းချုပ်မှုအချို့။</string>
+    <string name="dns_title" formatted="false">VPN / သီးသန့် DNS</string>
+    <string name="dns_explanation" formatted="false">သီးသန့် DNS သည် DNS မေးမြန်းချက်များကို ကုဒ်ဝှက်သည်။ ၎င်းသည် သင်၏ IP လိပ်စာကို ဝှက်ထားခြင်း သို့မဟုတ် VPN ဥမင်လိုဏ်ခေါင်းတစ်ခု ဖန်တီးထားခြင်းမရှိပါ။ Android သည် ဤဆက်တင်ကို ကိုယ်တိုင်ပြောင်းလဲရန် လိုအပ်သည်။</string>
+    <string name="connected" formatted="false">ချိတ်ဆက်ထားသည်။</string>
+    <string name="unconnected" formatted="false">အဆက်အစပ်မရှိ</string>
+    <string name="connect" formatted="false">ချိတ်ဆက်ပါ။</string>
+    <string name="disconnect" formatted="false">အဆက်ဖြတ်ပါ။</string>
+    <string name="dns_instructions" formatted="false">သီးသန့် DNS ဝန်ဆောင်မှုပေးသူအမည်ကို ရွေးပါ၊ dns.adguard-dns.com ကို ကူးထည့်ကာ သိမ်းဆည်းပါ။ ချိတ်ဆက်မှုဖြတ်ရန်၊ တူညီသောစနစ်ဆက်တင်တွင် အလိုအလျောက် သို့မဟုတ် ပိတ်ခြင်းကို ရွေးပါ။</string>
+    <string name="copy_hostname" formatted="false">လက်ခံသူအမည်ကို ကူးယူပါ။</string>
+    <string name="copied" formatted="false">ကလစ်ဘုတ်သို့ ကူးယူထားသည်။</string>
+    <string name="open_network_settings" formatted="false">ကွန်ရက်ဆက်တင်များကို ဖွင့်ပါ။</string>
+    <string name="language" formatted="false">အက်ပ်ဘာသာစကား</string>
+    <string name="system_language" formatted="false">စက်ဘာသာစကားကို လိုက်နာပါ။</string>
+    <string name="search_language" formatted="false">ဘာသာစကားတစ်ခုရှာပါ။</string>
+    <string name="language_note" formatted="false">ဘာသာပြန်ဆိုချက်များကို အော့ဖ်လိုင်းတွင် ပါဝင်သည်။ စာရင်းမသွင်းထားသော စက်ဘာသာစကားများသည် အင်္ဂလိပ်ကို အသုံးပြုသည်။ စက်ဘာသာပြန်ဆိုမှုများသည် ဒေသဆိုင်ရာ ပြန်လည်သုံးသပ်မှု လိုအပ်နိုင်ပါသည်။</string>
+    <string name="search_engine" formatted="false">ရှာဖွေရေးအင်ဂျင်</string>
+    <string name="wifi_only" formatted="false">Wi-Fi တွင်သာ ဒေါင်းလုဒ်လုပ်ပါ။</string>
+    <string name="wifi_body" formatted="false">ဒေါင်းလုဒ်အသစ်များ Wi-Fi ရရှိနိုင်သည်အထိ စောင့်ပါ။</string>
+    <string name="javascript" formatted="false">ဝဘ်ဆိုဒ် JavaScript</string>
+    <string name="javascript_body" formatted="false">ဝဘ်ဆိုက်များစွာနှင့် HTML5 ဗီဒီယိုရှာဖွေတွေ့ရှိမှုတို့က လိုအပ်သည်။</string>
+    <string name="privacy" formatted="false">ကိုယ်ရေးကိုယ်တာ</string>
+    <string name="clear_browser" formatted="false">ရှာဖွေမှုဒေတာကို ရှင်းလင်းပါ။</string>
+    <string name="clear_browser_confirm" formatted="false">ကွတ်ကီးများ၊ ဘရောက်ဆာ ကက်ရှ်၊ မှတ်တမ်းနှင့် ဝဘ်ဆိုဒ်သိုလှောင်မှုကို ဖျက်မလား။</string>
+    <string name="privacy_body" formatted="false">ကြော်ငြာများ၊ ပိုင်းခြားစိတ်ဖြာချက်များ သို့မဟုတ် ဆော့ဖ်ဝဲရေးသားသူအကောင့်များ မရှိပါ။ ဝဘ်ဆိုက်များ၊ ရှာဖွေရေးအင်ဂျင်များ၊ DNS ဝန်ဆောင်မှုပေးသူများနှင့် ဒေါင်းလုဒ်ဆာဗာများသည် သင်တောင်းဆိုမှုများကို လက်ခံရရှိမည်ဖြစ်သည်။ ဒေါင်းလုဒ်မှတ်တမ်းနှင့် စာညှပ်များသည် ဤစက်ပစ္စည်းပေါ်တွင် ရှိနေပါသည်။</string>
+    <string name="terms" formatted="false">တာဝန်သိစွာသုံးပါ။</string>
+    <string name="terms_body" formatted="false">သင်ပိုင်ဆိုင်သည့် ဗီဒီယိုများကိုသာ သိမ်းဆည်းပါ သို့မဟုတ် ဒေါင်းလုဒ်လုပ်ရန် ခွင့်ပြုထားသည်။ မူပိုင်ခွင့်နှင့် ဝဘ်ဆိုက်စည်းကမ်းများကို လေးစားပါ။ ဤအက်ပ်သည် DRM၊ paywalls သို့မဟုတ် ပလပ်ဖောင်းဒေါင်းလုဒ်ကန့်သတ်ချက်များကို ကျော်လွှား၍မရပါ။</string>
+    <string name="about" formatted="false">အကြောင်း</string>
+    <string name="version" formatted="false">ဗားရှင်း</string>
+    <string name="paid_app" formatted="false">တစ်ခုဝယ်။ ကြော်ငြာမရှိပါ။ စာရင်းသွင်းခြင်းမရှိပါ။</string>
+    <string name="welcome_title" formatted="false">သင့်ကို စိတ်အားထက်သန်စေသောအရာကို သိမ်းဆည်းပါ။</string>
+    <string name="welcome_body" formatted="false">ခွင့်ပြုထားသော ဗီဒီယိုများကို တစ်နေရာတည်းတွင် ရှာဖွေကြည့်ရှု၊ ရှာဖွေပြီး သိမ်းဆည်းပါ။ စတင်ရန် ပုံပြလမ်းညွှန်ကို ဖတ်ပါ။</string>
+    <string name="start_browsing" formatted="false">စတင်ရှာဖွေပါ။</string>
+    <string name="read_guide" formatted="false">လမ်းညွှန်ကိုဖတ်ပါ။</string>
+    <string name="browser_error" formatted="false">ဤစာမျက်နှာကို တင်၍မရပါ။ လိပ်စာနှင့် ချိတ်ဆက်မှုကို စစ်ဆေးပြီးနောက် ပြန်လည်စတင်ပါ။</string>
+    <string name="secure_only" formatted="false">ဤအက်ပ်သည် HTTPS ချိတ်ဆက်မှုများကို အသုံးပြုသည်။ ဤဝဘ်ဆိုက်၏ လုံခြုံသောဗားရှင်းကို စမ်းကြည့်ပါ။</string>
+    <string name="external_link" formatted="false">အခြားအက်ပ်တွင် ဤလင့်ခ်ကို ဖွင့်မလား။</string>
+    <string name="open" formatted="false">ဖွင့်သည်။</string>
+    <string name="refresh" formatted="false">ပြန်လည်စတင်ပါ။</string>
+    <string name="accessibility_tutorial" formatted="false">ဤသင်ခန်းစာအတွက် ပုံဥပမာ</string>
+    <string name="download_reason" formatted="false">Android ဒေါင်းလုဒ်အမှားကုဒ်</string>
+    <string name="queue_full" formatted="false">ဒေါင်းလုဒ်မှတ်တမ်းသည် ပြည့်နေပါသည်။ ရှေးဦးစွာ ထည့်သွင်းမှုကို ဖယ်ရှားပါ။</string>
+    <string name="browser_tabs" formatted="false">ဘရောက်ဆာ တက်ဘ်များ</string>
+    <string name="tabs_subtitle" formatted="false">ဝဘ်ဆိုဒ်များကို ဖွင့်ထားပြီး ၎င်းတို့ကြားတွင် ပြောင်းလဲပါ။</string>
+    <string name="new_tab" formatted="false">တက်ဘ်အသစ်</string>
+    <string name="close_tab" formatted="false">တက်ဘ်ကို ပိတ်ပါ။</string>
+    <string name="active_tab" formatted="false">အသုံးပြုနေသော တက်ဘ်</string>
+    <string name="tab_limit" formatted="false">တက်ဘ် ၈ ခုအထိ သင်ဖွင့်နိုင်သည်။ နောက်တစ်ခုထည့်ရန် တက်ဘ်တစ်ခုကို ပိတ်ပါ။</string>
+    <string name="history" formatted="false">သမိုင်း</string>
+    <string name="history_subtitle" formatted="false">ဝင်ကြည့်ထားသော ဝဘ်ဆိုက်များကို ဤစက်ပစ္စည်းပေါ်တွင်သာ သိမ်းဆည်းထားသည်။</string>
+    <string name="empty_history" formatted="false">သင်၏ရှာဖွေမှုမှတ်တမ်းသည် ဤနေရာတွင် ပေါ်လာပါမည်။</string>
+    <string name="clear_history" formatted="false">သမိုင်းကိုရှင်းလင်းပါ။</string>
+    <string name="clear_history_confirm" formatted="false">ဤစက်ပစ္စည်းမှ ရှာဖွေမှုမှတ်တမ်းအားလုံးကို ဖျက်မလား။</string>
+    <string name="open_new_tab" formatted="false">တက်ဘ်အသစ်တွင် ဖွင့်ပါ။</string>
+    <string name="browser_menu" formatted="false">ဘရောက်ဆာ မီနူး</string>
+    <string name="shortcut_note" formatted="false">ဝဘ်ဆိုဒ်ဖြတ်လမ်းများကို ဘရောင်ဇာတွင် ဖွင့်ထားသည်။ ဒေါင်းလုဒ်ရရှိနိုင်မှုသည် ဝဘ်ဆိုက်ပေါ်တွင်မူတည်သည်။</string>
+</resources>

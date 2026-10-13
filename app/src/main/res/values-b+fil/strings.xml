@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Mag-browse</string>
+    <string name="downloads" formatted="false">Mga download</string>
+    <string name="guide" formatted="false">Patnubay</string>
+    <string name="settings" formatted="false">Mga setting</string>
+    <string name="home_title" formatted="false">Iyong mga video. Ang iyong koleksyon.</string>
+    <string name="home_subtitle" formatted="false">Maghanap ng isang bagay na nagkakahalaga ng pag-iingat.</string>
+    <string name="search_hint" formatted="false">Maghanap o magpasok ng isang website</string>
+    <string name="go" formatted="false">Pumunta ka</string>
+    <string name="paste_link" formatted="false">I-paste ang link ng video</string>
+    <string name="direct_link" formatted="false">Direktang link ng video</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">I-download</string>
+    <string name="detect" formatted="false">Maghanap ng mga video</string>
+    <string name="detected" formatted="false">Mga video sa page na ito</string>
+    <string name="no_media" formatted="false">Walang nahanap na nada-download na video. Magsimulang mag-play ng video, pagkatapos ay subukang muli. Maaaring hindi available ang mga protektadong stream at naka-embed na frame.</string>
+    <string name="safe_note" formatted="false">Mag-download lang ng mga video na pagmamay-ari mo o may pahintulot na mag-save. Hindi available ang mga protektadong stream at pag-download sa YouTube.</string>
+    <string name="quick_start" formatted="false">SIMULA DITO</string>
+    <string name="quick_browse" formatted="false">Galugarin ang web</string>
+    <string name="quick_browse_body" formatted="false">Maghanap gamit ang iyong ginustong engine sa built-in na browser.</string>
+    <string name="quick_download" formatted="false">Mag-save ng video</string>
+    <string name="quick_download_body" formatted="false">Mag-paste ng direktang link ng video ng HTTPS o maghanap ng video sa isang page.</string>
+    <string name="quick_guide" formatted="false">Isang munting gabay</string>
+    <string name="quick_guide_body" formatted="false">Apat na may larawang hakbang mula sa pagtuklas hanggang sa iyong koleksyon.</string>
+    <string name="back" formatted="false">Bumalik</string>
+    <string name="forward" formatted="false">Pasulong</string>
+    <string name="reload" formatted="false">I-reload</string>
+    <string name="home" formatted="false">Bahay</string>
+    <string name="bookmark" formatted="false">Bookmark</string>
+    <string name="bookmarks" formatted="false">Mga bookmark</string>
+    <string name="empty_bookmarks" formatted="false">Lalabas dito ang mga naka-save na website.</string>
+    <string name="saved" formatted="false">Nai-save</string>
+    <string name="remove" formatted="false">Alisin</string>
+    <string name="cancel" formatted="false">Kanselahin</string>
+    <string name="close" formatted="false">Isara</string>
+    <string name="confirm_download" formatted="false">I-save ang video na ito?</string>
+    <string name="filename" formatted="false">Pangalan ng file</string>
+    <string name="download_location" formatted="false">Naka-save sa Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Pagmamay-ari ko ang video na ito o may pahintulot na i-download ito.</string>
+    <string name="permission_required" formatted="false">Kumpirmahin na mayroon kang pahintulot na i-save ang video na ito.</string>
+    <string name="invalid_url" formatted="false">Maglagay ng wastong link ng video ng HTTPS.</string>
+    <string name="unsupported" formatted="false">Ang link na ito ay hindi isang nada-download na video. Hindi sinusuportahan ang DRM, live stream, playlist, at pag-download sa YouTube.</string>
+    <string name="queued" formatted="false">Idinagdag ang pag-download sa pila</string>
+    <string name="download_error" formatted="false">Hindi ma-download. Suriin ang koneksyon o gumamit ng bagong link ng video.</string>
+    <string name="collection_title" formatted="false">Ang iyong koleksyon</string>
+    <string name="collection_subtitle" formatted="false">Mga naka-save na video, handa kapag handa ka na.</string>
+    <string name="empty_downloads" formatted="false">Narito ang iyong susunod na paborito.</string>
+    <string name="empty_downloads_body" formatted="false">Maghanap ng video sa Mag-browse o mag-paste ng direktang link ng video upang simulan ang iyong koleksyon.</string>
+    <string name="pending" formatted="false">Nakapila</string>
+    <string name="running" formatted="false">Nagda-download</string>
+    <string name="paused" formatted="false">Naghihintay para sa network o muling subukan</string>
+    <string name="complete" formatted="false">Kumpleto</string>
+    <string name="failed" formatted="false">Nabigo</string>
+    <string name="missing" formatted="false">Hindi available ang file</string>
+    <string name="play" formatted="false">Maglaro</string>
+    <string name="share" formatted="false">Ibahagi</string>
+    <string name="retry" formatted="false">Subukan muli</string>
+    <string name="delete_download" formatted="false">Alisin ang pag-download at ang file nito?</string>
+    <string name="no_player" formatted="false">Walang katugmang app na magagamit upang buksan ang file na ito.</string>
+    <string name="guide_title" formatted="false">Mula sa pagtuklas hanggang sa pag-download.</string>
+    <string name="guide_subtitle" formatted="false">Isang simpleng gabay sa pagpapanatili ng mga video na gusto mo.</string>
+    <string name="step_one_title" formatted="false">Hanapin ang iyong video</string>
+    <string name="step_one_body" formatted="false">Buksan ang Mag-browse. Maghanap o maglagay ng address ng website. Maaari ka ring magbahagi ng link ng video mula sa isa pang app.</string>
+    <string name="step_two_title" formatted="false">Tuklasin ang pinagmulan</string>
+    <string name="step_two_body" formatted="false">Mag-play ng video, pagkatapos ay i-tap ang Maghanap ng mga video. Pumili ng nakitang file, o mag-paste ng direktang HTTPS na video link.</string>
+    <string name="step_three_title" formatted="false">Gawin itong sa iyo</string>
+    <string name="step_three_body" formatted="false">Pumili ng pangalan ng file, kumpirmahin ang iyong pahintulot na i-save ang video, at i-tap ang I-download. Ipinagpapatuloy ng Android ang pag-download sa background.</string>
+    <string name="step_four_title" formatted="false">Masiyahan sa iyong koleksyon</string>
+    <string name="step_four_body" formatted="false">Buksan ang Downloads para tingnan ang progreso. I-play o ibahagi ang mga nakumpletong video. Subukang muli ang mga nabigong pag-download gamit ang bagong link kung kinakailangan.</string>
+    <string name="try_now" formatted="false">Subukan ito ngayon</string>
+    <string name="preferences" formatted="false">Gawin mong sarili mo.</string>
+    <string name="preferences_subtitle" formatted="false">Ilang maingat na kontrol para sa iyong pang-araw-araw na pagba-browse.</string>
+    <string name="dns_title" formatted="false">VPN / Pribadong DNS</string>
+    <string name="dns_explanation" formatted="false">Ini-encrypt ng pribadong DNS ang mga query sa DNS. Hindi nito itinatago ang iyong IP address o lumikha ng isang VPN tunnel. Hinihiling sa iyo ng Android na baguhin ang setting na ito nang manu-mano.</string>
+    <string name="connected" formatted="false">Nakakonekta</string>
+    <string name="unconnected" formatted="false">Hindi konektado</string>
+    <string name="connect" formatted="false">Kumonekta</string>
+    <string name="disconnect" formatted="false">Idiskonekta</string>
+    <string name="dns_instructions" formatted="false">Piliin ang Private DNS provider hostname, i-paste ang dns.adguard-dns.com, at i-save. Upang idiskonekta, piliin ang Awtomatiko o Naka-off sa parehong setting ng system.</string>
+    <string name="copy_hostname" formatted="false">Kopyahin ang hostname</string>
+    <string name="copied" formatted="false">Kinopya sa clipboard</string>
+    <string name="open_network_settings" formatted="false">Buksan ang mga setting ng network</string>
+    <string name="language" formatted="false">Wika ng app</string>
+    <string name="system_language" formatted="false">Sundin ang wika ng device</string>
+    <string name="search_language" formatted="false">Maghanap ng wika</string>
+    <string name="language_note" formatted="false">Kasama offline ang mga pagsasalin. Gumagamit ng English ang mga hindi nakalistang wika ng device. Maaaring kailanganin ng mga pagsasalin ng makina ang pagsusuri sa rehiyon.</string>
+    <string name="search_engine" formatted="false">Search engine</string>
+    <string name="wifi_only" formatted="false">I-download sa Wi-Fi lang</string>
+    <string name="wifi_body" formatted="false">Maghihintay ang mga bagong download hanggang sa maging available ang Wi-Fi.</string>
+    <string name="javascript" formatted="false">JavaScript ng website</string>
+    <string name="javascript_body" formatted="false">Kinakailangan ng maraming website at HTML5 video discovery.</string>
+    <string name="privacy" formatted="false">Pagkapribado</string>
+    <string name="clear_browser" formatted="false">I-clear ang data sa pagba-browse</string>
+    <string name="clear_browser_confirm" formatted="false">Tanggalin ang cookies, browser cache, history, at storage ng website?</string>
+    <string name="privacy_body" formatted="false">Walang mga ad, analytics, o developer account. Ang mga website, search engine, DNS provider, at download server ay tumatanggap ng mga kahilingang ginawa mo. Mananatili sa device na ito ang history ng pag-download at mga bookmark.</string>
+    <string name="terms" formatted="false">Gamitin nang responsable</string>
+    <string name="terms_body" formatted="false">I-save lamang ang mga video na pagmamay-ari mo o pinahihintulutang i-download. Igalang ang copyright at mga tuntunin ng website. Hindi ma-bypass ng app na ito ang DRM, mga paywall, o mga paghihigpit sa pag-download ng platform.</string>
+    <string name="about" formatted="false">Tungkol sa</string>
+    <string name="version" formatted="false">Bersyon</string>
+    <string name="paid_app" formatted="false">Isang pagbili. Walang mga ad. Walang subscription.</string>
+    <string name="welcome_title" formatted="false">Panatilihin kung ano ang nagbibigay-inspirasyon sa iyo.</string>
+    <string name="welcome_body" formatted="false">Mag-browse, tumuklas, at mag-save ng mga pinapahintulutang video sa isang lugar. Basahin ang nakalarawang gabay upang makapagsimula.</string>
+    <string name="start_browsing" formatted="false">Simulan ang pag-browse</string>
+    <string name="read_guide" formatted="false">Basahin ang gabay</string>
+    <string name="browser_error" formatted="false">Hindi ma-load ang page na ito. Tingnan ang address at koneksyon, pagkatapos ay i-reload.</string>
+    <string name="secure_only" formatted="false">Gumagamit ang app na ito ng mga koneksyon sa HTTPS. Subukan ang secure na bersyon ng website na ito.</string>
+    <string name="external_link" formatted="false">Buksan ang link na ito sa ibang app?</string>
+    <string name="open" formatted="false">Bukas</string>
+    <string name="refresh" formatted="false">I-refresh</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustrasyon para sa hakbang ng tutorial na ito</string>
+    <string name="download_reason" formatted="false">Code ng error sa pag-download ng Android</string>
+    <string name="queue_full" formatted="false">Ang kasaysayan ng pag-download ay puno na. Mag-alis muna ng mas lumang entry.</string>
+    <string name="browser_tabs" formatted="false">Mga tab ng browser</string>
+    <string name="tabs_subtitle" formatted="false">Panatilihing bukas ang mga website at magpalipat-lipat sa kanila.</string>
+    <string name="new_tab" formatted="false">Bagong tab</string>
+    <string name="close_tab" formatted="false">Isara ang tab</string>
+    <string name="active_tab" formatted="false">Aktibong tab</string>
+    <string name="tab_limit" formatted="false">Maaari kang magbukas ng hanggang 8 tab. Isara ang isang tab upang magdagdag ng isa pa.</string>
+    <string name="history" formatted="false">Kasaysayan</string>
+    <string name="history_subtitle" formatted="false">Ang mga binisita na website ay nai-save lamang sa device na ito.</string>
+    <string name="empty_history" formatted="false">Lalabas dito ang iyong kasaysayan ng pagba-browse.</string>
+    <string name="clear_history" formatted="false">I-clear ang kasaysayan</string>
+    <string name="clear_history_confirm" formatted="false">I-delete ang lahat ng history ng pagba-browse sa device na ito?</string>
+    <string name="open_new_tab" formatted="false">Buksan sa bagong tab</string>
+    <string name="browser_menu" formatted="false">Menu ng browser</string>
+    <string name="shortcut_note" formatted="false">Bukas ang mga shortcut sa website sa browser. Ang availability ng pag-download ay depende sa website.</string>
+</resources>

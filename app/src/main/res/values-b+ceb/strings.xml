@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Pag-browse</string>
+    <string name="downloads" formatted="false">Mga pag-download</string>
+    <string name="guide" formatted="false">Giya</string>
+    <string name="settings" formatted="false">Mga setting</string>
+    <string name="home_title" formatted="false">Imong mga video. Ang imong koleksyon.</string>
+    <string name="home_subtitle" formatted="false">Pangitag butang nga angay tipigan.</string>
+    <string name="search_hint" formatted="false">Pangitaa o pagsulod sa usa ka website</string>
+    <string name="go" formatted="false">Lakaw</string>
+    <string name="paste_link" formatted="false">Idikit ang link sa video</string>
+    <string name="direct_link" formatted="false">Direkta nga link sa video</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Pag-download</string>
+    <string name="detect" formatted="false">Pangitag mga video</string>
+    <string name="detected" formatted="false">Mga video sa kini nga panid</string>
+    <string name="no_media" formatted="false">Walay ma-download nga video nga nakit-an. Pagsugod sa pagdula og video, unya sulayi pag-usab. Ang giprotektahan nga mga sapa ug gilakip nga mga frame mahimong dili magamit.</string>
+    <string name="safe_note" formatted="false">Pag-download lang sa mga video nga imong gipanag-iya o adunay pagtugot sa pagtipig. Ang gipanalipdan nga mga sapa ug mga pag-download sa YouTube dili magamit.</string>
+    <string name="quick_start" formatted="false">SUGOD DINHI</string>
+    <string name="quick_browse" formatted="false">Susiha ang web</string>
+    <string name="quick_browse_body" formatted="false">Pangita gamit ang imong gusto nga makina sa built-in nga browser.</string>
+    <string name="quick_download" formatted="false">Pagtipig og video</string>
+    <string name="quick_download_body" formatted="false">Idikit ang direkta nga HTTPS nga link sa video o pangitaa ang usa ka video sa usa ka panid.</string>
+    <string name="quick_guide" formatted="false">Gamay nga giya</string>
+    <string name="quick_guide_body" formatted="false">Upat ka gihulagway nga mga lakang gikan sa pagkadiskobre hangtod sa imong koleksyon.</string>
+    <string name="back" formatted="false">Balik</string>
+    <string name="forward" formatted="false">Sa unahan</string>
+    <string name="reload" formatted="false">I-reload</string>
+    <string name="home" formatted="false">Balay</string>
+    <string name="bookmark" formatted="false">Bookmark</string>
+    <string name="bookmarks" formatted="false">Mga bookmark</string>
+    <string name="empty_bookmarks" formatted="false">Ang mga na-save nga website makita dinhi.</string>
+    <string name="saved" formatted="false">Naluwas</string>
+    <string name="remove" formatted="false">Kuhaa</string>
+    <string name="cancel" formatted="false">Pagkanselar</string>
+    <string name="close" formatted="false">Duol</string>
+    <string name="confirm_download" formatted="false">I-save kini nga video?</string>
+    <string name="filename" formatted="false">ngalan sa file</string>
+    <string name="download_location" formatted="false">Na-save sa Mga Pag-download / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Ako ang tag-iya niini nga video o adunay pagtugot sa pag-download niini.</string>
+    <string name="permission_required" formatted="false">Kumpirma nga ikaw adunay pagtugot sa pagluwas niini nga video.</string>
+    <string name="invalid_url" formatted="false">Pagsulod ug balido nga HTTPS video link.</string>
+    <string name="unsupported" formatted="false">Kini nga link dili ma-download nga video. Ang DRM, mga live stream, mga playlist, ug mga pag-download sa YouTube dili suportado.</string>
+    <string name="queued" formatted="false">Gidugang ang pag-download sa pila</string>
+    <string name="download_error" formatted="false">Dili ma-download. Susiha ang koneksyon o gamita ang bag-ong link sa video.</string>
+    <string name="collection_title" formatted="false">Ang imong koleksyon</string>
+    <string name="collection_subtitle" formatted="false">Gi-save nga mga video, andam kung andam ka na.</string>
+    <string name="empty_downloads" formatted="false">Ang imong sunod nga paborito nahisakop dinhi.</string>
+    <string name="empty_downloads_body" formatted="false">Pangita og video sa Pag-browse o pagdikit og direktang link sa video aron masugdan ang imong koleksyon.</string>
+    <string name="pending" formatted="false">Gipila</string>
+    <string name="running" formatted="false">Nag-download</string>
+    <string name="paused" formatted="false">Naghulat alang sa network o pagsulay pag-usab</string>
+    <string name="complete" formatted="false">Kompleto</string>
+    <string name="failed" formatted="false">Napakyas</string>
+    <string name="missing" formatted="false">Dili magamit ang file</string>
+    <string name="play" formatted="false">Pagdula</string>
+    <string name="share" formatted="false">Ipaambit</string>
+    <string name="retry" formatted="false">Sulayi pag-usab</string>
+    <string name="delete_download" formatted="false">Kuhaa ang download ug ang file niini?</string>
+    <string name="no_player" formatted="false">Walay compatible nga app nga magamit sa pag-abli niini nga file.</string>
+    <string name="guide_title" formatted="false">Gikan sa pagkadiskobre hangtod sa pag-download.</string>
+    <string name="guide_subtitle" formatted="false">Usa ka yano nga giya sa pagtipig sa mga video nga imong gihigugma.</string>
+    <string name="step_one_title" formatted="false">Pangitaa imong video</string>
+    <string name="step_one_body" formatted="false">Ablihi ang Pag-browse. Pangitaa o pagsulod sa adres sa website. Mahimo usab nimong ipaambit ang link sa video gikan sa laing app.</string>
+    <string name="step_two_title" formatted="false">Hibal-i ang gigikanan</string>
+    <string name="step_two_body" formatted="false">Pagdula og video, dayon i-tap ang Pangita og mga video. Pagpili usa ka nakit-an nga file, o idikit ang usa ka direkta nga link sa video sa HTTPS.</string>
+    <string name="step_three_title" formatted="false">Himoa kini nga imoha</string>
+    <string name="step_three_body" formatted="false">Pagpili og ngalan sa file, kumpirmahi ang imong pagtugot sa pagluwas sa video, ug i-tap ang Download. Ang Android nagpadayon sa pag-download sa background.</string>
+    <string name="step_four_title" formatted="false">Malingaw sa imong koleksyon</string>
+    <string name="step_four_body" formatted="false">Ablihi ang Downloads aron masusi ang pag-uswag. I-play o ipaambit ang nahuman nga mga video. Sulayi pag-usab ang mga napakyas nga pag-download gamit ang bag-ong link kung gikinahanglan.</string>
+    <string name="try_now" formatted="false">Sulayi kini karon</string>
+    <string name="preferences" formatted="false">Himoa kini nga imong kaugalingon.</string>
+    <string name="preferences_subtitle" formatted="false">Pipila ka mahunahunaon nga mga kontrol alang sa imong adlaw-adlaw nga pag-browse.</string>
+    <string name="dns_title" formatted="false">VPN / Pribado nga DNS</string>
+    <string name="dns_explanation" formatted="false">Ang pribado nga DNS nag-encrypt sa mga pangutana sa DNS. Wala kini magtago sa imong IP address o maghimo usa ka tunel sa VPN. Gikinahanglan sa Android nga usbon nimo kini nga setting sa kamut.</string>
+    <string name="connected" formatted="false">Konektado</string>
+    <string name="unconnected" formatted="false">Dili konektado</string>
+    <string name="connect" formatted="false">Sumpaysumpaya</string>
+    <string name="disconnect" formatted="false">Pagdiskonekta</string>
+    <string name="dns_instructions" formatted="false">Pilia ang Private DNS provider hostname, idikit ang dns.adguard-dns.com, ug i-save. Aron madiskonekta, pilia ang Automatic o Off sa parehas nga setting sa sistema.</string>
+    <string name="copy_hostname" formatted="false">Kopyaha ang hostname</string>
+    <string name="copied" formatted="false">Gikopya sa clipboard</string>
+    <string name="open_network_settings" formatted="false">Ablihi ang mga setting sa network</string>
+    <string name="language" formatted="false">Pinulongan sa app</string>
+    <string name="system_language" formatted="false">Sunda ang pinulongan sa device</string>
+    <string name="search_language" formatted="false">Pangitag pinulongan</string>
+    <string name="language_note" formatted="false">Ang mga paghubad gilakip sa offline. Ang dili nalista nga mga pinulongan sa device naggamit ug English. Ang mga paghubad sa makina mahimong magkinahanglan ug rehiyonal nga pagsusi.</string>
+    <string name="search_engine" formatted="false">Search engine</string>
+    <string name="wifi_only" formatted="false">Pag-download sa Wi-Fi lang</string>
+    <string name="wifi_body" formatted="false">Ang mga bag-ong pag-download maghulat hangtod magamit ang Wi-Fi.</string>
+    <string name="javascript" formatted="false">Website JavaScript</string>
+    <string name="javascript_body" formatted="false">Gikinahanglan sa daghang mga website ug HTML5 video discovery.</string>
+    <string name="privacy" formatted="false">Pagkapribado</string>
+    <string name="clear_browser" formatted="false">Tin-aw nga datos sa pag-browse</string>
+    <string name="clear_browser_confirm" formatted="false">Pagtangtang sa cookies, cache sa browser, kasaysayan, ug pagtipig sa website?</string>
+    <string name="privacy_body" formatted="false">Walay mga ad, analytics, o developer nga mga account. Ang mga website, search engine, DNS provider, ug download server makadawat sa mga hangyo nga imong gihimo. Ang pag-download sa kasaysayan ug mga bookmark magpabilin niini nga device.</string>
+    <string name="terms" formatted="false">Gamita nga responsable</string>
+    <string name="terms_body" formatted="false">I-save lang ang mga video nga imong gipanag-iya o gitugutan nga i-download. Tahura ang copyright ug mga termino sa website. Kini nga app dili makalikay sa DRM, mga paywall, o mga pagdili sa pag-download sa platform.</string>
+    <string name="about" formatted="false">Mahitungod sa</string>
+    <string name="version" formatted="false">Bersyon</string>
+    <string name="paid_app" formatted="false">Usa ka pagpalit. Walay mga ad. Walay suskrisyon.</string>
+    <string name="welcome_title" formatted="false">Ipadayon ang makapadasig kanimo.</string>
+    <string name="welcome_body" formatted="false">Pag-browse, pagdiskobre, ug pag-save sa gitugotan nga mga video sa usa ka lugar. Basaha ang gihulagway nga giya aron makasugod.</string>
+    <string name="start_browsing" formatted="false">Pagsugod sa pag-browse</string>
+    <string name="read_guide" formatted="false">Basaha ang giya</string>
+    <string name="browser_error" formatted="false">Kini nga panid dili makarga. Susiha ang adres ug koneksyon, dayon i-reload.</string>
+    <string name="secure_only" formatted="false">Kini nga app naggamit sa mga koneksyon sa HTTPS. Sulayi ang luwas nga bersyon niini nga website.</string>
+    <string name="external_link" formatted="false">Ablihi kini nga link sa laing app?</string>
+    <string name="open" formatted="false">Bukas</string>
+    <string name="refresh" formatted="false">I-refresh</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustrasyon alang niini nga lakang sa pagtudlo</string>
+    <string name="download_reason" formatted="false">Android download error code</string>
+    <string name="queue_full" formatted="false">Ang kasaysayan sa pag-download puno. Kuhaa una ang daan nga entry.</string>
+    <string name="browser_tabs" formatted="false">Mga tab sa browser</string>
+    <string name="tabs_subtitle" formatted="false">Padayon nga bukas ang mga website ug magbalhinbalhin tali kanila.</string>
+    <string name="new_tab" formatted="false">Bag-ong tab</string>
+    <string name="close_tab" formatted="false">Isira ang tab</string>
+    <string name="active_tab" formatted="false">Aktibo nga tab</string>
+    <string name="tab_limit" formatted="false">Mahimo nimong ablihan ang hangtod sa 8 ka tab. Pagsira og tab aron makadugang og lain.</string>
+    <string name="history" formatted="false">Kasaysayan</string>
+    <string name="history_subtitle" formatted="false">Ang gibisita nga mga website gitipigan lamang niini nga device.</string>
+    <string name="empty_history" formatted="false">Ang imong kasaysayan sa pag-browse makita dinhi.</string>
+    <string name="clear_history" formatted="false">Tin-aw nga kasaysayan</string>
+    <string name="clear_history_confirm" formatted="false">I-delete ang tanang kasaysayan sa pag-browse gikan niini nga device?</string>
+    <string name="open_new_tab" formatted="false">Ablihi sa bag-ong tab</string>
+    <string name="browser_menu" formatted="false">Menu sa browser</string>
+    <string name="shortcut_note" formatted="false">Ang mga shortcut sa website bukas sa browser. Ang pag-download nagdepende sa website.</string>
+</resources>

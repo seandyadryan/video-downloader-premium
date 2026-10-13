@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Bläddra</string>
+    <string name="downloads" formatted="false">Nedladdningar</string>
+    <string name="guide" formatted="false">Guide</string>
+    <string name="settings" formatted="false">Inställningar</string>
+    <string name="home_title" formatted="false">Dina videor. Din samling.</string>
+    <string name="home_subtitle" formatted="false">Hitta något värt att behålla.</string>
+    <string name="search_hint" formatted="false">Sök eller ange en webbplats</string>
+    <string name="go" formatted="false">Gå</string>
+    <string name="paste_link" formatted="false">Klistra in videolänk</string>
+    <string name="direct_link" formatted="false">Direkt videolänk</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Ladda ner</string>
+    <string name="detect" formatted="false">Hitta videor</string>
+    <string name="detected" formatted="false">Videor på denna sida</string>
+    <string name="no_media" formatted="false">Ingen nedladdningsbar video hittades. Börja spela upp en video och försök sedan igen. Skyddade strömmar och inbäddade ramar kan vara otillgängliga.</string>
+    <string name="safe_note" formatted="false">Ladda bara ned videor som du äger eller har tillstånd att spara. Skyddade strömmar och YouTube-nedladdningar är inte tillgängliga.</string>
+    <string name="quick_start" formatted="false">BÖRJA HÄR</string>
+    <string name="quick_browse" formatted="false">Utforska webben</string>
+    <string name="quick_browse_body" formatted="false">Sök med din favoritmotor i den inbyggda webbläsaren.</string>
+    <string name="quick_download" formatted="false">Spara en video</string>
+    <string name="quick_download_body" formatted="false">Klistra in en direkt HTTPS-videolänk eller hitta en video på en sida.</string>
+    <string name="quick_guide" formatted="false">Lite vägledning</string>
+    <string name="quick_guide_body" formatted="false">Fyra illustrerade steg från upptäckt till din samling.</string>
+    <string name="back" formatted="false">Tillbaka</string>
+    <string name="forward" formatted="false">Framåt</string>
+    <string name="reload" formatted="false">Ladda om</string>
+    <string name="home" formatted="false">Hem</string>
+    <string name="bookmark" formatted="false">Bokmärke</string>
+    <string name="bookmarks" formatted="false">Bokmärken</string>
+    <string name="empty_bookmarks" formatted="false">Sparade webbplatser visas här.</string>
+    <string name="saved" formatted="false">Sparad</string>
+    <string name="remove" formatted="false">Ta bort</string>
+    <string name="cancel" formatted="false">Avbryt</string>
+    <string name="close" formatted="false">Stäng</string>
+    <string name="confirm_download" formatted="false">Spara den här videon?</string>
+    <string name="filename" formatted="false">Filnamn</string>
+    <string name="download_location" formatted="false">Sparad i Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Jag äger den här videon eller har tillåtelse att ladda ner den.</string>
+    <string name="permission_required" formatted="false">Bekräfta att du har behörighet att spara den här videon.</string>
+    <string name="invalid_url" formatted="false">Ange en giltig HTTPS-videolänk.</string>
+    <string name="unsupported" formatted="false">Den här länken är inte en nedladdningsbar video. DRM, livestreamar, spellistor och YouTube-nedladdningar stöds inte.</string>
+    <string name="queued" formatted="false">Nedladdningen har lagts till i kön</string>
+    <string name="download_error" formatted="false">Det går inte att ladda ner. Kontrollera anslutningen eller använd en ny videolänk.</string>
+    <string name="collection_title" formatted="false">Din samling</string>
+    <string name="collection_subtitle" formatted="false">Sparade videor, redo när du är.</string>
+    <string name="empty_downloads" formatted="false">Din nästa favorit hör hemma här.</string>
+    <string name="empty_downloads_body" formatted="false">Hitta en video i Bläddra eller klistra in en direkt videolänk för att starta din samling.</string>
+    <string name="pending" formatted="false">I kö</string>
+    <string name="running" formatted="false">Laddar ner</string>
+    <string name="paused" formatted="false">Väntar på nätverk eller försök igen</string>
+    <string name="complete" formatted="false">Komplett</string>
+    <string name="failed" formatted="false">Misslyckades</string>
+    <string name="missing" formatted="false">Filen är inte tillgänglig</string>
+    <string name="play" formatted="false">Spela</string>
+    <string name="share" formatted="false">Dela</string>
+    <string name="retry" formatted="false">Försök igen</string>
+    <string name="delete_download" formatted="false">Ta bort nedladdningen och dess fil?</string>
+    <string name="no_player" formatted="false">Ingen kompatibel app är tillgänglig för att öppna den här filen.</string>
+    <string name="guide_title" formatted="false">Från upptäckt till nedladdning.</string>
+    <string name="guide_subtitle" formatted="false">En enkel guide för att behålla de videor du älskar.</string>
+    <string name="step_one_title" formatted="false">Hitta din video</string>
+    <string name="step_one_body" formatted="false">Öppna Bläddra. Sök eller ange en webbadress. Du kan också dela en videolänk från en annan app.</string>
+    <string name="step_two_title" formatted="false">Upptäck källan</string>
+    <string name="step_two_body" formatted="false">Spela upp en video och tryck sedan på Hitta videor. Välj en upptäckt fil eller klistra in en direkt HTTPS-videolänk.</string>
+    <string name="step_three_title" formatted="false">Gör det till ditt</string>
+    <string name="step_three_body" formatted="false">Välj ett filnamn, bekräfta din tillåtelse att spara videon och tryck på Ladda ner. Android fortsätter nedladdningen i bakgrunden.</string>
+    <string name="step_four_title" formatted="false">Njut av din samling</string>
+    <string name="step_four_body" formatted="false">Öppna Nedladdningar för att kontrollera framstegen. Spela upp eller dela färdiga videor. Försök igen misslyckade nedladdningar med en ny länk vid behov.</string>
+    <string name="try_now" formatted="false">Prova nu</string>
+    <string name="preferences" formatted="false">Gör den till din egen.</string>
+    <string name="preferences_subtitle" formatted="false">Några genomtänkta kontroller för din dagliga surfning.</string>
+    <string name="dns_title" formatted="false">VPN / Privat DNS</string>
+    <string name="dns_explanation" formatted="false">Privat DNS krypterar DNS-frågor. Den döljer inte din IP-adress eller skapar en VPN-tunnel. Android kräver att du ändrar den här inställningen manuellt.</string>
+    <string name="connected" formatted="false">Ansluten</string>
+    <string name="unconnected" formatted="false">Oansluten</string>
+    <string name="connect" formatted="false">Anslut</string>
+    <string name="disconnect" formatted="false">Koppla från</string>
+    <string name="dns_instructions" formatted="false">Välj Privat DNS-leverantörs värdnamn, klistra in dns.adguard-dns.com och spara. För att koppla från, välj Automatisk eller Av i samma systeminställning.</string>
+    <string name="copy_hostname" formatted="false">Kopiera värdnamn</string>
+    <string name="copied" formatted="false">Kopierade till urklipp</string>
+    <string name="open_network_settings" formatted="false">Öppna nätverksinställningar</string>
+    <string name="language" formatted="false">Appens språk</string>
+    <string name="system_language" formatted="false">Följ enhetens språk</string>
+    <string name="search_language" formatted="false">Hitta ett språk</string>
+    <string name="language_note" formatted="false">Översättningar ingår offline. Olistade enhetsspråk använder engelska. Maskinöversättningar kan behöva regional granskning.</string>
+    <string name="search_engine" formatted="false">Sökmotor</string>
+    <string name="wifi_only" formatted="false">Ladda ner endast via Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Nya nedladdningar väntar tills Wi-Fi är tillgängligt.</string>
+    <string name="javascript" formatted="false">Webbplats JavaScript</string>
+    <string name="javascript_body" formatted="false">Krävs av många webbplatser och HTML5-videoupptäckt.</string>
+    <string name="privacy" formatted="false">Sekretess</string>
+    <string name="clear_browser" formatted="false">Rensa webbinformation</string>
+    <string name="clear_browser_confirm" formatted="false">Ta bort cookies, webbläsarcache, historik och webbplatslagring?</string>
+    <string name="privacy_body" formatted="false">Inga annonser, analyser eller utvecklarkonton. Webbplatser, sökmotorer, DNS-leverantörer och nedladdningsservrar tar emot de förfrågningar du gör. Nedladdningshistorik och bokmärken finns kvar på den här enheten.</string>
+    <string name="terms" formatted="false">Använd ansvarsfullt</string>
+    <string name="terms_body" formatted="false">Spara endast videor som du äger eller har tillåtelse att ladda ner. Respektera upphovsrätt och webbplatsvillkor. Den här appen kan inte kringgå DRM, betalväggar eller begränsningar för nedladdning av plattformar.</string>
+    <string name="about" formatted="false">Om</string>
+    <string name="version" formatted="false">Version</string>
+    <string name="paid_app" formatted="false">Ett köp. Inga annonser. Inget abonnemang.</string>
+    <string name="welcome_title" formatted="false">Behåll det som inspirerar dig.</string>
+    <string name="welcome_body" formatted="false">Bläddra, upptäck och spara tillåtna videor på ett ställe. Läs den illustrerade guiden för att komma igång.</string>
+    <string name="start_browsing" formatted="false">Börja surfa</string>
+    <string name="read_guide" formatted="false">Läs guiden</string>
+    <string name="browser_error" formatted="false">Den här sidan kunde inte laddas. Kontrollera adressen och anslutningen och ladda sedan om.</string>
+    <string name="secure_only" formatted="false">Den här appen använder HTTPS-anslutningar. Prova den säkra versionen av denna webbplats.</string>
+    <string name="external_link" formatted="false">Öppna den här länken i en annan app?</string>
+    <string name="open" formatted="false">Öppna</string>
+    <string name="refresh" formatted="false">Uppdatera</string>
+    <string name="accessibility_tutorial" formatted="false">Illustration för detta handledningssteg</string>
+    <string name="download_reason" formatted="false">Felkod för nedladdning av Android</string>
+    <string name="queue_full" formatted="false">Nedladdningshistoriken är full. Ta bort en äldre post först.</string>
+    <string name="browser_tabs" formatted="false">Webbläsarflikar</string>
+    <string name="tabs_subtitle" formatted="false">Håll webbplatser öppna och växla mellan dem.</string>
+    <string name="new_tab" formatted="false">Ny flik</string>
+    <string name="close_tab" formatted="false">Stäng fliken</string>
+    <string name="active_tab" formatted="false">Aktiv flik</string>
+    <string name="tab_limit" formatted="false">Du kan öppna upp till 8 flikar. Stäng en flik för att lägga till en annan.</string>
+    <string name="history" formatted="false">Historia</string>
+    <string name="history_subtitle" formatted="false">Besökta webbplatser sparas endast på den här enheten.</string>
+    <string name="empty_history" formatted="false">Din webbhistorik kommer att visas här.</string>
+    <string name="clear_history" formatted="false">Rensa historik</string>
+    <string name="clear_history_confirm" formatted="false">Vill du radera all webbhistorik från den här enheten?</string>
+    <string name="open_new_tab" formatted="false">Öppna i ny flik</string>
+    <string name="browser_menu" formatted="false">Webbläsarmenyn</string>
+    <string name="shortcut_note" formatted="false">Webbplatsgenvägar öppnas i webbläsaren. Tillgänglighet för nedladdning beror på webbplatsen.</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">lilo</string>
+    <string name="downloads" formatted="false">Zazzagewa</string>
+    <string name="guide" formatted="false">Jagora</string>
+    <string name="settings" formatted="false">Saituna</string>
+    <string name="home_title" formatted="false">Bidiyon ku. Tarin ku.</string>
+    <string name="home_subtitle" formatted="false">Nemo wani abu da ya cancanci kiyayewa.</string>
+    <string name="search_hint" formatted="false">Bincika ko shigar da gidan yanar gizo</string>
+    <string name="go" formatted="false">Tafi</string>
+    <string name="paste_link" formatted="false">Manna hanyar haɗin bidiyo</string>
+    <string name="direct_link" formatted="false">Hanyar haɗin bidiyo kai tsaye</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Zazzagewa</string>
+    <string name="detect" formatted="false">Nemo bidiyoyi</string>
+    <string name="detected" formatted="false">Bidiyo a wannan shafi</string>
+    <string name="no_media" formatted="false">Ba a sami bidiyo mai saukewa ba. Fara kunna bidiyo, sannan a sake gwadawa. Ƙila ƙaƙƙarfan rafuka da firam ɗin da aka haɗa.</string>
+    <string name="safe_note" formatted="false">Zazzage bidiyon da kuka mallaka kawai ko kuna da izinin adanawa. Babu rafuka masu kariya da zazzagewar YouTube.</string>
+    <string name="quick_start" formatted="false">FARA NAN</string>
+    <string name="quick_browse" formatted="false">Bincika gidan yanar gizon</string>
+    <string name="quick_browse_body" formatted="false">Bincika tare da ingin da kuka fi so a cikin ginanniyar burauzar ciki.</string>
+    <string name="quick_download" formatted="false">Ajiye bidiyo</string>
+    <string name="quick_download_body" formatted="false">Manna hanyar haɗin bidiyo ta HTTPS kai tsaye ko nemo bidiyo akan shafi.</string>
+    <string name="quick_guide" formatted="false">Shiriya kadan</string>
+    <string name="quick_guide_body" formatted="false">Matakai huɗu masu kwatance daga ganowa zuwa tarin ku.</string>
+    <string name="back" formatted="false">Baya</string>
+    <string name="forward" formatted="false">Gaba</string>
+    <string name="reload" formatted="false">Sake kaya</string>
+    <string name="home" formatted="false">Gida</string>
+    <string name="bookmark" formatted="false">Alamar alama</string>
+    <string name="bookmarks" formatted="false">Alamomi</string>
+    <string name="empty_bookmarks" formatted="false">Shafukan yanar gizo da aka adana zasu bayyana anan.</string>
+    <string name="saved" formatted="false">Ajiye</string>
+    <string name="remove" formatted="false">Cire</string>
+    <string name="cancel" formatted="false">Soke</string>
+    <string name="close" formatted="false">Kusa</string>
+    <string name="confirm_download" formatted="false">Ajiye wannan bidiyon?</string>
+    <string name="filename" formatted="false">Sunan fayil</string>
+    <string name="download_location" formatted="false">Ajiye a cikin Abubuwan Zazzagewa / Mai Sauke Bidiyo Premium</string>
+    <string name="permission_confirm" formatted="false">Na mallaki wannan bidiyon ko ina da izinin sauke shi.</string>
+    <string name="permission_required" formatted="false">Tabbatar cewa kuna da izini don adana wannan bidiyon.</string>
+    <string name="invalid_url" formatted="false">Shigar da ingantacciyar hanyar haɗin bidiyo ta HTTPS.</string>
+    <string name="unsupported" formatted="false">Wannan hanyar haɗin yanar gizon ba bidiyo ce mai saukewa ba. DRM, rafukan kai tsaye, lissafin waƙa, da zazzagewar YouTube ba su da tallafi.</string>
+    <string name="queued" formatted="false">An ƙara zazzagewa zuwa jerin gwano</string>
+    <string name="download_error" formatted="false">An kasa saukewa. Duba haɗin yanar gizon ko amfani da sabon hanyar haɗin bidiyo.</string>
+    <string name="collection_title" formatted="false">Tarin ku</string>
+    <string name="collection_subtitle" formatted="false">Ajiye bidiyo, shirye lokacin da kuke.</string>
+    <string name="empty_downloads" formatted="false">Abin da kuka fi so na gaba yana nan.</string>
+    <string name="empty_downloads_body" formatted="false">Nemo bidiyo a Bincike ko liƙa hanyar haɗin bidiyo kai tsaye don fara tarin ku.</string>
+    <string name="pending" formatted="false">An yi layi</string>
+    <string name="running" formatted="false">Ana saukewa</string>
+    <string name="paused" formatted="false">Jiran hanyar sadarwa ko sake gwadawa</string>
+    <string name="complete" formatted="false">Cikakkun</string>
+    <string name="failed" formatted="false">Ba a yi nasara ba</string>
+    <string name="missing" formatted="false">Babu fayil</string>
+    <string name="play" formatted="false">Wasa</string>
+    <string name="share" formatted="false">Raba</string>
+    <string name="retry" formatted="false">Sake gwadawa</string>
+    <string name="delete_download" formatted="false">Cire zazzagewa da fayil ɗin sa?</string>
+    <string name="no_player" formatted="false">Babu ƙa\&apos;idar da ta dace don buɗe wannan fayil ɗin.</string>
+    <string name="guide_title" formatted="false">Daga ganowa don saukewa.</string>
+    <string name="guide_subtitle" formatted="false">Jagora mai sauƙi don adana bidiyon da kuke so.</string>
+    <string name="step_one_title" formatted="false">Nemo bidiyon ku</string>
+    <string name="step_one_body" formatted="false">Bude Bincike. Bincika ko shigar da adireshin gidan yanar gizon. Hakanan zaka iya raba hanyar haɗin bidiyo daga wani app.</string>
+    <string name="step_two_title" formatted="false">Gano tushen</string>
+    <string name="step_two_body" formatted="false">Kunna bidiyo, sannan matsa Nemo bidiyoyi. Zaɓi fayil da aka gano, ko liƙa hanyar haɗin bidiyo na HTTPS kai tsaye.</string>
+    <string name="step_three_title" formatted="false">Maida shi naku</string>
+    <string name="step_three_body" formatted="false">Zaɓi sunan fayil, tabbatar da izininka don adana bidiyon, sannan ka matsa Zazzagewa. Android na ci gaba da zazzagewa a bango.</string>
+    <string name="step_four_title" formatted="false">Ji daɗin tarin ku</string>
+    <string name="step_four_body" formatted="false">Bude Zazzagewa don duba ci gaba. Kunna ko raba cikakkun bidiyoyi. Sake gwada abubuwan da aka kasa sauke tare da sabon hanyar haɗi lokacin da ake buƙata.</string>
+    <string name="try_now" formatted="false">Gwada shi yanzu</string>
+    <string name="preferences" formatted="false">Maida shi naku.</string>
+    <string name="preferences_subtitle" formatted="false">ƴan abubuwan sarrafawa masu tunani don bincikenku na yau da kullun.</string>
+    <string name="dns_title" formatted="false">VPN / Mai zaman kansa DNS</string>
+    <string name="dns_explanation" formatted="false">DNS masu zaman kansu suna ɓoye tambayoyin DNS. Ba ya ɓoye adireshin IP ɗin ku ko ƙirƙirar rami na VPN. Android na buƙatar ka canza wannan saitin da hannu.</string>
+    <string name="connected" formatted="false">An haɗa</string>
+    <string name="unconnected" formatted="false">Ba a haɗa shi ba</string>
+    <string name="connect" formatted="false">Haɗa</string>
+    <string name="disconnect" formatted="false">Cire haɗin</string>
+    <string name="dns_instructions" formatted="false">Zaɓi Sunan mai ba da sabis na DNS masu zaman kansu, liƙa dns.adguard-dns.com, kuma ajiyewa. Don cire haɗin, zaɓi Atomatik ko A kashe a saitin tsarin iri ɗaya.</string>
+    <string name="copy_hostname" formatted="false">Kwafi sunan mai masauki</string>
+    <string name="copied" formatted="false">An kwafi zuwa allo</string>
+    <string name="open_network_settings" formatted="false">Buɗe saitunan cibiyar sadarwa</string>
+    <string name="language" formatted="false">Harshen app</string>
+    <string name="system_language" formatted="false">Bi harshen na\&apos;ura</string>
+    <string name="search_language" formatted="false">Nemo harshe</string>
+    <string name="language_note" formatted="false">An haɗa fassarorin layi. Harsunan na\&apos;urar da ba a lissafa ba suna amfani da Ingilishi. Fassarar inji na iya buƙatar sake dubawa na yanki.</string>
+    <string name="search_engine" formatted="false">Injin bincike</string>
+    <string name="wifi_only" formatted="false">Zazzagewa akan Wi-Fi kawai</string>
+    <string name="wifi_body" formatted="false">Sabbin abubuwan zazzagewa suna jira har Wi-Fi ya kasance.</string>
+    <string name="javascript" formatted="false">Yanar Gizo JavaScript</string>
+    <string name="javascript_body" formatted="false">Ana buƙata ta yawancin gidajen yanar gizo da gano bidiyo na HTML5.</string>
+    <string name="privacy" formatted="false">Keɓantawa</string>
+    <string name="clear_browser" formatted="false">Share bayanan bincike</string>
+    <string name="clear_browser_confirm" formatted="false">Share cookies, cache browser, tarihi, da ajiyar yanar gizo?</string>
+    <string name="privacy_body" formatted="false">Babu tallace-tallace, nazari, ko asusun masu haɓakawa. Shafukan yanar gizo, injunan bincike, masu samar da DNS, da sabar zazzagewa suna karɓar buƙatun da kuke yi. Zazzage tarihi da alamun shafi suna tsayawa akan wannan na\&apos;urar.</string>
+    <string name="terms" formatted="false">Yi amfani da hankali</string>
+    <string name="terms_body" formatted="false">Ajiye bidiyon da ka mallaka kawai ko an ba da izinin saukewa. Mutunta haƙƙin mallaka da sharuɗɗan gidan yanar gizo. Wannan app ɗin ba zai iya ketare DRM, bangon biyan kuɗi, ko ƙuntatawa na zazzage dandamali ba.</string>
+    <string name="about" formatted="false">Game da</string>
+    <string name="version" formatted="false">Sigar</string>
+    <string name="paid_app" formatted="false">Sayi daya. Babu talla. Babu biyan kuɗi.</string>
+    <string name="welcome_title" formatted="false">Riƙe abin da ke ƙarfafa ku.</string>
+    <string name="welcome_body" formatted="false">Bincika, gano, da adana bidiyon da aka halatta a wuri guda. Karanta jagorar da aka kwatanta don farawa.</string>
+    <string name="start_browsing" formatted="false">Fara lilo</string>
+    <string name="read_guide" formatted="false">Karanta jagorar</string>
+    <string name="browser_error" formatted="false">Ba za a iya loda wannan shafin ba. Duba adireshi da haɗin kai, sannan sake ɗauka.</string>
+    <string name="secure_only" formatted="false">Wannan app yana amfani da haɗin HTTPS. Gwada amintaccen sigar wannan gidan yanar gizon.</string>
+    <string name="external_link" formatted="false">Bude wannan hanyar haɗi a cikin wani app?</string>
+    <string name="open" formatted="false">Bude</string>
+    <string name="refresh" formatted="false">Sake sabuntawa</string>
+    <string name="accessibility_tutorial" formatted="false">Misali don wannan matakin koyawa</string>
+    <string name="download_reason" formatted="false">Lambar kuskuren zazzagewar Android</string>
+    <string name="queue_full" formatted="false">Tarihin saukewa ya cika. Cire tsohuwar shigarwa da farko.</string>
+    <string name="browser_tabs" formatted="false">Shafukan Browser</string>
+    <string name="tabs_subtitle" formatted="false">Ci gaba da buɗe gidajen yanar gizo kuma ku canza tsakanin su.</string>
+    <string name="new_tab" formatted="false">Sabon shafin</string>
+    <string name="close_tab" formatted="false">Rufe shafin</string>
+    <string name="active_tab" formatted="false">Shafin mai aiki</string>
+    <string name="tab_limit" formatted="false">Kuna iya buɗewa har zuwa shafuka 8. Rufe shafi don ƙara wani.</string>
+    <string name="history" formatted="false">Tarihi</string>
+    <string name="history_subtitle" formatted="false">Ana ajiye gidajen yanar gizon da aka ziyarta akan wannan na\&apos;urar kawai.</string>
+    <string name="empty_history" formatted="false">Tarihin bincikenku zai bayyana anan.</string>
+    <string name="clear_history" formatted="false">Share tarihi</string>
+    <string name="clear_history_confirm" formatted="false">Share duk tarihin bincike daga wannan na\&apos;urar?</string>
+    <string name="open_new_tab" formatted="false">Bude a sabon shafin</string>
+    <string name="browser_menu" formatted="false">Menu mai lilo</string>
+    <string name="shortcut_note" formatted="false">Gajerun hanyoyin yanar gizo suna buɗewa a cikin mai lilo. Samun saukewa ya dogara da gidan yanar gizon.</string>
+</resources>

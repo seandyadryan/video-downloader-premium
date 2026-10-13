@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">Прэміум</string>
+    <string name="browse" formatted="false">Праглядзіце</string>
+    <string name="downloads" formatted="false">Загрузкі</string>
+    <string name="guide" formatted="false">Кіраўніцтва</string>
+    <string name="settings" formatted="false">Налады</string>
+    <string name="home_title" formatted="false">Вашы відэа. Ваша калекцыя.</string>
+    <string name="home_subtitle" formatted="false">Знайдзіце тое, што варта захаваць.</string>
+    <string name="search_hint" formatted="false">Знайдзіце або ўвядзіце вэб-сайт</string>
+    <string name="go" formatted="false">Ідзі</string>
+    <string name="paste_link" formatted="false">Уставіць спасылку на відэа</string>
+    <string name="direct_link" formatted="false">Прамая спасылка на відэа</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Спампаваць</string>
+    <string name="detect" formatted="false">Знайсці відэа</string>
+    <string name="detected" formatted="false">Відэа на гэтай старонцы</string>
+    <string name="no_media" formatted="false">Відэа для спампоўкі не знойдзена. Пачніце прайграванне відэа, затым паўтарыце спробу. Абароненыя патокі і ўбудаваныя кадры могуць быць недаступныя.</string>
+    <string name="safe_note" formatted="false">Загружайце толькі відэа, якімі вы валодаеце або маеце дазвол на захаванне. Абароненыя патокі і спампоўкі з YouTube недаступныя.</string>
+    <string name="quick_start" formatted="false">ПАЧАЦЬ ТУТ</string>
+    <string name="quick_browse" formatted="false">Даследуйце сетку</string>
+    <string name="quick_browse_body" formatted="false">Шукайце з дапамогай абранай вамі сістэмы ва ўбудаваным браўзеры.</string>
+    <string name="quick_download" formatted="false">Захаваць відэа</string>
+    <string name="quick_download_body" formatted="false">Устаўце прамую спасылку на відэа HTTPS або знайдзіце відэа на старонцы.</string>
+    <string name="quick_guide" formatted="false">Невялікае кіраўніцтва</string>
+    <string name="quick_guide_body" formatted="false">Чатыры ілюстраваныя крокі ад адкрыцця да вашай калекцыі.</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="forward" formatted="false">Наперад</string>
+    <string name="reload" formatted="false">Перазагрузіць</string>
+    <string name="home" formatted="false">дадому</string>
+    <string name="bookmark" formatted="false">Закладка</string>
+    <string name="bookmarks" formatted="false">Закладкі</string>
+    <string name="empty_bookmarks" formatted="false">Тут з\&apos;явяцца захаваныя вэб-сайты.</string>
+    <string name="saved" formatted="false">Захавана</string>
+    <string name="remove" formatted="false">Выдаліць</string>
+    <string name="cancel" formatted="false">Адмяніць</string>
+    <string name="close" formatted="false">Блізка</string>
+    <string name="confirm_download" formatted="false">Захаваць гэта відэа?</string>
+    <string name="filename" formatted="false">Імя файла</string>
+    <string name="download_location" formatted="false">Захавана ў загрузках / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Я валодаю гэтым відэа ці маю дазвол на яго спампоўку.</string>
+    <string name="permission_required" formatted="false">Пацвердзіце, што ў вас ёсць дазвол на захаванне гэтага відэа.</string>
+    <string name="invalid_url" formatted="false">Увядзіце сапраўдную спасылку на відэа HTTPS.</string>
+    <string name="unsupported" formatted="false">Гэтая спасылка не з\&apos;яўляецца відэа для спампоўкі. DRM, жывыя трансляцыі, плэйлісты і загрузкі з YouTube не падтрымліваюцца.</string>
+    <string name="queued" formatted="false">Спампоўка дададзена ў чаргу</string>
+    <string name="download_error" formatted="false">Немагчыма спампаваць. Праверце злучэнне або выкарыстоўвайце новую спасылку на відэа.</string>
+    <string name="collection_title" formatted="false">Ваша калекцыя</string>
+    <string name="collection_subtitle" formatted="false">Захаваныя відэа, гатовыя, калі вы.</string>
+    <string name="empty_downloads" formatted="false">Ваш наступны фаварыт належыць сюды.</string>
+    <string name="empty_downloads_body" formatted="false">Знайдзіце відэа ў Агляд або ўстаўце прамую спасылку на відэа, каб пачаць сваю калекцыю.</string>
+    <string name="pending" formatted="false">У чарзе</string>
+    <string name="running" formatted="false">Ідзе загрузка</string>
+    <string name="paused" formatted="false">Чаканне сеткі або паўтарыце спробу</string>
+    <string name="complete" formatted="false">Поўнае</string>
+    <string name="failed" formatted="false">Не атрымалася</string>
+    <string name="missing" formatted="false">Файл недаступны</string>
+    <string name="play" formatted="false">гуляць</string>
+    <string name="share" formatted="false">Падзяліцеся</string>
+    <string name="retry" formatted="false">Паўтарыць</string>
+    <string name="delete_download" formatted="false">Выдаліць спампоўку і яе файл?</string>
+    <string name="no_player" formatted="false">Няма сумяшчальнай праграмы для адкрыцця гэтага файла.</string>
+    <string name="guide_title" formatted="false">Ад адкрыцця да спампоўкі.</string>
+    <string name="guide_subtitle" formatted="false">Простае кіраўніцтва па захаванні любімых відэа.</string>
+    <string name="step_one_title" formatted="false">Знайдзіце сваё відэа</string>
+    <string name="step_one_body" formatted="false">Адкрыйце Агляд. Знайдзіце або ўвядзіце адрас вэб-сайта. Вы таксама можаце абагуліць спасылку на відэа з іншай праграмы.</string>
+    <string name="step_two_title" formatted="false">Адкрыйце для сябе крыніцу</string>
+    <string name="step_two_body" formatted="false">Прайграйце відэа, затым націсніце «Знайсці відэа». Выберыце выяўлены файл або ўстаўце прамую спасылку на відэа HTTPS.</string>
+    <string name="step_three_title" formatted="false">Зрабіце гэта сваім</string>
+    <string name="step_three_body" formatted="false">Выберыце назву файла, пацвердзіце свой дазвол на захаванне відэа і націсніце «Спампаваць». Android працягвае загрузку ў фонавым рэжыме.</string>
+    <string name="step_four_title" formatted="false">Атрымлівайце асалоду ад вашай калекцыі</string>
+    <string name="step_four_body" formatted="false">Адкрыйце \&quot;Спампоўкі\&quot;, каб праверыць прагрэс. Прайграйце або падзяліцеся гатовымі відэа. Пры неабходнасці паўтарыце няўдалыя спампоўкі з новай спасылкай.</string>
+    <string name="try_now" formatted="false">Паспрабуйце зараз</string>
+    <string name="preferences" formatted="false">Зрабіце гэта сваім.</string>
+    <string name="preferences_subtitle" formatted="false">Некалькі прадуманых элементаў кіравання для штодзённага прагляду.</string>
+    <string name="dns_title" formatted="false">VPN / прыватны DNS</string>
+    <string name="dns_explanation" formatted="false">Прыватны DNS шыфруе запыты DNS. Ён не хавае ваш IP-адрас і не стварае VPN-тунэль. Android патрабуе, каб вы змянілі гэты параметр уручную.</string>
+    <string name="connected" formatted="false">Падключана</string>
+    <string name="unconnected" formatted="false">Без сувязі</string>
+    <string name="connect" formatted="false">Злучыцца</string>
+    <string name="disconnect" formatted="false">Адключыцца</string>
+    <string name="dns_instructions" formatted="false">Выберыце імя хаста прыватнага DNS-правайдэра, устаўце dns.adguard-dns.com і захавайце. Для адключэння выберыце «Аўтаматычна» або «Выкл.» у тых жа наладах сістэмы.</string>
+    <string name="copy_hostname" formatted="false">Скапіраваць імя хаста</string>
+    <string name="copied" formatted="false">Скапіравана ў буфер абмену</string>
+    <string name="open_network_settings" formatted="false">Адкрыйце налады сеткі</string>
+    <string name="language" formatted="false">Мова праграмы</string>
+    <string name="system_language" formatted="false">Сачыце за мовай прылады</string>
+    <string name="search_language" formatted="false">Знайдзіце мову</string>
+    <string name="language_note" formatted="false">Пераклады ўключаны ў аўтаномным рэжыме. Мовы прылады, якія не пазначаны ў спісе, выкарыстоўваюць англійскую. Для машынных перакладаў можа спатрэбіцца рэгіянальны агляд.</string>
+    <string name="search_engine" formatted="false">Пошукавая сістэма</string>
+    <string name="wifi_only" formatted="false">Спампаваць толькі праз Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Новыя спампоўкі чакаюць, пакуль Wi-Fi стане даступным.</string>
+    <string name="javascript" formatted="false">JavaScript сайта</string>
+    <string name="javascript_body" formatted="false">Патрабуецца для многіх вэб-сайтаў і для выяўлення відэа HTML5.</string>
+    <string name="privacy" formatted="false">Прыватнасць</string>
+    <string name="clear_browser" formatted="false">Ачысціць даныя прагляду</string>
+    <string name="clear_browser_confirm" formatted="false">Выдаліць файлы cookie, кэш браўзера, гісторыю і сховішча вэб-сайта?</string>
+    <string name="privacy_body" formatted="false">Няма рэкламы, аналітыкі або ўліковых запісаў распрацоўшчыкаў. Вэб-сайты, пошукавыя сістэмы, пастаўшчыкі DNS і серверы загрузкі атрымліваюць запыты, якія вы робіце. Гісторыя загрузак і закладкі застаюцца на гэтай прыладзе.</string>
+    <string name="terms" formatted="false">Карыстайцеся адказна</string>
+    <string name="terms_body" formatted="false">Захоўвайце толькі відэа, якія належаць вам або спампоўваць якія дазволена. Паважайце аўтарскія правы і ўмовы вэб-сайта. Гэта дадатак не можа абыйсці DRM, платныя сцены або абмежаванні на загрузку платформы.</string>
+    <string name="about" formatted="false">Пра</string>
+    <string name="version" formatted="false">Версія</string>
+    <string name="paid_app" formatted="false">Адна купля. Без рэкламы. Няма падпіскі.</string>
+    <string name="welcome_title" formatted="false">Захоўвайце тое, што вас натхняе.</string>
+    <string name="welcome_body" formatted="false">Праглядайце, знаходзьце і захоўвайце дазволеныя відэа ў адным месцы. Прачытайце ілюстраванае кіраўніцтва, каб пачаць.</string>
+    <string name="start_browsing" formatted="false">Пачаць прагляд</string>
+    <string name="read_guide" formatted="false">Прачытайце кіраўніцтва</string>
+    <string name="browser_error" formatted="false">Не ўдалося загрузіць гэту старонку. Праверце адрас і злучэнне, затым перазагрузіце.</string>
+    <string name="secure_only" formatted="false">Гэта дадатак выкарыстоўвае злучэнні HTTPS. Паспрабуйце бяспечную версію гэтага сайта.</string>
+    <string name="external_link" formatted="false">Адкрыць спасылку ў іншай праграме?</string>
+    <string name="open" formatted="false">Адкрыты</string>
+    <string name="refresh" formatted="false">Абнавіць</string>
+    <string name="accessibility_tutorial" formatted="false">Ілюстрацыя для гэтага кроку падручніка</string>
+    <string name="download_reason" formatted="false">Код памылкі загрузкі на андроід</string>
+    <string name="queue_full" formatted="false">Гісторыя загрузак поўная. Спачатку выдаліце ​​стары запіс.</string>
+    <string name="browser_tabs" formatted="false">Ўкладкі браўзэра</string>
+    <string name="tabs_subtitle" formatted="false">Трымайце вэб-сайты адкрытымі і пераключайцеся паміж імі.</string>
+    <string name="new_tab" formatted="false">Новая ўкладка</string>
+    <string name="close_tab" formatted="false">Закрыць укладку</string>
+    <string name="active_tab" formatted="false">Актыўная ўкладка</string>
+    <string name="tab_limit" formatted="false">Вы можаце адкрыць да 8 укладак. Зачыніце ўкладку, каб дадаць іншую.</string>
+    <string name="history" formatted="false">Гісторыя</string>
+    <string name="history_subtitle" formatted="false">Наведаныя сайты захоўваюцца толькі на гэтай прыладзе.</string>
+    <string name="empty_history" formatted="false">Ваша гісторыя прагляду з\&apos;явіцца тут.</string>
+    <string name="clear_history" formatted="false">Ачысціць гісторыю</string>
+    <string name="clear_history_confirm" formatted="false">Выдаліць усю гісторыю прагляду з гэтай прылады?</string>
+    <string name="open_new_tab" formatted="false">Адкрыць у новай укладцы</string>
+    <string name="browser_menu" formatted="false">Меню браўзэра</string>
+    <string name="shortcut_note" formatted="false">Ярлыкі вэб-сайтаў адкрываюцца ў браўзеры. Даступнасць загрузкі залежыць ад вэб-сайта.</string>
+</resources>

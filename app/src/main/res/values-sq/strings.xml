@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Shfletoni</string>
+    <string name="downloads" formatted="false">Shkarkimet</string>
+    <string name="guide" formatted="false">Udhëzues</string>
+    <string name="settings" formatted="false">Cilësimet</string>
+    <string name="home_title" formatted="false">Videot tuaja. Koleksioni juaj.</string>
+    <string name="home_subtitle" formatted="false">Gjeni diçka që ia vlen të mbani.</string>
+    <string name="search_hint" formatted="false">Kërkoni ose futni një faqe interneti</string>
+    <string name="go" formatted="false">Shkoni</string>
+    <string name="paste_link" formatted="false">Ngjit lidhjen e videos</string>
+    <string name="direct_link" formatted="false">Lidhje direkte me video</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Shkarkoni</string>
+    <string name="detect" formatted="false">Gjeni video</string>
+    <string name="detected" formatted="false">Video në këtë faqe</string>
+    <string name="no_media" formatted="false">Nuk u gjet asnjë video e shkarkueshme. Filloni të luani një video dhe më pas provoni përsëri. Transmetimet e mbrojtura dhe kornizat e integruara mund të mos disponohen.</string>
+    <string name="safe_note" formatted="false">Shkarkoni vetëm videot që zotëroni ose keni leje t\&apos;i ruani. Transmetimet e mbrojtura dhe shkarkimet në YouTube nuk ofrohen.</string>
+    <string name="quick_start" formatted="false">FILLO KËTU</string>
+    <string name="quick_browse" formatted="false">Eksploroni ueb</string>
+    <string name="quick_browse_body" formatted="false">Kërkoni me motorin tuaj të preferuar në shfletuesin e integruar.</string>
+    <string name="quick_download" formatted="false">Ruani një video</string>
+    <string name="quick_download_body" formatted="false">Ngjitni një lidhje direkte video HTTPS ose gjeni një video në një faqe.</string>
+    <string name="quick_guide" formatted="false">Një udhëzim i vogël</string>
+    <string name="quick_guide_body" formatted="false">Katër hapa të ilustruar nga zbulimi në koleksionin tuaj.</string>
+    <string name="back" formatted="false">Mbrapa</string>
+    <string name="forward" formatted="false">Përpara</string>
+    <string name="reload" formatted="false">Ringarko</string>
+    <string name="home" formatted="false">Shtëpi</string>
+    <string name="bookmark" formatted="false">Shënoni faqeshënues</string>
+    <string name="bookmarks" formatted="false">Faqerojtësit</string>
+    <string name="empty_bookmarks" formatted="false">Uebsajtet e ruajtura do të shfaqen këtu.</string>
+    <string name="saved" formatted="false">U ruajt</string>
+    <string name="remove" formatted="false">Hiq</string>
+    <string name="cancel" formatted="false">Anulo</string>
+    <string name="close" formatted="false">Mbylle</string>
+    <string name="confirm_download" formatted="false">Të ruhet kjo video?</string>
+    <string name="filename" formatted="false">Emri i skedarit</string>
+    <string name="download_location" formatted="false">Ruajtur në Shkarkimet / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Unë e zotëroj këtë video ose kam leje ta shkarkoj.</string>
+    <string name="permission_required" formatted="false">Konfirmo që ke leje për ta ruajtur këtë video.</string>
+    <string name="invalid_url" formatted="false">Fut një lidhje të vlefshme video HTTPS.</string>
+    <string name="unsupported" formatted="false">Kjo lidhje nuk është një video e shkarkueshme. DRM, transmetimet drejtpërdrejt, listat për luajtje dhe shkarkimet në YouTube nuk mbështeten.</string>
+    <string name="queued" formatted="false">Shkarkimi u shtua në radhë</string>
+    <string name="download_error" formatted="false">Nuk mund të shkarkohet. Kontrolloni lidhjen ose përdorni një lidhje të re video.</string>
+    <string name="collection_title" formatted="false">Koleksioni juaj</string>
+    <string name="collection_subtitle" formatted="false">Videot e ruajtura, gati kur të jeni.</string>
+    <string name="empty_downloads" formatted="false">E preferuara juaj e radhës është këtu.</string>
+    <string name="empty_downloads_body" formatted="false">Gjeni një video në Shfleto ose ngjitni një lidhje direkte video për të filluar koleksionin tuaj.</string>
+    <string name="pending" formatted="false">Në radhë</string>
+    <string name="running" formatted="false">Po shkarkohet</string>
+    <string name="paused" formatted="false">Në pritje të rrjetit ose riprovoni</string>
+    <string name="complete" formatted="false">Kompletuar</string>
+    <string name="failed" formatted="false">Dështoi</string>
+    <string name="missing" formatted="false">Skedari nuk disponohet</string>
+    <string name="play" formatted="false">Luaj</string>
+    <string name="share" formatted="false">Shpërndaje</string>
+    <string name="retry" formatted="false">Provo sërish</string>
+    <string name="delete_download" formatted="false">Të hiqet shkarkimi dhe skedari i tij?</string>
+    <string name="no_player" formatted="false">Nuk disponohet asnjë aplikacion i përputhshëm për të hapur këtë skedar.</string>
+    <string name="guide_title" formatted="false">Nga zbulimi në shkarkim.</string>
+    <string name="guide_subtitle" formatted="false">Një udhëzues i thjeshtë për të mbajtur videot që ju pëlqejnë.</string>
+    <string name="step_one_title" formatted="false">Gjeni videon tuaj</string>
+    <string name="step_one_body" formatted="false">Hapni Shfletimin. Kërkoni ose vendosni një adresë uebsajti. Mund të ndani gjithashtu një lidhje video nga një aplikacion tjetër.</string>
+    <string name="step_two_title" formatted="false">Zbuloni burimin</string>
+    <string name="step_two_body" formatted="false">Luaj një video dhe më pas prekni Gjej video. Zgjidhni një skedar të zbuluar ose ngjitni një lidhje direkte video HTTPS.</string>
+    <string name="step_three_title" formatted="false">Bëjeni tuajin</string>
+    <string name="step_three_body" formatted="false">Zgjidhni një emër skedari, konfirmoni lejen tuaj për të ruajtur videon dhe prekni Shkarko. Android vazhdon shkarkimin në sfond.</string>
+    <string name="step_four_title" formatted="false">Shijoni koleksionin tuaj</string>
+    <string name="step_four_body" formatted="false">Hapni Shkarkimet për të kontrolluar përparimin. Luaj ose ndaj videot e përfunduara. Riprovoni shkarkimet e dështuara me një lidhje të re kur është e nevojshme.</string>
+    <string name="try_now" formatted="false">Provojeni tani</string>
+    <string name="preferences" formatted="false">Bëjeni atë tuajën.</string>
+    <string name="preferences_subtitle" formatted="false">Disa kontrolle të menduara për shfletimin tuaj të përditshëm.</string>
+    <string name="dns_title" formatted="false">VPN / DNS private</string>
+    <string name="dns_explanation" formatted="false">DNS private kodon pyetjet DNS. Ai nuk e fsheh adresën tuaj IP ose nuk krijon një tunel VPN. Android kërkon që ju ta ndryshoni këtë cilësim manualisht.</string>
+    <string name="connected" formatted="false">Lidhur</string>
+    <string name="unconnected" formatted="false">I palidhur</string>
+    <string name="connect" formatted="false">Lidheni</string>
+    <string name="disconnect" formatted="false">Shkëputeni</string>
+    <string name="dns_instructions" formatted="false">Zgjidhni emrin e hostit të ofruesit privat DNS, ngjisni dns.adguard-dns.com dhe ruajeni. Për t\&apos;u shkëputur, zgjidhni Automatik ose Joaktiv në të njëjtin cilësim të sistemit.</string>
+    <string name="copy_hostname" formatted="false">Kopjo emrin e hostit</string>
+    <string name="copied" formatted="false">Kopjuar në kujtesën e fragmenteve</string>
+    <string name="open_network_settings" formatted="false">Hap cilësimet e rrjetit</string>
+    <string name="language" formatted="false">Gjuha e aplikacionit</string>
+    <string name="system_language" formatted="false">Ndiqni gjuhën e pajisjes</string>
+    <string name="search_language" formatted="false">Gjeni një gjuhë</string>
+    <string name="language_note" formatted="false">Përkthimet përfshihen jashtë linje. Gjuhët e palistuara të pajisjes përdorin anglisht. Përkthimet me makinë mund të kenë nevojë për rishikim rajonal.</string>
+    <string name="search_engine" formatted="false">Motori i kërkimit</string>
+    <string name="wifi_only" formatted="false">Shkarkoni vetëm me Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Shkarkimet e reja presin derisa Wi-Fi të ofrohet.</string>
+    <string name="javascript" formatted="false">JavaScript e faqes në internet</string>
+    <string name="javascript_body" formatted="false">Kërkohet nga shumë faqe interneti dhe zbulimi i videove HTML5.</string>
+    <string name="privacy" formatted="false">Privatësia</string>
+    <string name="clear_browser" formatted="false">Pastro të dhënat e shfletimit</string>
+    <string name="clear_browser_confirm" formatted="false">Të fshihen kukit, memoria specifike e shfletuesit, historiku dhe ruajtja e uebsajtit?</string>
+    <string name="privacy_body" formatted="false">Nuk ka reklama, analitikë ose llogari zhvilluesish. Faqet e internetit, motorët e kërkimit, ofruesit e DNS dhe serverët e shkarkimit marrin kërkesat që bëni. Historiku i shkarkimeve dhe faqeshënuesit qëndrojnë në këtë pajisje.</string>
+    <string name="terms" formatted="false">Përdorni me përgjegjësi</string>
+    <string name="terms_body" formatted="false">Ruani vetëm videot që zotëroni ose ju lejohet të shkarkoni. Respektoni të drejtat e autorit dhe kushtet e faqes në internet. Ky aplikacion nuk mund të anashkalojë kufizimet e shkarkimit të DRM-së, mureve të pagesës ose platformës.</string>
+    <string name="about" formatted="false">Rreth</string>
+    <string name="version" formatted="false">Versioni</string>
+    <string name="paid_app" formatted="false">Një blerje. Nuk ka reklama. Asnjë abonim.</string>
+    <string name="welcome_title" formatted="false">Mbani atë që ju frymëzon.</string>
+    <string name="welcome_body" formatted="false">Shfletoni, zbuloni dhe ruani videot e lejuara në një vend. Lexoni udhëzuesin e ilustruar për të filluar.</string>
+    <string name="start_browsing" formatted="false">Filloni të shfletoni</string>
+    <string name="read_guide" formatted="false">Lexoni udhëzuesin</string>
+    <string name="browser_error" formatted="false">Kjo faqe nuk mund të ngarkohej. Kontrolloni adresën dhe lidhjen, më pas ringarkoni.</string>
+    <string name="secure_only" formatted="false">Ky aplikacion përdor lidhjet HTTPS. Provoni versionin e sigurt të kësaj faqeje interneti.</string>
+    <string name="external_link" formatted="false">Të hapet kjo lidhje në një aplikacion tjetër?</string>
+    <string name="open" formatted="false">Hapur</string>
+    <string name="refresh" formatted="false">Rifresko</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustrim për këtë hap tutorial</string>
+    <string name="download_reason" formatted="false">Kodi i gabimit të shkarkimit të Android</string>
+    <string name="queue_full" formatted="false">Historia e shkarkimeve është e plotë. Hiqni fillimisht një hyrje më të vjetër.</string>
+    <string name="browser_tabs" formatted="false">Skedat e shfletuesit</string>
+    <string name="tabs_subtitle" formatted="false">Mbani faqet e internetit të hapura dhe ndërroni ndërmjet tyre.</string>
+    <string name="new_tab" formatted="false">Skeda e re</string>
+    <string name="close_tab" formatted="false">Mbyll skedën</string>
+    <string name="active_tab" formatted="false">Skeda aktive</string>
+    <string name="tab_limit" formatted="false">Mund të hapni deri në 8 skeda. Mbyllni një skedë për të shtuar një tjetër.</string>
+    <string name="history" formatted="false">Historia</string>
+    <string name="history_subtitle" formatted="false">Uebsajtet e vizituara ruhen vetëm në këtë pajisje.</string>
+    <string name="empty_history" formatted="false">Historia juaj e shfletimit do të shfaqet këtu.</string>
+    <string name="clear_history" formatted="false">Pastro historinë</string>
+    <string name="clear_history_confirm" formatted="false">Të fshihet i gjithë historiku i shfletimit nga kjo pajisje?</string>
+    <string name="open_new_tab" formatted="false">Hape në skedën e re</string>
+    <string name="browser_menu" formatted="false">Menyja e shfletuesit</string>
+    <string name="shortcut_note" formatted="false">Shkurtoret e sajtit hapen në shfletues. Disponueshmëria e shkarkimit varet nga faqja e internetit.</string>
+</resources>

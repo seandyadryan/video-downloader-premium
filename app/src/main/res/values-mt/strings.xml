@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Fittex</string>
+    <string name="downloads" formatted="false">Downloads</string>
+    <string name="guide" formatted="false">Gwida</string>
+    <string name="settings" formatted="false">Settings</string>
+    <string name="home_title" formatted="false">Il-vidjows tiegħek. Il-ġbir tiegħek.</string>
+    <string name="home_subtitle" formatted="false">Sib xi ħaġa ta’ min iżżommha.</string>
+    <string name="search_hint" formatted="false">Fittex jew daħħal websajt</string>
+    <string name="go" formatted="false">Mur</string>
+    <string name="paste_link" formatted="false">Paste link tal-vidjo</string>
+    <string name="direct_link" formatted="false">Link dirett tal-vidjo</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Niżżel</string>
+    <string name="detect" formatted="false">Sib videos</string>
+    <string name="detected" formatted="false">Filmati fuq din il-paġna</string>
+    <string name="no_media" formatted="false">Ma nstab l-ebda vidjow li jista\&apos; jitniżżel. Ibda tilgħab vidjo, imbagħad erġa\&apos; pprova. Flussjonijiet protetti u frejms inkorporati jistgħu ma jkunux disponibbli.</string>
+    <string name="safe_note" formatted="false">Niżżel biss vidjows li inti stess jew għandek permess biex issalva. Flussjonijiet protetti u downloads ta\&apos; YouTube mhumiex disponibbli.</string>
+    <string name="quick_start" formatted="false">IBDA HAWN</string>
+    <string name="quick_browse" formatted="false">Esplora l-web</string>
+    <string name="quick_browse_body" formatted="false">Fittex bil-magna preferuta tiegħek fil-browser inkorporat.</string>
+    <string name="quick_download" formatted="false">Issejvja vidjo</string>
+    <string name="quick_download_body" formatted="false">Paste link tal-vidjo HTTPS dirett jew sib vidjo fuq paġna.</string>
+    <string name="quick_guide" formatted="false">Ftit gwida</string>
+    <string name="quick_guide_body" formatted="false">Erba\&apos; passi illustrati mill-iskoperta sal-ġbir tiegħek.</string>
+    <string name="back" formatted="false">Lura</string>
+    <string name="forward" formatted="false">Quddiem</string>
+    <string name="reload" formatted="false">Reload</string>
+    <string name="home" formatted="false">Dar</string>
+    <string name="bookmark" formatted="false">Bookmark</string>
+    <string name="bookmarks" formatted="false">Bookmarks</string>
+    <string name="empty_bookmarks" formatted="false">Websajts salvati se jidhru hawn.</string>
+    <string name="saved" formatted="false">Salvat</string>
+    <string name="remove" formatted="false">Neħħi</string>
+    <string name="cancel" formatted="false">Ikkanċella</string>
+    <string name="close" formatted="false">Agħlaq</string>
+    <string name="confirm_download" formatted="false">Issejvja dan il-video?</string>
+    <string name="filename" formatted="false">Isem tal-fajl</string>
+    <string name="download_location" formatted="false">Issejvjat f\&apos;Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Għandi dan il-video jew għandi permess biex inniżżlu.</string>
+    <string name="permission_required" formatted="false">Ikkonferma li għandek permess biex issalva dan il-video.</string>
+    <string name="invalid_url" formatted="false">Daħħal link tal-vidjo HTTPS validu.</string>
+    <string name="unsupported" formatted="false">Din il-link mhix vidjow li jista\&apos; jitniżżel. DRM, live streams, playlists, u downloads ta\&apos; YouTube mhumiex appoġġjati.</string>
+    <string name="queued" formatted="false">Niżżel miżjud mal-kju</string>
+    <string name="download_error" formatted="false">Ma tistax tniżżel. Iċċekkja l-konnessjoni jew uża link tal-vidjo frisk.</string>
+    <string name="collection_title" formatted="false">Il-ġbir tiegħek</string>
+    <string name="collection_subtitle" formatted="false">Vidjows salvati, lesti meta tkun.</string>
+    <string name="empty_downloads" formatted="false">Il-favorit li jmiss tiegħek jappartjeni hawn.</string>
+    <string name="empty_downloads_body" formatted="false">Sib vidjo f\&apos;Ibbrawżja jew waħħal rabta diretta tal-vidjow biex tibda l-ġbir tiegħek.</string>
+    <string name="pending" formatted="false">Fil-kju</string>
+    <string name="running" formatted="false">Tniżżil</string>
+    <string name="paused" formatted="false">Stennija għan-netwerk jew ipprova mill-ġdid</string>
+    <string name="complete" formatted="false">Imla</string>
+    <string name="failed" formatted="false">Falliet</string>
+    <string name="missing" formatted="false">Fajl mhux disponibbli</string>
+    <string name="play" formatted="false">Play</string>
+    <string name="share" formatted="false">Aqsam</string>
+    <string name="retry" formatted="false">Ipprova mill-ġdid</string>
+    <string name="delete_download" formatted="false">Neħħi t-tniżżil u l-fajl tagħha?</string>
+    <string name="no_player" formatted="false">L-ebda app kompatibbli mhi disponibbli biex tiftaħ dan il-fajl.</string>
+    <string name="guide_title" formatted="false">Mill-iskoperta għat-tniżżil.</string>
+    <string name="guide_subtitle" formatted="false">Gwida sempliċi biex iżżomm il-videos li tħobb.</string>
+    <string name="step_one_title" formatted="false">Sib il-video tiegħek</string>
+    <string name="step_one_body" formatted="false">Iftaħ Ibbrawżja. Fittex jew daħħal indirizz tal-websajt. Tista \&apos;wkoll taqsam link tal-vidjo minn app oħra.</string>
+    <string name="step_two_title" formatted="false">Skopri s-sors</string>
+    <string name="step_two_body" formatted="false">Ilgħab vidjo, imbagħad tektek Sib vidjows. Agħżel fajl skopert, jew waħħal rabta diretta tal-vidjo HTTPS.</string>
+    <string name="step_three_title" formatted="false">Agħmilha tiegħek</string>
+    <string name="step_three_body" formatted="false">Agħżel isem tal-fajl, ikkonferma l-permess tiegħek biex issalva l-vidjo, u tektek Niżżel. Android ikompli t-tniżżil fl-isfond.</string>
+    <string name="step_four_title" formatted="false">Igawdu l-ġbir tiegħek</string>
+    <string name="step_four_body" formatted="false">Iftaħ Downloads biex tivverifika l-progress. Ilgħab jew aqsam vidjows kompluti. Erġa\&apos; pprova downloads falluti b\&apos;link ġdid meta meħtieġ.</string>
+    <string name="try_now" formatted="false">Ipprova issa</string>
+    <string name="preferences" formatted="false">Agħmilha tiegħek.</string>
+    <string name="preferences_subtitle" formatted="false">Ftit kontrolli maħsuba għall-ibbrawżjar ta \&apos;kuljum tiegħek.</string>
+    <string name="dns_title" formatted="false">VPN / DNS Privat</string>
+    <string name="dns_explanation" formatted="false">Id-DNS privat jikkodifika l-mistoqsijiet tad-DNS. Ma jaħbix l-indirizz IP tiegħek jew joħloq mina VPN. Android jeħtieġ li tibdel dan is-setting manwalment.</string>
+    <string name="connected" formatted="false">Konnessi</string>
+    <string name="unconnected" formatted="false">Mhux konnessi</string>
+    <string name="connect" formatted="false">Qabbad</string>
+    <string name="disconnect" formatted="false">Skonnettja</string>
+    <string name="dns_instructions" formatted="false">Agħżel l-isem tal-host tal-fornitur tad-DNS Privat, waħħal dns.adguard-dns.com, u ssalva. Biex tiskonnettja, agħżel Awtomatiku jew Mitfi fl-istess setting tas-sistema.</string>
+    <string name="copy_hostname" formatted="false">Ikkopja l-isem tal-host</string>
+    <string name="copied" formatted="false">Ikkopjati fil-clipboard</string>
+    <string name="open_network_settings" formatted="false">Iftaħ is-settings tan-netwerk</string>
+    <string name="language" formatted="false">Lingwa tal-app</string>
+    <string name="system_language" formatted="false">Segwi l-lingwa tal-apparat</string>
+    <string name="search_language" formatted="false">Sib lingwa</string>
+    <string name="language_note" formatted="false">It-traduzzjonijiet huma inklużi offline. Lingwi tal-apparat mhux ikkwotati jużaw l-Ingliż. It-traduzzjonijiet awtomatiċi jistgħu jeħtieġu reviżjoni reġjonali.</string>
+    <string name="search_engine" formatted="false">Search engine</string>
+    <string name="wifi_only" formatted="false">Niżżel fuq Wi-Fi biss</string>
+    <string name="wifi_body" formatted="false">Downloads ġodda jistennew sakemm il-Wi-Fi tkun disponibbli.</string>
+    <string name="javascript" formatted="false">Websajt JavaScript</string>
+    <string name="javascript_body" formatted="false">Meħtieġa minn bosta websajts u skoperta tal-vidjo HTML5.</string>
+    <string name="privacy" formatted="false">Privatezza</string>
+    <string name="clear_browser" formatted="false">Dejta ċara tal-ibbrawżjar</string>
+    <string name="clear_browser_confirm" formatted="false">Tħassar il-cookies, il-cache tal-browser, l-istorja, u l-ħażna tal-websajt?</string>
+    <string name="privacy_body" formatted="false">Ebda reklami, analiżi, jew kontijiet tal-iżviluppatur. Websajts, magni tat-tiftix, fornituri tad-DNS, u servers tat-tniżżil jirċievu t-talbiet li tagħmel. Niżżel l-istorja u l-bookmarks jibqgħu fuq dan l-apparat.</string>
+    <string name="terms" formatted="false">Uża b\&apos;mod responsabbli</string>
+    <string name="terms_body" formatted="false">Issejvja biss vidjows li inti stess jew li huma permessi li tniżżel. Irrispetta t-termini tad-drittijiet tal-awtur u tal-websajt. Din l-app ma tistax tevita r-restrizzjonijiet tad-DRM, tal-paywalls jew tat-tniżżil tal-pjattaforma.</string>
+    <string name="about" formatted="false">Dwar</string>
+    <string name="version" formatted="false">Verżjoni</string>
+    <string name="paid_app" formatted="false">Xiri waħda. Ebda reklami. L-ebda abbonament.</string>
+    <string name="welcome_title" formatted="false">Żomm dak li jispirak.</string>
+    <string name="welcome_body" formatted="false">Fittex, skopri, u ssejvja vidjows permessi f\&apos;post wieħed. Aqra l-gwida illustrata biex tibda.</string>
+    <string name="start_browsing" formatted="false">Ibda browsing</string>
+    <string name="read_guide" formatted="false">Aqra l-gwida</string>
+    <string name="browser_error" formatted="false">Din il-paġna ma setgħetx titgħabba. Iċċekkja l-indirizz u l-konnessjoni, imbagħad reload.</string>
+    <string name="secure_only" formatted="false">Din l-app tuża konnessjonijiet HTTPS. Ipprova l-verżjoni sigura ta’ din il-websajt.</string>
+    <string name="external_link" formatted="false">Iftaħ din il-link f\&apos;app oħra?</string>
+    <string name="open" formatted="false">Miftuħa</string>
+    <string name="refresh" formatted="false">Aġġorna</string>
+    <string name="accessibility_tutorial" formatted="false">Illustrazzjoni għal dan il-pass tutorja</string>
+    <string name="download_reason" formatted="false">Android download kodiċi ta \&apos;żball</string>
+    <string name="queue_full" formatted="false">L-istorja tat-tniżżil hija sħiħa. Neħħi dħul antik l-ewwel.</string>
+    <string name="browser_tabs" formatted="false">Tabs tal-browser</string>
+    <string name="tabs_subtitle" formatted="false">Żomm il-websajts miftuħa u aqleb bejniethom.</string>
+    <string name="new_tab" formatted="false">Tab ġdida</string>
+    <string name="close_tab" formatted="false">Agħlaq tab</string>
+    <string name="active_tab" formatted="false">Tab attiva</string>
+    <string name="tab_limit" formatted="false">Tista \&apos;tiftaħ sa 8 tabs. Agħlaq tab biex iżżid ieħor.</string>
+    <string name="history" formatted="false">Storja</string>
+    <string name="history_subtitle" formatted="false">Il-websajts miżjura huma ssejvjati biss fuq dan l-apparat.</string>
+    <string name="empty_history" formatted="false">L-istorja tal-ibbrawżjar tiegħek se tidher hawn.</string>
+    <string name="clear_history" formatted="false">Storja ċara</string>
+    <string name="clear_history_confirm" formatted="false">Tħassar l-istorja kollha tal-ibbrawżjar minn dan it-tagħmir?</string>
+    <string name="open_new_tab" formatted="false">Iftaħ f\&apos;tab ġdida</string>
+    <string name="browser_menu" formatted="false">Menu tal-browser</string>
+    <string name="shortcut_note" formatted="false">Shortcuts tal-websajt miftuħa fil-browser. Id-disponibbiltà tat-tniżżil tiddependi fuq il-websajt.</string>
+</resources>

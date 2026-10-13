@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Procházet</string>
+    <string name="downloads" formatted="false">Stahování</string>
+    <string name="guide" formatted="false">Průvodce</string>
+    <string name="settings" formatted="false">Nastavení</string>
+    <string name="home_title" formatted="false">Vaše videa. Vaše sbírka.</string>
+    <string name="home_subtitle" formatted="false">Najděte něco, co stojí za to si nechat.</string>
+    <string name="search_hint" formatted="false">Vyhledejte nebo zadejte webovou stránku</string>
+    <string name="go" formatted="false">Jdi</string>
+    <string name="paste_link" formatted="false">Vložte odkaz na video</string>
+    <string name="direct_link" formatted="false">Přímý odkaz na video</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Stáhnout</string>
+    <string name="detect" formatted="false">Najít videa</string>
+    <string name="detected" formatted="false">Videa na této stránce</string>
+    <string name="no_media" formatted="false">Nebylo nalezeno žádné video ke stažení. Spusťte přehrávání videa a zkuste to znovu. Chráněné streamy a vložené rámce mohou být nedostupné.</string>
+    <string name="safe_note" formatted="false">Stahujte pouze videa, která vlastníte nebo máte oprávnění k ukládání. Chráněné streamy a stahování z YouTube nejsou k dispozici.</string>
+    <string name="quick_start" formatted="false">ZAČNĚTE ZDE</string>
+    <string name="quick_browse" formatted="false">Prozkoumejte web</string>
+    <string name="quick_browse_body" formatted="false">Hledejte pomocí preferovaného vyhledávače ve vestavěném prohlížeči.</string>
+    <string name="quick_download" formatted="false">Uložit video</string>
+    <string name="quick_download_body" formatted="false">Vložte přímý odkaz na video HTTPS nebo najděte video na stránce.</string>
+    <string name="quick_guide" formatted="false">Malý návod</string>
+    <string name="quick_guide_body" formatted="false">Čtyři ilustrované kroky od objevu k vaší sbírce.</string>
+    <string name="back" formatted="false">Zpět</string>
+    <string name="forward" formatted="false">Vpřed</string>
+    <string name="reload" formatted="false">Znovu načíst</string>
+    <string name="home" formatted="false">Domů</string>
+    <string name="bookmark" formatted="false">Záložka</string>
+    <string name="bookmarks" formatted="false">Záložky</string>
+    <string name="empty_bookmarks" formatted="false">Zde se zobrazí uložené webové stránky.</string>
+    <string name="saved" formatted="false">Uloženo</string>
+    <string name="remove" formatted="false">Odebrat</string>
+    <string name="cancel" formatted="false">Zrušit</string>
+    <string name="close" formatted="false">Zavřít</string>
+    <string name="confirm_download" formatted="false">Uložit toto video?</string>
+    <string name="filename" formatted="false">Název souboru</string>
+    <string name="download_location" formatted="false">Uloženo ve Stahování / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Vlastním toto video nebo mám povolení jej stáhnout.</string>
+    <string name="permission_required" formatted="false">Potvrďte, že máte oprávnění k uložení tohoto videa.</string>
+    <string name="invalid_url" formatted="false">Zadejte platný odkaz na video HTTPS.</string>
+    <string name="unsupported" formatted="false">Tento odkaz není video ke stažení. DRM, živé přenosy, seznamy skladeb a stahování z YouTube nejsou podporovány.</string>
+    <string name="queued" formatted="false">Stahování přidáno do fronty</string>
+    <string name="download_error" formatted="false">Nelze stáhnout. Zkontrolujte připojení nebo použijte nový odkaz na video.</string>
+    <string name="collection_title" formatted="false">Vaše sbírka</string>
+    <string name="collection_subtitle" formatted="false">Uložená videa, připravená, až budete.</string>
+    <string name="empty_downloads" formatted="false">Váš další oblíbený patří sem.</string>
+    <string name="empty_downloads_body" formatted="false">Najděte video v Procházet nebo vložte přímý odkaz na video a začněte svou sbírku.</string>
+    <string name="pending" formatted="false">Ve frontě</string>
+    <string name="running" formatted="false">Stahování</string>
+    <string name="paused" formatted="false">Čekání na síť nebo opakování</string>
+    <string name="complete" formatted="false">Dokončeno</string>
+    <string name="failed" formatted="false">Nepodařilo se</string>
+    <string name="missing" formatted="false">Soubor není k dispozici</string>
+    <string name="play" formatted="false">hrát</string>
+    <string name="share" formatted="false">Sdílejte</string>
+    <string name="retry" formatted="false">Zkuste to znovu</string>
+    <string name="delete_download" formatted="false">Odstranit stažený soubor a jeho soubor?</string>
+    <string name="no_player" formatted="false">Pro otevření tohoto souboru není k dispozici žádná kompatibilní aplikace.</string>
+    <string name="guide_title" formatted="false">Od objevení ke stažení.</string>
+    <string name="guide_subtitle" formatted="false">Jednoduchý průvodce, jak si uchovat oblíbená videa.</string>
+    <string name="step_one_title" formatted="false">Najděte své video</string>
+    <string name="step_one_body" formatted="false">Otevřete Procházet. Vyhledejte nebo zadejte adresu webu. Můžete také sdílet odkaz na video z jiné aplikace.</string>
+    <string name="step_two_title" formatted="false">Objevte zdroj</string>
+    <string name="step_two_body" formatted="false">Přehrajte video a potom klepněte na Najít videa. Vyberte detekovaný soubor nebo vložte přímý odkaz na video HTTPS.</string>
+    <string name="step_three_title" formatted="false">Udělejte to po svém</string>
+    <string name="step_three_body" formatted="false">Vyberte název souboru, potvrďte oprávnění k uložení videa a klepněte na Stáhnout. Android pokračuje ve stahování na pozadí.</string>
+    <string name="step_four_title" formatted="false">Užijte si svou sbírku</string>
+    <string name="step_four_body" formatted="false">Otevřete Stahování a zkontrolujte průběh. Přehrávejte nebo sdílejte dokončená videa. V případě potřeby opakujte neúspěšné stahování s novým odkazem.</string>
+    <string name="try_now" formatted="false">Zkuste to teď</string>
+    <string name="preferences" formatted="false">Udělejte si to po svém.</string>
+    <string name="preferences_subtitle" formatted="false">Několik promyšlených ovládacích prvků pro každodenní prohlížení.</string>
+    <string name="dns_title" formatted="false">VPN / Private DNS</string>
+    <string name="dns_explanation" formatted="false">Privátní DNS šifruje dotazy DNS. Neskryje vaši IP adresu ani nevytvoří VPN tunel. Android vyžaduje, abyste toto nastavení změnili ručně.</string>
+    <string name="connected" formatted="false">Připojeno</string>
+    <string name="unconnected" formatted="false">Nepřipojeno</string>
+    <string name="connect" formatted="false">Připojte se</string>
+    <string name="disconnect" formatted="false">Odpojit</string>
+    <string name="dns_instructions" formatted="false">Vyberte název hostitele soukromého poskytovatele DNS, vložte dns.adguard-dns.com a uložte. Chcete-li se odpojit, vyberte ve stejném nastavení systému Automaticky nebo Vypnuto.</string>
+    <string name="copy_hostname" formatted="false">Zkopírovat název hostitele</string>
+    <string name="copied" formatted="false">Zkopírováno do schránky</string>
+    <string name="open_network_settings" formatted="false">Otevřete nastavení sítě</string>
+    <string name="language" formatted="false">Jazyk aplikace</string>
+    <string name="system_language" formatted="false">Postupujte podle jazyka zařízení</string>
+    <string name="search_language" formatted="false">Najděte jazyk</string>
+    <string name="language_note" formatted="false">Překlady jsou zahrnuty offline. Neuvedené jazyky zařízení používají angličtinu. Strojové překlady mohou vyžadovat regionální kontrolu.</string>
+    <string name="search_engine" formatted="false">Vyhledávač</string>
+    <string name="wifi_only" formatted="false">Stahujte pouze přes Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Nová stahování počkejte, dokud nebude k dispozici Wi-Fi.</string>
+    <string name="javascript" formatted="false">JavaScript webových stránek</string>
+    <string name="javascript_body" formatted="false">Vyžadováno mnoha weby a objevováním videí HTML5.</string>
+    <string name="privacy" formatted="false">soukromí</string>
+    <string name="clear_browser" formatted="false">Vymazat údaje o prohlížení</string>
+    <string name="clear_browser_confirm" formatted="false">Smazat soubory cookie, mezipaměť prohlížeče, historii a úložiště webových stránek?</string>
+    <string name="privacy_body" formatted="false">Žádné reklamy, analýzy ani účty vývojářů. Webové stránky, vyhledávače, poskytovatelé DNS a stahovací servery přijímají vaše požadavky. Historie stahování a záložky zůstanou v tomto zařízení.</string>
+    <string name="terms" formatted="false">Používejte zodpovědně</string>
+    <string name="terms_body" formatted="false">Ukládejte pouze videa, která vlastníte nebo máte povolení ke stažení. Respektujte autorská práva a podmínky webových stránek. Tato aplikace nemůže obejít omezení DRM, paywall ani omezení stahování platformy.</string>
+    <string name="about" formatted="false">O</string>
+    <string name="version" formatted="false">Verze</string>
+    <string name="paid_app" formatted="false">Jeden nákup. Žádné reklamy. Žádné předplatné.</string>
+    <string name="welcome_title" formatted="false">Uchovávejte to, co vás inspiruje.</string>
+    <string name="welcome_body" formatted="false">Procházejte, objevujte a ukládejte povolená videa na jednom místě. Pro začátek si přečtěte ilustrovaného průvodce.</string>
+    <string name="start_browsing" formatted="false">Začněte procházet</string>
+    <string name="read_guide" formatted="false">Přečtěte si průvodce</string>
+    <string name="browser_error" formatted="false">Tuto stránku nelze načíst. Zkontrolujte adresu a připojení a poté znovu načtěte.</string>
+    <string name="secure_only" formatted="false">Tato aplikace používá připojení HTTPS. Vyzkoušejte zabezpečenou verzi tohoto webu.</string>
+    <string name="external_link" formatted="false">Otevřít tento odkaz v jiné aplikaci?</string>
+    <string name="open" formatted="false">Otevřít</string>
+    <string name="refresh" formatted="false">Obnovit</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustrace pro tento krok výukového programu</string>
+    <string name="download_reason" formatted="false">Kód chyby stahování pro Android</string>
+    <string name="queue_full" formatted="false">Historie stahování je plná. Nejprve odstraňte starší záznam.</string>
+    <string name="browser_tabs" formatted="false">Karty prohlížeče</string>
+    <string name="tabs_subtitle" formatted="false">Udržujte webové stránky otevřené a přepínejte mezi nimi.</string>
+    <string name="new_tab" formatted="false">Nová karta</string>
+    <string name="close_tab" formatted="false">Zavřít kartu</string>
+    <string name="active_tab" formatted="false">Aktivní karta</string>
+    <string name="tab_limit" formatted="false">Můžete otevřít až 8 karet. Zavřete kartu a přidejte další.</string>
+    <string name="history" formatted="false">Historie</string>
+    <string name="history_subtitle" formatted="false">Navštívené webové stránky se ukládají pouze do tohoto zařízení.</string>
+    <string name="empty_history" formatted="false">Zde se zobrazí vaše historie procházení.</string>
+    <string name="clear_history" formatted="false">Vymazat historii</string>
+    <string name="clear_history_confirm" formatted="false">Smazat veškerou historii procházení z tohoto zařízení?</string>
+    <string name="open_new_tab" formatted="false">Otevřít na nové kartě</string>
+    <string name="browser_menu" formatted="false">Nabídka prohlížeče</string>
+    <string name="shortcut_note" formatted="false">Zástupci webových stránek se otevírají v prohlížeči. Dostupnost stahování závisí na webu.</string>
+</resources>

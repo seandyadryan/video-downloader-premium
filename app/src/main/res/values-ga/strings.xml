@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Brabhsáil</string>
+    <string name="downloads" formatted="false">Íoslódálacha</string>
+    <string name="guide" formatted="false">Treoraí</string>
+    <string name="settings" formatted="false">Socruithe</string>
+    <string name="home_title" formatted="false">Do físeáin. Do bhailiúchán.</string>
+    <string name="home_subtitle" formatted="false">Faigh rud éigin fiú a choinneáil.</string>
+    <string name="search_hint" formatted="false">Cuardaigh nó cuir isteach suíomh Gréasáin</string>
+    <string name="go" formatted="false">Téigh</string>
+    <string name="paste_link" formatted="false">Greamaigh nasc físe</string>
+    <string name="direct_link" formatted="false">Nasc físe díreach</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Íosluchtaigh</string>
+    <string name="detect" formatted="false">Faigh físeáin</string>
+    <string name="detected" formatted="false">Físeáin ar an leathanach seo</string>
+    <string name="no_media" formatted="false">Níor aimsíodh aon fhíseán in-íoslódáilte. Tosaigh ag imirt físeán, ansin bain triail eile as. D’fhéadfadh sé nach mbeadh sruthanna cosanta agus frámaí leabaithe ar fáil.</string>
+    <string name="safe_note" formatted="false">Ná íoslódáil ach físeáin ar leatsa iad nó a bhfuil cead agat iad a shábháil. Níl sruthanna cosanta agus íoslódálacha YouTube ar fáil.</string>
+    <string name="quick_start" formatted="false">TÚS ANSEO</string>
+    <string name="quick_browse" formatted="false">Déan iniúchadh ar an ngréasán</string>
+    <string name="quick_browse_body" formatted="false">Déan cuardach leis an inneall is fearr leat sa bhrabhsálaí ionsuite.</string>
+    <string name="quick_download" formatted="false">Sábháil físeán</string>
+    <string name="quick_download_body" formatted="false">Greamaigh nasc físe HTTPS díreach nó aimsigh físeán ar leathanach.</string>
+    <string name="quick_guide" formatted="false">Treoir bheag</string>
+    <string name="quick_guide_body" formatted="false">Ceithre chéim léirithe ón bhfionnachtain go dtí do bhailiúchán.</string>
+    <string name="back" formatted="false">Ar ais</string>
+    <string name="forward" formatted="false">Ar aghaidh</string>
+    <string name="reload" formatted="false">Athlódáil</string>
+    <string name="home" formatted="false">Baile</string>
+    <string name="bookmark" formatted="false">Leabharmharc</string>
+    <string name="bookmarks" formatted="false">Leabharmharcanna</string>
+    <string name="empty_bookmarks" formatted="false">Beidh suíomhanna gréasáin sábháilte le feiceáil anseo.</string>
+    <string name="saved" formatted="false">Shábháil</string>
+    <string name="remove" formatted="false">Bain</string>
+    <string name="cancel" formatted="false">Cealaigh</string>
+    <string name="close" formatted="false">Dún</string>
+    <string name="confirm_download" formatted="false">Sábháil an físeán seo?</string>
+    <string name="filename" formatted="false">Ainm comhaid</string>
+    <string name="download_location" formatted="false">Sábháilte in Íoslódálacha / Íoslódálaí Físeáin Préimh</string>
+    <string name="permission_confirm" formatted="false">Is liom an físeán seo nó tá cead agam é a íoslódáil.</string>
+    <string name="permission_required" formatted="false">Deimhnigh go bhfuil cead agat an físeán seo a shábháil.</string>
+    <string name="invalid_url" formatted="false">Cuir isteach nasc físe HTTPS bailí.</string>
+    <string name="unsupported" formatted="false">Ní físeán in-íoslódáilte é an nasc seo. Ní thacaítear le DRM, sruthanna beo, seinmliostaí ná íoslódálacha YouTube.</string>
+    <string name="queued" formatted="false">Íoslódáil a chur leis an scuaine</string>
+    <string name="download_error" formatted="false">Ní féidir a íoslódáil. Seiceáil an nasc nó úsáid nasc físe úr.</string>
+    <string name="collection_title" formatted="false">Do bhailiúchán</string>
+    <string name="collection_subtitle" formatted="false">Físeáin sábháilte, réidh nuair atá tú.</string>
+    <string name="empty_downloads" formatted="false">Baineann do chéad is fearr leat anseo.</string>
+    <string name="empty_downloads_body" formatted="false">Aimsigh físeán i Brabhsáil nó greamaigh nasc físe díreach chun tús a chur le do bhailiúchán.</string>
+    <string name="pending" formatted="false">Ciúáilte</string>
+    <string name="running" formatted="false">Ag íosluchtú</string>
+    <string name="paused" formatted="false">Ag fanacht le líonra nó bain triail eile as</string>
+    <string name="complete" formatted="false">Críochnaigh</string>
+    <string name="failed" formatted="false">Theip</string>
+    <string name="missing" formatted="false">Níl an comhad ar fáil</string>
+    <string name="play" formatted="false">Imirt</string>
+    <string name="share" formatted="false">Comhroinn</string>
+    <string name="retry" formatted="false">Bain triail eile as</string>
+    <string name="delete_download" formatted="false">An bhfuil fonn ort an íoslódáil agus a chomhad a bhaint?</string>
+    <string name="no_player" formatted="false">Níl aon aip chomhoiriúnach ar fáil chun an comhad seo a oscailt.</string>
+    <string name="guide_title" formatted="false">Ó fionnachtain a íoslódáil.</string>
+    <string name="guide_subtitle" formatted="false">Treoir shimplí chun na físeáin is breá leat a choinneáil.</string>
+    <string name="step_one_title" formatted="false">Aimsigh do físeán</string>
+    <string name="step_one_body" formatted="false">Oscail Brabhsáil. Cuardaigh nó cuir isteach seoladh suíomh Gréasáin. Is féidir leat nasc físe a roinnt ó aip eile freisin.</string>
+    <string name="step_two_title" formatted="false">Faigh amach an fhoinse</string>
+    <string name="step_two_body" formatted="false">Seinn físeán, ansin tapáil Aimsigh físeáin. Roghnaigh comhad braite, nó greamaigh nasc físe HTTPS díreach.</string>
+    <string name="step_three_title" formatted="false">Déan leatsa é</string>
+    <string name="step_three_body" formatted="false">Roghnaigh ainm comhaid, deimhnigh do chead chun an físeán a shábháil, agus tapáil Íoslódáil. Leanann Android leis an íoslódáil sa chúlra.</string>
+    <string name="step_four_title" formatted="false">Bain sult as do bhailiúchán</string>
+    <string name="step_four_body" formatted="false">Oscail Íoslódálacha chun dul chun cinn a sheiceáil. Seinn nó roinn físeáin chríochnaithe. Bain triail as íoslódálacha teipthe arís le nasc úr nuair is gá.</string>
+    <string name="try_now" formatted="false">Bain triail as anois</string>
+    <string name="preferences" formatted="false">Déan do chuid féin é.</string>
+    <string name="preferences_subtitle" formatted="false">Cúpla rialú tuisceanach do do bhrabhsáil laethúil.</string>
+    <string name="dns_title" formatted="false">VPN / DNS Príobháideach</string>
+    <string name="dns_explanation" formatted="false">Criptíonn DNS príobháideach ceisteanna DNS. Ní cheiltíonn sé do sheoladh IP ná ní chruthaíonn sé tollán VPN. Éilíonn Android ort an socrú seo a athrú de láimh.</string>
+    <string name="connected" formatted="false">Ceangailte</string>
+    <string name="unconnected" formatted="false">Neamhcheangailte</string>
+    <string name="connect" formatted="false">Ceangail</string>
+    <string name="disconnect" formatted="false">Dícheangail</string>
+    <string name="dns_instructions" formatted="false">Roghnaigh óstainm soláthraí DNS Príobháideach, greamaigh dns.adguard-dns.com, agus sábháil. Chun dínascadh, roghnaigh Uathoibríoch nó As sa socrú córais céanna.</string>
+    <string name="copy_hostname" formatted="false">Cóipeáil óstainm</string>
+    <string name="copied" formatted="false">Cóipeáladh chuig an ngearrthaisce</string>
+    <string name="open_network_settings" formatted="false">Oscail socruithe líonra</string>
+    <string name="language" formatted="false">Teanga app</string>
+    <string name="system_language" formatted="false">Lean teanga an ghléis</string>
+    <string name="search_language" formatted="false">Aimsigh teanga</string>
+    <string name="language_note" formatted="false">Áirítear aistriúcháin as líne. Úsáideann teangacha gléasanna neamhliostaithe Béarla. Seans go mbeidh athbhreithniú réigiúnach de dhíth ar aistriúcháin meaisín.</string>
+    <string name="search_engine" formatted="false">Inneall cuardaigh</string>
+    <string name="wifi_only" formatted="false">Íosluchtaigh díreach Wi Fi</string>
+    <string name="wifi_body" formatted="false">Fanann íoslódálacha nua go dtí go mbeidh Wi-Fi ar fáil.</string>
+    <string name="javascript" formatted="false">JavaScript láithreán gréasáin</string>
+    <string name="javascript_body" formatted="false">Ag teastáil ag go leor láithreáin ghréasáin agus fionnachtain físeán HTML5.</string>
+    <string name="privacy" formatted="false">Príobháideacht</string>
+    <string name="clear_browser" formatted="false">Glan sonraí brabhsála</string>
+    <string name="clear_browser_confirm" formatted="false">An bhfuil fonn ort fianáin, taisce brabhsálaí, stair agus stóráil láithreáin ghréasáin a scriosadh?</string>
+    <string name="privacy_body" formatted="false">Gan aon fhógraí, anailísíocht ná cuntais fhorbróra. Faigheann láithreáin ghréasáin, innill chuardaigh, soláthraithe DNS, agus freastalaithe íoslódála na hiarratais a dhéanann tú. Fanann stair íoslódála agus leabharmharcanna ar an ngléas seo.</string>
+    <string name="terms" formatted="false">Úsáid go freagrach</string>
+    <string name="terms_body" formatted="false">Sábháil físeáin ar leatsa iad nó a bhfuil cead agat iad a íoslódáil. Meas ar chóipcheart agus ar théarmaí an tsuímh Ghréasáin. Ní féidir leis an aip seo DRM, ballaí pá ná srianta íoslódála ardáin a sheachaint.</string>
+    <string name="about" formatted="false">Maidir</string>
+    <string name="version" formatted="false">Leagan</string>
+    <string name="paid_app" formatted="false">Ceannach amháin. Gan fógraí. Gan síntiús.</string>
+    <string name="welcome_title" formatted="false">Coinnigh cad a spreagann tú.</string>
+    <string name="welcome_body" formatted="false">Brabhsáil, faigh amach agus sábháil físeáin cheadaithe in aon áit amháin. Léigh an treoir léirithe le tosú.</string>
+    <string name="start_browsing" formatted="false">Tosaigh ag brabhsáil</string>
+    <string name="read_guide" formatted="false">Léigh an treoir</string>
+    <string name="browser_error" formatted="false">Níorbh fhéidir an leathanach seo a luchtú. Seiceáil an seoladh agus an nasc, ansin athlódáil.</string>
+    <string name="secure_only" formatted="false">Úsáideann an aip seo naisc HTTPS. Bain triail as an leagan slán den suíomh Gréasáin seo.</string>
+    <string name="external_link" formatted="false">Oscail an nasc seo in aip eile?</string>
+    <string name="open" formatted="false">Oscail</string>
+    <string name="refresh" formatted="false">Athnuaigh</string>
+    <string name="accessibility_tutorial" formatted="false">Léaráid don chéim teagaisc seo</string>
+    <string name="download_reason" formatted="false">Cód earráid íosluchtaigh do Android</string>
+    <string name="queue_full" formatted="false">Tá stair iomlán íosluchtaigh. Bain iontráil níos sine ar dtús.</string>
+    <string name="browser_tabs" formatted="false">Cluaisíní brabhsálaí</string>
+    <string name="tabs_subtitle" formatted="false">Coinnigh láithreáin ghréasáin ar oscailt agus aistrigh eatarthu.</string>
+    <string name="new_tab" formatted="false">Cluaisín nua</string>
+    <string name="close_tab" formatted="false">Dún cluaisín</string>
+    <string name="active_tab" formatted="false">Cluaisín gníomhach</string>
+    <string name="tab_limit" formatted="false">Is féidir leat suas le 8 cluaisín a oscailt. Dún cluaisín chun ceann eile a chur leis.</string>
+    <string name="history" formatted="false">Stair</string>
+    <string name="history_subtitle" formatted="false">Ní shábháiltear láithreáin ghréasáin ar tugadh cuairt orthu ach ar an ngléas seo.</string>
+    <string name="empty_history" formatted="false">Beidh do stair brabhsála le feiceáil anseo.</string>
+    <string name="clear_history" formatted="false">Glan stair</string>
+    <string name="clear_history_confirm" formatted="false">Scrios an stair brabhsála go léir ón ngléas seo?</string>
+    <string name="open_new_tab" formatted="false">Oscail i gcluaisín nua</string>
+    <string name="browser_menu" formatted="false">Roghchlár brabhsálaí</string>
+    <string name="shortcut_note" formatted="false">Osclaítear aicearraí láithreáin ghréasáin sa bhrabhsálaí. Braitheann infhaighteacht íoslódála ar an láithreán gréasáin.</string>
+</resources>

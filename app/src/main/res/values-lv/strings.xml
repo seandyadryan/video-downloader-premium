@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Pārlūkot</string>
+    <string name="downloads" formatted="false">Lejupielādes</string>
+    <string name="guide" formatted="false">Ceļvedis</string>
+    <string name="settings" formatted="false">Iestatījumi</string>
+    <string name="home_title" formatted="false">Jūsu video. Jūsu kolekcija.</string>
+    <string name="home_subtitle" formatted="false">Atrodiet kaut ko, ko ir vērts paturēt.</string>
+    <string name="search_hint" formatted="false">Meklējiet vai ievadiet vietni</string>
+    <string name="go" formatted="false">Aiziet</string>
+    <string name="paste_link" formatted="false">Ielīmējiet video saiti</string>
+    <string name="direct_link" formatted="false">Tieša video saite</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Lejupielādēt</string>
+    <string name="detect" formatted="false">Atrodiet videoklipus</string>
+    <string name="detected" formatted="false">Video šajā lapā</string>
+    <string name="no_media" formatted="false">Nav atrasts neviens lejupielādējams video. Sāciet atskaņot videoklipu un pēc tam mēģiniet vēlreiz. Aizsargātās straumes un iegultie kadri var nebūt pieejami.</string>
+    <string name="safe_note" formatted="false">Lejupielādējiet tikai jums piederošos videoklipus vai jums ir atļauja tos saglabāt. Aizsargātas straumes un YouTube lejupielādes nav pieejamas.</string>
+    <string name="quick_start" formatted="false">SĀC ŠEIT</string>
+    <string name="quick_browse" formatted="false">Izpētiet tīmekli</string>
+    <string name="quick_browse_body" formatted="false">Iebūvētajā pārlūkprogrammā meklējiet ar vēlamo dzinēju.</string>
+    <string name="quick_download" formatted="false">Saglabājiet video</string>
+    <string name="quick_download_body" formatted="false">Ielīmējiet tiešu HTTPS video saiti vai atrodiet lapā videoklipu.</string>
+    <string name="quick_guide" formatted="false">Neliels norādījums</string>
+    <string name="quick_guide_body" formatted="false">Četri ilustrēti soļi no atklāšanas līdz jūsu kolekcijai.</string>
+    <string name="back" formatted="false">Atpakaļ</string>
+    <string name="forward" formatted="false">Uz priekšu</string>
+    <string name="reload" formatted="false">Pārlādēt</string>
+    <string name="home" formatted="false">Sākums</string>
+    <string name="bookmark" formatted="false">Grāmatzīme</string>
+    <string name="bookmarks" formatted="false">Grāmatzīmes</string>
+    <string name="empty_bookmarks" formatted="false">Šeit tiks parādītas saglabātās vietnes.</string>
+    <string name="saved" formatted="false">Saglabāts</string>
+    <string name="remove" formatted="false">Noņemt</string>
+    <string name="cancel" formatted="false">Atcelt</string>
+    <string name="close" formatted="false">Aizvērt</string>
+    <string name="confirm_download" formatted="false">Vai saglabāt šo videoklipu?</string>
+    <string name="filename" formatted="false">Faila nosaukums</string>
+    <string name="download_location" formatted="false">Saglabāts sadaļā Lejupielādes / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Man pieder šis videoklips vai man ir atļauja to lejupielādēt.</string>
+    <string name="permission_required" formatted="false">Apstipriniet, ka jums ir atļauja saglabāt šo videoklipu.</string>
+    <string name="invalid_url" formatted="false">Ievadiet derīgu HTTPS video saiti.</string>
+    <string name="unsupported" formatted="false">Šī saite nav lejupielādējams video. DRM, tiešraides straumes, atskaņošanas saraksti un YouTube lejupielādes netiek atbalstītas.</string>
+    <string name="queued" formatted="false">Lejupielāde ir pievienota rindai</string>
+    <string name="download_error" formatted="false">Nevar lejupielādēt. Pārbaudiet savienojumu vai izmantojiet jaunu video saiti.</string>
+    <string name="collection_title" formatted="false">Jūsu kolekcija</string>
+    <string name="collection_subtitle" formatted="false">Saglabātie videoklipi, gatavi, kad esat gatavs.</string>
+    <string name="empty_downloads" formatted="false">Jūsu nākamais favorīts pieder šeit.</string>
+    <string name="empty_downloads_body" formatted="false">Atrodiet videoklipu sadaļā Pārlūkot vai ielīmējiet tiešu video saiti, lai sāktu savu kolekciju.</string>
+    <string name="pending" formatted="false">Rindā</string>
+    <string name="running" formatted="false">Notiek lejupielāde</string>
+    <string name="paused" formatted="false">Gaida tīklu vai mēģiniet vēlreiz</string>
+    <string name="complete" formatted="false">Pabeigts</string>
+    <string name="failed" formatted="false">Neizdevās</string>
+    <string name="missing" formatted="false">Fails nav pieejams</string>
+    <string name="play" formatted="false">Spēlēt</string>
+    <string name="share" formatted="false">Dalīties</string>
+    <string name="retry" formatted="false">Mēģiniet vēlreiz</string>
+    <string name="delete_download" formatted="false">Vai noņemt lejupielādi un tās failu?</string>
+    <string name="no_player" formatted="false">Šī faila atvēršanai nav pieejama neviena saderīga lietotne.</string>
+    <string name="guide_title" formatted="false">No atklāšanas līdz lejupielādei.</string>
+    <string name="guide_subtitle" formatted="false">Vienkāršs ceļvedis, kā saglabāt iecienītos videoklipus.</string>
+    <string name="step_one_title" formatted="false">Atrodiet savu video</string>
+    <string name="step_one_body" formatted="false">Atveriet Pārlūkot. Meklējiet vai ievadiet vietnes adresi. Varat arī kopīgot video saiti no citas lietotnes.</string>
+    <string name="step_two_title" formatted="false">Atklājiet avotu</string>
+    <string name="step_two_body" formatted="false">Atskaņojiet videoklipu, pēc tam pieskarieties Atrast videoklipus. Izvēlieties atrasto failu vai ielīmējiet tiešu HTTPS video saiti.</string>
+    <string name="step_three_title" formatted="false">Padariet to par savu</string>
+    <string name="step_three_body" formatted="false">Izvēlieties faila nosaukumu, apstipriniet savu atļauju saglabāt videoklipu un pieskarieties Lejupielādēt. Android turpina lejupielādi fonā.</string>
+    <string name="step_four_title" formatted="false">Izbaudiet savu kolekciju</string>
+    <string name="step_four_body" formatted="false">Atveriet Lejupielādes, lai pārbaudītu progresu. Atskaņojiet vai kopīgojiet pabeigtos videoklipus. Ja nepieciešams, mēģiniet vēlreiz veikt neveiksmīgas lejupielādes, izmantojot jaunu saiti.</string>
+    <string name="try_now" formatted="false">Izmēģiniet to tagad</string>
+    <string name="preferences" formatted="false">Padariet to par savu.</string>
+    <string name="preferences_subtitle" formatted="false">Dažas pārdomātas vadīklas ikdienas pārlūkošanai.</string>
+    <string name="dns_title" formatted="false">VPN / privātais DNS</string>
+    <string name="dns_explanation" formatted="false">Privāts DNS šifrē DNS vaicājumus. Tas neslēpj jūsu IP adresi un neveido VPN tuneli. Android ierīcē šis iestatījums ir jāmaina manuāli.</string>
+    <string name="connected" formatted="false">Savienots</string>
+    <string name="unconnected" formatted="false">Atvienots</string>
+    <string name="connect" formatted="false">Savienot</string>
+    <string name="disconnect" formatted="false">Atvienot</string>
+    <string name="dns_instructions" formatted="false">Atlasiet Privātā DNS nodrošinātāja resursdatora nosaukumu, ielīmējiet dns.adguard-dns.com un saglabājiet. Lai atvienotu, tajā pašā sistēmas iestatījumā atlasiet Automātiski vai Izslēgts.</string>
+    <string name="copy_hostname" formatted="false">Kopēt saimniekdatora nosaukumu</string>
+    <string name="copied" formatted="false">Kopēts starpliktuvē</string>
+    <string name="open_network_settings" formatted="false">Atveriet tīkla iestatījumus</string>
+    <string name="language" formatted="false">Lietotnes valoda</string>
+    <string name="system_language" formatted="false">Sekojiet ierīces valodai</string>
+    <string name="search_language" formatted="false">Atrodi valodu</string>
+    <string name="language_note" formatted="false">Tulkojumi ir iekļauti bezsaistē. Sarakstā neiekļautās ierīču valodās tiek izmantota angļu valoda. Mašīntulkojumiem var būt nepieciešama reģionālā pārbaude.</string>
+    <string name="search_engine" formatted="false">Meklētājprogramma</string>
+    <string name="wifi_only" formatted="false">Lejupielādējiet tikai Wi-Fi tīklā</string>
+    <string name="wifi_body" formatted="false">Jaunas lejupielādes gaidiet, līdz būs pieejams Wi-Fi.</string>
+    <string name="javascript" formatted="false">Vietnes JavaScript</string>
+    <string name="javascript_body" formatted="false">Nepieciešams daudzām vietnēm un HTML5 video atklāšanu.</string>
+    <string name="privacy" formatted="false">Privātums</string>
+    <string name="clear_browser" formatted="false">Notīrīt pārlūkošanas datus</string>
+    <string name="clear_browser_confirm" formatted="false">Vai dzēst sīkfailus, pārlūkprogrammas kešatmiņu, vēsturi un vietnes krātuvi?</string>
+    <string name="privacy_body" formatted="false">Nav reklāmu, analīzes vai izstrādātāju kontu. Vietnes, meklētājprogrammas, DNS nodrošinātāji un lejupielādes serveri saņem jūsu veiktos pieprasījumus. Lejupielādes vēsture un grāmatzīmes paliek šajā ierīcē.</string>
+    <string name="terms" formatted="false">Izmantojiet atbildīgi</string>
+    <string name="terms_body" formatted="false">Saglabājiet tikai tos videoklipus, kas jums pieder vai kurus ir atļauts lejupielādēt. Ievērojiet autortiesības un vietnes noteikumus. Šī lietotne nevar apiet DRM, maksas sienas vai platformas lejupielādes ierobežojumus.</string>
+    <string name="about" formatted="false">Par</string>
+    <string name="version" formatted="false">Versija</string>
+    <string name="paid_app" formatted="false">Viens pirkums. Nav reklāmu. Nav abonementa.</string>
+    <string name="welcome_title" formatted="false">Saglabājiet to, kas jūs iedvesmo.</string>
+    <string name="welcome_body" formatted="false">Pārlūkojiet, atklājiet un saglabājiet atļautos videoklipus vienuviet. Lai sāktu, izlasiet ilustrēto rokasgrāmatu.</string>
+    <string name="start_browsing" formatted="false">Sāciet pārlūkošanu</string>
+    <string name="read_guide" formatted="false">Izlasiet rokasgrāmatu</string>
+    <string name="browser_error" formatted="false">Šo lapu nevarēja ielādēt. Pārbaudiet adresi un savienojumu, pēc tam atkārtoti ielādējiet.</string>
+    <string name="secure_only" formatted="false">Šī lietotne izmanto HTTPS savienojumus. Izmēģiniet šīs vietnes drošo versiju.</string>
+    <string name="external_link" formatted="false">Vai atvērt šo saiti citā lietotnē?</string>
+    <string name="open" formatted="false">Atvērt</string>
+    <string name="refresh" formatted="false">Atsvaidzināt</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustrācija šim apmācības solim</string>
+    <string name="download_reason" formatted="false">Android lejupielādes kļūdas kods</string>
+    <string name="queue_full" formatted="false">Lejupielādes vēsture ir pilna. Vispirms noņemiet vecāku ierakstu.</string>
+    <string name="browser_tabs" formatted="false">Pārlūka cilnes</string>
+    <string name="tabs_subtitle" formatted="false">Turiet vietnes atvērtas un pārslēdzieties starp tām.</string>
+    <string name="new_tab" formatted="false">Jauna cilne</string>
+    <string name="close_tab" formatted="false">Aizvērt cilni</string>
+    <string name="active_tab" formatted="false">Aktīvā cilne</string>
+    <string name="tab_limit" formatted="false">Varat atvērt līdz 8 cilnēm. Aizveriet cilni, lai pievienotu citu.</string>
+    <string name="history" formatted="false">Vēsture</string>
+    <string name="history_subtitle" formatted="false">Apmeklētās vietnes tiek saglabātas tikai šajā ierīcē.</string>
+    <string name="empty_history" formatted="false">Šeit tiks parādīta jūsu pārlūkošanas vēsture.</string>
+    <string name="clear_history" formatted="false">Notīrīt vēsturi</string>
+    <string name="clear_history_confirm" formatted="false">Vai dzēst visu pārlūkošanas vēsturi no šīs ierīces?</string>
+    <string name="open_new_tab" formatted="false">Atvērt jaunā cilnē</string>
+    <string name="browser_menu" formatted="false">Pārlūka izvēlne</string>
+    <string name="shortcut_note" formatted="false">Vietnes saīsnes tiek atvērtas pārlūkprogrammā. Lejupielādes pieejamība ir atkarīga no vietnes.</string>
+</resources>

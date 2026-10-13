@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Su\&apos;esu\&apos;e</string>
+    <string name="downloads" formatted="false">Si\&apos;itia</string>
+    <string name="guide" formatted="false">Taiala</string>
+    <string name="settings" formatted="false">Fa\&apos;atonu</string>
+    <string name="home_title" formatted="false">O au vitio. Lau aoina.</string>
+    <string name="home_subtitle" formatted="false">Su\&apos;e se mea e tatau ona teu.</string>
+    <string name="search_hint" formatted="false">Su\&apos;e pe ulufale i se upega tafa\&apos;ilagi</string>
+    <string name="go" formatted="false">Alu</string>
+    <string name="paste_link" formatted="false">Fa\&apos;apipi\&apos;i so\&apos;oga vitiō</string>
+    <string name="direct_link" formatted="false">feso\&apos;ota\&apos;iga vitio tuusa\&apos;o</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">La\&apos;u mai</string>
+    <string name="detect" formatted="false">Su\&apos;e vitio</string>
+    <string name="detected" formatted="false">Vitio ile itulau lea</string>
+    <string name="no_media" formatted="false">Leai se vitio e mafai ona sii maia na maua. Amata ona taina se vitio, ona toe taumafai lea. O vaitafe puipuia ma fa\&apos;avaa fa\&apos;apipi\&apos;i e ono le maua.</string>
+    <string name="safe_note" formatted="false">Na\&apos;o le la\&apos;uina mai o ata vitio e te umia pe maua le fa\&apos;atagaga e teu ai. O vaitafe puipuia ma YouTube download e le maua.</string>
+    <string name="quick_start" formatted="false">AMATA INEI</string>
+    <string name="quick_browse" formatted="false">Su\&apos;esu\&apos;e le upegatafa\&apos;ilagi</string>
+    <string name="quick_browse_body" formatted="false">Su\&apos;e fa\&apos;atasi ma lau masini e mana\&apos;omia ile su\&apos;esu\&apos;ega ua fausia.</string>
+    <string name="quick_download" formatted="false">Faasaoina se vitio</string>
+    <string name="quick_download_body" formatted="false">Fa\&apos;apipi\&apos;i se feso\&apos;ota\&apos;iga vitio sa\&apos;o HTTPS pe su\&apos;e se vitio i luga o se itulau.</string>
+    <string name="quick_guide" formatted="false">O sina taiala</string>
+    <string name="quick_guide_body" formatted="false">Fa la\&apos;asaga fa\&apos;ata\&apos;ita\&apos;i mai le mauaina i lau aoina.</string>
+    <string name="back" formatted="false">Tua</string>
+    <string name="forward" formatted="false">I luma</string>
+    <string name="reload" formatted="false">Toe utaina</string>
+    <string name="home" formatted="false">Aiga</string>
+    <string name="bookmark" formatted="false">Faailoga tusi</string>
+    <string name="bookmarks" formatted="false">Faailoga tusi</string>
+    <string name="empty_bookmarks" formatted="false">O upegatafa\&apos;ilagi fa\&apos;asaoina o le a fa\&apos;aalia iinei.</string>
+    <string name="saved" formatted="false">Faasaoina</string>
+    <string name="remove" formatted="false">Aveese</string>
+    <string name="cancel" formatted="false">Fa\&apos;aleaogaina</string>
+    <string name="close" formatted="false">Tapuni</string>
+    <string name="confirm_download" formatted="false">Faasaoina lenei vitio?</string>
+    <string name="filename" formatted="false">Igoa faila</string>
+    <string name="download_location" formatted="false">Fa\&apos;asaoina i luga o laiga / Vitio la\&apos;u maia Premium</string>
+    <string name="permission_confirm" formatted="false">Ou te umia lenei vitio pe maua le faatagaga e sii mai ai.</string>
+    <string name="permission_required" formatted="false">Fa\&apos;amaonia e iai sau fa\&apos;atagaga e teu ai lenei vitio.</string>
+    <string name="invalid_url" formatted="false">Ulufale se feso\&apos;ota\&apos;iga vitiō HTTPS aoga.</string>
+    <string name="unsupported" formatted="false">O lenei sootaga e le o se vitio e mafai ona sii mai. DRM, ala ola, lisi, ma YouTube download e le lagolagoina.</string>
+    <string name="queued" formatted="false">Faaopoopo le download i le laina</string>
+    <string name="download_error" formatted="false">Le mafai ona la\&apos;uina. Siaki le feso\&apos;ota\&apos;iga pe fa\&apos;aoga se feso\&apos;ota\&apos;iga vitiō fou.</string>
+    <string name="collection_title" formatted="false">Lau aoina</string>
+    <string name="collection_subtitle" formatted="false">Vitio fa\&apos;asaoina, sauni pe a e iai.</string>
+    <string name="empty_downloads" formatted="false">O le isi mea e te fiafia iai o lo\&apos;o iai iinei.</string>
+    <string name="empty_downloads_body" formatted="false">Su\&apos;e se vitio i Su\&apos;esu\&apos;e pe fa\&apos;apipi\&apos;i se feso\&apos;ota\&apos;iga vitiō sa\&apos;o e amata ai lau aoina.</string>
+    <string name="pending" formatted="false">Tuli</string>
+    <string name="running" formatted="false">La\&apos;uina i lalo</string>
+    <string name="paused" formatted="false">Fa\&apos;atali mo feso\&apos;ota\&apos;iga pe toe taumafai</string>
+    <string name="complete" formatted="false">mae\&apos;a</string>
+    <string name="failed" formatted="false">Ua le manuia</string>
+    <string name="missing" formatted="false">Le avanoa faila</string>
+    <string name="play" formatted="false">Ta\&apos;alo</string>
+    <string name="share" formatted="false">Faasoa</string>
+    <string name="retry" formatted="false">Toe taumafai</string>
+    <string name="delete_download" formatted="false">Aveese le download ma lana faila?</string>
+    <string name="no_player" formatted="false">E leai se app talafeagai e avanoa e tatala ai le faila.</string>
+    <string name="guide_title" formatted="false">Mai le mauaina e sii mai.</string>
+    <string name="guide_subtitle" formatted="false">O se ta\&apos;iala faigofie i le teuina o vitio e te fiafia i ai.</string>
+    <string name="step_one_title" formatted="false">Su\&apos;e lau vitio</string>
+    <string name="step_one_body" formatted="false">Tatala Su\&apos;esu\&apos;e. Su\&apos;e pe fa\&apos;aofi se tuatusi upegatafa\&apos;ilagi. E mafai fo\&apos;i ona e fa\&apos;asoa se feso\&apos;ota\&apos;iga vitiō mai se isi app.</string>
+    <string name="step_two_title" formatted="false">Su\&apos;e le puna</string>
+    <string name="step_two_body" formatted="false">Ta\&apos;alo se vitio, ona tap lea Su\&apos;e vitio. Filifili se faila ua iloa, pe fa\&apos;apipi\&apos;i se feso\&apos;ota\&apos;iga vitio sa\&apos;o HTTPS.</string>
+    <string name="step_three_title" formatted="false">Fai ma oe</string>
+    <string name="step_three_body" formatted="false">Filifili se igoa faila, faʻamaonia lau faʻatagaga e teu ai le vitio, ma tap Download. Android faʻaauau le download i tua.</string>
+    <string name="step_four_title" formatted="false">Fiafia i lau aoina</string>
+    <string name="step_four_body" formatted="false">Tatala Downloads e siaki ai le alualu i luma. Ta\&apos;alo pe fa\&apos;asoa vitio ua mae\&apos;a. Toe taumafai la\&apos;u mai fa\&apos;aletonu ma se so\&apos;oga fou pe a mana\&apos;omia.</string>
+    <string name="try_now" formatted="false">Taumafai nei loa</string>
+    <string name="preferences" formatted="false">Fai ia oe lava.</string>
+    <string name="preferences_subtitle" formatted="false">O nai fa\&apos;atonuga lelei mo lau su\&apos;esu\&apos;ega i aso uma.</string>
+    <string name="dns_title" formatted="false">VPN / Private DNS</string>
+    <string name="dns_explanation" formatted="false">Private DNS fa\&apos;ailoga DNS fesili. E le natia lau tuatusi IP pe fatuina se alalaupapa VPN. E mana\&apos;omia e le Android oe e sui le seti ma le lima.</string>
+    <string name="connected" formatted="false">Feso\&apos;ota\&apos;i</string>
+    <string name="unconnected" formatted="false">Le feso\&apos;ota\&apos;i</string>
+    <string name="connect" formatted="false">Feso\&apos;ota\&apos;i</string>
+    <string name="disconnect" formatted="false">motusia</string>
+    <string name="dns_instructions" formatted="false">Filifili Private DNS provider hostname, faapipii dns.adguard-dns.com, ma sefe. Ina ia motusia le feso\&apos;ota\&apos;iga, filifili Otometi po\&apos;o Pepe i le fa\&apos;atulagaina o le polokalama.</string>
+    <string name="copy_hostname" formatted="false">Kopi le igoa talimalo</string>
+    <string name="copied" formatted="false">Kopi ile laupapa kilipa</string>
+    <string name="open_network_settings" formatted="false">Tatala fa\&apos;aoga feso\&apos;otaiga</string>
+    <string name="language" formatted="false">Gagana app</string>
+    <string name="system_language" formatted="false">Mulimuli i le gagana a le masini</string>
+    <string name="search_language" formatted="false">Su\&apos;e se gagana</string>
+    <string name="language_note" formatted="false">O fa\&apos;aliliuga o lo\&apos;o fa\&apos;aofi i luga ole laiga. O gagana masini e le\&apos;i lisiina e fa\&apos;aaoga le Igilisi. O fa\&apos;aliliuga masini atonu e mana\&apos;omia se iloiloga fa\&apos;aitulagi.</string>
+    <string name="search_engine" formatted="false">Su\&apos;esu\&apos;e afi</string>
+    <string name="wifi_only" formatted="false">La\&apos;u i lalo ile Wi-Fi</string>
+    <string name="wifi_body" formatted="false">O la\&apos;u la\&apos;u fou e fa\&apos;atali se\&apos;i maua le Wi-Fi.</string>
+    <string name="javascript" formatted="false">Upega Tafa\&apos;ilagi JavaScript</string>
+    <string name="javascript_body" formatted="false">Manaomia e le tele o upega tafaʻilagi ma HTML5 suʻega vitio.</string>
+    <string name="privacy" formatted="false">Fa\&apos;alilolilo</string>
+    <string name="clear_browser" formatted="false">Fa\&apos;amama fa\&apos;amatalaga su\&apos;esu\&apos;e</string>
+    <string name="clear_browser_confirm" formatted="false">Ave\&apos;ese kuki, su\&apos;esu\&apos;e cache, tala\&apos;aga, ma le teuina o upegatafa\&apos;ilagi?</string>
+    <string name="privacy_body" formatted="false">Leai ni fa\&apos;asalalauga, au\&apos;ili\&apos;ili, po\&apos;o fa\&apos;amatalaga fa\&apos;atupu. O upegatafa\&apos;ilagi, masini su\&apos;esu\&apos;e, DNS providers, ma le download servers e maua talosaga e te faia. La\&apos;u i lalo tala fa\&apos;asolopito ma fa\&apos;ailoga tusi e tumau i lenei masini.</string>
+    <string name="terms" formatted="false">Fa\&apos;aaoga tatau</string>
+    <string name="terms_body" formatted="false">Faasaoina na\&apos;o vitio e te umiaina pe fa\&apos;atagaina e la\&apos;u mai. Faʻaaloalo i le puletaofia ma aiaiga o le upega tafaʻilagi. E le mafai e lenei app ona pasia DRM, puipui totogi, poʻo faʻatapulaʻaina o laiga.</string>
+    <string name="about" formatted="false">E uiga i</string>
+    <string name="version" formatted="false">Fa\&apos;aliliuga</string>
+    <string name="paid_app" formatted="false">Tasi le fa\&apos;atau. Leai ni fa\&apos;asalalauga. Leai se saofaga.</string>
+    <string name="welcome_title" formatted="false">Taofi mea e musuia ai oe.</string>
+    <string name="welcome_body" formatted="false">Su\&apos;esu\&apos;e, su\&apos;e, ma sefe vitio fa\&apos;atagaina i se nofoaga e tasi. Faitau le taiala fa\&apos;ata\&apos;ita\&apos;i e amata ai.</string>
+    <string name="start_browsing" formatted="false">Amata su\&apos;esu\&apos;e</string>
+    <string name="read_guide" formatted="false">Faitau le taiala</string>
+    <string name="browser_error" formatted="false">Ua le mafai ona utaina lenei itulau. Siaki le tuatusi ma le feso\&apos;ota\&apos;iga, ona toe uta lea.</string>
+    <string name="secure_only" formatted="false">O lenei app e faʻaogaina fesoʻotaʻiga HTTPS. Fa\&apos;ata\&apos;ita\&apos;i le fa\&apos;aoga saogalemu o lenei \&apos;upega tafa\&apos;ilagi.</string>
+    <string name="external_link" formatted="false">Tatala lenei so\&apos;oga i se isi app?</string>
+    <string name="open" formatted="false">Tatala</string>
+    <string name="refresh" formatted="false">Toe faafou</string>
+    <string name="accessibility_tutorial" formatted="false">Fa\&apos;ata\&apos;ita\&apos;iga mo lenei laasaga a\&apos;oa\&apos;oga</string>
+    <string name="download_reason" formatted="false">Android download code sese</string>
+    <string name="queue_full" formatted="false">Ua tumu le tala fa\&apos;asolopito. Aveese muamua se tusi tuai.</string>
+    <string name="browser_tabs" formatted="false">laupepa su\&apos;esu\&apos;e</string>
+    <string name="tabs_subtitle" formatted="false">Tatala pea upegatafa\&apos;ilagi ma fesuia\&apos;i i le va.</string>
+    <string name="new_tab" formatted="false">New tab</string>
+    <string name="close_tab" formatted="false">Tapuni le tab</string>
+    <string name="active_tab" formatted="false">Active tab</string>
+    <string name="tab_limit" formatted="false">E mafai ona e tatalaina i luga ole 8 laupepa. Tapuni se tab e fa\&apos;aopoopo se isi.</string>
+    <string name="history" formatted="false">Tala\&apos;aga</string>
+    <string name="history_subtitle" formatted="false">O upegatafa\&apos;ilagi ua asia e na\&apos;o le masini lea e teu.</string>
+    <string name="empty_history" formatted="false">O lau su\&apos;esu\&apos;ega tala\&apos;aga o le a fa\&apos;aalia iinei.</string>
+    <string name="clear_history" formatted="false">Fa\&apos;amanino tala fa\&apos;asolopito</string>
+    <string name="clear_history_confirm" formatted="false">Ave\&apos;ese uma tala\&apos;aga su\&apos;esu\&apos;e mai lenei masini?</string>
+    <string name="open_new_tab" formatted="false">Tatala i le lisi fou</string>
+    <string name="browser_menu" formatted="false">Menu su\&apos;esu\&apos;e</string>
+    <string name="shortcut_note" formatted="false">O lo\&apos;o tatala ala \&apos;upega tafa\&apos;ilagi ile su\&apos;esu\&apos;ega. E fa\&apos;alagolago le avanoa o le download ile upegatafa\&apos;ilagi.</string>
+</resources>

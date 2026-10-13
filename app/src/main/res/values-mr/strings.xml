@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">प्रीमियम</string>
+    <string name="browse" formatted="false">ब्राउझ करा</string>
+    <string name="downloads" formatted="false">डाउनलोड</string>
+    <string name="guide" formatted="false">मार्गदर्शक</string>
+    <string name="settings" formatted="false">सेटिंग्ज</string>
+    <string name="home_title" formatted="false">तुमचे व्हिडिओ. तुमचा संग्रह.</string>
+    <string name="home_subtitle" formatted="false">ठेवण्यासारखे काहीतरी शोधा.</string>
+    <string name="search_hint" formatted="false">वेबसाइट शोधा किंवा प्रविष्ट करा</string>
+    <string name="go" formatted="false">जा</string>
+    <string name="paste_link" formatted="false">व्हिडिओ लिंक पेस्ट करा</string>
+    <string name="direct_link" formatted="false">थेट व्हिडिओ लिंक</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">डाउनलोड करा</string>
+    <string name="detect" formatted="false">व्हिडिओ शोधा</string>
+    <string name="detected" formatted="false">या पृष्ठावरील व्हिडिओ</string>
+    <string name="no_media" formatted="false">डाउनलोड करण्यायोग्य व्हिडिओ आढळला नाही. व्हिडिओ प्ले करणे सुरू करा, नंतर पुन्हा प्रयत्न करा. संरक्षित प्रवाह आणि एम्बेडेड फ्रेम अनुपलब्ध असू शकतात.</string>
+    <string name="safe_note" formatted="false">फक्त तुमच्या मालकीचे किंवा सेव्ह करण्याची परवानगी असलेले व्हिडिओ डाउनलोड करा. संरक्षित प्रवाह आणि YouTube डाउनलोड अनुपलब्ध आहेत.</string>
+    <string name="quick_start" formatted="false">येथे प्रारंभ करा</string>
+    <string name="quick_browse" formatted="false">वेब एक्सप्लोर करा</string>
+    <string name="quick_browse_body" formatted="false">बिल्ट-इन ब्राउझरमध्ये आपल्या पसंतीच्या इंजिनसह शोधा.</string>
+    <string name="quick_download" formatted="false">व्हिडिओ सेव्ह करा</string>
+    <string name="quick_download_body" formatted="false">थेट HTTPS व्हिडिओ लिंक पेस्ट करा किंवा पृष्ठावर व्हिडिओ शोधा.</string>
+    <string name="quick_guide" formatted="false">थोडे मार्गदर्शन</string>
+    <string name="quick_guide_body" formatted="false">शोध ते तुमच्या संग्रहापर्यंत चार सचित्र पायऱ्या.</string>
+    <string name="back" formatted="false">मागे</string>
+    <string name="forward" formatted="false">पुढे</string>
+    <string name="reload" formatted="false">रीलोड करा</string>
+    <string name="home" formatted="false">घर</string>
+    <string name="bookmark" formatted="false">बुकमार्क करा</string>
+    <string name="bookmarks" formatted="false">बुकमार्क</string>
+    <string name="empty_bookmarks" formatted="false">जतन केलेल्या वेबसाइट्स येथे दिसतील.</string>
+    <string name="saved" formatted="false">जतन केले</string>
+    <string name="remove" formatted="false">काढा</string>
+    <string name="cancel" formatted="false">रद्द करा</string>
+    <string name="close" formatted="false">बंद करा</string>
+    <string name="confirm_download" formatted="false">हा व्हिडिओ सेव्ह करायचा?</string>
+    <string name="filename" formatted="false">फाईलचे नाव</string>
+    <string name="download_location" formatted="false">डाउनलोड्स / व्हिडिओ डाउनलोडर प्रीमियममध्ये जतन केले</string>
+    <string name="permission_confirm" formatted="false">हा व्हिडिओ माझ्या मालकीचा आहे किंवा माझ्याकडे तो डाउनलोड करण्याची परवानगी आहे.</string>
+    <string name="permission_required" formatted="false">तुम्हाला हा व्हिडिओ सेव्ह करण्याची परवानगी असल्याची पुष्टी करा.</string>
+    <string name="invalid_url" formatted="false">एक वैध HTTPS व्हिडिओ लिंक एंटर करा.</string>
+    <string name="unsupported" formatted="false">ही लिंक डाउनलोड करण्यायोग्य व्हिडिओ नाही. DRM, थेट प्रवाह, प्लेलिस्ट आणि YouTube डाउनलोड असमर्थित आहेत.</string>
+    <string name="queued" formatted="false">डाउनलोड रांगेत जोडले</string>
+    <string name="download_error" formatted="false">डाउनलोड करण्यात अक्षम. कनेक्शन तपासा किंवा नवीन व्हिडिओ लिंक वापरा.</string>
+    <string name="collection_title" formatted="false">तुमचा संग्रह</string>
+    <string name="collection_subtitle" formatted="false">सेव्ह केलेले व्हिडिओ, तुम्ही असाल तेव्हा तयार.</string>
+    <string name="empty_downloads" formatted="false">तुमचे पुढील आवडते येथे आहेत.</string>
+    <string name="empty_downloads_body" formatted="false">ब्राउझमध्ये व्हिडिओ शोधा किंवा तुमचा संग्रह सुरू करण्यासाठी थेट व्हिडिओ लिंक पेस्ट करा.</string>
+    <string name="pending" formatted="false">रांगेत</string>
+    <string name="running" formatted="false">डाउनलोड करत आहे</string>
+    <string name="paused" formatted="false">नेटवर्कची प्रतीक्षा करत आहे किंवा पुन्हा प्रयत्न करा</string>
+    <string name="complete" formatted="false">पूर्ण</string>
+    <string name="failed" formatted="false">अयशस्वी</string>
+    <string name="missing" formatted="false">फाइल अनुपलब्ध</string>
+    <string name="play" formatted="false">खेळा</string>
+    <string name="share" formatted="false">शेअर करा</string>
+    <string name="retry" formatted="false">पुन्हा प्रयत्न करा</string>
+    <string name="delete_download" formatted="false">डाउनलोड आणि त्याची फाईल काढायची?</string>
+    <string name="no_player" formatted="false">ही फाइल उघडण्यासाठी कोणतेही सुसंगत ॲप उपलब्ध नाही.</string>
+    <string name="guide_title" formatted="false">शोध ते डाउनलोड पर्यंत.</string>
+    <string name="guide_subtitle" formatted="false">तुम्हाला आवडते व्हिडिओ ठेवण्यासाठी एक सोपा मार्गदर्शक.</string>
+    <string name="step_one_title" formatted="false">तुमचा व्हिडिओ शोधा</string>
+    <string name="step_one_body" formatted="false">ब्राउझ उघडा. वेबसाइट पत्ता शोधा किंवा प्रविष्ट करा. तुम्ही दुसऱ्या ॲपवरून व्हिडिओ लिंक देखील शेअर करू शकता.</string>
+    <string name="step_two_title" formatted="false">स्त्रोत शोधा</string>
+    <string name="step_two_body" formatted="false">व्हिडिओ प्ले करा, त्यानंतर व्हिडिओ शोधा वर टॅप करा. आढळलेली फाइल निवडा किंवा थेट HTTPS व्हिडिओ लिंक पेस्ट करा.</string>
+    <string name="step_three_title" formatted="false">ते आपले बनवा</string>
+    <string name="step_three_body" formatted="false">फाइलचे नाव निवडा, व्हिडिओ सेव्ह करण्यासाठी तुमच्या परवानगीची पुष्टी करा आणि डाउनलोड करा वर टॅप करा. Android पार्श्वभूमीत डाउनलोड सुरू ठेवते.</string>
+    <string name="step_four_title" formatted="false">आपल्या संग्रहाचा आनंद घ्या</string>
+    <string name="step_four_body" formatted="false">प्रगती तपासण्यासाठी डाउनलोड उघडा. पूर्ण झालेले व्हिडिओ प्ले करा किंवा शेअर करा. आवश्यकतेनुसार नवीन दुव्यासह अयशस्वी डाउनलोडचा पुन्हा प्रयत्न करा.</string>
+    <string name="try_now" formatted="false">आता वापरून पहा</string>
+    <string name="preferences" formatted="false">ते स्वतःचे बनवा.</string>
+    <string name="preferences_subtitle" formatted="false">तुमच्या रोजच्या ब्राउझिंगसाठी काही विचारशील नियंत्रणे.</string>
+    <string name="dns_title" formatted="false">VPN / खाजगी DNS</string>
+    <string name="dns_explanation" formatted="false">खाजगी DNS DNS क्वेरी एन्क्रिप्ट करते. ते तुमचा IP पत्ता लपवत नाही किंवा VPN बोगदा तयार करत नाही. Android साठी तुम्ही हे सेटिंग व्यक्तिचलितपणे बदलणे आवश्यक आहे.</string>
+    <string name="connected" formatted="false">जोडलेले</string>
+    <string name="unconnected" formatted="false">अनकनेक्ट</string>
+    <string name="connect" formatted="false">कनेक्ट करा</string>
+    <string name="disconnect" formatted="false">डिस्कनेक्ट करा</string>
+    <string name="dns_instructions" formatted="false">खाजगी DNS प्रदाता होस्टनाव निवडा, dns.adguard-dns.com पेस्ट करा आणि सेव्ह करा. डिस्कनेक्ट करण्यासाठी, समान सिस्टम सेटिंगमध्ये स्वयंचलित किंवा बंद निवडा.</string>
+    <string name="copy_hostname" formatted="false">होस्टनाव कॉपी करा</string>
+    <string name="copied" formatted="false">क्लिपबोर्डवर कॉपी केले</string>
+    <string name="open_network_settings" formatted="false">नेटवर्क सेटिंग्ज उघडा</string>
+    <string name="language" formatted="false">ॲप भाषा</string>
+    <string name="system_language" formatted="false">डिव्हाइस भाषेचे अनुसरण करा</string>
+    <string name="search_language" formatted="false">एक भाषा शोधा</string>
+    <string name="language_note" formatted="false">भाषांतरे ऑफलाइन समाविष्ट आहेत. असूचीबद्ध डिव्हाइस भाषा इंग्रजी वापरतात. मशीन भाषांतरांना प्रादेशिक पुनरावलोकनाची आवश्यकता असू शकते.</string>
+    <string name="search_engine" formatted="false">शोध इंजिन</string>
+    <string name="wifi_only" formatted="false">फक्त Wi-Fi वर डाउनलोड करा</string>
+    <string name="wifi_body" formatted="false">नवीन डाउनलोड वाय-फाय उपलब्ध होईपर्यंत प्रतीक्षा करतात.</string>
+    <string name="javascript" formatted="false">वेबसाइट JavaScript</string>
+    <string name="javascript_body" formatted="false">अनेक वेबसाइट आणि HTML5 व्हिडिओ शोधासाठी आवश्यक आहे.</string>
+    <string name="privacy" formatted="false">गोपनीयता</string>
+    <string name="clear_browser" formatted="false">ब्राउझिंग डेटा साफ करा</string>
+    <string name="clear_browser_confirm" formatted="false">कुकीज, ब्राउझर कॅशे, इतिहास आणि वेबसाइट स्टोरेज हटवायचे?</string>
+    <string name="privacy_body" formatted="false">जाहिराती, विश्लेषणे किंवा विकासक खाती नाहीत. वेबसाइट्स, शोध इंजिन, DNS प्रदाते आणि डाउनलोड सर्व्हरना तुम्ही केलेल्या विनंत्या प्राप्त होतात. डाउनलोड इतिहास आणि बुकमार्क या डिव्हाइसवर राहतात.</string>
+    <string name="terms" formatted="false">जबाबदारीने वापरा</string>
+    <string name="terms_body" formatted="false">फक्त तुमच्या मालकीचे किंवा डाउनलोड करण्याची परवानगी असलेले व्हिडिओ सेव्ह करा. कॉपीराइट आणि वेबसाइट अटींचा आदर करा. हा ॲप DRM, पेवॉल किंवा प्लॅटफॉर्म डाउनलोड प्रतिबंधांना बायपास करू शकत नाही.</string>
+    <string name="about" formatted="false">बद्दल</string>
+    <string name="version" formatted="false">आवृत्ती</string>
+    <string name="paid_app" formatted="false">एक खरेदी. जाहिराती नाहीत. वर्गणी नाही.</string>
+    <string name="welcome_title" formatted="false">तुम्हाला जे प्रेरणा देते ते ठेवा.</string>
+    <string name="welcome_body" formatted="false">एकाच ठिकाणी परवानगी असलेले व्हिडिओ ब्राउझ करा, शोधा आणि जतन करा. प्रारंभ करण्यासाठी सचित्र मार्गदर्शक वाचा.</string>
+    <string name="start_browsing" formatted="false">ब्राउझिंग सुरू करा</string>
+    <string name="read_guide" formatted="false">मार्गदर्शक वाचा</string>
+    <string name="browser_error" formatted="false">हे पृष्ठ लोड करणे शक्य नाही. पत्ता आणि कनेक्शन तपासा, नंतर रीलोड करा.</string>
+    <string name="secure_only" formatted="false">हे ॲप HTTPS कनेक्शन वापरते. या वेबसाइटची सुरक्षित आवृत्ती वापरून पहा.</string>
+    <string name="external_link" formatted="false">ही लिंक दुसऱ्या ॲपमध्ये उघडायची?</string>
+    <string name="open" formatted="false">उघडा</string>
+    <string name="refresh" formatted="false">रिफ्रेश करा</string>
+    <string name="accessibility_tutorial" formatted="false">या ट्यूटोरियल चरणाचे उदाहरण</string>
+    <string name="download_reason" formatted="false">Android डाउनलोड त्रुटी कोड</string>
+    <string name="queue_full" formatted="false">डाउनलोड इतिहास भरला आहे. आधी जुनी एंट्री काढा.</string>
+    <string name="browser_tabs" formatted="false">ब्राउझर टॅब</string>
+    <string name="tabs_subtitle" formatted="false">वेबसाइट खुल्या ठेवा आणि त्या दरम्यान स्विच करा.</string>
+    <string name="new_tab" formatted="false">नवीन टॅब</string>
+    <string name="close_tab" formatted="false">टॅब बंद करा</string>
+    <string name="active_tab" formatted="false">सक्रिय टॅब</string>
+    <string name="tab_limit" formatted="false">तुम्ही 8 पर्यंत टॅब उघडू शकता. दुसरा जोडण्यासाठी टॅब बंद करा.</string>
+    <string name="history" formatted="false">इतिहास</string>
+    <string name="history_subtitle" formatted="false">भेट दिलेल्या वेबसाइट फक्त या डिव्हाइसवर सेव्ह केल्या जातात.</string>
+    <string name="empty_history" formatted="false">तुमचा ब्राउझिंग इतिहास येथे दिसेल.</string>
+    <string name="clear_history" formatted="false">इतिहास साफ करा</string>
+    <string name="clear_history_confirm" formatted="false">या डिव्हाइसवरून सर्व ब्राउझिंग इतिहास हटवायचा?</string>
+    <string name="open_new_tab" formatted="false">नवीन टॅबमध्ये उघडा</string>
+    <string name="browser_menu" formatted="false">ब्राउझर मेनू</string>
+    <string name="shortcut_note" formatted="false">वेबसाइट शॉर्टकट ब्राउझरमध्ये उघडतात. डाउनलोडची उपलब्धता वेबसाइटवर अवलंबून असते.</string>
+</resources>

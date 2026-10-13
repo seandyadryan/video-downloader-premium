@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">වාරිකය</string>
+    <string name="browse" formatted="false">බ්‍රවුස් කරන්න</string>
+    <string name="downloads" formatted="false">බාගැනීම්</string>
+    <string name="guide" formatted="false">මාර්ගෝපදේශකය</string>
+    <string name="settings" formatted="false">සැකසීම්</string>
+    <string name="home_title" formatted="false">ඔබේ වීඩියෝ. ඔබේ එකතුව.</string>
+    <string name="home_subtitle" formatted="false">තබා ගැනීමට වටිනා දෙයක් සොයා ගන්න.</string>
+    <string name="search_hint" formatted="false">වෙබ් අඩවියක් සොයන්න හෝ ඇතුල් කරන්න</string>
+    <string name="go" formatted="false">යන්න</string>
+    <string name="paste_link" formatted="false">වීඩියෝ සබැඳිය අලවන්න</string>
+    <string name="direct_link" formatted="false">සෘජු වීඩියෝ සබැඳිය</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">බාගන්න</string>
+    <string name="detect" formatted="false">වීඩියෝ සොයන්න</string>
+    <string name="detected" formatted="false">මෙම පිටුවේ වීඩියෝ</string>
+    <string name="no_media" formatted="false">බාගත කළ හැකි වීඩියෝවක් හමු නොවීය. වීඩියෝවක් වාදනය කිරීම අරඹන්න, පසුව නැවත උත්සාහ කරන්න. ආරක්ෂිත ප්‍රවාහ සහ කාවැද්දූ රාමු නොතිබිය හැකිය.</string>
+    <string name="safe_note" formatted="false">ඔබට හිමි හෝ සුරැකීමට අවසර ඇති වීඩියෝ පමණක් බාගන්න. ආරක්ෂිත ප්‍රවාහ සහ YouTube බාගැනීම් නොමැත.</string>
+    <string name="quick_start" formatted="false">මෙතනින් පටන් ගන්න</string>
+    <string name="quick_browse" formatted="false">වෙබය ගවේෂණය කරන්න</string>
+    <string name="quick_browse_body" formatted="false">බිල්ට් බ්‍රවුසරයේ ඔබ කැමති එන්ජිම සමඟ සොයන්න.</string>
+    <string name="quick_download" formatted="false">වීඩියෝවක් සුරකින්න</string>
+    <string name="quick_download_body" formatted="false">සෘජු HTTPS වීඩියෝ සබැඳියක් අලවන්න හෝ පිටුවක වීඩියෝවක් සොයා ගන්න.</string>
+    <string name="quick_guide" formatted="false">පොඩි මග පෙන්වීමක්</string>
+    <string name="quick_guide_body" formatted="false">සොයාගැනීමේ සිට ඔබේ එකතුව දක්වා නිදර්ශන පියවර හතරක්.</string>
+    <string name="back" formatted="false">ආපසු</string>
+    <string name="forward" formatted="false">ඉදිරියට</string>
+    <string name="reload" formatted="false">නැවත පූරණය කරන්න</string>
+    <string name="home" formatted="false">නිවස</string>
+    <string name="bookmark" formatted="false">පිටු සලකුණ</string>
+    <string name="bookmarks" formatted="false">පිටු සලකුණු</string>
+    <string name="empty_bookmarks" formatted="false">සුරැකි වෙබ් අඩවි මෙහි දිස්වනු ඇත.</string>
+    <string name="saved" formatted="false">සුරකින ලදී</string>
+    <string name="remove" formatted="false">ඉවත් කරන්න</string>
+    <string name="cancel" formatted="false">අවලංගු කරන්න</string>
+    <string name="close" formatted="false">වසන්න</string>
+    <string name="confirm_download" formatted="false">මෙම වීඩියෝව සුරකින්නද?</string>
+    <string name="filename" formatted="false">ගොනු නාමය</string>
+    <string name="download_location" formatted="false">බාගැනීම් / වීඩියෝ බාගැනීම් වාරිකය තුළ සුරකින ලදී</string>
+    <string name="permission_confirm" formatted="false">මට මෙම වීඩියෝව අයිති නැතහොත් එය බාගත කිරීමට අවසර ඇත.</string>
+    <string name="permission_required" formatted="false">ඔබට මෙම වීඩියෝව සුරැකීමට අවසර ඇති බව තහවුරු කරන්න.</string>
+    <string name="invalid_url" formatted="false">වලංගු HTTPS වීඩියෝ සබැඳියක් ඇතුළු කරන්න.</string>
+    <string name="unsupported" formatted="false">මෙම සබැඳිය බාගත කළ හැකි වීඩියෝවක් නොවේ. DRM, සජීවී ප්‍රවාහ, ධාවන ලැයිස්තු, සහ YouTube බාගැනීම් සහය නොදක්වයි.</string>
+    <string name="queued" formatted="false">බාගත කිරීම පෝලිමට එක් කරන ලදී</string>
+    <string name="download_error" formatted="false">බාගැනීමට නොහැක. සම්බන්ධතාවය පරීක්ෂා කරන්න හෝ නැවුම් වීඩියෝ සබැඳියක් භාවිතා කරන්න.</string>
+    <string name="collection_title" formatted="false">ඔබේ එකතුව</string>
+    <string name="collection_subtitle" formatted="false">සුරැකි වීඩියෝ, ඔබ සිටින විට සූදානම්.</string>
+    <string name="empty_downloads" formatted="false">ඔබේ මීළඟ ප්‍රියතමය මෙහි අයත් වේ.</string>
+    <string name="empty_downloads_body" formatted="false">ඔබේ එකතුව ආරම්භ කිරීමට බ්‍රවුස් කිරීම හෝ සෘජු වීඩියෝ සබැඳියක් ඇලවීම තුළ වීඩියෝවක් සොයන්න.</string>
+    <string name="pending" formatted="false">පෝලිමේ</string>
+    <string name="running" formatted="false">බාගත කිරීම</string>
+    <string name="paused" formatted="false">ජාලය සඳහා රැඳී සිටීම හෝ නැවත උත්සාහ කරන්න</string>
+    <string name="complete" formatted="false">සම්පූර්ණයි</string>
+    <string name="failed" formatted="false">අසාර්ථකයි</string>
+    <string name="missing" formatted="false">ගොනුව නොමැත</string>
+    <string name="play" formatted="false">සෙල්ලම් කරන්න</string>
+    <string name="share" formatted="false">බෙදාගන්න</string>
+    <string name="retry" formatted="false">නැවත උත්සාහ කරන්න</string>
+    <string name="delete_download" formatted="false">බාගැනීම සහ එහි ගොනුව ඉවත් කරන්නද?</string>
+    <string name="no_player" formatted="false">මෙම ගොනුව විවෘත කිරීමට ගැළපෙන යෙදුමක් නොමැත.</string>
+    <string name="guide_title" formatted="false">සොයාගැනීමේ සිට බාගත කිරීම දක්වා.</string>
+    <string name="guide_subtitle" formatted="false">ඔබ ආදරය කරන වීඩියෝ තබා ගැනීමට සරල මාර්ගෝපදේශයකි.</string>
+    <string name="step_one_title" formatted="false">ඔබේ වීඩියෝව සොයා ගන්න</string>
+    <string name="step_one_body" formatted="false">බ්‍රවුස් විවෘත කරන්න. වෙබ් අඩවියේ ලිපිනයක් සොයන්න හෝ ඇතුල් කරන්න. ඔබට වෙනත් යෙදුමකින් වීඩියෝ සබැඳියක් ද බෙදා ගත හැක.</string>
+    <string name="step_two_title" formatted="false">මූලාශ්රය සොයා ගන්න</string>
+    <string name="step_two_body" formatted="false">වීඩියෝවක් වාදනය කරන්න, ඉන්පසු වීඩියෝ සොයන්න තට්ටු කරන්න. අනාවරණය කරගත් ගොනුවක් තෝරන්න, නැතහොත් සෘජු HTTPS වීඩියෝ සබැඳියක් අලවන්න.</string>
+    <string name="step_three_title" formatted="false">එය ඔබේ කරගන්න</string>
+    <string name="step_three_body" formatted="false">ගොනු නාමයක් තෝරන්න, වීඩියෝව සුරැකීමට ඔබේ අවසරය තහවුරු කරන්න, සහ බාගැනීම තට්ටු කරන්න. Android පසුබිමේ බාගැනීම දිගටම කරගෙන යයි.</string>
+    <string name="step_four_title" formatted="false">ඔබේ එකතුව භුක්ති විඳින්න</string>
+    <string name="step_four_body" formatted="false">ප්‍රගතිය පරීක්ෂා කිරීමට බාගැනීම් විවෘත කරන්න. සම්පුර්ණ කරන ලද වීඩියෝ වාදනය කරන්න හෝ බෙදාගන්න. අවශ්‍ය වූ විට නැවුම් සබැඳියක් සමඟ අසාර්ථක බාගැනීම් නැවත උත්සාහ කරන්න.</string>
+    <string name="try_now" formatted="false">දැන් එය උත්සාහ කරන්න</string>
+    <string name="preferences" formatted="false">එය ඔබේම කරගන්න.</string>
+    <string name="preferences_subtitle" formatted="false">ඔබගේ එදිනෙදා බ්‍රවුස් කිරීම සඳහා කල්පනාකාරී පාලන කිහිපයක්.</string>
+    <string name="dns_title" formatted="false">VPN / පුද්ගලික DNS</string>
+    <string name="dns_explanation" formatted="false">පුද්ගලික DNS DNS විමසුම් සංකේතනය කරයි. එය ඔබගේ IP ලිපිනය සඟවන්නේ හෝ VPN උමගක් නිර්මාණය නොකරයි. Android හට ඔබට මෙම සැකසීම අතින් වෙනස් කිරීමට අවශ්‍ය වේ.</string>
+    <string name="connected" formatted="false">සම්බන්ධයි</string>
+    <string name="unconnected" formatted="false">සම්බන්ධ නොවීය</string>
+    <string name="connect" formatted="false">සම්බන්ධ කරන්න</string>
+    <string name="disconnect" formatted="false">විසන්ධි කරන්න</string>
+    <string name="dns_instructions" formatted="false">පුද්ගලික DNS සපයන්නාගේ සත්කාරක නාමය තෝරන්න, dns.adguard-dns.com අලවන්න, සහ සුරකින්න. විසන්ධි කිරීමට, එකම පද්ධති සැකසුම තුළ ස්වයංක්‍රීය හෝ අක්‍රිය තෝරන්න.</string>
+    <string name="copy_hostname" formatted="false">සත්කාරක නාමය පිටපත් කරන්න</string>
+    <string name="copied" formatted="false">පසුරු පුවරුවට පිටපත් කර ඇත</string>
+    <string name="open_network_settings" formatted="false">ජාල සැකසුම් විවෘත කරන්න</string>
+    <string name="language" formatted="false">යෙදුම් භාෂාව</string>
+    <string name="system_language" formatted="false">උපාංග භාෂාව අනුගමනය කරන්න</string>
+    <string name="search_language" formatted="false">භාෂාවක් සොයන්න</string>
+    <string name="language_note" formatted="false">පරිවර්තන නොබැඳිව ඇතුළත් වේ. ලැයිස්තුගත නොකළ උපාංග භාෂා ඉංග්‍රීසි භාවිත කරයි. යන්ත්‍ර පරිවර්තන සඳහා කලාපීය සමාලෝචනයක් අවශ්‍ය විය හැකිය.</string>
+    <string name="search_engine" formatted="false">සෙවුම් යන්ත්‍රය</string>
+    <string name="wifi_only" formatted="false">Wi-Fi මත පමණක් බාගන්න</string>
+    <string name="wifi_body" formatted="false">නව බාගැනීම් Wi-Fi ලැබෙන තෙක් රැඳී සිටින්න.</string>
+    <string name="javascript" formatted="false">වෙබ් අඩවිය JavaScript</string>
+    <string name="javascript_body" formatted="false">බොහෝ වෙබ් අඩවි සහ HTML5 වීඩියෝ සොයාගැනීම් මගින් අවශ්‍ය වේ.</string>
+    <string name="privacy" formatted="false">පෞද්ගලිකත්වය</string>
+    <string name="clear_browser" formatted="false">බ්‍රවුසින් දත්ත හිස් කරන්න</string>
+    <string name="clear_browser_confirm" formatted="false">කුකීස්, බ්‍රවුසර හැඹිලිය, ඉතිහාසය සහ වෙබ් අඩවි ආචයනය මකන්නද?</string>
+    <string name="privacy_body" formatted="false">දැන්වීම්, විශ්ලේෂණ හෝ සංවර්ධක ගිණුම් නැත. වෙබ් අඩවි, සෙවුම් යන්ත්‍ර, DNS සපයන්නන් සහ බාගැනීම් සේවාදායක ඔබ කරන ඉල්ලීම් ලබා ගනී. බාගැනීම් ඉතිහාසය සහ පිටු සලකුණු මෙම උපාංගයේ පවතී.</string>
+    <string name="terms" formatted="false">වගකීමෙන් භාවිතා කරන්න</string>
+    <string name="terms_body" formatted="false">ඔබට හිමි හෝ බාගත කිරීමට අවසර ඇති වීඩියෝ පමණක් සුරකින්න. ප්‍රකාශන හිමිකම සහ වෙබ් අඩවි කොන්දේසි වලට ගරු කරන්න. මෙම යෙදුමට DRM, paywalls, හෝ වේදිකා බාගැනීම් සීමාවන් මඟ හැරිය නොහැක.</string>
+    <string name="about" formatted="false">ගැන</string>
+    <string name="version" formatted="false">අනුවාදය</string>
+    <string name="paid_app" formatted="false">එක් මිලදී ගැනීමක්. දැන්වීම් නැත. දායකත්වයක් නැත.</string>
+    <string name="welcome_title" formatted="false">ඔබව දිරිමත් කරන දේ තබා ගන්න.</string>
+    <string name="welcome_body" formatted="false">අවසර ලත් වීඩියෝ එක තැනක බ්‍රවුස් කරන්න, සොයා ගන්න, සහ සුරකින්න. ආරම්භ කිරීමට නිදර්ශන මාර්ගෝපදේශය කියවන්න.</string>
+    <string name="start_browsing" formatted="false">බ්‍රවුස් කිරීම අරඹන්න</string>
+    <string name="read_guide" formatted="false">මාර්ගෝපදේශය කියවන්න</string>
+    <string name="browser_error" formatted="false">මෙම පිටුව පූරණය කළ නොහැක. ලිපිනය සහ සම්බන්ධතාවය පරීක්ෂා කරන්න, ඉන්පසු නැවත පූරණය කරන්න.</string>
+    <string name="secure_only" formatted="false">මෙම යෙදුම HTTPS සම්බන්ධතා භාවිතා කරයි. මෙම වෙබ් අඩවියේ ආරක්ෂිත අනුවාදය උත්සාහ කරන්න.</string>
+    <string name="external_link" formatted="false">මෙම සබැඳිය වෙනත් යෙදුමකින් විවෘත කරන්නද?</string>
+    <string name="open" formatted="false">විවෘත කරන්න</string>
+    <string name="refresh" formatted="false">නැවුම් කරන්න</string>
+    <string name="accessibility_tutorial" formatted="false">මෙම නිබන්ධන පියවර සඳහා නිදර්ශනය</string>
+    <string name="download_reason" formatted="false">Android බාගත කිරීමේ දෝෂ කේතය</string>
+    <string name="queue_full" formatted="false">බාගත කිරීමේ ඉතිහාසය පිරී ඇත. පළමුව පැරණි ප්‍රවේශයක් ඉවත් කරන්න.</string>
+    <string name="browser_tabs" formatted="false">බ්රවුසර ටැබ්</string>
+    <string name="tabs_subtitle" formatted="false">වෙබ් අඩවි විවෘතව තබා ඒවා අතර මාරු වන්න.</string>
+    <string name="new_tab" formatted="false">නව ටැබ්</string>
+    <string name="close_tab" formatted="false">ටැබ් එක වසන්න</string>
+    <string name="active_tab" formatted="false">ක්රියාකාරී පටිත්ත</string>
+    <string name="tab_limit" formatted="false">ඔබට ටැබ් 8ක් දක්වා විවෘත කළ හැක. තවත් එකක් එක් කිරීමට ටැබ් එකක් වසන්න.</string>
+    <string name="history" formatted="false">ඉතිහාසය</string>
+    <string name="history_subtitle" formatted="false">පිවිසි වෙබ් අඩවි මෙම උපාංගයේ පමණක් සුරැකේ.</string>
+    <string name="empty_history" formatted="false">ඔබගේ ගවේෂණ ඉතිහාසය මෙහි දිස්වනු ඇත.</string>
+    <string name="clear_history" formatted="false">ඉතිහාසය පැහැදිලි කරන්න</string>
+    <string name="clear_history_confirm" formatted="false">මෙම උපාංගයෙන් සියලුම බ්‍රවුස් කිරීමේ ඉතිහාසය මකන්නද?</string>
+    <string name="open_new_tab" formatted="false">නව ටැබයක විවෘත කරන්න</string>
+    <string name="browser_menu" formatted="false">බ්රවුසර මෙනුව</string>
+    <string name="shortcut_note" formatted="false">වෙබ් අඩවි කෙටිමං බ්‍රවුසරයේ විවෘත වේ. බාගත කිරීමේ හැකියාව වෙබ් අඩවිය මත රඳා පවතී.</string>
+</resources>

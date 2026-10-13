@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">قسط</string>
+    <string name="browse" formatted="false">تصفح</string>
+    <string name="downloads" formatted="false">التنزيلات</string>
+    <string name="guide" formatted="false">دليل</string>
+    <string name="settings" formatted="false">الإعدادات</string>
+    <string name="home_title" formatted="false">مقاطع الفيديو الخاصة بك. مجموعتك.</string>
+    <string name="home_subtitle" formatted="false">ابحث عن شيء يستحق الاحتفاظ به.</string>
+    <string name="search_hint" formatted="false">ابحث أو أدخل موقعًا إلكترونيًا</string>
+    <string name="go" formatted="false">اذهب</string>
+    <string name="paste_link" formatted="false">لصق رابط الفيديو</string>
+    <string name="direct_link" formatted="false">رابط الفيديو المباشر</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">تحميل</string>
+    <string name="detect" formatted="false">البحث عن أشرطة الفيديو</string>
+    <string name="detected" formatted="false">الفيديوهات على هذه الصفحة</string>
+    <string name="no_media" formatted="false">لم يتم العثور على فيديو قابل للتنزيل. ابدأ تشغيل مقطع فيديو، ثم حاول مرة أخرى. قد لا تكون التدفقات المحمية والإطارات المضمنة متاحة.</string>
+    <string name="safe_note" formatted="false">قم فقط بتنزيل مقاطع الفيديو التي تمتلكها أو لديك إذن بحفظها. التدفقات المحمية وتنزيلات YouTube غير متوفرة.</string>
+    <string name="quick_start" formatted="false">ابدأ هنا</string>
+    <string name="quick_browse" formatted="false">استكشف الويب</string>
+    <string name="quick_browse_body" formatted="false">ابحث باستخدام المحرك المفضل لديك في المتصفح المدمج.</string>
+    <string name="quick_download" formatted="false">احفظ مقطع فيديو</string>
+    <string name="quick_download_body" formatted="false">الصق رابط فيديو HTTPS مباشرًا أو ابحث عن مقطع فيديو على الصفحة.</string>
+    <string name="quick_guide" formatted="false">القليل من التوجيه</string>
+    <string name="quick_guide_body" formatted="false">أربع خطوات مصورة من الاكتشاف إلى مجموعتك.</string>
+    <string name="back" formatted="false">العودة</string>
+    <string name="forward" formatted="false">إلى الأمام</string>
+    <string name="reload" formatted="false">إعادة تحميل</string>
+    <string name="home" formatted="false">الصفحة الرئيسية</string>
+    <string name="bookmark" formatted="false">إشارة مرجعية</string>
+    <string name="bookmarks" formatted="false">الإشارات المرجعية</string>
+    <string name="empty_bookmarks" formatted="false">ستظهر مواقع الويب المحفوظة هنا.</string>
+    <string name="saved" formatted="false">أنقذ</string>
+    <string name="remove" formatted="false">إزالة</string>
+    <string name="cancel" formatted="false">إلغاء</string>
+    <string name="close" formatted="false">إغلاق</string>
+    <string name="confirm_download" formatted="false">هل تريد حفظ هذا الفيديو؟</string>
+    <string name="filename" formatted="false">اسم الملف</string>
+    <string name="download_location" formatted="false">تم الحفظ في التنزيلات / تنزيل الفيديو Premium</string>
+    <string name="permission_confirm" formatted="false">أملك هذا الفيديو أو لدي إذن بتنزيله.</string>
+    <string name="permission_required" formatted="false">تأكد من حصولك على الإذن لحفظ هذا الفيديو.</string>
+    <string name="invalid_url" formatted="false">أدخل رابط فيديو HTTPS صالحًا.</string>
+    <string name="unsupported" formatted="false">هذا الرابط ليس فيديو قابل للتحميل. إدارة الحقوق الرقمية (DRM) والبث المباشر وقوائم التشغيل وتنزيلات YouTube غير مدعومة.</string>
+    <string name="queued" formatted="false">تمت إضافة التنزيل إلى قائمة الانتظار</string>
+    <string name="download_error" formatted="false">غير قادر على التحميل. تحقق من الاتصال أو استخدم رابط فيديو جديد.</string>
+    <string name="collection_title" formatted="false">مجموعتك</string>
+    <string name="collection_subtitle" formatted="false">مقاطع الفيديو المحفوظة، جاهزة عندما تكون كذلك.</string>
+    <string name="empty_downloads" formatted="false">المفضلة لديك القادمة تنتمي هنا.</string>
+    <string name="empty_downloads_body" formatted="false">ابحث عن مقطع فيديو في \&quot;تصفح\&quot; أو الصق رابط فيديو مباشر لبدء مجموعتك.</string>
+    <string name="pending" formatted="false">في قائمة الانتظار</string>
+    <string name="running" formatted="false">جارٍ التنزيل</string>
+    <string name="paused" formatted="false">في انتظار الشبكة أو أعد المحاولة</string>
+    <string name="complete" formatted="false">كامل</string>
+    <string name="failed" formatted="false">فشل</string>
+    <string name="missing" formatted="false">الملف غير متاح</string>
+    <string name="play" formatted="false">العب</string>
+    <string name="share" formatted="false">شارك</string>
+    <string name="retry" formatted="false">أعد المحاولة</string>
+    <string name="delete_download" formatted="false">هل تريد إزالة التنزيل وملفه؟</string>
+    <string name="no_player" formatted="false">لا يوجد تطبيق متوافق متاح لفتح هذا الملف.</string>
+    <string name="guide_title" formatted="false">من الاكتشاف إلى التنزيل.</string>
+    <string name="guide_subtitle" formatted="false">دليل بسيط للحفاظ على مقاطع الفيديو التي تحبها.</string>
+    <string name="step_one_title" formatted="false">ابحث عن الفيديو الخاص بك</string>
+    <string name="step_one_body" formatted="false">افتح التصفح. ابحث أو أدخل عنوان موقع الويب. يمكنك أيضًا مشاركة رابط فيديو من تطبيق آخر.</string>
+    <string name="step_two_title" formatted="false">اكتشف المصدر</string>
+    <string name="step_two_body" formatted="false">قم بتشغيل مقطع فيديو، ثم اضغط على \&quot;بحث عن مقاطع فيديو\&quot;. اختر ملفًا تم اكتشافه، أو الصق رابط فيديو HTTPS مباشرًا.</string>
+    <string name="step_three_title" formatted="false">اجعلها لك</string>
+    <string name="step_three_body" formatted="false">اختر اسم ملف، وأكد إذنك لحفظ الفيديو، ثم انقر فوق تنزيل. يواصل Android التنزيل في الخلفية.</string>
+    <string name="step_four_title" formatted="false">استمتع بمجموعتك</string>
+    <string name="step_four_body" formatted="false">افتح التنزيلات للتحقق من التقدم. قم بتشغيل أو مشاركة مقاطع الفيديو المكتملة. أعد محاولة التنزيلات الفاشلة باستخدام رابط جديد عند الحاجة.</string>
+    <string name="try_now" formatted="false">جربه الآن</string>
+    <string name="preferences" formatted="false">اجعلها خاصة بك.</string>
+    <string name="preferences_subtitle" formatted="false">بعض عناصر التحكم المدروسة لتصفحك اليومي.</string>
+    <string name="dns_title" formatted="false">VPN / DNS الخاص</string>
+    <string name="dns_explanation" formatted="false">يقوم DNS الخاص بتشفير استعلامات DNS. لا يخفي عنوان IP الخاص بك أو ينشئ نفق VPN. يتطلب Android منك تغيير هذا الإعداد يدويًا.</string>
+    <string name="connected" formatted="false">متصل</string>
+    <string name="unconnected" formatted="false">غير متصل</string>
+    <string name="connect" formatted="false">الاتصال</string>
+    <string name="disconnect" formatted="false">قطع الاتصال</string>
+    <string name="dns_instructions" formatted="false">حدد اسم مضيف موفر DNS الخاص، ثم الصق dns.adguard-dns.com، ثم احفظه. لقطع الاتصال، حدد تلقائي أو إيقاف في نفس إعداد النظام.</string>
+    <string name="copy_hostname" formatted="false">انسخ اسم المضيف</string>
+    <string name="copied" formatted="false">تم النسخ إلى الحافظة</string>
+    <string name="open_network_settings" formatted="false">افتح إعدادات الشبكة</string>
+    <string name="language" formatted="false">لغة التطبيق</string>
+    <string name="system_language" formatted="false">اتبع لغة الجهاز</string>
+    <string name="search_language" formatted="false">ابحث عن لغة</string>
+    <string name="language_note" formatted="false">يتم تضمين الترجمات دون اتصال بالإنترنت. تستخدم لغات الأجهزة غير المدرجة اللغة الإنجليزية. قد تحتاج الترجمات الآلية إلى مراجعة إقليمية.</string>
+    <string name="search_engine" formatted="false">محرك البحث</string>
+    <string name="wifi_only" formatted="false">التنزيل عبر شبكة Wi-Fi فقط</string>
+    <string name="wifi_body" formatted="false">تنتظر التنزيلات الجديدة حتى تتوفر شبكة Wi-Fi.</string>
+    <string name="javascript" formatted="false">موقع جافا سكريبت</string>
+    <string name="javascript_body" formatted="false">مطلوب من قبل العديد من مواقع الويب واكتشاف فيديو HTML5.</string>
+    <string name="privacy" formatted="false">الخصوصية</string>
+    <string name="clear_browser" formatted="false">مسح بيانات التصفح</string>
+    <string name="clear_browser_confirm" formatted="false">هل تريد حذف ملفات تعريف الارتباط وذاكرة التخزين المؤقت للمتصفح والسجل وتخزين موقع الويب؟</string>
+    <string name="privacy_body" formatted="false">لا توجد إعلانات أو تحليلات أو حسابات المطورين. تتلقى مواقع الويب ومحركات البحث وموفرو DNS وخوادم التنزيل الطلبات التي تقدمها. يبقى سجل التنزيل والإشارات المرجعية على هذا الجهاز.</string>
+    <string name="terms" formatted="false">استخدم بمسؤولية</string>
+    <string name="terms_body" formatted="false">احفظ فقط مقاطع الفيديو التي تمتلكها أو المسموح لك بتنزيلها. احترام حقوق النشر وشروط الموقع. لا يمكن لهذا التطبيق تجاوز إدارة الحقوق الرقمية أو نظام حظر الاشتراك غير المدفوع أو قيود تنزيل النظام الأساسي.</string>
+    <string name="about" formatted="false">حول</string>
+    <string name="version" formatted="false">الإصدار</string>
+    <string name="paid_app" formatted="false">عملية شراء واحدة. لا إعلانات. لا يوجد اشتراك.</string>
+    <string name="welcome_title" formatted="false">احتفظ بما يلهمك.</string>
+    <string name="welcome_body" formatted="false">تصفح واكتشف واحفظ مقاطع الفيديو المسموح بها في مكان واحد. اقرأ الدليل المصور للبدء.</string>
+    <string name="start_browsing" formatted="false">ابدأ التصفح</string>
+    <string name="read_guide" formatted="false">اقرأ الدليل</string>
+    <string name="browser_error" formatted="false">لا يمكن تحميل هذه الصفحة. تحقق من العنوان والاتصال، ثم أعد التحميل.</string>
+    <string name="secure_only" formatted="false">يستخدم هذا التطبيق اتصالات HTTPS. جرب النسخة الآمنة من هذا الموقع.</string>
+    <string name="external_link" formatted="false">هل تريد فتح هذا الرابط في تطبيق آخر؟</string>
+    <string name="open" formatted="false">مفتوح</string>
+    <string name="refresh" formatted="false">تحديث</string>
+    <string name="accessibility_tutorial" formatted="false">رسم توضيحي لهذه الخطوة التعليمية</string>
+    <string name="download_reason" formatted="false">رمز الخطأ في تنزيل Android</string>
+    <string name="queue_full" formatted="false">سجل التنزيل ممتلئ. قم بإزالة الإدخال الأقدم أولاً.</string>
+    <string name="browser_tabs" formatted="false">علامات تبويب المتصفح</string>
+    <string name="tabs_subtitle" formatted="false">إبقاء مواقع الويب مفتوحة والتبديل بينها.</string>
+    <string name="new_tab" formatted="false">علامة تبويب جديدة</string>
+    <string name="close_tab" formatted="false">إغلاق علامة التبويب</string>
+    <string name="active_tab" formatted="false">علامة التبويب النشطة</string>
+    <string name="tab_limit" formatted="false">يمكنك فتح ما يصل إلى 8 علامات تبويب. أغلق علامة تبويب لإضافة علامة تبويب أخرى.</string>
+    <string name="history" formatted="false">التاريخ</string>
+    <string name="history_subtitle" formatted="false">يتم حفظ مواقع الويب التي تمت زيارتها على هذا الجهاز فقط.</string>
+    <string name="empty_history" formatted="false">سيظهر سجل التصفح الخاص بك هنا.</string>
+    <string name="clear_history" formatted="false">مسح التاريخ</string>
+    <string name="clear_history_confirm" formatted="false">هل تريد حذف سجل التصفح بالكامل من هذا الجهاز؟</string>
+    <string name="open_new_tab" formatted="false">افتح في علامة تبويب جديدة</string>
+    <string name="browser_menu" formatted="false">قائمة المتصفح</string>
+    <string name="shortcut_note" formatted="false">يتم فتح اختصارات موقع الويب في المتصفح. يعتمد توفر التنزيل على موقع الويب.</string>
+</resources>

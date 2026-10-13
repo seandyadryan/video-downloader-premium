@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Ko‘rib chiqish</string>
+    <string name="downloads" formatted="false">Yuklashlar</string>
+    <string name="guide" formatted="false">Qoʻllanma</string>
+    <string name="settings" formatted="false">Sozlamalar</string>
+    <string name="home_title" formatted="false">Sizning videolaringiz. Sizning kollektsiyangiz.</string>
+    <string name="home_subtitle" formatted="false">Saqlashga arziydigan narsani toping.</string>
+    <string name="search_hint" formatted="false">Veb-saytni qidiring yoki kiriting</string>
+    <string name="go" formatted="false">Bor</string>
+    <string name="paste_link" formatted="false">Video havolasini joylashtiring</string>
+    <string name="direct_link" formatted="false">To\&apos;g\&apos;ridan-to\&apos;g\&apos;ri video havola</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Yuklab olish</string>
+    <string name="detect" formatted="false">Videolarni toping</string>
+    <string name="detected" formatted="false">Ushbu sahifadagi videolar</string>
+    <string name="no_media" formatted="false">Yuklab olinadigan video topilmadi. Videoni o‘ynatishni boshlang, keyin qayta urinib ko‘ring. Himoyalangan oqimlar va o\&apos;rnatilgan ramkalar mavjud bo\&apos;lmasligi mumkin.</string>
+    <string name="safe_note" formatted="false">Faqat sizga tegishli videolarni yuklab oling yoki saqlashga ruxsatingiz bor. Himoyalangan oqimlar va YouTube yuklab olish imkonsiz.</string>
+    <string name="quick_start" formatted="false">BU YERDAN BOSHLASH</string>
+    <string name="quick_browse" formatted="false">Internetni o\&apos;rganing</string>
+    <string name="quick_browse_body" formatted="false">O\&apos;rnatilgan brauzerda o\&apos;zingiz yoqtirgan vosita bilan qidiring.</string>
+    <string name="quick_download" formatted="false">Videoni saqlang</string>
+    <string name="quick_download_body" formatted="false">To\&apos;g\&apos;ridan-to\&apos;g\&apos;ri HTTPS video havolasini joylashtiring yoki sahifada video toping.</string>
+    <string name="quick_guide" formatted="false">Bir oz ko\&apos;rsatma</string>
+    <string name="quick_guide_body" formatted="false">Kashfiyotdan kollektsiyangizga qadar to\&apos;rtta tasvirlangan qadam.</string>
+    <string name="back" formatted="false">Orqaga</string>
+    <string name="forward" formatted="false">Oldinga</string>
+    <string name="reload" formatted="false">Qayta yuklash</string>
+    <string name="home" formatted="false">Uy</string>
+    <string name="bookmark" formatted="false">Xatcho‘p</string>
+    <string name="bookmarks" formatted="false">Xatcho‘plar</string>
+    <string name="empty_bookmarks" formatted="false">Saqlangan veb-saytlar shu yerda paydo bo\&apos;ladi.</string>
+    <string name="saved" formatted="false">Saqlangan</string>
+    <string name="remove" formatted="false">O\&apos;chirish</string>
+    <string name="cancel" formatted="false">Bekor qilish</string>
+    <string name="close" formatted="false">Yopish</string>
+    <string name="confirm_download" formatted="false">Bu video saqlansinmi?</string>
+    <string name="filename" formatted="false">Fayl nomi</string>
+    <string name="download_location" formatted="false">Yuklashlar / Video Downloader Premium-da saqlangan</string>
+    <string name="permission_confirm" formatted="false">Bu video menga tegishli yoki uni yuklab olishga ruxsatim bor.</string>
+    <string name="permission_required" formatted="false">Ushbu videoni saqlashga ruxsatingiz borligini tasdiqlang.</string>
+    <string name="invalid_url" formatted="false">Yaroqli HTTPS video havolasini kiriting.</string>
+    <string name="unsupported" formatted="false">Bu havola yuklab olinadigan video emas. DRM, jonli translatsiyalar, pleylistlar va YouTube yuklab olishlari qo‘llab-quvvatlanmaydi.</string>
+    <string name="queued" formatted="false">Yuklab olish navbatga qo\&apos;shildi</string>
+    <string name="download_error" formatted="false">Yuklab bo‘lmadi. Ulanishni tekshiring yoki yangi video havolasidan foydalaning.</string>
+    <string name="collection_title" formatted="false">Sizning kollektsiyangiz</string>
+    <string name="collection_subtitle" formatted="false">Saqlangan videolar tayyor.</string>
+    <string name="empty_downloads" formatted="false">Sizning keyingi sevimlilaringiz shu yerga tegishli.</string>
+    <string name="empty_downloads_body" formatted="false">To‘plamingizni boshlash uchun Browse-dan video toping yoki to‘g‘ridan-to‘g‘ri video havolasini joylashtiring.</string>
+    <string name="pending" formatted="false">Navbatda</string>
+    <string name="running" formatted="false">Yuklab olinmoqda</string>
+    <string name="paused" formatted="false">Tarmoq kutilmoqda yoki qayta urining</string>
+    <string name="complete" formatted="false">Bajarildi</string>
+    <string name="failed" formatted="false">Muvaffaqiyatsiz</string>
+    <string name="missing" formatted="false">Fayl mavjud emas</string>
+    <string name="play" formatted="false">O\&apos;ynang</string>
+    <string name="share" formatted="false">Ulashish</string>
+    <string name="retry" formatted="false">Qayta urinish</string>
+    <string name="delete_download" formatted="false">Yuklab olish va uning fayli olib tashlansinmi?</string>
+    <string name="no_player" formatted="false">Bu faylni ochish uchun mos dastur mavjud emas.</string>
+    <string name="guide_title" formatted="false">Kashfiyotdan yuklab olishgacha.</string>
+    <string name="guide_subtitle" formatted="false">O\&apos;zingiz yoqtirgan videolarni saqlash bo\&apos;yicha oddiy qo\&apos;llanma.</string>
+    <string name="step_one_title" formatted="false">Videongizni toping</string>
+    <string name="step_one_body" formatted="false">Browse-ni oching. Veb-sayt manzilini qidiring yoki kiriting. Shuningdek, siz boshqa ilovadan video havolani baham ko\&apos;rishingiz mumkin.</string>
+    <string name="step_two_title" formatted="false">Manbani kashf qiling</string>
+    <string name="step_two_body" formatted="false">Videoni ijro eting, so‘ngra Videolarni topish-ga teging. Aniqlangan faylni tanlang yoki to\&apos;g\&apos;ridan-to\&apos;g\&apos;ri HTTPS video havolasini joylashtiring.</string>
+    <string name="step_three_title" formatted="false">Uni sizniki qiling</string>
+    <string name="step_three_body" formatted="false">Fayl nomini tanlang, videoni saqlashga ruxsatingizni tasdiqlang va Yuklab olish tugmasini bosing. Android fonda yuklab olishni davom ettiradi.</string>
+    <string name="step_four_title" formatted="false">To\&apos;plamingizdan bahramand bo\&apos;ling</string>
+    <string name="step_four_body" formatted="false">Jarayonni tekshirish uchun Yuklashlarni oching. Tugallangan videolarni ijro eting yoki baham ko\&apos;ring. Zarur bo\&apos;lganda yangi havola bilan muvaffaqiyatsiz yuklab olishlarni qaytadan urinib ko\&apos;ring.</string>
+    <string name="try_now" formatted="false">Hozir sinab ko\&apos;ring</string>
+    <string name="preferences" formatted="false">Uni o\&apos;zingizga tegishli qiling.</string>
+    <string name="preferences_subtitle" formatted="false">Kundalik ko\&apos;rish uchun bir nechta o\&apos;ylangan boshqaruv.</string>
+    <string name="dns_title" formatted="false">VPN / Shaxsiy DNS</string>
+    <string name="dns_explanation" formatted="false">Shaxsiy DNS DNS so\&apos;rovlarini shifrlaydi. U sizning IP manzilingizni yashirmaydi yoki VPN tunnelini yaratmaydi. Android ushbu sozlamani qo\&apos;lda o\&apos;zgartirishingizni talab qiladi.</string>
+    <string name="connected" formatted="false">Ulangan</string>
+    <string name="unconnected" formatted="false">Ulanmagan</string>
+    <string name="connect" formatted="false">Ulanish</string>
+    <string name="disconnect" formatted="false">Ulanishni uzing</string>
+    <string name="dns_instructions" formatted="false">Shaxsiy DNS provayderining xost nomini tanlang, dns.adguard-dns.com-ni joylashtiring va saqlang. O\&apos;chirish uchun bir xil tizim sozlamalarida Avtomatik yoki O\&apos;chirilgan ni tanlang.</string>
+    <string name="copy_hostname" formatted="false">Xost nomidan nusxa oling</string>
+    <string name="copied" formatted="false">Buferga nusxalandi</string>
+    <string name="open_network_settings" formatted="false">Tarmoq sozlamalarini oching</string>
+    <string name="language" formatted="false">Ilova tili</string>
+    <string name="system_language" formatted="false">Qurilma tiliga amal qiling</string>
+    <string name="search_language" formatted="false">Til toping</string>
+    <string name="language_note" formatted="false">Tarjimalar oflayn rejimda kiritilgan. Roʻyxatga kiritilmagan qurilma tillari ingliz tilidan foydalanadi. Mashina tarjimalari mintaqaviy ko\&apos;rib chiqishni talab qilishi mumkin.</string>
+    <string name="search_engine" formatted="false">Qidiruv mexanizmi</string>
+    <string name="wifi_only" formatted="false">Faqat Wi-Fi orqali yuklab oling</string>
+    <string name="wifi_body" formatted="false">Yangi yuklab olishlar Wi-Fi mavjud bo\&apos;lguncha kutiladi.</string>
+    <string name="javascript" formatted="false">Veb-sayt JavaScript</string>
+    <string name="javascript_body" formatted="false">Ko\&apos;pgina veb-saytlar va HTML5 video kashfiyoti uchun talab qilinadi.</string>
+    <string name="privacy" formatted="false">Maxfiylik</string>
+    <string name="clear_browser" formatted="false">Brauzer ma\&apos;lumotlarini tozalash</string>
+    <string name="clear_browser_confirm" formatted="false">Cookie fayllari, brauzer keshi, tarix va veb-sayt xotirasi oʻchirilsinmi?</string>
+    <string name="privacy_body" formatted="false">Reklamalar, tahlillar yoki ishlab chiquvchi hisoblari yo\&apos;q. Veb-saytlar, qidiruv tizimlari, DNS provayderlari va yuklab olish serverlari siz so\&apos;rovlarni qabul qiladi. Yuklab olish tarixi va xatcho‘plar ushbu qurilmada qoladi.</string>
+    <string name="terms" formatted="false">Mas\&apos;uliyat bilan foydalaning</string>
+    <string name="terms_body" formatted="false">Faqat sizga tegishli yoki yuklab olishga ruxsat berilgan videolarni saqlang. Mualliflik huquqi va veb-sayt shartlarini hurmat qiling. Bu ilova DRM, toʻlov devorlari yoki platformani yuklab olish cheklovlarini chetlab oʻta olmaydi.</string>
+    <string name="about" formatted="false">Haqida</string>
+    <string name="version" formatted="false">Versiya</string>
+    <string name="paid_app" formatted="false">Bitta xarid. Reklamalar yo\&apos;q. Obuna yo‘q.</string>
+    <string name="welcome_title" formatted="false">Sizni ilhomlantiradigan narsani saqlang.</string>
+    <string name="welcome_body" formatted="false">Ruxsat etilgan videolarni bir joyda ko\&apos;rib chiqing, toping va saqlang. Boshlash uchun tasvirlangan qo\&apos;llanmani o\&apos;qing.</string>
+    <string name="start_browsing" formatted="false">Ko‘rishni boshlang</string>
+    <string name="read_guide" formatted="false">Qo\&apos;llanmani o\&apos;qing</string>
+    <string name="browser_error" formatted="false">Bu sahifani yuklab bo‘lmadi. Manzil va ulanishni tekshiring, keyin qayta yuklang.</string>
+    <string name="secure_only" formatted="false">Bu ilova HTTPS ulanishlaridan foydalanadi. Ushbu veb-saytning xavfsiz versiyasini sinab ko\&apos;ring.</string>
+    <string name="external_link" formatted="false">Bu havola boshqa ilovada ochilsinmi?</string>
+    <string name="open" formatted="false">Ochiq</string>
+    <string name="refresh" formatted="false">Yangilash</string>
+    <string name="accessibility_tutorial" formatted="false">Ushbu o\&apos;quv bosqichi uchun rasm</string>
+    <string name="download_reason" formatted="false">Android yuklab olish xato kodi</string>
+    <string name="queue_full" formatted="false">Yuklab olish tarixi to\&apos;liq. Avval eski yozuvni olib tashlang.</string>
+    <string name="browser_tabs" formatted="false">Brauzer yorliqlari</string>
+    <string name="tabs_subtitle" formatted="false">Veb-saytlarni ochiq tuting va ular o\&apos;rtasida almashing.</string>
+    <string name="new_tab" formatted="false">Yangi varaq</string>
+    <string name="close_tab" formatted="false">Tabni yoping</string>
+    <string name="active_tab" formatted="false">Faol yorliq</string>
+    <string name="tab_limit" formatted="false">Siz 8 tagacha tab ochishingiz mumkin. Boshqasini qo‘shish uchun yorliqni yoping.</string>
+    <string name="history" formatted="false">Tarix</string>
+    <string name="history_subtitle" formatted="false">Tashrif buyurilgan veb-saytlar faqat shu qurilmada saqlanadi.</string>
+    <string name="empty_history" formatted="false">Brauzer tarixingiz shu yerda paydo bo‘ladi.</string>
+    <string name="clear_history" formatted="false">Tarixni tozalash</string>
+    <string name="clear_history_confirm" formatted="false">Bu qurilmadan barcha koʻrish tarixi oʻchirilsinmi?</string>
+    <string name="open_new_tab" formatted="false">Yangi varaqda oching</string>
+    <string name="browser_menu" formatted="false">Brauzer menyusi</string>
+    <string name="shortcut_note" formatted="false">Veb-sayt yorliqlari brauzerda ochiladi. Yuklab olishning mavjudligi veb-saytga bog\&apos;liq.</string>
+</resources>

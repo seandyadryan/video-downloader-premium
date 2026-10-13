@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Tallózás</string>
+    <string name="downloads" formatted="false">Letöltések</string>
+    <string name="guide" formatted="false">Útmutató</string>
+    <string name="settings" formatted="false">Beállítások elemre</string>
+    <string name="home_title" formatted="false">A videóid. Az Ön gyűjteménye.</string>
+    <string name="home_subtitle" formatted="false">Találj valamit, amit érdemes megtartani.</string>
+    <string name="search_hint" formatted="false">Keressen vagy írjon be egy webhelyet</string>
+    <string name="go" formatted="false">Menj</string>
+    <string name="paste_link" formatted="false">Illessze be a videó linkjét</string>
+    <string name="direct_link" formatted="false">Közvetlen videó link</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Letöltés</string>
+    <string name="detect" formatted="false">Keressen videókat</string>
+    <string name="detected" formatted="false">Videók ezen az oldalon</string>
+    <string name="no_media" formatted="false">Nem található letölthető videó. Indítsa el a videó lejátszását, majd próbálja újra. Előfordulhat, hogy a védett adatfolyamok és a beágyazott keretek nem érhetők el.</string>
+    <string name="safe_note" formatted="false">Csak azokat a videókat töltsd le, amelyek a tulajdonodban vannak, vagy amelyeknek van engedélye a mentésre. A védett adatfolyamok és a YouTube-letöltések nem érhetők el.</string>
+    <string name="quick_start" formatted="false">KEZDJE ITT</string>
+    <string name="quick_browse" formatted="false">Fedezze fel az internetet</string>
+    <string name="quick_browse_body" formatted="false">Keressen a kívánt motorral a beépített böngészőben.</string>
+    <string name="quick_download" formatted="false">Videó mentése</string>
+    <string name="quick_download_body" formatted="false">Illesszen be egy közvetlen HTTPS-videólinket, vagy keressen meg egy videót egy oldalon.</string>
+    <string name="quick_guide" formatted="false">Egy kis útmutatás</string>
+    <string name="quick_guide_body" formatted="false">Négy illusztrált lépés a felfedezéstől a gyűjteményig.</string>
+    <string name="back" formatted="false">Vissza</string>
+    <string name="forward" formatted="false">Előre</string>
+    <string name="reload" formatted="false">Újratöltés</string>
+    <string name="home" formatted="false">Otthon</string>
+    <string name="bookmark" formatted="false">Könyvjelző</string>
+    <string name="bookmarks" formatted="false">Könyvjelzők</string>
+    <string name="empty_bookmarks" formatted="false">A mentett webhelyek itt jelennek meg.</string>
+    <string name="saved" formatted="false">Mentve</string>
+    <string name="remove" formatted="false">Távolítsa el</string>
+    <string name="cancel" formatted="false">Mégse</string>
+    <string name="close" formatted="false">Bezárás</string>
+    <string name="confirm_download" formatted="false">Menti ezt a videót?</string>
+    <string name="filename" formatted="false">Fájlnév</string>
+    <string name="download_location" formatted="false">Mentve a Letöltések / Video Downloader Premium mappába</string>
+    <string name="permission_confirm" formatted="false">Én vagyok a videó tulajdonosa, vagy engedélyem van a letöltésére.</string>
+    <string name="permission_required" formatted="false">Erősítse meg, hogy jogosult-e a videó mentésére.</string>
+    <string name="invalid_url" formatted="false">Adjon meg egy érvényes HTTPS-videólinket.</string>
+    <string name="unsupported" formatted="false">Ez a link nem letölthető videó. A DRM, az élő közvetítések, a lejátszási listák és a YouTube-letöltések nem támogatottak.</string>
+    <string name="queued" formatted="false">A letöltés hozzáadva a várólistához</string>
+    <string name="download_error" formatted="false">Nem lehet letölteni. Ellenőrizze a kapcsolatot, vagy használjon friss videó hivatkozást.</string>
+    <string name="collection_title" formatted="false">Az Ön gyűjteménye</string>
+    <string name="collection_subtitle" formatted="false">Mentett videók, készen áll, amikor készen vagy.</string>
+    <string name="empty_downloads" formatted="false">Következő kedvence ide tartozik.</string>
+    <string name="empty_downloads_body" formatted="false">Keressen egy videót a Tallózásban, vagy illesszen be egy közvetlen videólinket a gyűjtemény elindításához.</string>
+    <string name="pending" formatted="false">Sorban</string>
+    <string name="running" formatted="false">Letöltés</string>
+    <string name="paused" formatted="false">Várakozás a hálózatra vagy újrapróbálkozás</string>
+    <string name="complete" formatted="false">Teljes</string>
+    <string name="failed" formatted="false">Sikertelen</string>
+    <string name="missing" formatted="false">A fájl nem érhető el</string>
+    <string name="play" formatted="false">Játssz</string>
+    <string name="share" formatted="false">Megosztás</string>
+    <string name="retry" formatted="false">Próbálja újra</string>
+    <string name="delete_download" formatted="false">Eltávolítja a letöltést és a fájlt?</string>
+    <string name="no_player" formatted="false">No compatible app is available to open this file.</string>
+    <string name="guide_title" formatted="false">A felfedezéstől a letöltésig.</string>
+    <string name="guide_subtitle" formatted="false">Egy egyszerű útmutató a kedvenc videók megtartásához.</string>
+    <string name="step_one_title" formatted="false">Keresse meg a videót</string>
+    <string name="step_one_body" formatted="false">Nyissa meg a Tallózást. Keressen vagy írjon be egy webhely címét. You can also share a video link from another app.</string>
+    <string name="step_two_title" formatted="false">Fedezze fel a forrást</string>
+    <string name="step_two_body" formatted="false">Játssz le egy videót, majd koppints a Videók keresése elemre. Válasszon egy észlelt fájlt, vagy illesszen be egy közvetlen HTTPS-videohivatkozást.</string>
+    <string name="step_three_title" formatted="false">Legyen a tiéd</string>
+    <string name="step_three_body" formatted="false">Válasszon egy fájlnevet, erősítse meg a videó mentési engedélyét, majd érintse meg a Letöltés gombot. Az Android a háttérben folytatja a letöltést.</string>
+    <string name="step_four_title" formatted="false">Élvezze a gyűjteményt</string>
+    <string name="step_four_body" formatted="false">Nyissa meg a Letöltéseket a folyamat ellenőrzéséhez. Kész videók lejátszása vagy megosztása. Szükség esetén próbálja meg újra a sikertelen letöltéseket egy friss linkkel.</string>
+    <string name="try_now" formatted="false">Próbálja ki most</string>
+    <string name="preferences" formatted="false">Tedd magadévá.</string>
+    <string name="preferences_subtitle" formatted="false">Néhány átgondolt vezérlőelem a mindennapi böngészéshez.</string>
+    <string name="dns_title" formatted="false">VPN / Privát DNS</string>
+    <string name="dns_explanation" formatted="false">A privát DNS titkosítja a DNS-lekérdezéseket. Nem rejti el az IP-címét, és nem hoz létre VPN-alagutat. Az Android megköveteli, hogy ezt a beállítást manuálisan módosítsa.</string>
+    <string name="connected" formatted="false">Csatlakozva</string>
+    <string name="unconnected" formatted="false">Nincs kapcsolat</string>
+    <string name="connect" formatted="false">Csatlakozás</string>
+    <string name="disconnect" formatted="false">Leválasztás</string>
+    <string name="dns_instructions" formatted="false">Válassza a Privát DNS-szolgáltató gazdagépneve lehetőséget, illessze be a dns.adguard-dns.com webhelyet, és mentse. A leválasztáshoz válassza az Automatikus vagy a Ki lehetőséget ugyanabban a rendszerbeállításban.</string>
+    <string name="copy_hostname" formatted="false">Gazdanév másolása</string>
+    <string name="copied" formatted="false">Vágólapra másolva</string>
+    <string name="open_network_settings" formatted="false">Nyissa meg a hálózati beállításokat</string>
+    <string name="language" formatted="false">Alkalmazás nyelve</string>
+    <string name="system_language" formatted="false">Kövesse az eszköz nyelvét</string>
+    <string name="search_language" formatted="false">Keress egy nyelvet</string>
+    <string name="language_note" formatted="false">A fordításokat offline is tartalmazza. A listán nem szereplő eszközök nyelve az angol. A gépi fordítások regionális felülvizsgálatot igényelhetnek.</string>
+    <string name="search_engine" formatted="false">Keresőmotor</string>
+    <string name="wifi_only" formatted="false">Letöltés csak Wi-Fi-n keresztül</string>
+    <string name="wifi_body" formatted="false">Az új letöltések megvárják, amíg elérhető lesz a Wi-Fi.</string>
+    <string name="javascript" formatted="false">Weboldal JavaScript</string>
+    <string name="javascript_body" formatted="false">Sok webhely és HTML5-videófelfedezés megköveteli.</string>
+    <string name="privacy" formatted="false">Adatvédelem</string>
+    <string name="clear_browser" formatted="false">Böngészési adatok törlése</string>
+    <string name="clear_browser_confirm" formatted="false">Törli a cookie-kat, a böngésző gyorsítótárát, az előzményeket és a webhely tárhelyét?</string>
+    <string name="privacy_body" formatted="false">Nincsenek hirdetések, elemzések vagy fejlesztői fiókok. Weboldalak, keresőmotorok, DNS-szolgáltatók és letöltő szerverek fogadják az Ön kéréseit. A letöltési előzmények és a könyvjelzők ezen az eszközön maradnak.</string>
+    <string name="terms" formatted="false">Használd felelősségteljesen</string>
+    <string name="terms_body" formatted="false">Csak azokat a videókat mentse, amelyek a tulajdonodban vannak, vagy amelyeket letölthetsz. Tartsa tiszteletben a szerzői jogokat és a webhely feltételeit. Ez az alkalmazás nem tudja megkerülni a DRM-et, a fizetőfalakat vagy a platformletöltési korlátozásokat.</string>
+    <string name="about" formatted="false">Körülbelül</string>
+    <string name="version" formatted="false">Version</string>
+    <string name="paid_app" formatted="false">One purchase. No ads. Nincs előfizetés.</string>
+    <string name="welcome_title" formatted="false">Keep what inspires you.</string>
+    <string name="welcome_body" formatted="false">Böngésszen, fedezze fel és mentse az engedélyezett videókat egy helyen. A kezdéshez olvassa el az illusztrált útmutatót.</string>
+    <string name="start_browsing" formatted="false">Start browsing</string>
+    <string name="read_guide" formatted="false">Read the guide</string>
+    <string name="browser_error" formatted="false">Ez az oldal nem tölthető be. Ellenőrizze a címet és a kapcsolatot, majd töltse be újra.</string>
+    <string name="secure_only" formatted="false">Ez az alkalmazás HTTPS-kapcsolatokat használ. Próbálja ki a webhely biztonságos verzióját.</string>
+    <string name="external_link" formatted="false">Megnyitja ezt a linket egy másik alkalmazásban?</string>
+    <string name="open" formatted="false">Nyissa meg</string>
+    <string name="refresh" formatted="false">Frissítés</string>
+    <string name="accessibility_tutorial" formatted="false">Illusztráció ehhez az oktatóanyaghoz</string>
+    <string name="download_reason" formatted="false">Android letöltési hibakód</string>
+    <string name="queue_full" formatted="false">A letöltési előzmények megtelt. Először távolítson el egy régebbi bejegyzést.</string>
+    <string name="browser_tabs" formatted="false">Böngésző lapok</string>
+    <string name="tabs_subtitle" formatted="false">Tartsa nyitva a webhelyeket, és váltson közöttük.</string>
+    <string name="new_tab" formatted="false">Új lap</string>
+    <string name="close_tab" formatted="false">Lap bezárása</string>
+    <string name="active_tab" formatted="false">Aktív lap</string>
+    <string name="tab_limit" formatted="false">Legfeljebb 8 lapot nyithat meg. Zárjon be egy lapot egy másik hozzáadásához.</string>
+    <string name="history" formatted="false">Történelem</string>
+    <string name="history_subtitle" formatted="false">A meglátogatott webhelyek csak erre az eszközre kerülnek mentésre.</string>
+    <string name="empty_history" formatted="false">Itt jelennek meg böngészési előzményei.</string>
+    <string name="clear_history" formatted="false">Törölje az előzményeket</string>
+    <string name="clear_history_confirm" formatted="false">Törli az összes böngészési előzményt erről az eszközről?</string>
+    <string name="open_new_tab" formatted="false">Megnyitás új lapon</string>
+    <string name="browser_menu" formatted="false">Böngésző menü</string>
+    <string name="shortcut_note" formatted="false">A webhely parancsikonjai megnyílnak a böngészőben. A letöltés elérhetősége a webhelytől függ.</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ፕሪሚየም</string>
+    <string name="browse" formatted="false">አስስ</string>
+    <string name="downloads" formatted="false">ውርዶች</string>
+    <string name="guide" formatted="false">መመሪያ</string>
+    <string name="settings" formatted="false">ቅንብሮች</string>
+    <string name="home_title" formatted="false">ቪዲዮዎችህ። የእርስዎ ስብስብ።</string>
+    <string name="home_subtitle" formatted="false">ሊቀመጥ የሚገባው ነገር ያግኙ።</string>
+    <string name="search_hint" formatted="false">ድር ጣቢያ ይፈልጉ ወይም ያስገቡ</string>
+    <string name="go" formatted="false">ሂድ</string>
+    <string name="paste_link" formatted="false">የቪዲዮ ማገናኛን ለጥፍ</string>
+    <string name="direct_link" formatted="false">የቀጥታ ቪዲዮ አገናኝ</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">አውርድ</string>
+    <string name="detect" formatted="false">ቪዲዮዎችን ያግኙ</string>
+    <string name="detected" formatted="false">በዚህ ገጽ ላይ ያሉ ቪዲዮዎች</string>
+    <string name="no_media" formatted="false">ምንም ሊወርድ የሚችል ቪዲዮ አልተገኘም። ቪዲዮ ማጫወት ይጀምሩ፣ ከዚያ እንደገና ይሞክሩ። የተጠበቁ ዥረቶች እና የተከተቱ ክፈፎች ላይገኙ ይችላሉ።</string>
+    <string name="safe_note" formatted="false">እርስዎ ባለቤት የሆኑትን ቪዲዮዎች ብቻ ያውርዱ ወይም ለማስቀመጥ ፍቃድ ያለዎት። የተጠበቁ ዥረቶች እና የዩቲዩብ ማውረዶች አይገኙም።</string>
+    <string name="quick_start" formatted="false">እዚህ ጀምር</string>
+    <string name="quick_browse" formatted="false">ድሩን ያስሱ</string>
+    <string name="quick_browse_body" formatted="false">አብሮ በተሰራው አሳሽ ውስጥ በመረጡት ሞተር ይፈልጉ።</string>
+    <string name="quick_download" formatted="false">ቪዲዮ አስቀምጥ</string>
+    <string name="quick_download_body" formatted="false">ቀጥተኛ የኤችቲቲፒኤስ ቪዲዮ አገናኝ ለጥፍ ወይም በገጽ ላይ ቪዲዮ ያግኙ።</string>
+    <string name="quick_guide" formatted="false">ትንሽ መመሪያ</string>
+    <string name="quick_guide_body" formatted="false">ከግኝት እስከ ስብስብዎ ድረስ አራት የተገለጹ ደረጃዎች።</string>
+    <string name="back" formatted="false">ተመለስ</string>
+    <string name="forward" formatted="false">ወደፊት</string>
+    <string name="reload" formatted="false">እንደገና ጫን</string>
+    <string name="home" formatted="false">ቤት</string>
+    <string name="bookmark" formatted="false">ዕልባት</string>
+    <string name="bookmarks" formatted="false">ዕልባቶች</string>
+    <string name="empty_bookmarks" formatted="false">የተቀመጡ ድር ጣቢያዎች እዚህ ይታያሉ።</string>
+    <string name="saved" formatted="false">ተቀምጧል</string>
+    <string name="remove" formatted="false">አስወግድ</string>
+    <string name="cancel" formatted="false">ሰርዝ</string>
+    <string name="close" formatted="false">ዝጋ</string>
+    <string name="confirm_download" formatted="false">ይህ ቪዲዮ ይቀመጥ?</string>
+    <string name="filename" formatted="false">የፋይል ስም</string>
+    <string name="download_location" formatted="false">በውርዶች / ቪዲዮ ማውረጃ ፕሪሚየም ውስጥ ተቀምጧል</string>
+    <string name="permission_confirm" formatted="false">የዚህ ቪዲዮ ባለቤት ነኝ ወይም ለማውረድ ፍቃድ አለኝ።</string>
+    <string name="permission_required" formatted="false">ይህን ቪዲዮ ለማስቀመጥ ፍቃድ እንዳለዎት ያረጋግጡ።</string>
+    <string name="invalid_url" formatted="false">የሚሰራ HTTPS ቪዲዮ አገናኝ አስገባ።</string>
+    <string name="unsupported" formatted="false">ይህ ሊንክ ሊወርድ የሚችል ቪዲዮ አይደለም። DRM፣ የቀጥታ ዥረቶች፣ አጫዋች ዝርዝሮች እና የዩቲዩብ ማውረዶች አይደገፉም።</string>
+    <string name="queued" formatted="false">ማውረድ ወደ ወረፋው ታክሏል።</string>
+    <string name="download_error" formatted="false">ማውረድ አልተቻለም። ግንኙነቱን ያረጋግጡ ወይም አዲስ የቪዲዮ ማገናኛ ይጠቀሙ።</string>
+    <string name="collection_title" formatted="false">የእርስዎ ስብስብ</string>
+    <string name="collection_subtitle" formatted="false">የተቀመጡ ቪዲዮዎች፣ እርስዎ ሲሆኑ ዝግጁ ናቸው።</string>
+    <string name="empty_downloads" formatted="false">ቀጣዩ ተወዳጅዎ እዚህ ነው።</string>
+    <string name="empty_downloads_body" formatted="false">በአሰሳ ውስጥ ቪዲዮ ይፈልጉ ወይም ስብስብዎን ለመጀመር የቀጥታ ቪዲዮ አገናኝ ይለጥፉ።</string>
+    <string name="pending" formatted="false">ተሰልፏል</string>
+    <string name="running" formatted="false">በማውረድ ላይ</string>
+    <string name="paused" formatted="false">አውታረ መረብን በመጠበቅ ላይ ወይም እንደገና ይሞክሩ</string>
+    <string name="complete" formatted="false">ሙሉ</string>
+    <string name="failed" formatted="false">አልተሳካም።</string>
+    <string name="missing" formatted="false">ፋይል አይገኝም</string>
+    <string name="play" formatted="false">ይጫወቱ</string>
+    <string name="share" formatted="false">አጋራ</string>
+    <string name="retry" formatted="false">እንደገና ይሞክሩ</string>
+    <string name="delete_download" formatted="false">ማውረድ እና ፋይሉ ይወገድ?</string>
+    <string name="no_player" formatted="false">ይህን ፋይል ለመክፈት ምንም ተኳሃኝ መተግበሪያ የለም።</string>
+    <string name="guide_title" formatted="false">ከግኝት እስከ ማውረድ።</string>
+    <string name="guide_subtitle" formatted="false">የሚወዷቸውን ቪዲዮዎች ለማቆየት ቀላል መመሪያ።</string>
+    <string name="step_one_title" formatted="false">ቪዲዮህን አግኝ</string>
+    <string name="step_one_body" formatted="false">አሳሽ ክፈት። የድር ጣቢያ አድራሻ ይፈልጉ ወይም ያስገቡ። እንዲሁም ከሌላ መተግበሪያ የቪዲዮ አገናኝ ማጋራት ይችላሉ።</string>
+    <string name="step_two_title" formatted="false">ምንጩን ያግኙ</string>
+    <string name="step_two_body" formatted="false">ቪዲዮ አጫውት እና ቪዲዮዎችን አግኝ ንካ። የተገኘውን ፋይል ይምረጡ ወይም ቀጥተኛ የኤችቲቲፒኤስ ቪዲዮ አገናኝ ይለጥፉ።</string>
+    <string name="step_three_title" formatted="false">ያንተ ያድርጉት</string>
+    <string name="step_three_body" formatted="false">የፋይል ስም ይምረጡ፣ ቪዲዮውን ለማስቀመጥ ፍቃድዎን ያረጋግጡ እና አውርድን ይንኩ። አንድሮይድ ከበስተጀርባ ማውረዱን ቀጥሏል።</string>
+    <string name="step_four_title" formatted="false">በስብስብዎ ይደሰቱ</string>
+    <string name="step_four_body" formatted="false">ሂደትን ለመፈተሽ ውርዶችን ይክፈቱ። የተጠናቀቁ ቪዲዮዎችን ያጫውቱ ወይም ያጋሩ። አስፈላጊ ሆኖ ሲገኝ ያልተሳኩ ውርዶችን በአዲስ አገናኝ እንደገና ይሞክሩ።</string>
+    <string name="try_now" formatted="false">አሁን ይሞክሩት።</string>
+    <string name="preferences" formatted="false">የራስዎ ያድርጉት።</string>
+    <string name="preferences_subtitle" formatted="false">ለዕለታዊ አሰሳዎ ጥቂት አሳቢ ቁጥጥሮች።</string>
+    <string name="dns_title" formatted="false">VPN / የግል ዲ ኤን ኤስ</string>
+    <string name="dns_explanation" formatted="false">የግል ዲ ኤን ኤስ የዲ ኤን ኤስ መጠይቆችን ኢንክሪፕት ያደርጋል። የእርስዎን አይፒ አድራሻ አይደብቅም ወይም የቪፒኤን ዋሻ አይፈጥርም። አንድሮይድ ይህን ቅንብር እራስዎ እንዲቀይሩት ይፈልጋል።</string>
+    <string name="connected" formatted="false">ተገናኝቷል።</string>
+    <string name="unconnected" formatted="false">አልተገናኘም።</string>
+    <string name="connect" formatted="false">ተገናኝ</string>
+    <string name="disconnect" formatted="false">ግንኙነት አቋርጥ</string>
+    <string name="dns_instructions" formatted="false">የግል ዲኤንኤስ አቅራቢ አስተናጋጅ ስም ይምረጡ፣ dns.adguard-dns.com ይለጥፉ እና ያስቀምጡ። ግንኙነቱን ለማቋረጥ በተመሳሳዩ የስርዓት ቅንብር ውስጥ አውቶማቲክ ወይም ጠፍቷል የሚለውን ይምረጡ።</string>
+    <string name="copy_hostname" formatted="false">የአስተናጋጅ ስም ቅዳ</string>
+    <string name="copied" formatted="false">ወደ ቅንጥብ ሰሌዳ ተቀድቷል።</string>
+    <string name="open_network_settings" formatted="false">የአውታረ መረብ ቅንብሮችን ይክፈቱ</string>
+    <string name="language" formatted="false">የመተግበሪያ ቋንቋ</string>
+    <string name="system_language" formatted="false">የመሣሪያ ቋንቋን ተከተል</string>
+    <string name="search_language" formatted="false">ቋንቋ ይፈልጉ</string>
+    <string name="language_note" formatted="false">ትርጉሞች ከመስመር ውጭ ተካትተዋል። ያልተዘረዘሩ የመሣሪያ ቋንቋዎች እንግሊዝኛን ይጠቀማሉ። የማሽን ትርጉሞች የክልል ግምገማ ሊያስፈልጋቸው ይችላል።</string>
+    <string name="search_engine" formatted="false">የፍለጋ ሞተር</string>
+    <string name="wifi_only" formatted="false">በWi-Fi ላይ ብቻ ያውርዱ</string>
+    <string name="wifi_body" formatted="false">አዲስ ማውረዶች Wi-Fi እስኪገኝ ድረስ ይጠብቃሉ።</string>
+    <string name="javascript" formatted="false">ጃቫስክሪፕት ድር ጣቢያ</string>
+    <string name="javascript_body" formatted="false">በብዙ ድር ጣቢያዎች እና HTML5 ቪዲዮ ግኝት የሚፈለግ።</string>
+    <string name="privacy" formatted="false">ግላዊነት</string>
+    <string name="clear_browser" formatted="false">የአሰሳ ውሂብ አጽዳ</string>
+    <string name="clear_browser_confirm" formatted="false">ኩኪዎች፣ የአሳሽ መሸጎጫ፣ ታሪክ እና የድር ጣቢያ ማከማቻ ይሰረዙ?</string>
+    <string name="privacy_body" formatted="false">ምንም ማስታወቂያዎች፣ ትንታኔዎች ወይም የገንቢ መለያዎች የሉም። ድህረ ገፆች፣ የፍለጋ ፕሮግራሞች፣ የዲኤንኤስ አቅራቢዎች እና የማውረጃ አገልጋዮች እርስዎ የጠየቁትን ይደርሳቸዋል። የውርድ ታሪክ እና ዕልባቶች በዚህ መሣሪያ ላይ ይቆያሉ።</string>
+    <string name="terms" formatted="false">በኃላፊነት ተጠቀም</string>
+    <string name="terms_body" formatted="false">እርስዎ ባለቤት የሆኑትን ወይም ለማውረድ የተፈቀደላቸው ቪዲዮዎችን ብቻ ያስቀምጡ። የቅጂ መብት እና የድር ጣቢያ ውሎችን ያክብሩ። ይህ መተግበሪያ DRMን፣ የክፍያ ግድግዳዎችን ወይም የመሳሪያ ስርዓት ማውረድ ገደቦችን ማለፍ አይችልም።</string>
+    <string name="about" formatted="false">ስለ</string>
+    <string name="version" formatted="false">ሥሪት</string>
+    <string name="paid_app" formatted="false">አንድ ግዢ. ምንም ማስታወቂያዎች የሉም። ምንም የደንበኝነት ምዝገባ የለም.</string>
+    <string name="welcome_title" formatted="false">የሚያነሳሳህን አቆይ።</string>
+    <string name="welcome_body" formatted="false">የተፈቀዱ ቪዲዮዎችን ያስሱ፣ ያግኙ እና ያስቀምጡ። ለመጀመር የተገለጸውን መመሪያ ያንብቡ።</string>
+    <string name="start_browsing" formatted="false">ማሰስ ጀምር</string>
+    <string name="read_guide" formatted="false">መመሪያውን ያንብቡ</string>
+    <string name="browser_error" formatted="false">ይህ ገጽ ሊጫን አልቻለም። አድራሻውን እና ግንኙነቱን ያረጋግጡ እና ከዚያ እንደገና ይጫኑ።</string>
+    <string name="secure_only" formatted="false">ይህ መተግበሪያ HTTPS ግንኙነቶችን ይጠቀማል። የዚህን ድር ጣቢያ ደህንነቱ የተጠበቀ ስሪት ይሞክሩ።</string>
+    <string name="external_link" formatted="false">ይህ ሊንክ በሌላ መተግበሪያ ውስጥ ይከፈት?</string>
+    <string name="open" formatted="false">ክፈት</string>
+    <string name="refresh" formatted="false">አድስ</string>
+    <string name="accessibility_tutorial" formatted="false">ለዚህ አጋዥ ደረጃ ምሳሌ</string>
+    <string name="download_reason" formatted="false">አንድሮይድ የማውረድ ስህተት ኮድ</string>
+    <string name="queue_full" formatted="false">የማውረድ ታሪክ ሙሉ ነው። መጀመሪያ የቆየ ግቤት ያስወግዱ።</string>
+    <string name="browser_tabs" formatted="false">የአሳሽ ትሮች</string>
+    <string name="tabs_subtitle" formatted="false">ድረ-ገጾችን ክፍት አድርገው በመካከላቸው ይቀያይሩ።</string>
+    <string name="new_tab" formatted="false">አዲስ ትር</string>
+    <string name="close_tab" formatted="false">ትርን ዝጋ</string>
+    <string name="active_tab" formatted="false">ንቁ ትር</string>
+    <string name="tab_limit" formatted="false">እስከ 8 ትሮች መክፈት ይችላሉ። ሌላ ለማከል ትር ዝጋ።</string>
+    <string name="history" formatted="false">ታሪክ</string>
+    <string name="history_subtitle" formatted="false">የተጎበኙ ድረ-ገጾች የሚቀመጡት በዚህ መሣሪያ ላይ ብቻ ነው።</string>
+    <string name="empty_history" formatted="false">የአሰሳ ታሪክህ እዚህ ይታያል።</string>
+    <string name="clear_history" formatted="false">ታሪክ አጽዳ</string>
+    <string name="clear_history_confirm" formatted="false">ሁሉም የአሰሳ ታሪክ ከዚህ መሳሪያ ይሰረዝ?</string>
+    <string name="open_new_tab" formatted="false">በአዲስ ትር ክፈት</string>
+    <string name="browser_menu" formatted="false">የአሳሽ ምናሌ</string>
+    <string name="shortcut_note" formatted="false">የድር ጣቢያ አቋራጮች በአሳሹ ውስጥ ተከፍተዋል። የማውረድ መገኘት በድር ጣቢያው ላይ የተመሰረተ ነው.</string>
+</resources>

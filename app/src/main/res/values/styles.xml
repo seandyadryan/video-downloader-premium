@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.Premium" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#147B56</item>
+        <item name="colorPrimaryVariant">#106442</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#147B56</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:colorAccent">#147B56</item>
+    </style>
+</resources>

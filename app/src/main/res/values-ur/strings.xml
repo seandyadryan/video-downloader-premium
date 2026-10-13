@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">پریمیم</string>
+    <string name="browse" formatted="false">براؤز کریں۔</string>
+    <string name="downloads" formatted="false">ڈاؤن لوڈز</string>
+    <string name="guide" formatted="false">گائیڈ</string>
+    <string name="settings" formatted="false">ترتیبات</string>
+    <string name="home_title" formatted="false">آپ کی ویڈیوز۔ آپ کا مجموعہ۔</string>
+    <string name="home_subtitle" formatted="false">رکھنے کے قابل کچھ تلاش کریں۔</string>
+    <string name="search_hint" formatted="false">ویب سائٹ تلاش کریں یا درج کریں۔</string>
+    <string name="go" formatted="false">جاؤ</string>
+    <string name="paste_link" formatted="false">ویڈیو لنک پیسٹ کریں۔</string>
+    <string name="direct_link" formatted="false">براہ راست ویڈیو لنک</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ڈاؤن لوڈ کریں۔</string>
+    <string name="detect" formatted="false">ویڈیوز تلاش کریں۔</string>
+    <string name="detected" formatted="false">اس صفحہ پر ویڈیوز</string>
+    <string name="no_media" formatted="false">کوئی ڈاؤن لوڈ کے قابل ویڈیو نہیں ملا۔ ایک ویڈیو چلانا شروع کریں، پھر دوبارہ کوشش کریں۔ پروٹیکٹڈ اسٹریمز اور ایمبیڈڈ فریم دستیاب نہیں ہو سکتے ہیں۔</string>
+    <string name="safe_note" formatted="false">صرف وہی ویڈیوز ڈاؤن لوڈ کریں جو آپ کے پاس ہیں یا آپ کو محفوظ کرنے کی اجازت ہے۔ محفوظ سلسلے اور YouTube ڈاؤن لوڈز دستیاب نہیں ہیں۔</string>
+    <string name="quick_start" formatted="false">یہاں شروع کریں۔</string>
+    <string name="quick_browse" formatted="false">ویب کو دریافت کریں۔</string>
+    <string name="quick_browse_body" formatted="false">بلٹ ان براؤزر میں اپنے پسندیدہ انجن کے ساتھ تلاش کریں۔</string>
+    <string name="quick_download" formatted="false">ایک ویڈیو محفوظ کریں۔</string>
+    <string name="quick_download_body" formatted="false">براہ راست HTTPS ویڈیو لنک چسپاں کریں یا کسی صفحہ پر ویڈیو تلاش کریں۔</string>
+    <string name="quick_guide" formatted="false">تھوڑی سی رہنمائی</string>
+    <string name="quick_guide_body" formatted="false">دریافت سے لے کر آپ کے مجموعہ تک چار واضح اقدامات۔</string>
+    <string name="back" formatted="false">پیچھے</string>
+    <string name="forward" formatted="false">آگے</string>
+    <string name="reload" formatted="false">دوبارہ لوڈ کریں۔</string>
+    <string name="home" formatted="false">گھر</string>
+    <string name="bookmark" formatted="false">بک مارک</string>
+    <string name="bookmarks" formatted="false">بک مارکس</string>
+    <string name="empty_bookmarks" formatted="false">محفوظ کردہ ویب سائٹس یہاں ظاہر ہوں گی۔</string>
+    <string name="saved" formatted="false">محفوظ کیا گیا۔</string>
+    <string name="remove" formatted="false">ہٹا دیں۔</string>
+    <string name="cancel" formatted="false">منسوخ کریں۔</string>
+    <string name="close" formatted="false">بند</string>
+    <string name="confirm_download" formatted="false">اس ویڈیو کو محفوظ کریں؟</string>
+    <string name="filename" formatted="false">فائل کا نام</string>
+    <string name="download_location" formatted="false">ڈاؤن لوڈز / ویڈیو ڈاؤنلوڈر پریمیم میں محفوظ کیا گیا۔</string>
+    <string name="permission_confirm" formatted="false">میں اس ویڈیو کا مالک ہوں یا مجھے اسے ڈاؤن لوڈ کرنے کی اجازت ہے۔</string>
+    <string name="permission_required" formatted="false">تصدیق کریں کہ آپ کو اس ویڈیو کو محفوظ کرنے کی اجازت ہے۔</string>
+    <string name="invalid_url" formatted="false">ایک درست HTTPS ویڈیو لنک درج کریں۔</string>
+    <string name="unsupported" formatted="false">یہ لنک ڈاؤن لوڈ کے قابل ویڈیو نہیں ہے۔ DRM، لائیو سٹریمز، پلے لسٹس، اور YouTube ڈاؤن لوڈز غیر تعاون یافتہ ہیں۔</string>
+    <string name="queued" formatted="false">ڈاؤن لوڈ کو قطار میں شامل کر دیا گیا۔</string>
+    <string name="download_error" formatted="false">ڈاؤن لوڈ کرنے سے قاصر۔ کنکشن چیک کریں یا ایک تازہ ویڈیو لنک استعمال کریں۔</string>
+    <string name="collection_title" formatted="false">آپ کا مجموعہ</string>
+    <string name="collection_subtitle" formatted="false">محفوظ کردہ ویڈیوز، جب آپ ہوں تو تیار۔</string>
+    <string name="empty_downloads" formatted="false">آپ کا اگلا پسندیدہ یہاں سے تعلق رکھتا ہے۔</string>
+    <string name="empty_downloads_body" formatted="false">براؤز میں ایک ویڈیو تلاش کریں یا اپنا مجموعہ شروع کرنے کے لیے براہ راست ویڈیو لنک پیسٹ کریں۔</string>
+    <string name="pending" formatted="false">قطار میں لگ گیا۔</string>
+    <string name="running" formatted="false">ڈاؤن لوڈ ہو رہا ہے۔</string>
+    <string name="paused" formatted="false">نیٹ ورک کا انتظار ہے یا دوبارہ کوشش کریں۔</string>
+    <string name="complete" formatted="false">مکمل</string>
+    <string name="failed" formatted="false">ناکام</string>
+    <string name="missing" formatted="false">فائل دستیاب نہیں ہے۔</string>
+    <string name="play" formatted="false">کھیلیں</string>
+    <string name="share" formatted="false">شیئر کریں۔</string>
+    <string name="retry" formatted="false">دوبارہ کوشش کریں۔</string>
+    <string name="delete_download" formatted="false">ڈاؤن لوڈ اور اس کی فائل کو ہٹا دیں؟</string>
+    <string name="no_player" formatted="false">اس فائل کو کھولنے کے لیے کوئی مطابقت پذیر ایپ دستیاب نہیں ہے۔</string>
+    <string name="guide_title" formatted="false">دریافت سے ڈاؤن لوڈ تک۔</string>
+    <string name="guide_subtitle" formatted="false">اپنی پسند کی ویڈیوز رکھنے کے لیے ایک سادہ گائیڈ۔</string>
+    <string name="step_one_title" formatted="false">اپنی ویڈیو تلاش کریں۔</string>
+    <string name="step_one_body" formatted="false">براؤز کھولیں۔ ویب سائٹ کا پتہ تلاش کریں یا درج کریں۔ آپ کسی اور ایپ سے ویڈیو لنک بھی شیئر کر سکتے ہیں۔</string>
+    <string name="step_two_title" formatted="false">ماخذ دریافت کریں۔</string>
+    <string name="step_two_body" formatted="false">ویڈیو چلائیں، پھر ویڈیوز تلاش کریں پر ٹیپ کریں۔ ایک دریافت شدہ فائل کا انتخاب کریں، یا براہ راست HTTPS ویڈیو لنک پیسٹ کریں۔</string>
+    <string name="step_three_title" formatted="false">اسے اپنا بنائیں</string>
+    <string name="step_three_body" formatted="false">فائل کا نام منتخب کریں، ویڈیو کو محفوظ کرنے کے لیے اپنی اجازت کی تصدیق کریں، اور ڈاؤن لوڈ پر ٹیپ کریں۔ Android پس منظر میں ڈاؤن لوڈ کو جاری رکھتا ہے۔</string>
+    <string name="step_four_title" formatted="false">اپنے مجموعہ سے لطف اٹھائیں۔</string>
+    <string name="step_four_body" formatted="false">پیشرفت چیک کرنے کے لیے ڈاؤن لوڈز کھولیں۔ مکمل شدہ ویڈیوز چلائیں یا شیئر کریں۔ ضرورت پڑنے پر ایک تازہ لنک کے ساتھ ناکام ڈاؤن لوڈز کی دوبارہ کوشش کریں۔</string>
+    <string name="try_now" formatted="false">اسے ابھی آزمائیں</string>
+    <string name="preferences" formatted="false">اسے اپنا بنائیں۔</string>
+    <string name="preferences_subtitle" formatted="false">آپ کی روزمرہ کی براؤزنگ کے لیے چند سوچے سمجھے کنٹرول۔</string>
+    <string name="dns_title" formatted="false">VPN / نجی DNS</string>
+    <string name="dns_explanation" formatted="false">نجی DNS DNS سوالات کو خفیہ کرتا ہے۔ یہ آپ کا آئی پی ایڈریس نہیں چھپاتا اور نہ ہی وی پی این ٹنل بناتا ہے۔ Android آپ سے اس ترتیب کو دستی طور پر تبدیل کرنے کا تقاضا کرتا ہے۔</string>
+    <string name="connected" formatted="false">جڑا ہوا</string>
+    <string name="unconnected" formatted="false">غیر مربوط</string>
+    <string name="connect" formatted="false">جڑیں۔</string>
+    <string name="disconnect" formatted="false">منقطع کرنا</string>
+    <string name="dns_instructions" formatted="false">نجی DNS فراہم کنندہ کا میزبان نام منتخب کریں، dns.adguard-dns.com پیسٹ کریں، اور محفوظ کریں۔ منقطع کرنے کے لیے، اسی سسٹم سیٹنگ میں خودکار یا آف کو منتخب کریں۔</string>
+    <string name="copy_hostname" formatted="false">میزبان نام کاپی کریں۔</string>
+    <string name="copied" formatted="false">کلپ بورڈ پر کاپی ہو گیا۔</string>
+    <string name="open_network_settings" formatted="false">نیٹ ورک کی ترتیبات کھولیں۔</string>
+    <string name="language" formatted="false">ایپ کی زبان</string>
+    <string name="system_language" formatted="false">آلہ کی زبان کی پیروی کریں۔</string>
+    <string name="search_language" formatted="false">ایک زبان تلاش کریں۔</string>
+    <string name="language_note" formatted="false">ترجمے آف لائن شامل ہیں۔ غیر مندرج آلہ کی زبانیں انگریزی استعمال کرتی ہیں۔ مشینی تراجم کو علاقائی جائزہ کی ضرورت ہو سکتی ہے۔</string>
+    <string name="search_engine" formatted="false">سرچ انجن</string>
+    <string name="wifi_only" formatted="false">صرف وائی فائی پر ڈاؤن لوڈ کریں۔</string>
+    <string name="wifi_body" formatted="false">نئے ڈاؤن لوڈز وائی فائی کے دستیاب ہونے تک انتظار کرتے ہیں۔</string>
+    <string name="javascript" formatted="false">ویب سائٹ جاوا اسکرپٹ</string>
+    <string name="javascript_body" formatted="false">بہت سی ویب سائٹس اور HTML5 ویڈیو دریافت کے لیے درکار ہے۔</string>
+    <string name="privacy" formatted="false">رازداری</string>
+    <string name="clear_browser" formatted="false">براؤزنگ ڈیٹا صاف کریں۔</string>
+    <string name="clear_browser_confirm" formatted="false">کوکیز، براؤزر کیش، تاریخ، اور ویب سائٹ اسٹوریج کو حذف کریں؟</string>
+    <string name="privacy_body" formatted="false">کوئی اشتہارات، تجزیات، یا ڈویلپر اکاؤنٹس نہیں۔ ویب سائٹس، سرچ انجن، DNS فراہم کنندگان، اور ڈاؤن لوڈ سرورز آپ کی درخواستیں وصول کرتے ہیں۔ ڈاؤن لوڈ کی تاریخ اور بُک مارکس اس ڈیوائس پر ہی رہتے ہیں۔</string>
+    <string name="terms" formatted="false">ذمہ داری سے استعمال کریں۔</string>
+    <string name="terms_body" formatted="false">صرف وہی ویڈیوز محفوظ کریں جو آپ کی ملکیت ہیں یا جنہیں ڈاؤن لوڈ کرنے کی اجازت ہے۔ کاپی رائٹ اور ویب سائٹ کی شرائط کا احترام کریں۔ یہ ایپ DRM، پے والز، یا پلیٹ فارم ڈاؤن لوڈ کی پابندیوں کو نظرانداز نہیں کر سکتی۔</string>
+    <string name="about" formatted="false">کے بارے میں</string>
+    <string name="version" formatted="false">ورژن</string>
+    <string name="paid_app" formatted="false">ایک خریداری۔ کوئی اشتہار نہیں۔ کوئی رکنیت نہیں۔</string>
+    <string name="welcome_title" formatted="false">جو آپ کو متاثر کرتا ہے اسے برقرار رکھیں۔</string>
+    <string name="welcome_body" formatted="false">ایک جگہ پر اجازت یافتہ ویڈیوز کو براؤز کریں، دریافت کریں اور محفوظ کریں۔ شروع کرنے کے لیے تصویری گائیڈ پڑھیں۔</string>
+    <string name="start_browsing" formatted="false">براؤزنگ شروع کریں۔</string>
+    <string name="read_guide" formatted="false">گائیڈ پڑھیں</string>
+    <string name="browser_error" formatted="false">یہ صفحہ لوڈ نہیں ہو سکا۔ پتہ اور کنکشن چیک کریں، پھر دوبارہ لوڈ کریں۔</string>
+    <string name="secure_only" formatted="false">یہ ایپ HTTPS کنکشن استعمال کرتی ہے۔ اس ویب سائٹ کا محفوظ ورژن آزمائیں۔</string>
+    <string name="external_link" formatted="false">اس لنک کو کسی اور ایپ میں کھولیں؟</string>
+    <string name="open" formatted="false">کھولیں۔</string>
+    <string name="refresh" formatted="false">ریفریش کریں۔</string>
+    <string name="accessibility_tutorial" formatted="false">اس سبق آموز قدم کے لیے مثال</string>
+    <string name="download_reason" formatted="false">اینڈرائیڈ ڈاؤن لوڈ ایرر کوڈ</string>
+    <string name="queue_full" formatted="false">ڈاؤن لوڈ کی تاریخ بھری ہوئی ہے۔ پہلے ایک پرانی اندراج کو ہٹا دیں۔</string>
+    <string name="browser_tabs" formatted="false">براؤزر ٹیبز</string>
+    <string name="tabs_subtitle" formatted="false">ویب سائٹس کو کھلا رکھیں اور ان کے درمیان سوئچ کریں۔</string>
+    <string name="new_tab" formatted="false">نیا ٹیب</string>
+    <string name="close_tab" formatted="false">ٹیب بند کریں۔</string>
+    <string name="active_tab" formatted="false">فعال ٹیب</string>
+    <string name="tab_limit" formatted="false">آپ 8 ٹیبز تک کھول سکتے ہیں۔ دوسرا شامل کرنے کے لیے ایک ٹیب بند کریں۔</string>
+    <string name="history" formatted="false">تاریخ</string>
+    <string name="history_subtitle" formatted="false">ملاحظہ کی گئی ویب سائٹس صرف اس ڈیوائس پر محفوظ کی جاتی ہیں۔</string>
+    <string name="empty_history" formatted="false">آپ کی براؤزنگ کی سرگزشت یہاں ظاہر ہوگی۔</string>
+    <string name="clear_history" formatted="false">تاریخ صاف کریں۔</string>
+    <string name="clear_history_confirm" formatted="false">اس آلہ سے تمام براؤزنگ ہسٹری حذف کریں؟</string>
+    <string name="open_new_tab" formatted="false">نئے ٹیب میں کھولیں۔</string>
+    <string name="browser_menu" formatted="false">براؤزر مینو</string>
+    <string name="shortcut_note" formatted="false">ویب سائٹ کے شارٹ کٹ براؤزر میں کھلتے ہیں۔ ڈاؤن لوڈ کی دستیابی کا انحصار ویب سائٹ پر ہے۔</string>
+</resources>

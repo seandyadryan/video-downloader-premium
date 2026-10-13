@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">UMHVERFI</string>
+    <string name="browse" formatted="false">Skoðaðu</string>
+    <string name="downloads" formatted="false">Niðurhal</string>
+    <string name="guide" formatted="false">Leiðsögumaður</string>
+    <string name="settings" formatted="false">Stillingar</string>
+    <string name="home_title" formatted="false">Myndböndin þín. Safnið þitt.</string>
+    <string name="home_subtitle" formatted="false">Finndu eitthvað sem vert er að geyma.</string>
+    <string name="search_hint" formatted="false">Leitaðu eða sláðu inn vefsíðu</string>
+    <string name="go" formatted="false">Farðu</string>
+    <string name="paste_link" formatted="false">Límdu myndbandstengil</string>
+    <string name="direct_link" formatted="false">Beinn myndbandstengur</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Sækja</string>
+    <string name="detect" formatted="false">Finndu myndbönd</string>
+    <string name="detected" formatted="false">Myndbönd á þessari síðu</string>
+    <string name="no_media" formatted="false">Ekkert myndband sem hægt er að hlaða niður fannst. Byrjaðu að spila myndband og reyndu svo aftur. Verndaðir straumar og innfelldir rammar gætu verið ófáanlegir.</string>
+    <string name="safe_note" formatted="false">Sæktu aðeins myndbönd sem þú átt eða hefur leyfi til að vista. Verndaðir straumar og YouTube niðurhal eru ekki tiltæk.</string>
+    <string name="quick_start" formatted="false">BYRJA HÉR</string>
+    <string name="quick_browse" formatted="false">Skoðaðu vefinn</string>
+    <string name="quick_browse_body" formatted="false">Leitaðu með valinn vél í innbyggða vafranum.</string>
+    <string name="quick_download" formatted="false">Vista myndband</string>
+    <string name="quick_download_body" formatted="false">Límdu beinan HTTPS myndbandstengil eða finndu myndband á síðu.</string>
+    <string name="quick_guide" formatted="false">Smá leiðsögn</string>
+    <string name="quick_guide_body" formatted="false">Fjögur myndskreytt skref frá uppgötvun til safns þíns.</string>
+    <string name="back" formatted="false">Til baka</string>
+    <string name="forward" formatted="false">Áfram</string>
+    <string name="reload" formatted="false">Endurhlaða</string>
+    <string name="home" formatted="false">Heim</string>
+    <string name="bookmark" formatted="false">Bókamerki</string>
+    <string name="bookmarks" formatted="false">Bókamerki</string>
+    <string name="empty_bookmarks" formatted="false">Vistaðar vefsíður munu birtast hér.</string>
+    <string name="saved" formatted="false">Vistað</string>
+    <string name="remove" formatted="false">Fjarlægja</string>
+    <string name="cancel" formatted="false">Hætta við</string>
+    <string name="close" formatted="false">Loka</string>
+    <string name="confirm_download" formatted="false">Vista þetta myndband?</string>
+    <string name="filename" formatted="false">Skráarheiti</string>
+    <string name="download_location" formatted="false">Vistað í Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Ég á þetta myndband eða hef leyfi til að hlaða því niður.</string>
+    <string name="permission_required" formatted="false">Staðfestu að þú hafir leyfi til að vista þetta myndband.</string>
+    <string name="invalid_url" formatted="false">Sláðu inn gildan HTTPS myndbandstengil.</string>
+    <string name="unsupported" formatted="false">Þessi hlekkur er ekki niðurhalanlegt myndband. DRM, straumar í beinni, spilunarlistar og niðurhal á YouTube eru ekki studd.</string>
+    <string name="queued" formatted="false">Niðurhali bætt við biðröðina</string>
+    <string name="download_error" formatted="false">Getur ekki hlaðið niður. Athugaðu tenginguna eða notaðu nýjan myndbandstengil.</string>
+    <string name="collection_title" formatted="false">Safnið þitt</string>
+    <string name="collection_subtitle" formatted="false">Vistað myndbönd, tilbúin þegar þú ert það.</string>
+    <string name="empty_downloads" formatted="false">Næsta uppáhald þitt á heima hér.</string>
+    <string name="empty_downloads_body" formatted="false">Finndu myndband í Skoðaðu eða límdu beinan myndbandstengil til að hefja safnið þitt.</string>
+    <string name="pending" formatted="false">Í biðröð</string>
+    <string name="running" formatted="false">Niðurhal</string>
+    <string name="paused" formatted="false">Bíður eftir netkerfi eða reyndu aftur</string>
+    <string name="complete" formatted="false">Heill</string>
+    <string name="failed" formatted="false">Mistókst</string>
+    <string name="missing" formatted="false">Skrá ekki tiltæk</string>
+    <string name="play" formatted="false">Spila</string>
+    <string name="share" formatted="false">Deila</string>
+    <string name="retry" formatted="false">Reyndu aftur</string>
+    <string name="delete_download" formatted="false">Fjarlægja niðurhal og skrá þess?</string>
+    <string name="no_player" formatted="false">Ekkert samhæft forrit er tiltækt til að opna þessa skrá.</string>
+    <string name="guide_title" formatted="false">Frá uppgötvun til að sækja.</string>
+    <string name="guide_subtitle" formatted="false">Einföld leiðarvísir til að geyma myndböndin sem þú elskar.</string>
+    <string name="step_one_title" formatted="false">Finndu myndbandið þitt</string>
+    <string name="step_one_body" formatted="false">Opnaðu Vafra. Leitaðu eða sláðu inn veffang. Þú getur líka deilt myndbandstengli úr öðru forriti.</string>
+    <string name="step_two_title" formatted="false">Uppgötvaðu upprunann</string>
+    <string name="step_two_body" formatted="false">Spilaðu myndskeið og pikkaðu síðan á Finna myndskeið. Veldu skrá sem hefur fundist eða límdu beinan HTTPS myndbandstengil.</string>
+    <string name="step_three_title" formatted="false">Gerðu það að þínu</string>
+    <string name="step_three_body" formatted="false">Veldu skráarheiti, staðfestu leyfi þitt til að vista myndbandið og pikkaðu á Sækja. Android heldur áfram niðurhalinu í bakgrunni.</string>
+    <string name="step_four_title" formatted="false">Njóttu safnsins</string>
+    <string name="step_four_body" formatted="false">Opnaðu niðurhal til að athuga framvindu. Spilaðu eða deildu fullgerðum myndböndum. Reyndu aftur mistókst niðurhal með nýjum hlekk þegar þörf krefur.</string>
+    <string name="try_now" formatted="false">Prófaðu það núna</string>
+    <string name="preferences" formatted="false">Gerðu það að þínu eigin.</string>
+    <string name="preferences_subtitle" formatted="false">Nokkrar ígrundaðar stýringar fyrir daglegt vafra.</string>
+    <string name="dns_title" formatted="false">VPN / Einka DNS</string>
+    <string name="dns_explanation" formatted="false">Einka DNS dulkóðar DNS fyrirspurnir. Það felur ekki IP tölu þína eða býr til VPN göng. Android krefst þess að þú breytir þessari stillingu handvirkt.</string>
+    <string name="connected" formatted="false">Tengdur</string>
+    <string name="unconnected" formatted="false">Ótengdur</string>
+    <string name="connect" formatted="false">Tengdu</string>
+    <string name="disconnect" formatted="false">Aftengjast</string>
+    <string name="dns_instructions" formatted="false">Veldu hýsingarheiti einka DNS veitu, límdu dns.adguard-dns.com og vistaðu. Til að aftengjast skaltu velja Sjálfvirkt eða Slökkt í sömu kerfisstillingu.</string>
+    <string name="copy_hostname" formatted="false">Afritaðu hýsingarheiti</string>
+    <string name="copied" formatted="false">Afritað á klippiborð</string>
+    <string name="open_network_settings" formatted="false">Opnaðu netstillingar</string>
+    <string name="language" formatted="false">Tungumál apps</string>
+    <string name="system_language" formatted="false">Fylgdu tungumáli tækisins</string>
+    <string name="search_language" formatted="false">Finndu tungumál</string>
+    <string name="language_note" formatted="false">Þýðingar eru innifaldar án nettengingar. Óskráð tungumál tækis nota ensku. Vélþýðingar gætu þurft svæðisbundna endurskoðun.</string>
+    <string name="search_engine" formatted="false">Leitarvél</string>
+    <string name="wifi_only" formatted="false">Sækja aðeins á Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Ný niðurhal bíða þar til Wi-Fi er tiltækt.</string>
+    <string name="javascript" formatted="false">JavaScript vefsíða</string>
+    <string name="javascript_body" formatted="false">Áskilið af mörgum vefsíðum og HTML5 myndbandsuppgötvun.</string>
+    <string name="privacy" formatted="false">Persónuvernd</string>
+    <string name="clear_browser" formatted="false">Hreinsaðu vafragögn</string>
+    <string name="clear_browser_confirm" formatted="false">Eyða vafrakökum, skyndiminni vafra, sögu og vefsíðugeymslu?</string>
+    <string name="privacy_body" formatted="false">Engar auglýsingar, greiningar eða þróunarreikningar. Vefsíður, leitarvélar, DNS veitendur og niðurhalsþjónar fá beiðnirnar sem þú leggur fram. Niðurhalsferill og bókamerki verða áfram á þessu tæki.</string>
+    <string name="terms" formatted="false">Notaðu á ábyrgan hátt</string>
+    <string name="terms_body" formatted="false">Vistaðu aðeins myndbönd sem þú átt eða hefur leyfi til að hlaða niður. Virða höfundarrétt og skilmála vefsíðunnar. Þetta app getur ekki farið framhjá DRM, greiðsluveggjum eða niðurhalstakmörkunum á palli.</string>
+    <string name="about" formatted="false">Um</string>
+    <string name="version" formatted="false">Útgáfa</string>
+    <string name="paid_app" formatted="false">Eitt kaup. Engar auglýsingar. Engin áskrift.</string>
+    <string name="welcome_title" formatted="false">Haltu því sem hvetur þig.</string>
+    <string name="welcome_body" formatted="false">Skoðaðu, uppgötvaðu og vistaðu leyfileg myndbönd á einum stað. Lestu myndskreytta handbókina til að byrja.</string>
+    <string name="start_browsing" formatted="false">Byrjaðu að vafra</string>
+    <string name="read_guide" formatted="false">Lestu handbókina</string>
+    <string name="browser_error" formatted="false">Ekki tókst að hlaða þessari síðu. Athugaðu heimilisfangið og tenginguna og endurhlaða síðan.</string>
+    <string name="secure_only" formatted="false">Þetta app notar HTTPS tengingar. Prófaðu örugga útgáfu af þessari vefsíðu.</string>
+    <string name="external_link" formatted="false">Opna þennan tengil í öðru forriti?</string>
+    <string name="open" formatted="false">Opið</string>
+    <string name="refresh" formatted="false">Endurnýja</string>
+    <string name="accessibility_tutorial" formatted="false">Myndskreyting fyrir þetta kennsluskref</string>
+    <string name="download_reason" formatted="false">Villukóði fyrir niðurhal fyrir Android</string>
+    <string name="queue_full" formatted="false">Niðurhalsferillinn er fullur. Fjarlægðu eldri færslu fyrst.</string>
+    <string name="browser_tabs" formatted="false">Vafraflipar</string>
+    <string name="tabs_subtitle" formatted="false">Haltu vefsíðum opnum og skiptu á milli þeirra.</string>
+    <string name="new_tab" formatted="false">Nýr flipi</string>
+    <string name="close_tab" formatted="false">Loka flipa</string>
+    <string name="active_tab" formatted="false">Virkur flipi</string>
+    <string name="tab_limit" formatted="false">Þú getur opnað allt að 8 flipa. Lokaðu flipa til að bæta öðrum við.</string>
+    <string name="history" formatted="false">Saga</string>
+    <string name="history_subtitle" formatted="false">Heimsóttar vefsíður eru aðeins vistaðar á þessu tæki.</string>
+    <string name="empty_history" formatted="false">Vafraferillinn þinn mun birtast hér.</string>
+    <string name="clear_history" formatted="false">Hreinsa sögu</string>
+    <string name="clear_history_confirm" formatted="false">Eyða öllum vafraferli úr þessu tæki?</string>
+    <string name="open_new_tab" formatted="false">Opna í nýjum flipa</string>
+    <string name="browser_menu" formatted="false">Valmynd vafra</string>
+    <string name="shortcut_note" formatted="false">Flýtivísar vefsíður opnast í vafranum. Framboð á niðurhali fer eftir vefsíðunni.</string>
+</resources>

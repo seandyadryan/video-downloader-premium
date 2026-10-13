@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">პრემიუმი</string>
+    <string name="browse" formatted="false">დათვალიერება</string>
+    <string name="downloads" formatted="false">ჩამოტვირთვები</string>
+    <string name="guide" formatted="false">გზამკვლევი</string>
+    <string name="settings" formatted="false">პარამეტრები</string>
+    <string name="home_title" formatted="false">თქვენი ვიდეოები. შენი კოლექცია.</string>
+    <string name="home_subtitle" formatted="false">იპოვნეთ რაიმე ღირსი შენახვა.</string>
+    <string name="search_hint" formatted="false">მოძებნეთ ან შედით ვებსაიტზე</string>
+    <string name="go" formatted="false">წადი</string>
+    <string name="paste_link" formatted="false">ჩასვით ვიდეოს ბმული</string>
+    <string name="direct_link" formatted="false">პირდაპირი ვიდეო ბმული</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ჩამოტვირთვა</string>
+    <string name="detect" formatted="false">მოძებნეთ ვიდეოები</string>
+    <string name="detected" formatted="false">ვიდეოები ამ გვერდზე</string>
+    <string name="no_media" formatted="false">ჩამოსატვირთი ვიდეო ვერ მოიძებნა. დაიწყეთ ვიდეოს დაკვრა, შემდეგ სცადეთ ხელახლა. დაცული ნაკადები და ჩაშენებული ჩარჩოები შეიძლება მიუწვდომელი იყოს.</string>
+    <string name="safe_note" formatted="false">ჩამოტვირთეთ მხოლოდ ვიდეოები, რომლებსაც ფლობთ ან გაქვთ შენახვის ნებართვა. დაცული ნაკადები და YouTube ჩამოტვირთვები მიუწვდომელია.</string>
+    <string name="quick_start" formatted="false">დაიწყე აქ</string>
+    <string name="quick_browse" formatted="false">გამოიკვლიეთ ვებ</string>
+    <string name="quick_browse_body" formatted="false">მოძებნეთ სასურველი ძრავით ჩაშენებულ ბრაუზერში.</string>
+    <string name="quick_download" formatted="false">შეინახეთ ვიდეო</string>
+    <string name="quick_download_body" formatted="false">ჩასვით პირდაპირი HTTPS ვიდეო ბმული ან იპოვეთ ვიდეო გვერდზე.</string>
+    <string name="quick_guide" formatted="false">პატარა მითითება</string>
+    <string name="quick_guide_body" formatted="false">ოთხი ილუსტრირებული ნაბიჯი აღმოჩენიდან თქვენს კოლექციამდე.</string>
+    <string name="back" formatted="false">უკან</string>
+    <string name="forward" formatted="false">წინ</string>
+    <string name="reload" formatted="false">გადატვირთვა</string>
+    <string name="home" formatted="false">მთავარი</string>
+    <string name="bookmark" formatted="false">სანიშნე</string>
+    <string name="bookmarks" formatted="false">სანიშნეები</string>
+    <string name="empty_bookmarks" formatted="false">შენახული ვებსაიტები აქ გამოჩნდება.</string>
+    <string name="saved" formatted="false">შენახულია</string>
+    <string name="remove" formatted="false">ამოღება</string>
+    <string name="cancel" formatted="false">გაუქმება</string>
+    <string name="close" formatted="false">დახურვა</string>
+    <string name="confirm_download" formatted="false">შეინახოთ ეს ვიდეო?</string>
+    <string name="filename" formatted="false">ფაილის სახელი</string>
+    <string name="download_location" formatted="false">შენახულია Downloads / Video Downloader Premium-ში</string>
+    <string name="permission_confirm" formatted="false">მე ვფლობ ამ ვიდეოს ან მაქვს მისი ჩამოტვირთვის ნებართვა.</string>
+    <string name="permission_required" formatted="false">დაადასტურეთ, რომ გაქვთ ამ ვიდეოს შენახვის უფლება.</string>
+    <string name="invalid_url" formatted="false">შეიყვანეთ სწორი HTTPS ვიდეო ბმული.</string>
+    <string name="unsupported" formatted="false">ეს ბმული არ არის გადმოსაწერი ვიდეო. DRM, პირდაპირი სტრიმინგები, დასაკრავი სიები და YouTube ჩამოტვირთვები მხარდაუჭერელია.</string>
+    <string name="queued" formatted="false">ჩამოტვირთვა დაემატა რიგში</string>
+    <string name="download_error" formatted="false">ჩამოტვირთვა ვერ ხერხდება. შეამოწმეთ კავშირი ან გამოიყენეთ ახალი ვიდეო ბმული.</string>
+    <string name="collection_title" formatted="false">შენი კოლექცია</string>
+    <string name="collection_subtitle" formatted="false">შენახული ვიდეოები, მზად არის, როცა იქნებით.</string>
+    <string name="empty_downloads" formatted="false">თქვენი შემდეგი ფავორიტი აქ არის.</string>
+    <string name="empty_downloads_body" formatted="false">იპოვეთ ვიდეო Browse-ში ან ჩასვით პირდაპირი ვიდეო ბმული თქვენი კოლექციის დასაწყებად.</string>
+    <string name="pending" formatted="false">რიგში დადგა</string>
+    <string name="running" formatted="false">ჩამოტვირთვა</string>
+    <string name="paused" formatted="false">ელოდება ქსელს ან ხელახლა ცდას</string>
+    <string name="complete" formatted="false">სრული</string>
+    <string name="failed" formatted="false">ვერ მოხერხდა</string>
+    <string name="missing" formatted="false">ფაილი მიუწვდომელია</string>
+    <string name="play" formatted="false">ითამაშეთ</string>
+    <string name="share" formatted="false">გააზიარეთ</string>
+    <string name="retry" formatted="false">ხელახლა სცადეთ</string>
+    <string name="delete_download" formatted="false">წაშალოთ ჩამოტვირთვა და მისი ფაილი?</string>
+    <string name="no_player" formatted="false">ამ ფაილის გასახსნელად თავსებადი აპი მიუწვდომელია.</string>
+    <string name="guide_title" formatted="false">აღმოჩენიდან გადმოტვირთვამდე.</string>
+    <string name="guide_subtitle" formatted="false">მარტივი სახელმძღვანელო თქვენთვის საყვარელი ვიდეოების შესანახად.</string>
+    <string name="step_one_title" formatted="false">იპოვეთ თქვენი ვიდეო</string>
+    <string name="step_one_body" formatted="false">გახსენით დათვალიერება. მოძებნეთ ან შეიყვანეთ ვებსაიტის მისამართი. თქვენ ასევე შეგიძლიათ გააზიაროთ ვიდეო ბმული სხვა აპიდან.</string>
+    <string name="step_two_title" formatted="false">აღმოაჩინეთ წყარო</string>
+    <string name="step_two_body" formatted="false">დაუკარით ვიდეო, შემდეგ შეეხეთ ვიდეოების ძებნას. აირჩიეთ აღმოჩენილი ფაილი ან ჩასვით პირდაპირი HTTPS ვიდეო ბმული.</string>
+    <string name="step_three_title" formatted="false">გახადე შენი</string>
+    <string name="step_three_body" formatted="false">აირჩიეთ ფაილის სახელი, დაადასტურეთ ვიდეოს შენახვის ნებართვა და შეეხეთ ჩამოტვირთვა. Android აგრძელებს ჩამოტვირთვას ფონზე.</string>
+    <string name="step_four_title" formatted="false">ისიამოვნეთ თქვენი კოლექციით</string>
+    <string name="step_four_body" formatted="false">პროგრესის შესამოწმებლად გახსენით ჩამოტვირთვები. დასრულებული ვიდეოების დაკვრა ან გაზიარება. საჭიროების შემთხვევაში ხელახლა სცადეთ წარუმატებელი ჩამოტვირთვები ახალი ბმულით.</string>
+    <string name="try_now" formatted="false">სცადე ახლავე</string>
+    <string name="preferences" formatted="false">გახადე ის შენი.</string>
+    <string name="preferences_subtitle" formatted="false">რამდენიმე გააზრებული კონტროლი თქვენი ყოველდღიური დათვალიერებისთვის.</string>
+    <string name="dns_title" formatted="false">VPN / პირადი DNS</string>
+    <string name="dns_explanation" formatted="false">პირადი DNS შიფრავს DNS შეკითხვებს. ის არ მალავს თქვენს IP მისამართს და არ ქმნის VPN გვირაბს. Android მოითხოვს ამ პარამეტრის ხელით შეცვლას.</string>
+    <string name="connected" formatted="false">დაკავშირებულია</string>
+    <string name="unconnected" formatted="false">არ არის დაკავშირებული</string>
+    <string name="connect" formatted="false">დაკავშირება</string>
+    <string name="disconnect" formatted="false">გათიშვა</string>
+    <string name="dns_instructions" formatted="false">აირჩიეთ პირადი DNS პროვაიდერის ჰოსტის სახელი, ჩასვით dns.adguard-dns.com და შეინახეთ. გათიშვისთვის აირჩიეთ ავტომატური ან გამორთული იმავე სისტემის პარამეტრებში.</string>
+    <string name="copy_hostname" formatted="false">დააკოპირეთ ჰოსტის სახელი</string>
+    <string name="copied" formatted="false">კოპირებულია ბუფერში</string>
+    <string name="open_network_settings" formatted="false">გახსენით ქსელის პარამეტრები</string>
+    <string name="language" formatted="false">აპლიკაციის ენა</string>
+    <string name="system_language" formatted="false">დაიცავით მოწყობილობის ენა</string>
+    <string name="search_language" formatted="false">იპოვე ენა</string>
+    <string name="language_note" formatted="false">თარგმანები შედის ხაზგარეშე. მოწყობილობის გამოუქვეყნებელი ენები იყენებენ ინგლისურს. მანქანურ თარგმანს შეიძლება დასჭირდეს რეგიონალური მიმოხილვა.</string>
+    <string name="search_engine" formatted="false">საძიებო სისტემა</string>
+    <string name="wifi_only" formatted="false">ჩამოტვირთვა მხოლოდ Wi-Fi-ზე</string>
+    <string name="wifi_body" formatted="false">ახალი ჩამოტვირთვები დაელოდება სანამ Wi-Fi ხელმისაწვდომი იქნება.</string>
+    <string name="javascript" formatted="false">ვებსაიტი JavaScript</string>
+    <string name="javascript_body" formatted="false">საჭიროა მრავალი ვებსაიტის და HTML5 ვიდეოს აღმოჩენა.</string>
+    <string name="privacy" formatted="false">კონფიდენციალურობა</string>
+    <string name="clear_browser" formatted="false">დათვალიერების მონაცემების გასუფთავება</string>
+    <string name="clear_browser_confirm" formatted="false">წაშალოთ ქუქიები, ბრაუზერის ქეში, ისტორია და ვებსაიტის მეხსიერება?</string>
+    <string name="privacy_body" formatted="false">არანაირი რეკლამა, ანალიტიკა ან დეველოპერის ანგარიშები. ვებსაიტები, საძიებო სისტემები, DNS პროვაიდერები და ჩამოტვირთვის სერვერები იღებენ თქვენს მიერ დასმულ მოთხოვნებს. ჩამოტვირთვის ისტორია და სანიშნეები რჩება ამ მოწყობილობაზე.</string>
+    <string name="terms" formatted="false">გამოიყენეთ პასუხისმგებლობით</string>
+    <string name="terms_body" formatted="false">შეინახეთ მხოლოდ ვიდეოები, რომლებსაც ფლობთ ან გაქვთ ნებადართული ჩამოტვირთვა. პატივი ეცით საავტორო უფლებებს და ვებსაიტის პირობებს. ამ აპს არ შეუძლია გვერდის ავლით DRM, paywalls ან პლატფორმის ჩამოტვირთვის შეზღუდვები.</string>
+    <string name="about" formatted="false">შესახებ</string>
+    <string name="version" formatted="false">ვერსია</string>
+    <string name="paid_app" formatted="false">ერთი შენაძენი. არანაირი რეკლამა. არ არის გამოწერა.</string>
+    <string name="welcome_title" formatted="false">შეინახეთ ის, რაც შთააგონებს.</string>
+    <string name="welcome_body" formatted="false">დაათვალიერეთ, აღმოაჩინეთ და შეინახეთ ნებადართული ვიდეოები ერთ ადგილას. წაიკითხეთ ილუსტრირებული სახელმძღვანელო დასაწყებად.</string>
+    <string name="start_browsing" formatted="false">დაიწყეთ დათვალიერება</string>
+    <string name="read_guide" formatted="false">წაიკითხეთ სახელმძღვანელო</string>
+    <string name="browser_error" formatted="false">ამ გვერდის ჩატვირთვა ვერ მოხერხდა. შეამოწმეთ მისამართი და კავშირი, შემდეგ გადატვირთეთ.</string>
+    <string name="secure_only" formatted="false">ეს აპლიკაცია იყენებს HTTPS კავშირებს. სცადეთ ამ ვებსაიტის უსაფრთხო ვერსია.</string>
+    <string name="external_link" formatted="false">გავხსნათ ეს ბმული სხვა აპში?</string>
+    <string name="open" formatted="false">გახსენით</string>
+    <string name="refresh" formatted="false">განაახლეთ</string>
+    <string name="accessibility_tutorial" formatted="false">ილუსტრაცია ამ სამეურვეო ნაბიჯისთვის</string>
+    <string name="download_reason" formatted="false">ანდროიდის ჩამოტვირთვის შეცდომის კოდი</string>
+    <string name="queue_full" formatted="false">ჩამოტვირთვის ისტორია სავსეა. ჯერ წაშალეთ ძველი ჩანაწერი.</string>
+    <string name="browser_tabs" formatted="false">ბრაუზერის ჩანართები</string>
+    <string name="tabs_subtitle" formatted="false">შეინახეთ ვებსაიტები ღია და გადართეთ მათ შორის.</string>
+    <string name="new_tab" formatted="false">ახალი ჩანართი</string>
+    <string name="close_tab" formatted="false">ჩანართის დახურვა</string>
+    <string name="active_tab" formatted="false">აქტიური ჩანართი</string>
+    <string name="tab_limit" formatted="false">შეგიძლიათ გახსნათ 8-მდე ჩანართი. დახურეთ ჩანართი მეორეს დასამატებლად.</string>
+    <string name="history" formatted="false">ისტორია</string>
+    <string name="history_subtitle" formatted="false">მონახულებული ვებსაიტები ინახება მხოლოდ ამ მოწყობილობაზე.</string>
+    <string name="empty_history" formatted="false">თქვენი დათვალიერების ისტორია აქ გამოჩნდება.</string>
+    <string name="clear_history" formatted="false">ისტორიის გასუფთავება</string>
+    <string name="clear_history_confirm" formatted="false">წაშალოთ დათვალიერების მთელი ისტორია ამ მოწყობილობიდან?</string>
+    <string name="open_new_tab" formatted="false">გახსენით ახალ ჩანართში</string>
+    <string name="browser_menu" formatted="false">ბრაუზერის მენიუ</string>
+    <string name="shortcut_note" formatted="false">ვებსაიტის მალსახმობები იხსნება ბრაუზერში. ჩამოტვირთვის ხელმისაწვდომობა დამოკიდებულია ვებსაიტზე.</string>
+</resources>

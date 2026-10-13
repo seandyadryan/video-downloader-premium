@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Sheba</string>
+    <string name="downloads" formatted="false">Lisebelisoa</string>
+    <string name="guide" formatted="false">Tataiso</string>
+    <string name="settings" formatted="false">Litlhophiso</string>
+    <string name="home_title" formatted="false">Lifitio tsa hau. Pokello ea hau.</string>
+    <string name="home_subtitle" formatted="false">Fumana ntho eo u lokelang ho e boloka.</string>
+    <string name="search_hint" formatted="false">Batla kapa kenya sebaka sa Marang-rang</string>
+    <string name="go" formatted="false">Eya</string>
+    <string name="paste_link" formatted="false">Beha sehokelo sa video</string>
+    <string name="direct_link" formatted="false">Sehokelo sa video se otlolohileng</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Khoasolla</string>
+    <string name="detect" formatted="false">Fumana livideo</string>
+    <string name="detected" formatted="false">Lifitio leqepheng lena</string>
+    <string name="no_media" formatted="false">Ha ho video e ka khoasolloang e fumanoeng. Qala ho bapala fitio, ebe o leka hape. Maqhubu a sirelelitsoeng le liforeimi tse kentsoeng li kanna tsa se be teng.</string>
+    <string name="safe_note" formatted="false">Khoasolla livideo tseo u nang le tsona feela kapa u nang le tumello ea ho li boloka. Mananeo a sirelelitsoeng le tse jarollotsoeng ho YouTube ha li fumanehe.</string>
+    <string name="quick_start" formatted="false">QALA MONA</string>
+    <string name="quick_browse" formatted="false">Lekola tepo</string>
+    <string name="quick_browse_body" formatted="false">Batla ka enjine eo u e ratang ho sebatli se ikahetseng.</string>
+    <string name="quick_download" formatted="false">Boloka video</string>
+    <string name="quick_download_body" formatted="false">Beha sehokelo sa video sa HTTPS ka kotloloho kapa u fumane video leqepheng.</string>
+    <string name="quick_guide" formatted="false">Tataiso e nyane</string>
+    <string name="quick_guide_body" formatted="false">Mehato e mene e bonts\&apos;itsoeng ho tloha ho sibolloa ho ea pokellong ea hau.</string>
+    <string name="back" formatted="false">Morao</string>
+    <string name="forward" formatted="false">Tsoela pele</string>
+    <string name="reload" formatted="false">Kenya hape</string>
+    <string name="home" formatted="false">Lehae</string>
+    <string name="bookmark" formatted="false">Bookmark</string>
+    <string name="bookmarks" formatted="false">Li-bookmark</string>
+    <string name="empty_bookmarks" formatted="false">Liwebsaete tse bolokiloeng li tla hlaha mona.</string>
+    <string name="saved" formatted="false">E bolokiloe</string>
+    <string name="remove" formatted="false">Tlosa</string>
+    <string name="cancel" formatted="false">Hlakola</string>
+    <string name="close" formatted="false">Koala</string>
+    <string name="confirm_download" formatted="false">Boloka fitio ee?</string>
+    <string name="filename" formatted="false">Lebitso la faele</string>
+    <string name="download_location" formatted="false">E bolokiloe ho Premium Downloads / Video Downloader</string>
+    <string name="permission_confirm" formatted="false">Ke na le video ena kapa ke na le tumello ea ho e khoasolla.</string>
+    <string name="permission_required" formatted="false">Netefatsa hore o na le tumello ea ho boloka video ena.</string>
+    <string name="invalid_url" formatted="false">Kenya sehokelo se nepahetseng sa video sa HTTPS.</string>
+    <string name="unsupported" formatted="false">Sehokelo sena ha se video e ka khoasolloang. DRM, melapo e pharalletseng, manane a bapaloang, le downloads ea YouTube ha li tšehetsoe.</string>
+    <string name="queued" formatted="false">Khoasolla e kentsoe lethathamong</string>
+    <string name="download_error" formatted="false">Ha e khone ho khoasolla. Sheba khokahano kapa sebelisa sehokelo se secha sa video.</string>
+    <string name="collection_title" formatted="false">Pokello ea hau</string>
+    <string name="collection_subtitle" formatted="false">Lifitio tse bolokiloeng, li lokile ha u le teng.</string>
+    <string name="empty_downloads" formatted="false">Seo u se ratang se latelang se teng mona.</string>
+    <string name="empty_downloads_body" formatted="false">Fumana lifitio ho Browse kapa u manamisa sehokelo sa video ho qala pokello ea hau.</string>
+    <string name="pending" formatted="false">E moleng</string>
+    <string name="running" formatted="false">E jarolla</string>
+    <string name="paused" formatted="false">E emetse marang-rang kapa leka hape</string>
+    <string name="complete" formatted="false">Feletseng</string>
+    <string name="failed" formatted="false">E hlolehile</string>
+    <string name="missing" formatted="false">Faele ha e fumanehe</string>
+    <string name="play" formatted="false">Bapala</string>
+    <string name="share" formatted="false">Arolelana</string>
+    <string name="retry" formatted="false">Leka hape</string>
+    <string name="delete_download" formatted="false">Tlosa download le faele ea eona?</string>
+    <string name="no_player" formatted="false">Ha ho sesebelisoa se sebetsang se fumanehang ho bula faele ena.</string>
+    <string name="guide_title" formatted="false">Ho tloha ho sibolloa ho ea ho download.</string>
+    <string name="guide_subtitle" formatted="false">Tataiso e bonolo ea ho boloka livideo tseo u li ratang.</string>
+    <string name="step_one_title" formatted="false">Fumana video ea hau</string>
+    <string name="step_one_body" formatted="false">Bula Browse. Batla kapa kenya aterese ea sebaka sa marang-rang. U ka arolelana sehokelo sa video ho tsoa sesebelisoa se seng.</string>
+    <string name="step_two_title" formatted="false">Fumana mohloli</string>
+    <string name="step_two_body" formatted="false">Bapala video, ebe u tlanya Fumana livideo. Khetha faele e fumanoeng, kapa u kopanye sehokelo sa video sa HTTPS ka kotloloho.</string>
+    <string name="step_three_title" formatted="false">E etse ea hau</string>
+    <string name="step_three_body" formatted="false">Khetha lebitso la faele, netefatsa tumello ea hau ea ho boloka video, ebe o tlanya Khoasolla. Android e tsoela pele ho khoasolla ka morao.</string>
+    <string name="step_four_title" formatted="false">Natefeloa ke pokello ea hau</string>
+    <string name="step_four_body" formatted="false">Bula Litharollo ho sheba tsoelo-pele. Bapala kapa arolelana livideo tse phethiloeng. Leka hape ho khoasolla se hlolehileng ka sehokelo se secha ha ho hlokahala.</string>
+    <string name="try_now" formatted="false">E leke hona joale</string>
+    <string name="preferences" formatted="false">Iketsetse ea hau.</string>
+    <string name="preferences_subtitle" formatted="false">Litaolo tse \&apos;maloa tse nahannoeng bakeng sa porausara ea hau ea letsatsi le letsatsi.</string>
+    <string name="dns_title" formatted="false">VPN / DNS e ikemetseng</string>
+    <string name="dns_explanation" formatted="false">DNS ea lekunutu e patala lipotso tsa DNS. Ha e pate aterese ea hau ea IP kapa ho theha kotopo ea VPN. Android e hloka hore u fetole litlhophiso tsena ka letsoho.</string>
+    <string name="connected" formatted="false">E hokahane</string>
+    <string name="unconnected" formatted="false">Ha e kopane</string>
+    <string name="connect" formatted="false">Hokela</string>
+    <string name="disconnect" formatted="false">Hakolla</string>
+    <string name="dns_instructions" formatted="false">Khetha lebitso la moamoheli oa poraefete oa DNS, beha dns.adguard-dns.com, \&apos;me u boloke. Ho hakolla, khetha Automatic kapa Off ho sistimi e ts\&apos;oanang.</string>
+    <string name="copy_hostname" formatted="false">Kopitsa lebitso la moamoheli</string>
+    <string name="copied" formatted="false">E qopisitsoe ho clipboard</string>
+    <string name="open_network_settings" formatted="false">Bula li-setting tsa marang-rang</string>
+    <string name="language" formatted="false">Puo ea app</string>
+    <string name="system_language" formatted="false">Latela puo ea sesebelisoa</string>
+    <string name="search_language" formatted="false">Fumana puo</string>
+    <string name="language_note" formatted="false">Liphetolelo li kenyelelitsoe kantle ho marang-rang. Lipuo tsa lisebelisoa tse sa thathamisitsoeng li sebelisa Senyesemane. Liphetolelo tsa mochini li ka hloka tlhahlobo ea sebaka.</string>
+    <string name="search_engine" formatted="false">Enjine ea ho batla</string>
+    <string name="wifi_only" formatted="false">Khoasolla ka Wi-Fi feela</string>
+    <string name="wifi_body" formatted="false">Lisebelisoa tse ncha li ema ho fihlela Wi-Fi e fumaneha.</string>
+    <string name="javascript" formatted="false">Webosaete ea JavaScript</string>
+    <string name="javascript_body" formatted="false">E hlokoa ke liwebsaete tse ngata le ho sibolloa ha livideo tsa HTML5.</string>
+    <string name="privacy" formatted="false">Lekunutu</string>
+    <string name="clear_browser" formatted="false">Hlakola data ea ho bala</string>
+    <string name="clear_browser_confirm" formatted="false">Na u hlakola li-cookies, cache ea sebatli, nalane le polokelo ea sebaka sa marang-rang?</string>
+    <string name="privacy_body" formatted="false">Ha ho lipapatso, li-analytics, kapa liakhaonto tsa bahlahisi. Liwebsaete, lienjine tsa patlo, bafani ba DNS, le li-server tsa khoasolla li fumana likopo tseo u li etsang. Khoasolla nalane le li-bookmark li lule sesebelisoa sena.</string>
+    <string name="terms" formatted="false">Sebelisa ka mokhoa o nang le boikarabelo</string>
+    <string name="terms_body" formatted="false">Boloka feela livideo tseo u nang le tsona kapa tseo u lumelletsoeng ho li khoasolla. Hlompha litokelo tsa molao le lipehelo tsa sebaka sa Marang-rang. Sesebelisoa sena ha se khone ho feta DRM, li-paywall, kapa lithibelo tsa ho khoasolla sethaleng.</string>
+    <string name="about" formatted="false">About</string>
+    <string name="version" formatted="false">Phetolelo</string>
+    <string name="paid_app" formatted="false">Theko e le \&apos;ngoe. Ha ho lipapatso. Ha ho ngoliso.</string>
+    <string name="welcome_title" formatted="false">Boloka se u susumetsang.</string>
+    <string name="welcome_body" formatted="false">Batla, fumana, \&apos;me u boloke livideo tse lumelletsoeng sebakeng se le seng. Bala tataiso e nang le litšoantšo ho qala.</string>
+    <string name="start_browsing" formatted="false">Qala ho bala</string>
+    <string name="read_guide" formatted="false">Bala tataiso</string>
+    <string name="browser_error" formatted="false">Leqephe lena ha le khone ho kengoa. Sheba aterese le khokahano, ebe u kenya hape.</string>
+    <string name="secure_only" formatted="false">Sesebelisoa sena se sebelisa likhokahano tsa HTTPS. Leka mofuta o sireletsehileng oa sebaka sena sa Marang-rang.</string>
+    <string name="external_link" formatted="false">Bula sehokelo sena sesebelisoa se seng?</string>
+    <string name="open" formatted="false">Bula</string>
+    <string name="refresh" formatted="false">Hlasimolla</string>
+    <string name="accessibility_tutorial" formatted="false">Setšoantšo sa mohato ona oa thupelo</string>
+    <string name="download_reason" formatted="false">Khoutu ea phoso ea ho jarolla Android</string>
+    <string name="queue_full" formatted="false">Nalane ea ho jarolla e tletse. Tlosa mongolo oa khale pele.</string>
+    <string name="browser_tabs" formatted="false">Li-tab tsa sebatli</string>
+    <string name="tabs_subtitle" formatted="false">Boloka liwebsaete li butsoe \&apos;me u fetole pakeng tsa tsona.</string>
+    <string name="new_tab" formatted="false">Taba e ncha</string>
+    <string name="close_tab" formatted="false">Koala tab</string>
+    <string name="active_tab" formatted="false">Taba e sebetsang</string>
+    <string name="tab_limit" formatted="false">O ka bula li-tab tse fihlang ho tse 8. Koala tab ho eketsa e \&apos;ngoe.</string>
+    <string name="history" formatted="false">Histori</string>
+    <string name="history_subtitle" formatted="false">Liwebsaete tseo u li etetseng li bolokiloe sesebelisoa sena feela.</string>
+    <string name="empty_history" formatted="false">Nalane ea hau ea ho bala e tla hlaha mona.</string>
+    <string name="clear_history" formatted="false">Hlakola nalane</string>
+    <string name="clear_history_confirm" formatted="false">Na u hlakola nalane eohle ea ho bala sesebelisoa sesebedisweng see?</string>
+    <string name="open_new_tab" formatted="false">Bula ho tab e ncha</string>
+    <string name="browser_menu" formatted="false">Menu ea sebatli</string>
+    <string name="shortcut_note" formatted="false">Likhaoletso tsa sebaka sa Marang-rang lia buleha ho sebatli. Ho fumaneha ha download ho itšetlehile ka sebaka sa marang-rang.</string>
+</resources>

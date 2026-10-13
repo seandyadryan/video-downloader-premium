@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Semak imbas</string>
+    <string name="downloads" formatted="false">Muat turun</string>
+    <string name="guide" formatted="false">Panduan</string>
+    <string name="settings" formatted="false">tetapan</string>
+    <string name="home_title" formatted="false">Video anda. Koleksi anda.</string>
+    <string name="home_subtitle" formatted="false">Cari sesuatu yang patut disimpan.</string>
+    <string name="search_hint" formatted="false">Cari atau masukkan tapak web</string>
+    <string name="go" formatted="false">Pergi</string>
+    <string name="paste_link" formatted="false">Tampal pautan video</string>
+    <string name="direct_link" formatted="false">Pautan video langsung</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Muat turun</string>
+    <string name="detect" formatted="false">Cari video</string>
+    <string name="detected" formatted="false">Video di halaman ini</string>
+    <string name="no_media" formatted="false">Tiada video yang boleh dimuat turun ditemui. Mula memainkan video, kemudian cuba lagi. Strim yang dilindungi dan bingkai terbenam mungkin tidak tersedia.</string>
+    <string name="safe_note" formatted="false">Hanya muat turun video yang anda miliki atau mempunyai kebenaran untuk menyimpan. Strim yang dilindungi dan muat turun YouTube tidak tersedia.</string>
+    <string name="quick_start" formatted="false">MULAKAN DI SINI</string>
+    <string name="quick_browse" formatted="false">Terokai web</string>
+    <string name="quick_browse_body" formatted="false">Cari dengan enjin pilihan anda dalam penyemak imbas terbina dalam.</string>
+    <string name="quick_download" formatted="false">Simpan video</string>
+    <string name="quick_download_body" formatted="false">Tampalkan pautan video HTTPS terus atau cari video pada halaman.</string>
+    <string name="quick_guide" formatted="false">Sedikit bimbingan</string>
+    <string name="quick_guide_body" formatted="false">Empat langkah bergambar daripada penemuan kepada koleksi anda.</string>
+    <string name="back" formatted="false">belakang</string>
+    <string name="forward" formatted="false">ke hadapan</string>
+    <string name="reload" formatted="false">Muat semula</string>
+    <string name="home" formatted="false">Rumah</string>
+    <string name="bookmark" formatted="false">Penanda buku</string>
+    <string name="bookmarks" formatted="false">Penanda buku</string>
+    <string name="empty_bookmarks" formatted="false">Tapak web yang disimpan akan dipaparkan di sini.</string>
+    <string name="saved" formatted="false">Disimpan</string>
+    <string name="remove" formatted="false">Alih keluar</string>
+    <string name="cancel" formatted="false">Batal</string>
+    <string name="close" formatted="false">tutup</string>
+    <string name="confirm_download" formatted="false">Simpan video ini?</string>
+    <string name="filename" formatted="false">Nama fail</string>
+    <string name="download_location" formatted="false">Disimpan dalam Muat Turun / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Saya memiliki video ini atau mempunyai kebenaran untuk memuat turunnya.</string>
+    <string name="permission_required" formatted="false">Sahkan bahawa anda mempunyai kebenaran untuk menyimpan video ini.</string>
+    <string name="invalid_url" formatted="false">Masukkan pautan video HTTPS yang sah.</string>
+    <string name="unsupported" formatted="false">Pautan ini bukan video yang boleh dimuat turun. DRM, strim langsung, senarai main dan muat turun YouTube tidak disokong.</string>
+    <string name="queued" formatted="false">Muat turun ditambahkan pada baris gilir</string>
+    <string name="download_error" formatted="false">Tidak dapat memuat turun. Semak sambungan atau gunakan pautan video baharu.</string>
+    <string name="collection_title" formatted="false">Koleksi anda</string>
+    <string name="collection_subtitle" formatted="false">Video yang disimpan, sedia apabila anda bersedia.</string>
+    <string name="empty_downloads" formatted="false">Kegemaran anda yang seterusnya ada di sini.</string>
+    <string name="empty_downloads_body" formatted="false">Cari video dalam Semak imbas atau tampal pautan video langsung untuk memulakan koleksi anda.</string>
+    <string name="pending" formatted="false">Beratur</string>
+    <string name="running" formatted="false">Memuat turun</string>
+    <string name="paused" formatted="false">Menunggu rangkaian atau cuba semula</string>
+    <string name="complete" formatted="false">lengkap</string>
+    <string name="failed" formatted="false">gagal</string>
+    <string name="missing" formatted="false">Fail tidak tersedia</string>
+    <string name="play" formatted="false">Main</string>
+    <string name="share" formatted="false">Kongsi</string>
+    <string name="retry" formatted="false">Cuba semula</string>
+    <string name="delete_download" formatted="false">Alih keluar muat turun dan failnya?</string>
+    <string name="no_player" formatted="false">Tiada apl yang serasi tersedia untuk membuka fail ini.</string>
+    <string name="guide_title" formatted="false">Daripada penemuan kepada muat turun.</string>
+    <string name="guide_subtitle" formatted="false">Panduan ringkas untuk menyimpan video yang anda suka.</string>
+    <string name="step_one_title" formatted="false">Cari video anda</string>
+    <string name="step_one_body" formatted="false">Buka Semak imbas. Cari atau masukkan alamat tapak web. Anda juga boleh berkongsi pautan video daripada apl lain.</string>
+    <string name="step_two_title" formatted="false">Temui sumbernya</string>
+    <string name="step_two_body" formatted="false">Mainkan video, kemudian ketik Cari video. Pilih fail yang dikesan atau tampal pautan video HTTPS langsung.</string>
+    <string name="step_three_title" formatted="false">Jadikan ia milik anda</string>
+    <string name="step_three_body" formatted="false">Pilih nama fail, sahkan kebenaran anda untuk menyimpan video dan ketik Muat turun. Android meneruskan muat turun di latar belakang.</string>
+    <string name="step_four_title" formatted="false">Nikmati koleksi anda</string>
+    <string name="step_four_body" formatted="false">Buka Muat Turun untuk menyemak kemajuan. Mainkan atau kongsi video yang telah siap. Cuba semula muat turun yang gagal dengan pautan baharu apabila diperlukan.</string>
+    <string name="try_now" formatted="false">Cuba sekarang</string>
+    <string name="preferences" formatted="false">Buat sendiri.</string>
+    <string name="preferences_subtitle" formatted="false">Beberapa kawalan yang bijak untuk penyemakan imbas harian anda.</string>
+    <string name="dns_title" formatted="false">VPN / DNS Peribadi</string>
+    <string name="dns_explanation" formatted="false">DNS peribadi menyulitkan pertanyaan DNS. Ia tidak menyembunyikan alamat IP anda atau mencipta terowong VPN. Android memerlukan anda menukar tetapan ini secara manual.</string>
+    <string name="connected" formatted="false">Bersambung</string>
+    <string name="unconnected" formatted="false">Tidak bersambung</string>
+    <string name="connect" formatted="false">Sambung</string>
+    <string name="disconnect" formatted="false">Putuskan sambungan</string>
+    <string name="dns_instructions" formatted="false">Pilih Nama hos pembekal DNS peribadi, tampal dns.adguard-dns.com dan simpan. Untuk memutuskan sambungan, pilih Automatik atau Mati dalam tetapan sistem yang sama.</string>
+    <string name="copy_hostname" formatted="false">Salin nama hos</string>
+    <string name="copied" formatted="false">Disalin ke papan keratan</string>
+    <string name="open_network_settings" formatted="false">Buka tetapan rangkaian</string>
+    <string name="language" formatted="false">Bahasa apl</string>
+    <string name="system_language" formatted="false">Ikut bahasa peranti</string>
+    <string name="search_language" formatted="false">Cari bahasa</string>
+    <string name="language_note" formatted="false">Terjemahan disertakan di luar talian. Bahasa peranti tidak tersenarai menggunakan bahasa Inggeris. Terjemahan mesin mungkin memerlukan semakan serantau.</string>
+    <string name="search_engine" formatted="false">Enjin carian</string>
+    <string name="wifi_only" formatted="false">Muat turun pada Wi-Fi sahaja</string>
+    <string name="wifi_body" formatted="false">Muat turun baharu tunggu sehingga Wi-Fi tersedia.</string>
+    <string name="javascript" formatted="false">JavaScript tapak web</string>
+    <string name="javascript_body" formatted="false">Diperlukan oleh banyak tapak web dan penemuan video HTML5.</string>
+    <string name="privacy" formatted="false">Privasi</string>
+    <string name="clear_browser" formatted="false">Kosongkan data penyemakan imbas</string>
+    <string name="clear_browser_confirm" formatted="false">Padamkan kuki, cache penyemak imbas, sejarah dan storan tapak web?</string>
+    <string name="privacy_body" formatted="false">Tiada iklan, analitis atau akaun pembangun. Tapak web, enjin carian, pembekal DNS dan pelayan muat turun menerima permintaan yang anda buat. Muat turun sejarah dan penanda halaman kekal pada peranti ini.</string>
+    <string name="terms" formatted="false">Gunakan secara bertanggungjawab</string>
+    <string name="terms_body" formatted="false">Simpan hanya video yang anda miliki atau dibenarkan untuk memuat turun. Hormati hak cipta dan terma laman web. Apl ini tidak boleh memintas DRM, dinding berbayar atau sekatan muat turun platform.</string>
+    <string name="about" formatted="false">Tentang</string>
+    <string name="version" formatted="false">Versi</string>
+    <string name="paid_app" formatted="false">Satu pembelian. Tiada iklan. Tiada langganan.</string>
+    <string name="welcome_title" formatted="false">Simpan apa yang memberi inspirasi kepada anda.</string>
+    <string name="welcome_body" formatted="false">Semak imbas, temui dan simpan video yang dibenarkan di satu tempat. Baca panduan bergambar untuk bermula.</string>
+    <string name="start_browsing" formatted="false">Mulakan menyemak imbas</string>
+    <string name="read_guide" formatted="false">Baca panduan</string>
+    <string name="browser_error" formatted="false">Halaman ini tidak dapat dimuatkan. Semak alamat dan sambungan, kemudian muat semula.</string>
+    <string name="secure_only" formatted="false">Apl ini menggunakan sambungan HTTPS. Cuba versi selamat tapak web ini.</string>
+    <string name="external_link" formatted="false">Buka pautan ini dalam apl lain?</string>
+    <string name="open" formatted="false">Buka</string>
+    <string name="refresh" formatted="false">Segarkan semula</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustrasi untuk langkah tutorial ini</string>
+    <string name="download_reason" formatted="false">Kod ralat muat turun Android</string>
+    <string name="queue_full" formatted="false">Sejarah muat turun penuh. Alih keluar masukan lama dahulu.</string>
+    <string name="browser_tabs" formatted="false">Tab pelayar</string>
+    <string name="tabs_subtitle" formatted="false">Pastikan tapak web dibuka dan bertukar antara mereka.</string>
+    <string name="new_tab" formatted="false">Tab baharu</string>
+    <string name="close_tab" formatted="false">Tutup tab</string>
+    <string name="active_tab" formatted="false">Tab aktif</string>
+    <string name="tab_limit" formatted="false">Anda boleh membuka sehingga 8 tab. Tutup tab untuk menambah satu lagi.</string>
+    <string name="history" formatted="false">Sejarah</string>
+    <string name="history_subtitle" formatted="false">Tapak web yang dilawati disimpan hanya pada peranti ini.</string>
+    <string name="empty_history" formatted="false">Sejarah penyemakan imbas anda akan dipaparkan di sini.</string>
+    <string name="clear_history" formatted="false">Kosongkan sejarah</string>
+    <string name="clear_history_confirm" formatted="false">Padamkan semua sejarah penyemakan imbas daripada peranti ini?</string>
+    <string name="open_new_tab" formatted="false">Buka dalam tab baharu</string>
+    <string name="browser_menu" formatted="false">Menu pelayar</string>
+    <string name="shortcut_note" formatted="false">Pintasan tapak web dibuka dalam penyemak imbas. Ketersediaan muat turun bergantung pada tapak web.</string>
+</resources>

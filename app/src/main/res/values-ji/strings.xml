@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">בלעטער</string>
+    <string name="downloads" formatted="false">דאַונלאָודז</string>
+    <string name="guide" formatted="false">גייד</string>
+    <string name="settings" formatted="false">סעטטינגס</string>
+    <string name="home_title" formatted="false">דיין ווידיאס. דיין זאַמלונג.</string>
+    <string name="home_subtitle" formatted="false">געפֿינען עפּעס ווערט בעכעסקעם.</string>
+    <string name="search_hint" formatted="false">זוכן אָדער אַרייַן אַ וועבזייטל</string>
+    <string name="go" formatted="false">גיי</string>
+    <string name="paste_link" formatted="false">פּאַפּ ווידעא לינק</string>
+    <string name="direct_link" formatted="false">דירעקט ווידעא לינק</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">אראפקאפיע</string>
+    <string name="detect" formatted="false">געפֿינען ווידיאס</string>
+    <string name="detected" formatted="false">ווידיאס אויף דעם בלאַט</string>
+    <string name="no_media" formatted="false">קיין דאָוונלאָאַדאַבלע ווידעא געפֿונען. אָנהייב פּלייינג אַ ווידעא, און פּרובירן ווידער. פּראָטעקטעד סטרימז און עמבעדיד ראָמען קען זיין אַנאַוויילאַבאַל.</string>
+    <string name="safe_note" formatted="false">בלויז אראפקאפיע ווידיאס איר פאַרמאָגן אָדער האָבן דערלויבעניש צו ראַטעווען. פּראָטעקטעד סטרימז און יאָוטובע דאַונלאָודז זענען אַנאַוויילאַבאַל.</string>
+    <string name="quick_start" formatted="false">אָנהייב דאָ</string>
+    <string name="quick_browse" formatted="false">ויספאָרשן די וועב</string>
+    <string name="quick_browse_body" formatted="false">זוכן מיט דיין בילכער מאָטאָר אין די געבויט-אין בלעטערער.</string>
+    <string name="quick_download" formatted="false">היט אַ ווידעא</string>
+    <string name="quick_download_body" formatted="false">פּאַפּ אַ דירעקט HTTPS ווידעא לינק אָדער געפֿינען אַ ווידעא אויף אַ בלאַט.</string>
+    <string name="quick_guide" formatted="false">א ביסל גיידאַנס</string>
+    <string name="quick_guide_body" formatted="false">פיר יללוסטראַטעד סטעפּס פון ופדעקונג צו דיין זאַמלונג.</string>
+    <string name="back" formatted="false">צוריק</string>
+    <string name="forward" formatted="false">פֿאָרווערטס</string>
+    <string name="reload" formatted="false">רילאָוד</string>
+    <string name="home" formatted="false">היים</string>
+    <string name="bookmark" formatted="false">לייענ - צייכן</string>
+    <string name="bookmarks" formatted="false">בוקמאַרקס</string>
+    <string name="empty_bookmarks" formatted="false">געראטעוועט וועבסיטעס וועט דערשייַנען דאָ.</string>
+    <string name="saved" formatted="false">געראטעוועט</string>
+    <string name="remove" formatted="false">אַראָפּנעמען</string>
+    <string name="cancel" formatted="false">באָטל מאַכן</string>
+    <string name="close" formatted="false">נאָענט</string>
+    <string name="confirm_download" formatted="false">היט דעם ווידעא?</string>
+    <string name="filename" formatted="false">טעקע נאָמען</string>
+    <string name="download_location" formatted="false">געראטעוועט אין דאָוונלאָאַדס / ווידעא דאָוונלאָאַדער פּרעמיום</string>
+    <string name="permission_confirm" formatted="false">איך פאַרמאָגן דעם ווידעא אָדער האָבן דערלויבעניש צו אָפּלאָדירן עס.</string>
+    <string name="permission_required" formatted="false">באַשטעטיקן אַז איר האָט דערלויבעניש צו ראַטעווען דעם ווידעא.</string>
+    <string name="invalid_url" formatted="false">אַרייַן אַ גילטיק הטטפּס ווידעא לינק.</string>
+    <string name="unsupported" formatted="false">דער לינק איז נישט אַ דאָוונלאָאַדאַבלע ווידעא. DRM, לעבן סטרימז, פּלייַליסץ און יאָוטובע דאַונלאָודז זענען נישט געשטיצט.</string>
+    <string name="queued" formatted="false">אראפקאפיע צוגעגעבן צו די ריי</string>
+    <string name="download_error" formatted="false">ניט געקענט צו אָפּלאָדירן. קאָנטראָלירן די קשר אָדער נוצן אַ פריש ווידעא לינק.</string>
+    <string name="collection_title" formatted="false">דיין זאַמלונג</string>
+    <string name="collection_subtitle" formatted="false">געראטעוועט ווידיאס, גרייט ווען איר זענט.</string>
+    <string name="empty_downloads" formatted="false">דיין ווייַטער באַליבסטע געהערט דאָ.</string>
+    <string name="empty_downloads_body" formatted="false">געפֿינען אַ ווידעא אין בלעטער אָדער פּאַפּ אַ דירעקט ווידעא לינק צו אָנהייבן דיין זאַמלונג.</string>
+    <string name="pending" formatted="false">אין ריי</string>
+    <string name="running" formatted="false">דאַונלאָודינג</string>
+    <string name="paused" formatted="false">ווארטן פֿאַר נעץ אָדער פּרובירן ווידער</string>
+    <string name="complete" formatted="false">גאַנץ</string>
+    <string name="failed" formatted="false">ניט אַנדערש</string>
+    <string name="missing" formatted="false">טעקע ניט בנימצא</string>
+    <string name="play" formatted="false">שפּיל</string>
+    <string name="share" formatted="false">ייַנטיילן</string>
+    <string name="retry" formatted="false">פרובירט ווידער</string>
+    <string name="delete_download" formatted="false">אַראָפּנעמען די אראפקאפיע און זיין טעקע?</string>
+    <string name="no_player" formatted="false">קיין קאַמפּאַטאַבאַל אַפּ איז בנימצא צו עפֿענען דעם טעקע.</string>
+    <string name="guide_title" formatted="false">פון ופדעקונג צו אָפּלאָדירן.</string>
+    <string name="guide_subtitle" formatted="false">א פּשוט וועגווייַזער צו האַלטן די ווידיאס איר ליב.</string>
+    <string name="step_one_title" formatted="false">געפֿינען דיין ווידעא</string>
+    <string name="step_one_body" formatted="false">עפענען בלעטער. זוכן אָדער אַרייַן אַ וועבזייטל אַדרעס. איר קענט אויך טיילן אַ ווידעא לינק פֿון אן אנדער אַפּ.</string>
+    <string name="step_two_title" formatted="false">געפֿינען די מקור</string>
+    <string name="step_two_body" formatted="false">שפּיל אַ ווידעא און צאַפּן אויף געפֿינען ווידיאס. קלייַבן אַ דיטעקטאַד טעקע אָדער פּאַפּ אַ דירעקט HTTPS ווידעא לינק.</string>
+    <string name="step_three_title" formatted="false">מאַכן עס דייַן</string>
+    <string name="step_three_body" formatted="false">קלייַבן אַ טעקע נאָמען, באַשטעטיקן דיין דערלויבעניש צו ראַטעווען די ווידעא און צאַפּן אויף אראפקאפיע. אַנדרויד האלט די אראפקאפיע אין דער הינטערגרונט.</string>
+    <string name="step_four_title" formatted="false">הנאה דיין זאַמלונג</string>
+    <string name="step_four_body" formatted="false">עפֿענען דאַונלאָודז צו קאָנטראָלירן פּראָגרעס. שפּיל אָדער ייַנטיילן געענדיקט ווידיאס. פרובירט ניט אַנדערש דאַונלאָודז מיט אַ פריש לינק ווען דארף.</string>
+    <string name="try_now" formatted="false">פרובירט עס איצט</string>
+    <string name="preferences" formatted="false">מאַכן עס דיין אייגן.</string>
+    <string name="preferences_subtitle" formatted="false">עטלעכע פאַרטראַכט קאָנטראָלס פֿאַר דיין טעגלעך בראַוזינג.</string>
+    <string name="dns_title" formatted="false">וופּן / פּריוואַט דנס</string>
+    <string name="dns_explanation" formatted="false">פּריוואַט דנס ענקריפּץ דנס קוויריז. עס קען נישט באַהאַלטן דיין IP אַדרעס אָדער שאַפֿן אַ VPN טונעל. אַנדרויד ריקווייערז איר צו טוישן דעם באַשטעטיקן מאַניואַלי.</string>
+    <string name="connected" formatted="false">קאָננעקטעד</string>
+    <string name="unconnected" formatted="false">ניט קאָננעקטעד</string>
+    <string name="connect" formatted="false">פאַרבינדן</string>
+    <string name="disconnect" formatted="false">דיסקאַנעקט</string>
+    <string name="dns_instructions" formatted="false">אויסקלייַבן פּריוואַט דנס שפּייַזער האָסטנאַמע, פּאַפּ dns.adguard-dns.com און ראַטעווען. צו דיסקאַנעקט, סעלעקטירן אָטאַמאַטיק אָדער אויסגעלאשן אין דער זעלביקער סיסטעם באַשטעטיקן.</string>
+    <string name="copy_hostname" formatted="false">קאָפּי האָסטנאַמע</string>
+    <string name="copied" formatted="false">קאַפּיד צו קליפּבאָרד</string>
+    <string name="open_network_settings" formatted="false">עפֿן נעץ סעטטינגס</string>
+    <string name="language" formatted="false">אַפּ שפּראַך</string>
+    <string name="system_language" formatted="false">גיי די מיטל שפּראַך</string>
+    <string name="search_language" formatted="false">געפֿינען אַ שפּראַך</string>
+    <string name="language_note" formatted="false">איבערזעצונגען זענען אַרייַנגערעכנט אָפפלינע. אַנליסטעד מיטל שפּראַכן נוצן ענגליש. מאַשין איבערזעצונגען קען דאַרפֿן רעגיאָנאַל אָפּשאַצונג.</string>
+    <string name="search_engine" formatted="false">זוכן מאָטאָר</string>
+    <string name="wifi_only" formatted="false">אראפקאפיע בלויז אויף Wi-Fi</string>
+    <string name="wifi_body" formatted="false">נייַ דאַונלאָודז וואַרטן ביז Wi-Fi איז בנימצא.</string>
+    <string name="javascript" formatted="false">וועבסייט דזשאַוואַסקריפּט</string>
+    <string name="javascript_body" formatted="false">פארלאנגט דורך פילע וועבסיטעס און HTML5 ווידעא ופדעקונג.</string>
+    <string name="privacy" formatted="false">פּריוואַטקייט</string>
+    <string name="clear_browser" formatted="false">קלאָר בראַוזינג דאַטן</string>
+    <string name="clear_browser_confirm" formatted="false">ויסמעקן קיכלעך, בלעטערער קאַש, געשיכטע און וועבזייטל סטאָרידזש?</string>
+    <string name="privacy_body" formatted="false">קיין אַדס, אַנאַליטיקס אָדער דעוועלאָפּער אַקאַונץ. וועבסיטעס, זוכן ענדזשאַנז, דנס פּראַוויידערז און אראפקאפיע סערווערס באַקומען די ריקוועס איר מאַכן. אראפקאפיע געשיכטע און בוקמאַרקס בלייבן אויף דעם מיטל.</string>
+    <string name="terms" formatted="false">ניצן ריספּאַנסאַבלי</string>
+    <string name="terms_body" formatted="false">היט בלויז ווידיאס איר פאַרמאָגן אָדער זענען ערלויבט צו אָפּלאָדירן. רעספּעקט דרוקרעכט און וועבזייטל טערמינען. די אַפּ קען נישט בייפּאַס די ריסטריקשאַנז פון DRM, פּייוואַללס אָדער פּלאַטפאָרמע אראפקאפיע.</string>
+    <string name="about" formatted="false">וועגן</string>
+    <string name="version" formatted="false">ווערסיע</string>
+    <string name="paid_app" formatted="false">איין קויפן. קיין אַדס. קיין אַבאָנעמענט.</string>
+    <string name="welcome_title" formatted="false">האַלטן וואָס ינספּירז איר.</string>
+    <string name="welcome_body" formatted="false">בלעטער, אַנטדעקן און היט דערלויבט ווידיאס אויף איין אָרט. לייענען די יללוסטראַטעד פירער צו אָנהייבן.</string>
+    <string name="start_browsing" formatted="false">אָנהייב בראַוזינג</string>
+    <string name="read_guide" formatted="false">לייענען דעם פירער</string>
+    <string name="browser_error" formatted="false">דעם בלאַט קען ניט זיין לאָודיד. קאָנטראָלירן די אַדרעס און קשר, און רילאָוד.</string>
+    <string name="secure_only" formatted="false">די אַפּ ניצט HTTPS קאַנעקשאַנז. פּרוּווט די זיכער ווערסיע פון ​​דעם וועבזייטל.</string>
+    <string name="external_link" formatted="false">עפענען דעם לינק אין אן אנדער אַפּ?</string>
+    <string name="open" formatted="false">עפענען</string>
+    <string name="refresh" formatted="false">דערפרישן</string>
+    <string name="accessibility_tutorial" formatted="false">אילוסטראציע פֿאַר דעם טוטאָריאַל שריט</string>
+    <string name="download_reason" formatted="false">אַנדרויד אראפקאפיע טעות קאָד</string>
+    <string name="queue_full" formatted="false">די אראפקאפיע געשיכטע איז פול. אַראָפּנעמען אַן עלטערע פּאָזיציע ערשטער.</string>
+    <string name="browser_tabs" formatted="false">בלעטערער טאַבס</string>
+    <string name="tabs_subtitle" formatted="false">האַלטן וועבסיטעס אָופּאַנד און באַשטימען צווישן זיי.</string>
+    <string name="new_tab" formatted="false">נייַ קוויטל</string>
+    <string name="close_tab" formatted="false">נאָענט קוויטל</string>
+    <string name="active_tab" formatted="false">אַקטיוו קוויטל</string>
+    <string name="tab_limit" formatted="false">איר קענען עפענען אַרויף צו 8 טאַבס. פאַרמאַכן אַ קוויטל צו לייגן אנדערן.</string>
+    <string name="history" formatted="false">געשיכטע</string>
+    <string name="history_subtitle" formatted="false">באזוכט וועבסיטעס זענען געראטעוועט בלויז אויף דעם מיטל.</string>
+    <string name="empty_history" formatted="false">דיין בראַוזינג געשיכטע וועט דערשייַנען דאָ.</string>
+    <string name="clear_history" formatted="false">קלאָר געשיכטע</string>
+    <string name="clear_history_confirm" formatted="false">ויסמעקן אַלע בראַוזינג געשיכטע פֿון דעם מיטל?</string>
+    <string name="open_new_tab" formatted="false">עפענען אין אַ נייַ קוויטל</string>
+    <string name="browser_menu" formatted="false">בלעטערער מעניו</string>
+    <string name="shortcut_note" formatted="false">וועבסייט שאָרטקאַץ עפענען אין דעם בלעטערער. אראפקאפיע אַוויילאַבילאַטי דעפּענדס אויף די וועבזייטל.</string>
+</resources>

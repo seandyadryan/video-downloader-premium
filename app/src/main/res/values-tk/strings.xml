@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Göz aýlaň</string>
+    <string name="downloads" formatted="false">.Üklemeler</string>
+    <string name="guide" formatted="false">Gollanma</string>
+    <string name="settings" formatted="false">Sazlamalar</string>
+    <string name="home_title" formatted="false">Wideoňyz. Collectionygyndyňyz</string>
+    <string name="home_subtitle" formatted="false">Saklamaga mynasyp bir zat tapyň.</string>
+    <string name="search_hint" formatted="false">Web sahypasyny gözläň ýa-da giriň</string>
+    <string name="go" formatted="false">Bar</string>
+    <string name="paste_link" formatted="false">Wideo baglanyşygyny goýuň</string>
+    <string name="direct_link" formatted="false">Göni wideo baglanyşygy</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Göçürip al</string>
+    <string name="detect" formatted="false">Wideo tapyň</string>
+    <string name="detected" formatted="false">Bu sahypadaky wideolar</string>
+    <string name="no_media" formatted="false">Göçürip alyp boljak wideo tapylmady Wideo çalmaga başlaň, soňra gaýtadan synanyşyň. Goragly akymlar we oturdylan çarçuwalar elýeterli bolmazlygy mümkin.</string>
+    <string name="safe_note" formatted="false">Diňe özüňizdäki wideolary göçürip alyň ýa-da ýazdyrmaga rugsadyňyz bar. Goragly akymlar we YouTube göçürip alyp bolmaýar.</string>
+    <string name="quick_start" formatted="false">BU BAŞLA</string>
+    <string name="quick_browse" formatted="false">Webde gözläň</string>
+    <string name="quick_browse_body" formatted="false">Gurlan brauzerde islän motoryňyz bilen gözläň.</string>
+    <string name="quick_download" formatted="false">Wideo ýazdyryň</string>
+    <string name="quick_download_body" formatted="false">Göni HTTPS wideo baglanyşygyny goýuň ýa-da sahypada wideo tapyň.</string>
+    <string name="quick_guide" formatted="false">Biraz gollanma</string>
+    <string name="quick_guide_body" formatted="false">Açyşdan kolleksiýaňyza dört sany suratly ädim.</string>
+    <string name="back" formatted="false">Yzyna</string>
+    <string name="forward" formatted="false">Öňe</string>
+    <string name="reload" formatted="false">Gaýtadan ýükläň</string>
+    <string name="home" formatted="false">Öý</string>
+    <string name="bookmark" formatted="false">Bellik</string>
+    <string name="bookmarks" formatted="false">Bellikler</string>
+    <string name="empty_bookmarks" formatted="false">Saklanan web sahypalary şu ýerde peýda bolar.</string>
+    <string name="saved" formatted="false">Saklandy</string>
+    <string name="remove" formatted="false">Aýyr</string>
+    <string name="cancel" formatted="false">Elatyr</string>
+    <string name="close" formatted="false">.Akyn</string>
+    <string name="confirm_download" formatted="false">Bu wideony ýazdyryň?</string>
+    <string name="filename" formatted="false">Faýlyň ady</string>
+    <string name="download_location" formatted="false">Downloadüklemeler / wideo ýükleýji premiumda saklanýar</string>
+    <string name="permission_confirm" formatted="false">Bu wideonyň eýesi ýa-da göçürip almaga rugsadym bar.</string>
+    <string name="permission_required" formatted="false">Bu wideony ýazdyrmaga rugsadyňyzyň bardygyny tassyklaň.</string>
+    <string name="invalid_url" formatted="false">Dogry HTTPS wideo baglanyşygyny giriziň.</string>
+    <string name="unsupported" formatted="false">Bu baglanyşyk göçürip alyp bolýan wideo däl. DRM, göni ýaýlymlar, pleýist sanawlary we YouTube ýüklemeleri goldanylmaýar.</string>
+    <string name="queued" formatted="false">Göçürip almak nobata goşuldy</string>
+    <string name="download_error" formatted="false">Göçürip alyp bolmaýar Baglanyşygy barlaň ýa-da täze wideo baglanyşygyny ulanyň.</string>
+    <string name="collection_title" formatted="false">Collectionygyndyňyz</string>
+    <string name="collection_subtitle" formatted="false">Saklanan wideolar, bolanyňyzda taýýar.</string>
+    <string name="empty_downloads" formatted="false">Indiki halaýanlaryňyz şu ýerde.</string>
+    <string name="empty_downloads_body" formatted="false">Collectionygyndyňyzy başlamak üçin göni wideo baglanyşygyny gözläň ýa-da göçüriň.</string>
+    <string name="pending" formatted="false">Nobat</string>
+    <string name="running" formatted="false">Ingüklemek</string>
+    <string name="paused" formatted="false">Tora garaşmak ýa-da gaýtadan synanyşmak</string>
+    <string name="complete" formatted="false">Doly</string>
+    <string name="failed" formatted="false">Şowsuz</string>
+    <string name="missing" formatted="false">Faýl elýeterli däl</string>
+    <string name="play" formatted="false">Oýna</string>
+    <string name="share" formatted="false">Paýlaş</string>
+    <string name="retry" formatted="false">Gaýtadan synanyşyň</string>
+    <string name="delete_download" formatted="false">Göçürip almagy we faýly aýyryň?</string>
+    <string name="no_player" formatted="false">Bu faýly açmak üçin gabat gelýän programma ýok.</string>
+    <string name="guide_title" formatted="false">Açyşdan göçürip almak.</string>
+    <string name="guide_subtitle" formatted="false">Halaýan wideolaryňyzy saklamak üçin ýönekeý gollanma.</string>
+    <string name="step_one_title" formatted="false">Wideoňyzy tapyň</string>
+    <string name="step_one_body" formatted="false">Göz aýla. Web sahypasynyň salgysyny gözläň ýa-da giriziň. Şeýle hem başga bir programmadan wideo baglanyşygyny paýlaşyp bilersiňiz.</string>
+    <string name="step_two_title" formatted="false">Çeşmesini tapyň</string>
+    <string name="step_two_body" formatted="false">Wideo oýnaň, soňra wideo tapyň. Tapylan faýly saýlaň ýa-da göni HTTPS wideo baglanyşygyny goýuň.</string>
+    <string name="step_three_title" formatted="false">Muny seniňki et</string>
+    <string name="step_three_body" formatted="false">Faýl adyny saýlaň, wideo ýazdyrmaga rugsatyňyzy tassyklaň we Downloadükle düwmesine basyň. “Android” göçürip almagy fonda dowam etdirýär.</string>
+    <string name="step_four_title" formatted="false">Collectionygyndyňyzdan lezzet alyň</string>
+    <string name="step_four_body" formatted="false">Öňe gidişligi barlamak üçin ýüklemeleri açyň. Tamamlanan wideolary oýnaň ýa-da paýlaşyň. Zerur bolanda täze baglanyşyk bilen şowsuz ýüklemeleri gaýtadan synanyşyň.</string>
+    <string name="try_now" formatted="false">Indi synap görüň</string>
+    <string name="preferences" formatted="false">Muny özüňiz ediň.</string>
+    <string name="preferences_subtitle" formatted="false">Gündelik göz aýlamak üçin birnäçe oýlanyşykly dolandyryş.</string>
+    <string name="dns_title" formatted="false">VPN / Hususy DNS</string>
+    <string name="dns_explanation" formatted="false">Hususy DNS DNS talaplaryny şifrleýär. IP adresiňizi gizlänok ýa-da VPN tuneli döredenok. “Android” bu sazlamany el bilen üýtgetmegiňizi talap edýär.</string>
+    <string name="connected" formatted="false">Birikdirildi</string>
+    <string name="unconnected" formatted="false">Baglanyşyksyz</string>
+    <string name="connect" formatted="false">Birikdiriň</string>
+    <string name="disconnect" formatted="false">Aýyr</string>
+    <string name="dns_instructions" formatted="false">Hususy DNS üpjün edijiniň adyny saýlaň, dns.adguard-dns.com goýuň we ýazdyryň. Aýyrmak üçin şol bir ulgam sazlamasynda Awtomat ýa-da Öçürmek saýlaň.</string>
+    <string name="copy_hostname" formatted="false">Baş sahypanyň adyny göçüriň</string>
+    <string name="copied" formatted="false">Paneli göçürildi</string>
+    <string name="open_network_settings" formatted="false">Ulgam sazlamalaryny açyň</string>
+    <string name="language" formatted="false">Programma dili</string>
+    <string name="system_language" formatted="false">Enjam diline eýeriň</string>
+    <string name="search_language" formatted="false">Dil tapyň</string>
+    <string name="language_note" formatted="false">Terjimeler awtonom görnüşde. Sanawda ýok enjam dilleri iňlis dilini ulanýar. Maşyn terjimeleri sebitleýin gözden geçirilmegine mätäç bolup biler.</string>
+    <string name="search_engine" formatted="false">Gözleg motory</string>
+    <string name="wifi_only" formatted="false">Diňe Wi-Fi-da göçürip alyň</string>
+    <string name="wifi_body" formatted="false">Täze ýüklemeler Wi-Fi elýeterli bolýança garaşýar.</string>
+    <string name="javascript" formatted="false">JavaScript web sahypasy</string>
+    <string name="javascript_body" formatted="false">Köp web sahypalary we HTML5 wideo açyşy talap edilýär.</string>
+    <string name="privacy" formatted="false">Gizlinlik</string>
+    <string name="clear_browser" formatted="false">Göz aýlamak maglumatlary arassalaň</string>
+    <string name="clear_browser_confirm" formatted="false">Gutapjyklary, brauzer keşini, taryhy we web sahypasyny pozuň?</string>
+    <string name="privacy_body" formatted="false">Hiç hili mahabat, analitika ýa-da dörediji hasap ýok. Web sahypalary, gözleg motorlary, DNS üpjün edijileri we göçürip alýan serwerler islegleriňizi kabul edýärler. Taryhy we bellikleri göçürip alyň bu enjamda.</string>
+    <string name="terms" formatted="false">Jogapkärçilikli ulanyň</string>
+    <string name="terms_body" formatted="false">Diňe özüňize degişli bolan wideolary ýazdyryň ýa-da göçürip almaga rugsat berilýär. Awtorlyk hukugyna we web sahypasynyň şertlerine hormat goýuň. Bu programma DRM, töleg tölegleri ýa-da platforma göçürip almak çäklendirmelerinden geçip bilmez.</string>
+    <string name="about" formatted="false">Takmynan</string>
+    <string name="version" formatted="false">Wersiýa</string>
+    <string name="paid_app" formatted="false">Bir satyn almak. Mahabat ýok. Abuna ýazylmady.</string>
+    <string name="welcome_title" formatted="false">Ylham berýän zady saklaň.</string>
+    <string name="welcome_body" formatted="false">Rugsat berlen wideolary bir ýerde gözläň, tapyň we saklaň. Başlamak üçin suratly gollanmany okaň.</string>
+    <string name="start_browsing" formatted="false">Göz aýlap başlaň</string>
+    <string name="read_guide" formatted="false">Gollanmany okaň</string>
+    <string name="browser_error" formatted="false">Bu sahypa ýükläp bolmady Salgyny we birikmesini barlaň, soňra täzeden ýükläň.</string>
+    <string name="secure_only" formatted="false">Bu programma HTTPS birikmelerini ulanýar. Bu web sahypasynyň ygtybarly wersiýasyny synap görüň.</string>
+    <string name="external_link" formatted="false">Bu baglanyşygy başga bir programmada açyň?</string>
+    <string name="open" formatted="false">Aç</string>
+    <string name="refresh" formatted="false">Täzele</string>
+    <string name="accessibility_tutorial" formatted="false">Bu okuw ädimi üçin illýustrasiýa</string>
+    <string name="download_reason" formatted="false">Android göçürip almak säwlik kody</string>
+    <string name="queue_full" formatted="false">Göçürip almagyň taryhy doly. Ilki köne ýazgyny aýyryň.</string>
+    <string name="browser_tabs" formatted="false">Brauzer goýmalary</string>
+    <string name="tabs_subtitle" formatted="false">Web sahypalaryny açyk saklaň we olaryň arasynda geçiň.</string>
+    <string name="new_tab" formatted="false">Täze goýma</string>
+    <string name="close_tab" formatted="false">Salgy ýapyň</string>
+    <string name="active_tab" formatted="false">Işjeň goýma</string>
+    <string name="tab_limit" formatted="false">8 tablisa çenli açyp bilersiňiz. Başga birini goşmak üçin goýmany ýapyň.</string>
+    <string name="history" formatted="false">Taryh</string>
+    <string name="history_subtitle" formatted="false">Girilen web sahypalary diňe şu enjamda saklanýar.</string>
+    <string name="empty_history" formatted="false">Göz aýlamagyň taryhy şu ýerde peýda bolar.</string>
+    <string name="clear_history" formatted="false">Taryhy aýdyň</string>
+    <string name="clear_history_confirm" formatted="false">Bu enjamdan ähli gözleg taryhyny pozuň?</string>
+    <string name="open_new_tab" formatted="false">Täze goýmada açyň</string>
+    <string name="browser_menu" formatted="false">Brauzer menýusy</string>
+    <string name="shortcut_note" formatted="false">Web sahypasynyň gysga ýollary brauzerde açylýar. Downloadüklemegiň elýeterliligi web sahypasyna baglydyr.</string>
+</resources>

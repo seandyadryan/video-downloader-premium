@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Browsen</string>
+    <string name="downloads" formatted="false">Downloads</string>
+    <string name="guide" formatted="false">Guide</string>
+    <string name="settings" formatted="false">Astellungen</string>
+    <string name="home_title" formatted="false">Är Videoen. Är Sammlung.</string>
+    <string name="home_subtitle" formatted="false">Fannt eppes derwäert ze halen.</string>
+    <string name="search_hint" formatted="false">Sicht oder gitt eng Websäit</string>
+    <string name="go" formatted="false">Gitt</string>
+    <string name="paste_link" formatted="false">Paste Video Link</string>
+    <string name="direct_link" formatted="false">Direkte Video Link</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Download</string>
+    <string name="detect" formatted="false">Fannt Videoen</string>
+    <string name="detected" formatted="false">Videoen op dëser Säit</string>
+    <string name="no_media" formatted="false">Kee downloadbare Video fonnt. Start e Video ze spillen, probéiert dann nach eng Kéier. Geschützt Streamen an embedded Rummen kënnen net verfügbar sinn.</string>
+    <string name="safe_note" formatted="false">Luet nëmmen Videoen erof déi Dir besëtzt oder Dir hutt d\&apos;Erlaabnis ze späicheren. Geschützt Streamen an YouTube Downloads sinn net verfügbar.</string>
+    <string name="quick_start" formatted="false">START HEI</string>
+    <string name="quick_browse" formatted="false">Entdeckt de Web</string>
+    <string name="quick_browse_body" formatted="false">Sicht mat Ärem Lieblingsmotor am agebaute Browser.</string>
+    <string name="quick_download" formatted="false">Späichert e Video</string>
+    <string name="quick_download_body" formatted="false">Paste en direkten HTTPS Video Link oder fannt e Video op enger Säit.</string>
+    <string name="quick_guide" formatted="false">E bësse Leedung</string>
+    <string name="quick_guide_body" formatted="false">Véier illustréiert Schrëtt vun der Entdeckung op Är Sammlung.</string>
+    <string name="back" formatted="false">Zréck</string>
+    <string name="forward" formatted="false">Forward</string>
+    <string name="reload" formatted="false">Reload</string>
+    <string name="home" formatted="false">Doheem</string>
+    <string name="bookmark" formatted="false">Bookmark</string>
+    <string name="bookmarks" formatted="false">Lieszeeche</string>
+    <string name="empty_bookmarks" formatted="false">Gespäichert Websäiten erschéngen hei.</string>
+    <string name="saved" formatted="false">Gespäichert</string>
+    <string name="remove" formatted="false">Ewechzehuelen</string>
+    <string name="cancel" formatted="false">Ofbriechen</string>
+    <string name="close" formatted="false">Zoumaachen</string>
+    <string name="confirm_download" formatted="false">Dëse Video späicheren?</string>
+    <string name="filename" formatted="false">Dateinumm</string>
+    <string name="download_location" formatted="false">Gespäichert an Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Ech besëtzen dëse Video oder hunn Erlaabnis et erofzelueden.</string>
+    <string name="permission_required" formatted="false">Bestätegt datt Dir Erlaabnis hutt dëse Video ze späicheren.</string>
+    <string name="invalid_url" formatted="false">Gitt eng valabel HTTPS Video Link.</string>
+    <string name="unsupported" formatted="false">Dëse Link ass keen erofzelueden Video. DRM, Live Streams, Playlists, an YouTube Downloads ginn net ënnerstëtzt.</string>
+    <string name="queued" formatted="false">Download an d\&apos;Schlaang bäigefüügt</string>
+    <string name="download_error" formatted="false">Kann net eroflueden. Kontrolléiert d\&apos;Verbindung oder benotzt e frësche Videolink.</string>
+    <string name="collection_title" formatted="false">Är Sammlung</string>
+    <string name="collection_subtitle" formatted="false">Gespäichert Videoen, prett wann Dir sidd.</string>
+    <string name="empty_downloads" formatted="false">Ären nächste Favorit gehéiert hei.</string>
+    <string name="empty_downloads_body" formatted="false">Fannt e Video a Browst oder paste en direkten Videolink fir Är Sammlung unzefänken.</string>
+    <string name="pending" formatted="false">Queue</string>
+    <string name="running" formatted="false">Eroflueden</string>
+    <string name="paused" formatted="false">Waart op Netzwierk oder probéiert nach eng Kéier</string>
+    <string name="complete" formatted="false">Komplett</string>
+    <string name="failed" formatted="false">Ausgefall</string>
+    <string name="missing" formatted="false">Datei net verfügbar</string>
+    <string name="play" formatted="false">Spillen</string>
+    <string name="share" formatted="false">Deelen</string>
+    <string name="retry" formatted="false">Nach eng Kéier probéieren</string>
+    <string name="delete_download" formatted="false">Den Download a seng Datei erofhuelen?</string>
+    <string name="no_player" formatted="false">Keng kompatibel App ass verfügbar fir dës Datei opzemaachen.</string>
+    <string name="guide_title" formatted="false">Vun Entdeckung fir erofzelueden.</string>
+    <string name="guide_subtitle" formatted="false">En einfache Guide fir d\&apos;Videoen ze halen déi Dir gär hutt.</string>
+    <string name="step_one_title" formatted="false">Fannt Äre Video</string>
+    <string name="step_one_body" formatted="false">Open Browsen. Sich oder gitt eng Websäit Adress. Dir kënnt och e Videolink vun enger anerer App deelen.</string>
+    <string name="step_two_title" formatted="false">Entdeckt d\&apos;Quell</string>
+    <string name="step_two_body" formatted="false">Spillt e Video, tippt dann op Fannt Videoen. Wielt eng detektéiert Datei, oder paste en direkten HTTPS Video Link.</string>
+    <string name="step_three_title" formatted="false">Maachen et Är</string>
+    <string name="step_three_body" formatted="false">Wielt e Dateinumm, bestätegt Är Erlaabnis fir de Video ze späicheren, a tippt op Download. Android setzt den Download am Hannergrond weider.</string>
+    <string name="step_four_title" formatted="false">Genéisst Är Sammlung</string>
+    <string name="step_four_body" formatted="false">Open Downloads fir de Fortschrëtt ze kontrolléieren. Spillt oder deelt fäerdeg Videoen. Probéiert erëm gescheitert Downloads mat engem frësche Link wann néideg.</string>
+    <string name="try_now" formatted="false">Probéiert et elo</string>
+    <string name="preferences" formatted="false">Maachen et Är eege.</string>
+    <string name="preferences_subtitle" formatted="false">E puer Duerchduechte Kontrollen fir Ären alldeegleche Surfen.</string>
+    <string name="dns_title" formatted="false">VPN / Privat DNS</string>
+    <string name="dns_explanation" formatted="false">Privat DNS verschlësselt DNS Ufroen. Et verstoppt Är IP Adress net oder erstellt e VPN Tunnel. Android erfuerdert datt Dir dës Astellung manuell ännert.</string>
+    <string name="connected" formatted="false">Ugeschloss</string>
+    <string name="unconnected" formatted="false">Net verbonnen</string>
+    <string name="connect" formatted="false">Connect</string>
+    <string name="disconnect" formatted="false">Trennen</string>
+    <string name="dns_instructions" formatted="false">Wielt Privaten DNS Provider Hostnumm, Paste dns.adguard-dns.com, a späichert. Fir ze trennen, wielt Automatesch oder Off am selwechte Systemastellung.</string>
+    <string name="copy_hostname" formatted="false">Kopéiert Hostnumm</string>
+    <string name="copied" formatted="false">Kopéiert op Clipboard</string>
+    <string name="open_network_settings" formatted="false">Open Reseau Astellungen</string>
+    <string name="language" formatted="false">App Sprooch</string>
+    <string name="system_language" formatted="false">Follegt Apparat Sprooch</string>
+    <string name="search_language" formatted="false">Fannt eng Sprooch</string>
+    <string name="language_note" formatted="false">Iwwersetzunge sinn offline abegraff. Net opgelëscht Apparat Sprooche benotzen Englesch. Maschinn Iwwersetzunge kënnen regional Iwwerpréiwung brauchen.</string>
+    <string name="search_engine" formatted="false">Sich-Moteur</string>
+    <string name="wifi_only" formatted="false">Download nëmmen op Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Nei Downloads waarden bis Wi-Fi verfügbar ass.</string>
+    <string name="javascript" formatted="false">Websäit JavaScript</string>
+    <string name="javascript_body" formatted="false">Verlaangt vu ville Websäiten an HTML5 Video Entdeckung.</string>
+    <string name="privacy" formatted="false">Privatsphär</string>
+    <string name="clear_browser" formatted="false">Kloer Consultatioun Daten</string>
+    <string name="clear_browser_confirm" formatted="false">Cookien, Browser Cache, Geschicht a Websäit Späichere läschen?</string>
+    <string name="privacy_body" formatted="false">Keng Annoncen, Analysen oder Entwécklerkonten. Websäiten, Sichmotoren, DNS Ubidder an Download-Server kréien d\&apos;Ufroen déi Dir maacht. Download Geschicht a Lieszeeche bleiwen op dësem Apparat.</string>
+    <string name="terms" formatted="false">Benotzt verantwortlech</string>
+    <string name="terms_body" formatted="false">Späichert nëmmen Videoen déi Dir besëtzt oder erlaabt ass erofzelueden. Respektéiert d\&apos;Urheberrechter a Websäitbedingunge. Dës App kann net DRM, Paywalls oder Plattform Download Restriktiounen ëmgoen.</string>
+    <string name="about" formatted="false">Iwwer</string>
+    <string name="version" formatted="false">Versioun</string>
+    <string name="paid_app" formatted="false">Ee Kaf. Keng Annoncen. Keen Abonnement.</string>
+    <string name="welcome_title" formatted="false">Halt wat Iech inspiréiert.</string>
+    <string name="welcome_body" formatted="false">Browst, entdeckt a späichert erlaabt Videoen op enger Plaz. Liest den illustréierte Guide fir unzefänken.</string>
+    <string name="start_browsing" formatted="false">Fänkt un ze surfen</string>
+    <string name="read_guide" formatted="false">Liest de Guide</string>
+    <string name="browser_error" formatted="false">Dës Säit konnt net geluede ginn. Kontrolléiert d\&apos;Adress an d\&apos;Verbindung, lued dann nei.</string>
+    <string name="secure_only" formatted="false">Dës App benotzt HTTPS Verbindungen. Probéiert déi sécher Versioun vun dëser Websäit.</string>
+    <string name="external_link" formatted="false">Dëse Link an enger anerer App opmaachen?</string>
+    <string name="open" formatted="false">Oppen</string>
+    <string name="refresh" formatted="false">Erfrëschen</string>
+    <string name="accessibility_tutorial" formatted="false">Illustratioun fir dësen Tutorial Schrëtt</string>
+    <string name="download_reason" formatted="false">Android Download Feeler Code</string>
+    <string name="queue_full" formatted="false">D\&apos;Downloadgeschicht ass voll. Ewechzehuelen éischt eng al Entrée.</string>
+    <string name="browser_tabs" formatted="false">Browser Tabs</string>
+    <string name="tabs_subtitle" formatted="false">Halt Websäiten oppen a schalt tëscht hinnen.</string>
+    <string name="new_tab" formatted="false">Nei Tab</string>
+    <string name="close_tab" formatted="false">Zoumaachen Tab</string>
+    <string name="active_tab" formatted="false">Aktiv Tab</string>
+    <string name="tab_limit" formatted="false">Dir kënnt bis zu 8 Tabs opmaachen. Zoumaachen eng Tab fir en aneren ze addéieren.</string>
+    <string name="history" formatted="false">Geschicht</string>
+    <string name="history_subtitle" formatted="false">Besicht Websäite ginn nëmmen op dësem Apparat gespäichert.</string>
+    <string name="empty_history" formatted="false">Är Browsergeschicht erschéngt hei.</string>
+    <string name="clear_history" formatted="false">Kloer Geschicht</string>
+    <string name="clear_history_confirm" formatted="false">All Browsergeschicht vun dësem Apparat läschen?</string>
+    <string name="open_new_tab" formatted="false">Open an neien Tab</string>
+    <string name="browser_menu" formatted="false">Browser Menü</string>
+    <string name="shortcut_note" formatted="false">Websäit Ofkiirzungen opmaachen am Browser. Download Disponibilitéit hänkt op der Websäit.</string>
+</resources>

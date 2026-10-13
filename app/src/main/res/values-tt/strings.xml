@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Карагыз</string>
+    <string name="downloads" formatted="false">Йөкләүләр</string>
+    <string name="guide" formatted="false">Белешмәлек</string>
+    <string name="settings" formatted="false">Көйләүләр</string>
+    <string name="home_title" formatted="false">Сезнең видеолар. Сезнең коллекция.</string>
+    <string name="home_subtitle" formatted="false">Сакларга кирәк нәрсәне табыгыз.</string>
+    <string name="search_hint" formatted="false">Вебсайтны эзләгез яки кертегез</string>
+    <string name="go" formatted="false">Бар</string>
+    <string name="paste_link" formatted="false">Видео сылтаманы куегыз</string>
+    <string name="direct_link" formatted="false">Туры видео сылтама</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Йөкләү</string>
+    <string name="detect" formatted="false">Видео табыгыз</string>
+    <string name="detected" formatted="false">Бу биттәге видеолар</string>
+    <string name="no_media" formatted="false">Йөкләп алырлык видео табылмады. Видео уйный башлагыз, аннары кабатлап карагыз. Сакланган агымнар һәм урнаштырылган рамнар мөмкин түгел.</string>
+    <string name="safe_note" formatted="false">Сездә булган видеоларны йөкләргә яки сакларга рөхсәтегез бар. Сакланган агымнар һәм YouTube йөкләүләре мөмкин түгел.</string>
+    <string name="quick_start" formatted="false">Монда башлау</string>
+    <string name="quick_browse" formatted="false">Вебны барлау</string>
+    <string name="quick_browse_body" formatted="false">Эчке двигатель белән урнаштырылган браузерда эзләгез.</string>
+    <string name="quick_download" formatted="false">Видео саклагыз</string>
+    <string name="quick_download_body" formatted="false">Турыдан-туры HTTPS видео сылтамасын ябыштырыгыз яки биттә видео табыгыз.</string>
+    <string name="quick_guide" formatted="false">Бераз җитәкчелек</string>
+    <string name="quick_guide_body" formatted="false">Ачыклаудан сезнең коллекциягә кадәр дүрт иллюстрацияле адым.</string>
+    <string name="back" formatted="false">Кире</string>
+    <string name="forward" formatted="false">Алга</string>
+    <string name="reload" formatted="false">Йөкләү</string>
+    <string name="home" formatted="false">Өй</string>
+    <string name="bookmark" formatted="false">Кыстарма</string>
+    <string name="bookmarks" formatted="false">Кыстармалар</string>
+    <string name="empty_bookmarks" formatted="false">Сакланган вебсайтлар монда барлыкка киләчәк.</string>
+    <string name="saved" formatted="false">Сакланган</string>
+    <string name="remove" formatted="false">Чыгар</string>
+    <string name="cancel" formatted="false">Баш тарту</string>
+    <string name="close" formatted="false">Ябу</string>
+    <string name="confirm_download" formatted="false">Бу видеоны саклагыз?</string>
+    <string name="filename" formatted="false">Файлның исеме</string>
+    <string name="download_location" formatted="false">Йөкләүләрдә / Видео Йөкләүче Премиумда сакланган</string>
+    <string name="permission_confirm" formatted="false">Минем бу видео бар, яисә аны йөкләргә рөхсәтем бар.</string>
+    <string name="permission_required" formatted="false">Бу видеоны сакларга рөхсәтегез барлыгын раслагыз.</string>
+    <string name="invalid_url" formatted="false">Дөрес HTTPS видео сылтамасын кертегез.</string>
+    <string name="unsupported" formatted="false">Бу сылтама йөкләнә торган видео түгел. DRM, тере агымнар, плейлистлар, һәм YouTube йөкләүләре ярдәм итми.</string>
+    <string name="queued" formatted="false">Йөкләү чиратка өстәлде</string>
+    <string name="download_error" formatted="false">Йөкләп булмый. Бәйләнешне тикшерегез яки яңа видео сылтама кулланыгыз.</string>
+    <string name="collection_title" formatted="false">Сезнең коллекция</string>
+    <string name="collection_subtitle" formatted="false">Сакланган видеолар, сез булганда әзер.</string>
+    <string name="empty_downloads" formatted="false">Сезнең киләсе яратканнарыгыз монда.</string>
+    <string name="empty_downloads_body" formatted="false">Collectionыентыкны башлау өчен туры видео сылтаманы карагыз яки карагыз.</string>
+    <string name="pending" formatted="false">Чират</string>
+    <string name="running" formatted="false">Йөкләү</string>
+    <string name="paused" formatted="false">Челтәрне көтү яки кабатлап карау</string>
+    <string name="complete" formatted="false">Тәмам</string>
+    <string name="failed" formatted="false">Уңайсыз</string>
+    <string name="missing" formatted="false">Файл юк</string>
+    <string name="play" formatted="false">Уйна</string>
+    <string name="share" formatted="false">Бүлешү</string>
+    <string name="retry" formatted="false">Кабатлап карагыз</string>
+    <string name="delete_download" formatted="false">Йөкләү һәм аның файлын бетерү?</string>
+    <string name="no_player" formatted="false">Бу файлны ачу өчен бернинди дә кушымта юк.</string>
+    <string name="guide_title" formatted="false">Ачыштан алып йөкләүгә.</string>
+    <string name="guide_subtitle" formatted="false">Сез яраткан видеоларны саклау өчен гади кулланма.</string>
+    <string name="step_one_title" formatted="false">Видеогызны табыгыз</string>
+    <string name="step_one_body" formatted="false">Ачык карау. Вебсайт адресын эзләгез яки кертегез. Сез шулай ук ​​видео кушымтасын бүтән кушымтадан бүлешә аласыз.</string>
+    <string name="step_two_title" formatted="false">Чыганакны табыгыз</string>
+    <string name="step_two_body" formatted="false">Видео уйнагыз, аннары видеолар табыгыз. Ачыкланган файлны сайлагыз, яки туры HTTPS видео сылтамасын ябыштырыгыз.</string>
+    <string name="step_three_title" formatted="false">Аны синеке ит</string>
+    <string name="step_three_body" formatted="false">Файл исемен сайлагыз, видеоны сакларга рөхсәтегезне раслагыз һәм Йөкләү төймәсенә басыгыз. Android йөкләү фонында дәвам итә.</string>
+    <string name="step_four_title" formatted="false">Сезнең коллекциядән ләззәтләнегез</string>
+    <string name="step_four_body" formatted="false">Алга китешне тикшерү өчен Йөкләүләрне ачыгыз. Тәмамланган видеоларны уйнагыз яки бүлешегез. Кирәк булганда яңа сылтама белән уңышсыз йөкләүләрне кабатлап карагыз.</string>
+    <string name="try_now" formatted="false">Хәзер сынап кара</string>
+    <string name="preferences" formatted="false">Аны үзегезнеке ит.</string>
+    <string name="preferences_subtitle" formatted="false">Көндәлек карау өчен берничә уйлы контроль.</string>
+    <string name="dns_title" formatted="false">VPN / Шәхси DNS</string>
+    <string name="dns_explanation" formatted="false">Шәхси DNS DNS сорауларын шифрлый. Бу сезнең IP адресыгызны яшерми һәм VPN тоннеле ясамый. Android сездән бу көйләнүне кул белән үзгәртүегезне таләп итә.</string>
+    <string name="connected" formatted="false">Бәйләнгән</string>
+    <string name="unconnected" formatted="false">Бәйләнмәгән</string>
+    <string name="connect" formatted="false">Бәйләнегез</string>
+    <string name="disconnect" formatted="false">Аерыгыз</string>
+    <string name="dns_instructions" formatted="false">Шәхси DNS тәэмин итүчесенең хост исемен сайлагыз, dns.adguard-dns.com ябыштырыгыз һәм саклагыз. Аеру өчен, бер үк система көйләүләрендә Автоматик яки Сүндерүне сайлагыз.</string>
+    <string name="copy_hostname" formatted="false">Хост исемен күчерегез</string>
+    <string name="copied" formatted="false">Буфер тактасына күчерелгән</string>
+    <string name="open_network_settings" formatted="false">Челтәр көйләнмәләрен ачу</string>
+    <string name="language" formatted="false">Кушымта теле</string>
+    <string name="system_language" formatted="false">Deviceайланма теленә иярегез</string>
+    <string name="search_language" formatted="false">Тел табыгыз</string>
+    <string name="language_note" formatted="false">Тәрҗемәләр оффлайнга кертелгән. Исемлеккә кермәгән җайланма телләре инглиз телен кулланалар. Машина тәрҗемәләренә региональ күзәтү кирәк булырга мөмкин.</string>
+    <string name="search_engine" formatted="false">Эзләү системасы</string>
+    <string name="wifi_only" formatted="false">Wi-Fiда гына йөкләү</string>
+    <string name="wifi_body" formatted="false">Яңа йөкләүләр Wi-Fi булганчы көтәләр.</string>
+    <string name="javascript" formatted="false">JavaScript сайты</string>
+    <string name="javascript_body" formatted="false">Күпчелек вебсайтлар һәм HTML5 видео ачышлары кирәк.</string>
+    <string name="privacy" formatted="false">Хосусыйлык</string>
+    <string name="clear_browser" formatted="false">Браузинг мәгълүматларын чистарту</string>
+    <string name="clear_browser_confirm" formatted="false">Куки, браузер кэшын, тарихны, вебсайтны саклауны бетерегез?</string>
+    <string name="privacy_body" formatted="false">Реклама, аналитика, яисә ясаучы счетлары юк. Вебсайтлар, эзләү системалары, DNS провайдерлары, йөкләү серверлары сез сораганнарны ала. Тарихны һәм кыстыргычларны йөкләү бу җайланмада кала.</string>
+    <string name="terms" formatted="false">Respаваплы кулланыгыз</string>
+    <string name="terms_body" formatted="false">Сездә булган яки йөкләргә рөхсәт ителгән видеоларны гына саклагыз. Авторлык хокукын һәм сайт шартларын хөрмәт итегез. Бу кушымта DRM, хезмәт хакы яки платформаны йөкләү чикләүләрен узып китә алмый.</string>
+    <string name="about" formatted="false">Турында</string>
+    <string name="version" formatted="false">Вариант</string>
+    <string name="paid_app" formatted="false">Бер сатып алу. Реклама юк. Подписка юк.</string>
+    <string name="welcome_title" formatted="false">Сезне рухландырганны саклагыз.</string>
+    <string name="welcome_body" formatted="false">Рөхсәт ителгән видеоларны бер урында карагыз, табыгыз һәм саклагыз. Башлау өчен иллюстрацияләнгән кулланманы укыгыз.</string>
+    <string name="start_browsing" formatted="false">Карарга кереш</string>
+    <string name="read_guide" formatted="false">Белешмәлекне укыгыз</string>
+    <string name="browser_error" formatted="false">Бу битне йөкләп булмады. Адресны һәм тоташуны тикшерегез, аннары яңадан йөкләгез.</string>
+    <string name="secure_only" formatted="false">Бу кушымта HTTPS тоташуларын куллана. Бу вебсайтның куркынычсыз версиясен карагыз.</string>
+    <string name="external_link" formatted="false">Бу сылтаманы бүтән кушымтада ачыгыз?</string>
+    <string name="open" formatted="false">Ачык</string>
+    <string name="refresh" formatted="false">Яңарту</string>
+    <string name="accessibility_tutorial" formatted="false">Бу укыту адымы өчен иллюстрация</string>
+    <string name="download_reason" formatted="false">Android йөкләү хата коды</string>
+    <string name="queue_full" formatted="false">Йөкләү тарихы тулы. Башта иске язуны бетерегез.</string>
+    <string name="browser_tabs" formatted="false">Браузер салынмалары</string>
+    <string name="tabs_subtitle" formatted="false">Вебсайтларны ачык тотыгыз һәм алар арасына күчегез.</string>
+    <string name="new_tab" formatted="false">Яңа кыстыргыч</string>
+    <string name="close_tab" formatted="false">Ябуны ябу</string>
+    <string name="active_tab" formatted="false">Актив кыстыргыч</string>
+    <string name="tab_limit" formatted="false">Сез 8 кыстыргычны ача аласыз. Бүтәнне өстәр өчен салынманы ябыгыз.</string>
+    <string name="history" formatted="false">Тарих</string>
+    <string name="history_subtitle" formatted="false">Визитлар бу җайланмада гына саклана.</string>
+    <string name="empty_history" formatted="false">Сезнең күзәтү тарихы монда барлыкка киләчәк.</string>
+    <string name="clear_history" formatted="false">Тарихны чистарту</string>
+    <string name="clear_history_confirm" formatted="false">Бу җайланмадан барлык карау тарихын бетерәсезме?</string>
+    <string name="open_new_tab" formatted="false">Яңа салынмада ачыгыз</string>
+    <string name="browser_menu" formatted="false">Браузер менюсы</string>
+    <string name="shortcut_note" formatted="false">Вебсайт кыска юллары браузерда ачыла. Йөкләү мөмкинлеге сайтка бәйле.</string>
+</resources>

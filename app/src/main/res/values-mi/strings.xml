@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Tirotiro</string>
+    <string name="downloads" formatted="false">Tikiake</string>
+    <string name="guide" formatted="false">Arataki</string>
+    <string name="settings" formatted="false">Tautuhinga</string>
+    <string name="home_title" formatted="false">Ko o ataata. Ko to kohinga.</string>
+    <string name="home_subtitle" formatted="false">Kimihia tetahi mea pai ki te pupuri.</string>
+    <string name="search_hint" formatted="false">Rapua, uru ranei ki tetahi paetukutuku</string>
+    <string name="go" formatted="false">Haere</string>
+    <string name="paste_link" formatted="false">Whakapiri hononga ataata</string>
+    <string name="direct_link" formatted="false">Hononga ataata tika</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Tikiake</string>
+    <string name="detect" formatted="false">Kimihia nga ataata</string>
+    <string name="detected" formatted="false">Ataata kei runga i tenei wharangi</string>
+    <string name="no_media" formatted="false">Kaore i kitea he ataata ka taea te tango. Tīmatahia te purei ataata, ka ngana ano. Ko nga awa kua parea me nga papa taapiri kaore pea i te waatea.</string>
+    <string name="safe_note" formatted="false">Tikina anake nga ataata kei a koe, kei a koe te whakaaetanga ki te tiaki. Ko nga awa kua parea me nga tikiake YouTube kaore i te waatea.</string>
+    <string name="quick_start" formatted="false">TIMATA I KOE</string>
+    <string name="quick_browse" formatted="false">Torotoro te paetukutuku</string>
+    <string name="quick_browse_body" formatted="false">Rapua me to miihini pai i roto i te tirotiro whakauru.</string>
+    <string name="quick_download" formatted="false">Tiakina he ataata</string>
+    <string name="quick_download_body" formatted="false">Whakapirihia he hononga ataata HTTPS tika, kimihia ranei he ataata i runga i tetahi wharangi.</string>
+    <string name="quick_guide" formatted="false">He aratohu iti</string>
+    <string name="quick_guide_body" formatted="false">E wha nga waahanga whakaahua mai i te kitenga ki to kohinga.</string>
+    <string name="back" formatted="false">Whakamuri</string>
+    <string name="forward" formatted="false">Whakamua</string>
+    <string name="reload" formatted="false">Utaina ano</string>
+    <string name="home" formatted="false">Kainga</string>
+    <string name="bookmark" formatted="false">Tohuwāhi</string>
+    <string name="bookmarks" formatted="false">Tohuwāhi</string>
+    <string name="empty_bookmarks" formatted="false">Ka puta nga paetukutuku kua tiakina ki konei.</string>
+    <string name="saved" formatted="false">Whakaorangia</string>
+    <string name="remove" formatted="false">Tango</string>
+    <string name="cancel" formatted="false">Whakakore</string>
+    <string name="close" formatted="false">Katia</string>
+    <string name="confirm_download" formatted="false">Tiakina tenei ataata?</string>
+    <string name="filename" formatted="false">Ingoa kōnae</string>
+    <string name="download_location" formatted="false">Kua tiakina i roto i nga Tikiake / Kaituku Ataata Premium</string>
+    <string name="permission_confirm" formatted="false">Noku tenei ataata, he whakaaetanga ranei ki te tango.</string>
+    <string name="permission_required" formatted="false">Whakaū kei a koe te whakaaetanga ki te tiaki i tenei ataata.</string>
+    <string name="invalid_url" formatted="false">Whakauruhia he hononga ataata HTTPS whaimana.</string>
+    <string name="unsupported" formatted="false">Ehara tenei hononga i te ataata ka taea te tango. Ko te DRM, ko nga awa ora, ko nga reirangi, me nga tangohanga YouTube kaore i te tautokohia.</string>
+    <string name="queued" formatted="false">Kua taapirihia te tikiake ki te rarangi</string>
+    <string name="download_error" formatted="false">Kaore e taea te tiki. Tirohia te hononga, whakamahi hononga ataata hou ranei.</string>
+    <string name="collection_title" formatted="false">Ko to kohinga</string>
+    <string name="collection_subtitle" formatted="false">Ko nga riipene kua tiakina, kua rite i a koe.</string>
+    <string name="empty_downloads" formatted="false">Kei konei to tino pai.</string>
+    <string name="empty_downloads_body" formatted="false">Kimihia he ataata ki te Tirotiro, whakapiri ranei i tetahi hononga ataata tika hei timata i to kohinga.</string>
+    <string name="pending" formatted="false">Tūtira</string>
+    <string name="running" formatted="false">Tikiake ana</string>
+    <string name="paused" formatted="false">E tatari ana mo te whatunga ka ngana ano ranei</string>
+    <string name="complete" formatted="false">Kua oti</string>
+    <string name="failed" formatted="false">I rahua</string>
+    <string name="missing" formatted="false">Kāore i te wātea te kōnae</string>
+    <string name="play" formatted="false">Te purei</string>
+    <string name="share" formatted="false">Tiria</string>
+    <string name="retry" formatted="false">Ngana ano</string>
+    <string name="delete_download" formatted="false">Tango tikiake me tana kōnae?</string>
+    <string name="no_player" formatted="false">Karekau he taupānga hototahi hei whakatuwhera i tenei konae.</string>
+    <string name="guide_title" formatted="false">Mai i te kitenga ki te tango.</string>
+    <string name="guide_subtitle" formatted="false">He aratohu ngawari ki te pupuri i nga ataata e pai ana koe.</string>
+    <string name="step_one_title" formatted="false">Kimihia to ataata</string>
+    <string name="step_one_body" formatted="false">Tuwhera Tirotiro. Rapua, whakauruhia ranei he wahitau paetukutuku. Ka taea hoki e koe te tiri hononga ataata mai i tetahi atu taupānga.</string>
+    <string name="step_two_title" formatted="false">Tirohia te puna</string>
+    <string name="step_two_body" formatted="false">Purihia he ataata, ka patohia Kimihia nga ataata. Kōwhiria he kōnae kua kitea, whakapirihia he hononga ataata HTTPS tika.</string>
+    <string name="step_three_title" formatted="false">Whakaritea maau</string>
+    <string name="step_three_body" formatted="false">Kōwhiria he ingoa kōnae, whakaū i tō whakaaetanga ki te tiaki i te ataata, ka pato Tikiake. Ka haere tonu a Android ki te tango i te papamuri.</string>
+    <string name="step_four_title" formatted="false">Kia pai to kohinga</string>
+    <string name="step_four_body" formatted="false">Whakatuwherahia nga Tikiake hei tirotiro i te ahunga whakamua. Purei, tiritiri ranei i nga ataata kua oti. Ngana ano nga tango i rahua me te hono hou ina hiahiatia.</string>
+    <string name="try_now" formatted="false">Whakamātauria ināianei</string>
+    <string name="preferences" formatted="false">Hangaia nau ake.</string>
+    <string name="preferences_subtitle" formatted="false">He iti nga mana whakahaere mo to tirotiro i ia ra.</string>
+    <string name="dns_title" formatted="false">VPN / DNS tūmataiti</string>
+    <string name="dns_explanation" formatted="false">Ka whakamuna te DNS tūmataiti i nga patai DNS. Kaore e huna i to wahitau IP, ka waihangahia ranei he kohanga VPN. E hiahia ana a Android kia huri a ringa koe i tenei tautuhinga.</string>
+    <string name="connected" formatted="false">Kua hono</string>
+    <string name="unconnected" formatted="false">Kore hono</string>
+    <string name="connect" formatted="false">Tūhono</string>
+    <string name="disconnect" formatted="false">Momotu</string>
+    <string name="dns_instructions" formatted="false">Tīpakohia te ingoa kaihautū kaiwhakarato DNS tūmataiti, whakapiri dns.adguard-dns.com, ka tiaki. Hei momotu, tohua Aunoa, Weto ranei i te tautuhinga punaha ano.</string>
+    <string name="copy_hostname" formatted="false">Tārua ingoa kaihautū</string>
+    <string name="copied" formatted="false">Kua tāruatia ki te papatopenga</string>
+    <string name="open_network_settings" formatted="false">Whakatuwherahia nga tautuhinga whatunga</string>
+    <string name="language" formatted="false">Te reo tono</string>
+    <string name="system_language" formatted="false">Whaia te reo taputapu</string>
+    <string name="search_language" formatted="false">Kimihia he reo</string>
+    <string name="language_note" formatted="false">Ko nga whakamaoritanga kei te tuimotu. Ko nga reo o nga taputapu kaore i te raarangi e whakamahi ana i te reo Ingarihi. Me arotake-a-rohe nga whakamaori miihini.</string>
+    <string name="search_engine" formatted="false">Pukaha rapu</string>
+    <string name="wifi_only" formatted="false">Tikiake i runga Wi-Fi anake</string>
+    <string name="wifi_body" formatted="false">Tatari nga tangohanga hou kia watea mai a Wi-Fi.</string>
+    <string name="javascript" formatted="false">paetukutuku JavaScript</string>
+    <string name="javascript_body" formatted="false">E hiahiatia ana e te maha o nga paetukutuku me nga kitenga ataata HTML5.</string>
+    <string name="privacy" formatted="false">Tūmataitinga</string>
+    <string name="clear_browser" formatted="false">Ūkui raraunga tirotiro</string>
+    <string name="clear_browser_confirm" formatted="false">Mukua pihikete, keteroki tirotiro, hitori, me te rokiroki paetukutuku?</string>
+    <string name="privacy_body" formatted="false">Kaore he panui, tātaritanga, he putea kaiwhakawhanake ranei. Ka whiwhi nga paetukutuku, nga miihini rapu, nga kaiwhakarato DNS, me nga kaitoro tango i nga tono ka mahia e koe. Ko nga hitori me nga tohu tohu ka noho ki runga i tenei taputapu.</string>
+    <string name="terms" formatted="false">Whakamahia kia tika</string>
+    <string name="terms_body" formatted="false">Tiakina noa nga ataata kei a koe, ka whakaaetia ranei ki te tango. Whakahonoretia te mana pupuri me nga tikanga paetukutuku. Kaore e taea e tenei taupānga te karo i te DRM, i nga utu utu, i nga here tangohanga papaaho ranei.</string>
+    <string name="about" formatted="false">Mō</string>
+    <string name="version" formatted="false">Putanga</string>
+    <string name="paid_app" formatted="false">Kotahi te hoko. Karekau he panui. Kaore he ohaurunga.</string>
+    <string name="welcome_title" formatted="false">Kia mau ki nga mea e akiaki ana ia koe.</string>
+    <string name="welcome_body" formatted="false">Tirotiro, kitea, ka tiaki i nga riipene ataata e whakaaetia ana ki te waahi kotahi. Pānuihia te aratohu whakaahua hei timata.</string>
+    <string name="start_browsing" formatted="false">Tīmatahia te tirotiro</string>
+    <string name="read_guide" formatted="false">Pānuihia te aratohu</string>
+    <string name="browser_error" formatted="false">Kaore i taea te utaina tenei wharangi. Tirohia te wahitau me te hononga, katahi ka utaina ano.</string>
+    <string name="secure_only" formatted="false">Ka whakamahia e tenei taupānga nga hononga HTTPS. Whakamātauria te putanga haumaru o tēnei paetukutuku.</string>
+    <string name="external_link" formatted="false">Tuwherahia tenei hononga ki tetahi atu taupānga?</string>
+    <string name="open" formatted="false">Tuwhera</string>
+    <string name="refresh" formatted="false">Tāmata</string>
+    <string name="accessibility_tutorial" formatted="false">Whakaahua mo tenei taahiraa akoranga</string>
+    <string name="download_reason" formatted="false">Waehere hapa tango Android</string>
+    <string name="queue_full" formatted="false">Kua ki tonu te hitori tango. Tangohia tetahi urunga tawhito i te tuatahi.</string>
+    <string name="browser_tabs" formatted="false">Ripa Pūtirotiro</string>
+    <string name="tabs_subtitle" formatted="false">Kia tuwhera tonu nga paetukutuku ka huri i waenga.</string>
+    <string name="new_tab" formatted="false">Ripa hou</string>
+    <string name="close_tab" formatted="false">Katia te ripa</string>
+    <string name="active_tab" formatted="false">Ripa hohe</string>
+    <string name="tab_limit" formatted="false">Ka taea e koe te whakatuwhera ki te 8 ripa. Katia he ripa hei taapiri i tetahi atu.</string>
+    <string name="history" formatted="false">Hītori</string>
+    <string name="history_subtitle" formatted="false">Ko nga paetukutuku kua torohia ka tiakina ki tenei taputapu anake.</string>
+    <string name="empty_history" formatted="false">Ka puta mai to hitori tirotiro.</string>
+    <string name="clear_history" formatted="false">Maamaa te hitori</string>
+    <string name="clear_history_confirm" formatted="false">Mukua nga hitori tirotiro katoa mai i tenei taputapu?</string>
+    <string name="open_new_tab" formatted="false">Tuwhera ki te ripa hou</string>
+    <string name="browser_menu" formatted="false">Tahua Pūtirotiro</string>
+    <string name="shortcut_note" formatted="false">Ka tuwhera nga pokatata paetukutuku ki te tirotiro. Ko te waatea o te tikiake ka whakawhirinaki ki te paetukutuku.</string>
+</resources>

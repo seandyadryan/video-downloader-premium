@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">高级版</string>
+    <string name="browse" formatted="false">浏览</string>
+    <string name="downloads" formatted="false">下载</string>
+    <string name="guide" formatted="false">指南</string>
+    <string name="settings" formatted="false">设置</string>
+    <string name="home_title" formatted="false">你的视频。你的收藏。</string>
+    <string name="home_subtitle" formatted="false">找到值得保留的东西。</string>
+    <string name="search_hint" formatted="false">搜索或输入网站</string>
+    <string name="go" formatted="false">去</string>
+    <string name="paste_link" formatted="false">粘贴视频链接</string>
+    <string name="direct_link" formatted="false">直接视频链接</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">下载</string>
+    <string name="detect" formatted="false">查找视频</string>
+    <string name="detected" formatted="false">本页的视频</string>
+    <string name="no_media" formatted="false">找不到可下载的视频。开始播放视频，然后重试。受保护的流和嵌入的帧可能不可用。</string>
+    <string name="safe_note" formatted="false">仅下载您拥有或有权保存的视频。受保护的流和 YouTube 下载不可用。</string>
+    <string name="quick_start" formatted="false">从这里开始</string>
+    <string name="quick_browse" formatted="false">探索网络</string>
+    <string name="quick_browse_body" formatted="false">在内置浏览器中使用您喜欢的引擎进行搜索。</string>
+    <string name="quick_download" formatted="false">保存视频</string>
+    <string name="quick_download_body" formatted="false">粘贴直接 HTTPS 视频链接或在页面上查找视频。</string>
+    <string name="quick_guide" formatted="false">一点指导</string>
+    <string name="quick_guide_body" formatted="false">从发现到收藏的四个图解步骤。</string>
+    <string name="back" formatted="false">返回</string>
+    <string name="forward" formatted="false">前进</string>
+    <string name="reload" formatted="false">重新加载</string>
+    <string name="home" formatted="false">首页</string>
+    <string name="bookmark" formatted="false">书签</string>
+    <string name="bookmarks" formatted="false">书签</string>
+    <string name="empty_bookmarks" formatted="false">保存的网站将出现在此处。</string>
+    <string name="saved" formatted="false">已保存</string>
+    <string name="remove" formatted="false">删除</string>
+    <string name="cancel" formatted="false">取消</string>
+    <string name="close" formatted="false">关闭</string>
+    <string name="confirm_download" formatted="false">保存该视频吗？</string>
+    <string name="filename" formatted="false">文件名</string>
+    <string name="download_location" formatted="false">保存在下载/视频下载高级版中</string>
+    <string name="permission_confirm" formatted="false">我拥有该视频或有权下载它。</string>
+    <string name="permission_required" formatted="false">确认您有权保存该视频。</string>
+    <string name="invalid_url" formatted="false">输入有效的 HTTPS 视频链接。</string>
+    <string name="unsupported" formatted="false">该链接不是可下载的视频。不支持 DRM、直播、播放列表和 YouTube 下载。</string>
+    <string name="queued" formatted="false">下载已添加到队列中</string>
+    <string name="download_error" formatted="false">无法下载。检查连接或使用新的视频链接。</string>
+    <string name="collection_title" formatted="false">你的收藏</string>
+    <string name="collection_subtitle" formatted="false">已保存的视频，随时可用。</string>
+    <string name="empty_downloads" formatted="false">您的下一个最爱就在这里。</string>
+    <string name="empty_downloads_body" formatted="false">在“浏览”中查找视频或粘贴直接视频链接以开始收藏。</string>
+    <string name="pending" formatted="false">排队</string>
+    <string name="running" formatted="false">正在下载</string>
+    <string name="paused" formatted="false">等待网络或重试</string>
+    <string name="complete" formatted="false">完成</string>
+    <string name="failed" formatted="false">失败</string>
+    <string name="missing" formatted="false">文件不可用</string>
+    <string name="play" formatted="false">玩</string>
+    <string name="share" formatted="false">分享</string>
+    <string name="retry" formatted="false">重试</string>
+    <string name="delete_download" formatted="false">删除下载内容及其文件？</string>
+    <string name="no_player" formatted="false">没有兼容的应用程序可用于打开此文件。</string>
+    <string name="guide_title" formatted="false">从发现到下载。</string>
+    <string name="guide_subtitle" formatted="false">保存您喜爱的视频的简单指南。</string>
+    <string name="step_one_title" formatted="false">找到您的视频</string>
+    <string name="step_one_body" formatted="false">打开浏览。搜索或输入网站地址。您还可以共享其他应用程序的视频链接。</string>
+    <string name="step_two_title" formatted="false">发现源头</string>
+    <string name="step_two_body" formatted="false">播放视频，然后点击“查找视频”。选择检测到的文件，或粘贴直接 HTTPS 视频链接。</string>
+    <string name="step_three_title" formatted="false">让它成为你的</string>
+    <string name="step_three_body" formatted="false">选择文件名，确认您保存视频的权限，然后点击下载。 Android 在后台继续下载。</string>
+    <string name="step_four_title" formatted="false">享受你的收藏</string>
+    <string name="step_four_body" formatted="false">打开下载检查进度。播放或分享已完成的视频。需要时使用新链接重试失败的下载。</string>
+    <string name="try_now" formatted="false">立即尝试</string>
+    <string name="preferences" formatted="false">让它成为你自己的。</string>
+    <string name="preferences_subtitle" formatted="false">一些适合您日常浏览的贴心控件。</string>
+    <string name="dns_title" formatted="false">VPN / 私有 DNS</string>
+    <string name="dns_explanation" formatted="false">私有 DNS 对 DNS 查询进行加密。它不会隐藏您的 IP 地址或创建 VPN 隧道。 Android 要求您手动更改此设置。</string>
+    <string name="connected" formatted="false">已连接</string>
+    <string name="unconnected" formatted="false">未连接</string>
+    <string name="connect" formatted="false">连接</string>
+    <string name="disconnect" formatted="false">断开连接</string>
+    <string name="dns_instructions" formatted="false">选择私有 DNS 提供商主机名，粘贴 dns.adguard-dns.com，然后保存。要断开连接，请在同一系统设置中选择“自动”或“关闭”。</string>
+    <string name="copy_hostname" formatted="false">复制主机名</string>
+    <string name="copied" formatted="false">已复制到剪贴板</string>
+    <string name="open_network_settings" formatted="false">打开网络设置</string>
+    <string name="language" formatted="false">应用语言</string>
+    <string name="system_language" formatted="false">遵循设备语言</string>
+    <string name="search_language" formatted="false">寻找一种语言</string>
+    <string name="language_note" formatted="false">翻译包含离线。未列出的设备语言使用英语。机器翻译可能需要区域审查。</string>
+    <string name="search_engine" formatted="false">搜索引擎</string>
+    <string name="wifi_only" formatted="false">仅在 Wi-Fi 上下载</string>
+    <string name="wifi_body" formatted="false">新的下载要等到 Wi-Fi 可用时再进行。</string>
+    <string name="javascript" formatted="false">网站 JavaScript</string>
+    <string name="javascript_body" formatted="false">许多网站和 HTML5 视频发现都需要。</string>
+    <string name="privacy" formatted="false">隐私</string>
+    <string name="clear_browser" formatted="false">清除浏览数据</string>
+    <string name="clear_browser_confirm" formatted="false">删除 cookie、浏览器缓存、历史记录和网站存储？</string>
+    <string name="privacy_body" formatted="false">没有广告、分析或开发者帐户。网站、搜索引擎、DNS 提供商和下载服务器都会接收您发出的请求。下载历史记录和书签保留在此设备上。</string>
+    <string name="terms" formatted="false">负责任地使用</string>
+    <string name="terms_body" formatted="false">仅保存您拥有或允许下载的视频。尊重版权和网站条款。此应用程序无法绕过 DRM、付费墙或平台下载限制。</string>
+    <string name="about" formatted="false">关于</string>
+    <string name="version" formatted="false">版本</string>
+    <string name="paid_app" formatted="false">一次购买。没有广告。没有订阅。</string>
+    <string name="welcome_title" formatted="false">保留那些激励你的东西。</string>
+    <string name="welcome_body" formatted="false">在一处浏览、发现和保存允许的视频。请阅读图解指南以开始使用。</string>
+    <string name="start_browsing" formatted="false">开始浏览</string>
+    <string name="read_guide" formatted="false">阅读指南</string>
+    <string name="browser_error" formatted="false">无法加载该页面。检查地址和连接，然后重新加载。</string>
+    <string name="secure_only" formatted="false">此应用程序使用 HTTPS 连接。尝试该网站的安全版本。</string>
+    <string name="external_link" formatted="false">在另一个应用程序中打开此链接？</string>
+    <string name="open" formatted="false">打开</string>
+    <string name="refresh" formatted="false">刷新</string>
+    <string name="accessibility_tutorial" formatted="false">本教程步骤的插图</string>
+    <string name="download_reason" formatted="false">安卓下载错误代码</string>
+    <string name="queue_full" formatted="false">下载历史记录已满。首先删除旧条目。</string>
+    <string name="browser_tabs" formatted="false">浏览器选项卡</string>
+    <string name="tabs_subtitle" formatted="false">保持网站打开并在它们之间切换。</string>
+    <string name="new_tab" formatted="false">新标签页</string>
+    <string name="close_tab" formatted="false">关闭选项卡</string>
+    <string name="active_tab" formatted="false">活动选项卡</string>
+    <string name="tab_limit" formatted="false">您最多可以打开 8 个选项卡。关闭一个选项卡以添加另一个选项卡。</string>
+    <string name="history" formatted="false">历史</string>
+    <string name="history_subtitle" formatted="false">访问过的网站仅保存在此设备上。</string>
+    <string name="empty_history" formatted="false">您的浏览历史记录将显示在这里。</string>
+    <string name="clear_history" formatted="false">清除历史记录</string>
+    <string name="clear_history_confirm" formatted="false">删除该设备上的所有浏览历史记录？</string>
+    <string name="open_new_tab" formatted="false">在新选项卡中打开</string>
+    <string name="browser_menu" formatted="false">浏览器菜单</string>
+    <string name="shortcut_note" formatted="false">网站快捷方式在浏览器中打开。下载可用性取决于网站。</string>
+</resources>

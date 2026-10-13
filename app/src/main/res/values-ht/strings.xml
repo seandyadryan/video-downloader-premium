@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Browse</string>
+    <string name="downloads" formatted="false">Telechajman</string>
+    <string name="guide" formatted="false">Gid</string>
+    <string name="settings" formatted="false">Anviwònman</string>
+    <string name="home_title" formatted="false">Videyo w yo. Koleksyon ou.</string>
+    <string name="home_subtitle" formatted="false">Jwenn yon bagay ki vo kenbe.</string>
+    <string name="search_hint" formatted="false">Chèche oswa antre nan yon sit entènèt</string>
+    <string name="go" formatted="false">Ale</string>
+    <string name="paste_link" formatted="false">Kole lyen videyo</string>
+    <string name="direct_link" formatted="false">Lyen videyo dirèk</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Telechaje</string>
+    <string name="detect" formatted="false">Jwenn videyo yo</string>
+    <string name="detected" formatted="false">Videyo sou paj sa</string>
+    <string name="no_media" formatted="false">Yo pa jwenn okenn videyo telechaje. Kòmanse jwe yon videyo, apresa eseye ankò. Rivyè ki pwoteje ak ankadreman entegre yo ka pa disponib.</string>
+    <string name="safe_note" formatted="false">Sèlman telechaje videyo ou posede oswa ou gen pèmisyon pou sove. Kouran ki pwoteje ak telechajman YouTube yo pa disponib.</string>
+    <string name="quick_start" formatted="false">KÒMANSE LA</string>
+    <string name="quick_browse" formatted="false">Eksplore entènèt la</string>
+    <string name="quick_browse_body" formatted="false">Chèche ak motè ou pi pito nan navigatè entegre a.</string>
+    <string name="quick_download" formatted="false">Sove yon videyo</string>
+    <string name="quick_download_body" formatted="false">Kole yon lyen videyo HTTPS dirèk oswa jwenn yon videyo sou yon paj.</string>
+    <string name="quick_guide" formatted="false">Yon ti konsèy</string>
+    <string name="quick_guide_body" formatted="false">Kat etap ilistre soti nan dekouvèt rive nan koleksyon ou.</string>
+    <string name="back" formatted="false">Retounen</string>
+    <string name="forward" formatted="false">Pi devan</string>
+    <string name="reload" formatted="false">Rechaje</string>
+    <string name="home" formatted="false">Lakay</string>
+    <string name="bookmark" formatted="false">Bookmark</string>
+    <string name="bookmarks" formatted="false">Bookmarks</string>
+    <string name="empty_bookmarks" formatted="false">Sit entènèt ki sove yo ap parèt isit la.</string>
+    <string name="saved" formatted="false">Sove</string>
+    <string name="remove" formatted="false">Retire</string>
+    <string name="cancel" formatted="false">Anile</string>
+    <string name="close" formatted="false">Fèmen</string>
+    <string name="confirm_download" formatted="false">Sove videyo sa a?</string>
+    <string name="filename" formatted="false">Non dosye</string>
+    <string name="download_location" formatted="false">Sove nan Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Mwen posede videyo sa a oswa mwen gen pèmisyon pou telechaje li.</string>
+    <string name="permission_required" formatted="false">Konfime ke ou gen pèmisyon pou sove videyo sa a.</string>
+    <string name="invalid_url" formatted="false">Antre yon lyen videyo HTTPS ki valab.</string>
+    <string name="unsupported" formatted="false">Lyen sa a se pa yon videyo ki ka telechaje. DRM, difizyon ap viv, lis, ak telechaje YouTube yo pa sipòte.</string>
+    <string name="queued" formatted="false">Download ajoute nan keu la</string>
+    <string name="download_error" formatted="false">Pa kapab telechaje. Tcheke koneksyon an oswa itilize yon nouvo lyen videyo.</string>
+    <string name="collection_title" formatted="false">Koleksyon ou</string>
+    <string name="collection_subtitle" formatted="false">Videyo sove, pare lè ou.</string>
+    <string name="empty_downloads" formatted="false">Pwochen pi renmen ou fè pati isit la.</string>
+    <string name="empty_downloads_body" formatted="false">Jwenn yon videyo nan Browse oswa kole yon lyen videyo dirèk pou kòmanse koleksyon ou.</string>
+    <string name="pending" formatted="false">Nan keu</string>
+    <string name="running" formatted="false">Telechaje</string>
+    <string name="paused" formatted="false">Ap tann rezo oswa reesye</string>
+    <string name="complete" formatted="false">Ranpli</string>
+    <string name="failed" formatted="false">Echwe</string>
+    <string name="missing" formatted="false">Fichye pa disponib</string>
+    <string name="play" formatted="false">Jwe</string>
+    <string name="share" formatted="false">Pataje</string>
+    <string name="retry" formatted="false">Eseye ankò</string>
+    <string name="delete_download" formatted="false">Retire download ak fichye li yo?</string>
+    <string name="no_player" formatted="false">Pa gen okenn aplikasyon konpatib ki disponib pou louvri dosye sa a.</string>
+    <string name="guide_title" formatted="false">Soti nan dekouvèt pou telechaje.</string>
+    <string name="guide_subtitle" formatted="false">Yon gid senp pou kenbe videyo ou renmen yo.</string>
+    <string name="step_one_title" formatted="false">Jwenn videyo ou a</string>
+    <string name="step_one_body" formatted="false">Louvri Browse. Chèche oswa antre yon adrès sit entènèt. Ou kapab tou pataje yon lyen videyo ki soti nan yon lòt aplikasyon.</string>
+    <string name="step_two_title" formatted="false">Dekouvri sous la</string>
+    <string name="step_two_body" formatted="false">Jwe yon videyo, epi klike sou Jwenn videyo. Chwazi yon fichye detekte, oswa kole yon lyen videyo HTTPS dirèk.</string>
+    <string name="step_three_title" formatted="false">Fè li pou ou</string>
+    <string name="step_three_body" formatted="false">Chwazi yon non dosye, konfime pèmisyon w pou sove videyo a, epi klike sou Download. Android kontinye download la nan background nan.</string>
+    <string name="step_four_title" formatted="false">Jwi koleksyon ou</string>
+    <string name="step_four_body" formatted="false">Louvri Téléchargements pou tcheke pwogrè. Jwe oswa pataje videyo ki fini yo. Reesye telechajman ki echwe ak yon lyen fre lè sa nesesè.</string>
+    <string name="try_now" formatted="false">Eseye li kounye a</string>
+    <string name="preferences" formatted="false">Fè li pwòp ou a.</string>
+    <string name="preferences_subtitle" formatted="false">Yon kèk kontwòl reflechi pou Navigasyon ou chak jou.</string>
+    <string name="dns_title" formatted="false">VPN / DNS prive</string>
+    <string name="dns_explanation" formatted="false">DNS prive ankripte demann DNS. Li pa kache adrès IP ou oswa kreye yon tinèl VPN. Android mande pou ou chanje paramèt sa a manyèlman.</string>
+    <string name="connected" formatted="false">Konekte</string>
+    <string name="unconnected" formatted="false">Dekonekte</string>
+    <string name="connect" formatted="false">Konekte</string>
+    <string name="disconnect" formatted="false">Dekonekte</string>
+    <string name="dns_instructions" formatted="false">Chwazi non host founisè dns prive, kole dns.adguard-dns.com, epi sove. Pou dekonekte, chwazi Otomatik oswa Off nan menm anviwònman sistèm lan.</string>
+    <string name="copy_hostname" formatted="false">Kopi non host</string>
+    <string name="copied" formatted="false">Kopi nan clipboard</string>
+    <string name="open_network_settings" formatted="false">Louvri paramèt rezo a</string>
+    <string name="language" formatted="false">Lang aplikasyon an</string>
+    <string name="system_language" formatted="false">Swiv langaj aparèy la</string>
+    <string name="search_language" formatted="false">Jwenn yon lang</string>
+    <string name="language_note" formatted="false">Tradiksyon yo enkli offline. Lang aparèy ki pa nan lis yo itilize angle. Tradiksyon machin yo ka bezwen revizyon rejyonal yo.</string>
+    <string name="search_engine" formatted="false">Motè rechèch</string>
+    <string name="wifi_only" formatted="false">Telechaje sou Wi-Fi sèlman</string>
+    <string name="wifi_body" formatted="false">Nouvo telechajman rete tann jiskaske Wi-Fi disponib.</string>
+    <string name="javascript" formatted="false">Sit wèb JavaScript</string>
+    <string name="javascript_body" formatted="false">Egzije pa anpil sit entènèt ak dekouvèt videyo HTML5.</string>
+    <string name="privacy" formatted="false">Konfidansyalite</string>
+    <string name="clear_browser" formatted="false">Klè done navigasyon yo</string>
+    <string name="clear_browser_confirm" formatted="false">Efase bonbon, kachèt navigatè, istwa, ak depo sit entènèt?</string>
+    <string name="privacy_body" formatted="false">Pa gen piblisite, analytics, oswa kont pwomotè. Sit wèb, motè rechèch, founisè DNS, ak sèvè telechaje resevwa demann ou fè yo. Telechaje istwa ak Bookmarks rete sou aparèy sa a.</string>
+    <string name="terms" formatted="false">Sèvi ak yon fason responsab</string>
+    <string name="terms_body" formatted="false">Sove sèlman videyo ou posede oswa ou gen pèmisyon pou telechaje yo. Respekte copyright ak tèm sit entènèt. Aplikasyon sa a pa ka evite DRM, paywalls, oswa restriksyon pou telechaje platfòm.</string>
+    <string name="about" formatted="false">Konsènan</string>
+    <string name="version" formatted="false">Version</string>
+    <string name="paid_app" formatted="false">Yon sèl acha. Pa gen anons. Pa gen abònman.</string>
+    <string name="welcome_title" formatted="false">Kenbe sa ki enspire ou.</string>
+    <string name="welcome_body" formatted="false">Navige, dekouvri, epi sove videyo ki pèmèt yo nan yon sèl kote. Li gid ilistre a pou w kòmanse.</string>
+    <string name="start_browsing" formatted="false">Kòmanse navige</string>
+    <string name="read_guide" formatted="false">Li gid la</string>
+    <string name="browser_error" formatted="false">Paj sa a pa t \&apos;kapab chaje. Tcheke adrès la ak koneksyon an, apresa rechaje.</string>
+    <string name="secure_only" formatted="false">Aplikasyon sa a sèvi ak koneksyon HTTPS. Eseye vèsyon an sekirite nan sit entènèt sa a.</string>
+    <string name="external_link" formatted="false">Ouvè lyen sa a nan yon lòt aplikasyon?</string>
+    <string name="open" formatted="false">Louvri</string>
+    <string name="refresh" formatted="false">Rafrechi</string>
+    <string name="accessibility_tutorial" formatted="false">Ilistrasyon pou etap leson patikilye sa a</string>
+    <string name="download_reason" formatted="false">Android telechaje kòd erè</string>
+    <string name="queue_full" formatted="false">Istwa download la plen. Retire yon antre ki pi gran an premye.</string>
+    <string name="browser_tabs" formatted="false">Onglet navigatè</string>
+    <string name="tabs_subtitle" formatted="false">Kenbe sit entènèt yo louvri epi chanje ant yo.</string>
+    <string name="new_tab" formatted="false">Nouvo tab</string>
+    <string name="close_tab" formatted="false">Fèmen tab</string>
+    <string name="active_tab" formatted="false">Tab aktif</string>
+    <string name="tab_limit" formatted="false">Ou ka louvri jiska 8 onglet. Fèmen yon tab pou ajoute yon lòt.</string>
+    <string name="history" formatted="false">Istwa</string>
+    <string name="history_subtitle" formatted="false">Sit entènèt vizite yo sove sèlman sou aparèy sa a.</string>
+    <string name="empty_history" formatted="false">Istwa Navigasyon ou a ap parèt isit la.</string>
+    <string name="clear_history" formatted="false">Klè istwa</string>
+    <string name="clear_history_confirm" formatted="false">Efase tout istwa Navigasyon nan aparèy sa a?</string>
+    <string name="open_new_tab" formatted="false">Louvri nan nouvo tab</string>
+    <string name="browser_menu" formatted="false">Meni navigatè a</string>
+    <string name="shortcut_note" formatted="false">Raccourcis sit entènèt louvri nan navigatè a. Download disponiblite depann sou sit entènèt la.</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ពិសេស</string>
+    <string name="browse" formatted="false">រុករក</string>
+    <string name="downloads" formatted="false">ការទាញយក</string>
+    <string name="guide" formatted="false">មគ្គុទ្ទេសក៍</string>
+    <string name="settings" formatted="false">ការកំណត់</string>
+    <string name="home_title" formatted="false">វីដេអូរបស់អ្នក។ ការប្រមូលរបស់អ្នក។</string>
+    <string name="home_subtitle" formatted="false">ស្វែងរកអ្វីមួយដែលមានតម្លៃរក្សាទុក។</string>
+    <string name="search_hint" formatted="false">ស្វែងរក ឬបញ្ចូលគេហទំព័រ</string>
+    <string name="go" formatted="false">ទៅ</string>
+    <string name="paste_link" formatted="false">បិទភ្ជាប់តំណវីដេអូ</string>
+    <string name="direct_link" formatted="false">តំណភ្ជាប់វីដេអូផ្ទាល់</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ទាញយក</string>
+    <string name="detect" formatted="false">ស្វែងរកវីដេអូ</string>
+    <string name="detected" formatted="false">វីដេអូនៅលើទំព័រនេះ។</string>
+    <string name="no_media" formatted="false">រកមិនឃើញវីដេអូដែលអាចទាញយកបានទេ។ ចាប់ផ្តើមចាក់វីដេអូ បន្ទាប់មកព្យាយាមម្តងទៀត។ ស្ទ្រីមដែលបានការពារ និងស៊ុមដែលបានបង្កប់ប្រហែលជាមិនអាចប្រើបានទេ។</string>
+    <string name="safe_note" formatted="false">ទាញយកតែវីដេអូដែលអ្នកជាម្ចាស់ ឬមានសិទ្ធិក្នុងការរក្សាទុក។ ការស្ទ្រីមដែលត្រូវបានការពារ និងការទាញយក YouTube គឺមិនអាចប្រើបានទេ។</string>
+    <string name="quick_start" formatted="false">ចាប់ផ្តើមនៅទីនេះ</string>
+    <string name="quick_browse" formatted="false">រុករកគេហទំព័រ</string>
+    <string name="quick_browse_body" formatted="false">ស្វែងរកដោយប្រើម៉ាស៊ីនដែលអ្នកចូលចិត្តនៅក្នុងកម្មវិធីរុករកដែលភ្ជាប់មកជាមួយ។</string>
+    <string name="quick_download" formatted="false">រក្សាទុកវីដេអូ</string>
+    <string name="quick_download_body" formatted="false">បិទភ្ជាប់តំណវីដេអូ HTTPS ដោយផ្ទាល់ ឬស្វែងរកវីដេអូនៅលើទំព័រមួយ។</string>
+    <string name="quick_guide" formatted="false">ការណែនាំបន្តិច</string>
+    <string name="quick_guide_body" formatted="false">ជំហាន​បង្ហាញ​ចំនួន​បួន​ពី​ការ​រក​ឃើញ​ទៅ​ការ​ប្រមូល​របស់​អ្នក។</string>
+    <string name="back" formatted="false">ត្រឡប់មកវិញ</string>
+    <string name="forward" formatted="false">ទៅមុខ</string>
+    <string name="reload" formatted="false">ផ្ទុកឡើងវិញ</string>
+    <string name="home" formatted="false">ផ្ទះ</string>
+    <string name="bookmark" formatted="false">ចំណាំ</string>
+    <string name="bookmarks" formatted="false">ចំណាំ</string>
+    <string name="empty_bookmarks" formatted="false">គេហទំព័រដែលបានរក្សាទុកនឹងបង្ហាញនៅទីនេះ។</string>
+    <string name="saved" formatted="false">បានរក្សាទុក</string>
+    <string name="remove" formatted="false">ដកចេញ</string>
+    <string name="cancel" formatted="false">បោះបង់</string>
+    <string name="close" formatted="false">បិទ</string>
+    <string name="confirm_download" formatted="false">រក្សាទុកវីដេអូនេះ?</string>
+    <string name="filename" formatted="false">ឈ្មោះឯកសារ</string>
+    <string name="download_location" formatted="false">បានរក្សាទុកក្នុងកម្មវិធីទាញយក / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">ខ្ញុំជាម្ចាស់វីដេអូនេះ ឬមានការអនុញ្ញាតឱ្យទាញយកវា។</string>
+    <string name="permission_required" formatted="false">បញ្ជាក់​ថា​អ្នក​មាន​សិទ្ធិ​រក្សា​ទុក​វីដេអូ​នេះ។</string>
+    <string name="invalid_url" formatted="false">បញ្ចូលតំណវីដេអូ HTTPS ត្រឹមត្រូវ។</string>
+    <string name="unsupported" formatted="false">តំណនេះមិនមែនជាវីដេអូដែលអាចទាញយកបានទេ។ DRM ការផ្សាយបន្តផ្ទាល់ បញ្ជីចាក់ និងការទាញយក YouTube មិនត្រូវបានគាំទ្រទេ។</string>
+    <string name="queued" formatted="false">ទាញយកបានបន្ថែមទៅជួរ</string>
+    <string name="download_error" formatted="false">មិនអាចទាញយកបានទេ។ ពិនិត្យការតភ្ជាប់ ឬប្រើតំណវីដេអូថ្មីៗ។</string>
+    <string name="collection_title" formatted="false">ការប្រមូលរបស់អ្នក។</string>
+    <string name="collection_subtitle" formatted="false">វីដេអូដែលបានរក្សាទុក រួចរាល់នៅពេលដែលអ្នកមាន។</string>
+    <string name="empty_downloads" formatted="false">ចំណូលចិត្តបន្ទាប់របស់អ្នកគឺនៅទីនេះ។</string>
+    <string name="empty_downloads_body" formatted="false">ស្វែងរកវីដេអូនៅក្នុង រកមើល ឬបិទភ្ជាប់តំណវីដេអូផ្ទាល់ ដើម្បីចាប់ផ្តើមបណ្តុំរបស់អ្នក។</string>
+    <string name="pending" formatted="false">បានតម្រង់ជួរ</string>
+    <string name="running" formatted="false">កំពុងទាញយក</string>
+    <string name="paused" formatted="false">កំពុងរង់ចាំបណ្តាញ ឬព្យាយាមម្តងទៀត</string>
+    <string name="complete" formatted="false">បញ្ចប់</string>
+    <string name="failed" formatted="false">បរាជ័យ</string>
+    <string name="missing" formatted="false">ឯកសារមិនអាចប្រើបានទេ។</string>
+    <string name="play" formatted="false">លេង</string>
+    <string name="share" formatted="false">ចែករំលែក</string>
+    <string name="retry" formatted="false">ព្យាយាមម្តងទៀត</string>
+    <string name="delete_download" formatted="false">លុបការទាញយក និងឯកសាររបស់វាចេញ?</string>
+    <string name="no_player" formatted="false">មិនមានកម្មវិធីដែលត្រូវគ្នាដើម្បីបើកឯកសារនេះទេ។</string>
+    <string name="guide_title" formatted="false">ពីការរកឃើញដើម្បីទាញយក។</string>
+    <string name="guide_subtitle" formatted="false">ការណែនាំដ៏សាមញ្ញមួយក្នុងការរក្សាវីដេអូដែលអ្នកស្រលាញ់។</string>
+    <string name="step_one_title" formatted="false">ស្វែងរកវីដេអូរបស់អ្នក។</string>
+    <string name="step_one_body" formatted="false">បើករុករក។ ស្វែងរក ឬបញ្ចូលអាសយដ្ឋានគេហទំព័រ។ អ្នកក៏អាចចែករំលែកតំណវីដេអូពីកម្មវិធីផ្សេងទៀតផងដែរ។</string>
+    <string name="step_two_title" formatted="false">ស្វែងយល់ពីប្រភព</string>
+    <string name="step_two_body" formatted="false">ចាក់វីដេអូ បន្ទាប់មកចុច ស្វែងរកវីដេអូ។ ជ្រើសរើសឯកសារដែលបានរកឃើញ ឬបិទភ្ជាប់តំណវីដេអូ HTTPS ដោយផ្ទាល់។</string>
+    <string name="step_three_title" formatted="false">ធ្វើឱ្យវាជារបស់អ្នក។</string>
+    <string name="step_three_body" formatted="false">ជ្រើសរើសឈ្មោះឯកសារ បញ្ជាក់ការអនុញ្ញាតរបស់អ្នកដើម្បីរក្សាទុកវីដេអូ ហើយចុចទាញយក។ ប្រព័ន្ធប្រតិបត្តិការ Android បន្តការទាញយកនៅផ្ទៃខាងក្រោយ។</string>
+    <string name="step_four_title" formatted="false">សូមរីករាយជាមួយការប្រមូលរបស់អ្នក។</string>
+    <string name="step_four_body" formatted="false">បើកការទាញយកដើម្បីពិនិត្យមើលដំណើរការ។ លេង ឬចែករំលែកវីដេអូដែលបានបញ្ចប់។ សាកល្បងការទាញយកដែលបរាជ័យម្តងទៀតជាមួយនឹងតំណថ្មីនៅពេលចាំបាច់។</string>
+    <string name="try_now" formatted="false">សាកល្បងវាឥឡូវនេះ</string>
+    <string name="preferences" formatted="false">ធ្វើវាដោយខ្លួនឯង។</string>
+    <string name="preferences_subtitle" formatted="false">ការគ្រប់គ្រងប្រកបដោយការគិតមួយចំនួនសម្រាប់ការរុករកប្រចាំថ្ងៃរបស់អ្នក។</string>
+    <string name="dns_title" formatted="false">VPN / DNS ឯកជន</string>
+    <string name="dns_explanation" formatted="false">ឯកជន DNS អ៊ិនគ្រីបសំណួរ DNS ។ វាមិនលាក់អាសយដ្ឋាន IP របស់អ្នក ឬបង្កើតផ្លូវរូងក្រោមដី VPN ទេ។ ប្រព័ន្ធប្រតិបត្តិការ Android តម្រូវឱ្យអ្នកផ្លាស់ប្តូរការកំណត់នេះដោយដៃ។</string>
+    <string name="connected" formatted="false">បានភ្ជាប់</string>
+    <string name="unconnected" formatted="false">មិនបានភ្ជាប់</string>
+    <string name="connect" formatted="false">ភ្ជាប់</string>
+    <string name="disconnect" formatted="false">ផ្តាច់</string>
+    <string name="dns_instructions" formatted="false">ជ្រើសរើសឈ្មោះម៉ាស៊ីនផ្តល់សេវា DNS ឯកជន បិទភ្ជាប់ dns.adguard-dns.com ហើយរក្សាទុក។ ដើម្បីផ្តាច់ សូមជ្រើសរើសដោយស្វ័យប្រវត្តិ ឬបិទនៅក្នុងការកំណត់ប្រព័ន្ធដូចគ្នា។</string>
+    <string name="copy_hostname" formatted="false">ចម្លងឈ្មោះម៉ាស៊ីន</string>
+    <string name="copied" formatted="false">បានចម្លងទៅក្ដារតម្បៀតខ្ទាស់</string>
+    <string name="open_network_settings" formatted="false">បើកការកំណត់បណ្តាញ</string>
+    <string name="language" formatted="false">ភាសាកម្មវិធី</string>
+    <string name="system_language" formatted="false">ធ្វើតាមភាសាឧបករណ៍</string>
+    <string name="search_language" formatted="false">ស្វែងរកភាសា</string>
+    <string name="language_note" formatted="false">ការបកប្រែត្រូវបានរួមបញ្ចូលដោយគ្មានអ៊ីនធឺណិត។ ភាសាឧបករណ៍ដែលមិនមានក្នុងបញ្ជីប្រើភាសាអង់គ្លេស។ ការបកប្រែតាមម៉ាស៊ីនអាចត្រូវការការត្រួតពិនិត្យតាមតំបន់។</string>
+    <string name="search_engine" formatted="false">ម៉ាស៊ីនស្វែងរក</string>
+    <string name="wifi_only" formatted="false">ទាញយកតែនៅលើ Wi-Fi ប៉ុណ្ណោះ។</string>
+    <string name="wifi_body" formatted="false">ការទាញយកថ្មីរង់ចាំរហូតដល់ Wi-Fi មាន។</string>
+    <string name="javascript" formatted="false">គេហទំព័រ JavaScript</string>
+    <string name="javascript_body" formatted="false">ទាមទារដោយគេហទំព័រជាច្រើន និងការរកឃើញវីដេអូ HTML5 ។</string>
+    <string name="privacy" formatted="false">ឯកជនភាព</string>
+    <string name="clear_browser" formatted="false">សម្អាតទិន្នន័យរុករក</string>
+    <string name="clear_browser_confirm" formatted="false">លុបខូគី ឃ្លាំងសម្ងាត់កម្មវិធីរុករក ប្រវត្តិ និងកន្លែងផ្ទុកគេហទំព័រ?</string>
+    <string name="privacy_body" formatted="false">គ្មានការផ្សាយពាណិជ្ជកម្ម ការវិភាគ ឬគណនីអ្នកអភិវឌ្ឍន៍ទេ។ គេហទំព័រ ម៉ាស៊ីនស្វែងរក អ្នកផ្តល់ DNS និងម៉ាស៊ីនមេទាញយក ទទួលបានសំណើដែលអ្នកធ្វើ។ ទាញយកប្រវត្តិ និងចំណាំនៅតែមាននៅលើឧបករណ៍នេះ។</string>
+    <string name="terms" formatted="false">ប្រើដោយការទទួលខុសត្រូវ</string>
+    <string name="terms_body" formatted="false">រក្សាទុកតែវីដេអូដែលអ្នកជាម្ចាស់ ឬត្រូវបានអនុញ្ញាតឱ្យទាញយក។ គោរពសិទ្ធិអ្នកនិពន្ធ និងលក្ខខណ្ឌគេហទំព័រ។ កម្មវិធីនេះមិនអាចរំលង DRM, paywalls ឬការដាក់កម្រិតលើការទាញយកវេទិកាបានទេ។</string>
+    <string name="about" formatted="false">អំពី</string>
+    <string name="version" formatted="false">កំណែ</string>
+    <string name="paid_app" formatted="false">ការទិញមួយ។ គ្មានការផ្សាយពាណិជ្ជកម្មទេ។ គ្មានការជាវ។</string>
+    <string name="welcome_title" formatted="false">រក្សាអ្វីដែលជំរុញទឹកចិត្តអ្នក។</string>
+    <string name="welcome_body" formatted="false">រុករក ស្វែងរក និងរក្សាទុកវីដេអូដែលបានអនុញ្ញាតនៅកន្លែងតែមួយ។ សូមអានការណែនាំក្នុងរូបភាព ដើម្បីចាប់ផ្តើម។</string>
+    <string name="start_browsing" formatted="false">ចាប់ផ្តើមរុករក</string>
+    <string name="read_guide" formatted="false">អានការណែនាំ</string>
+    <string name="browser_error" formatted="false">ទំព័រនេះមិនអាចផ្ទុកបានទេ។ ពិនិត្យអាសយដ្ឋាន និងការតភ្ជាប់ បន្ទាប់មកផ្ទុកឡើងវិញ។</string>
+    <string name="secure_only" formatted="false">កម្មវិធីនេះប្រើការតភ្ជាប់ HTTPS ។ សាកល្បងកំណែសុវត្ថិភាពនៃគេហទំព័រនេះ។</string>
+    <string name="external_link" formatted="false">បើកតំណនេះនៅក្នុងកម្មវិធីផ្សេងទៀត?</string>
+    <string name="open" formatted="false">បើក</string>
+    <string name="refresh" formatted="false">ធ្វើឱ្យស្រស់</string>
+    <string name="accessibility_tutorial" formatted="false">រូបភាពសម្រាប់ជំហានបង្រៀននេះ។</string>
+    <string name="download_reason" formatted="false">កូដកំហុសទាញយកប្រព័ន្ធប្រតិបត្តិការ Android</string>
+    <string name="queue_full" formatted="false">ប្រវត្តិទាញយកគឺពេញ។ លុបធាតុចាស់ជាមុនសិន។</string>
+    <string name="browser_tabs" formatted="false">ផ្ទាំងកម្មវិធីរុករក</string>
+    <string name="tabs_subtitle" formatted="false">រក្សាគេហទំព័របើក ហើយប្តូររវាងពួកវា។</string>
+    <string name="new_tab" formatted="false">ផ្ទាំងថ្មី។</string>
+    <string name="close_tab" formatted="false">បិទផ្ទាំង</string>
+    <string name="active_tab" formatted="false">ផ្ទាំងសកម្ម</string>
+    <string name="tab_limit" formatted="false">អ្នកអាចបើកបានរហូតដល់ 8 ផ្ទាំង។ បិទផ្ទាំងមួយដើម្បីបន្ថែមមួយទៀត។</string>
+    <string name="history" formatted="false">ប្រវត្តិសាស្ត្រ</string>
+    <string name="history_subtitle" formatted="false">គេហទំព័រដែលបានចូលមើលត្រូវបានរក្សាទុកតែនៅលើឧបករណ៍នេះប៉ុណ្ណោះ។</string>
+    <string name="empty_history" formatted="false">ប្រវត្តិរុករករបស់អ្នកនឹងបង្ហាញនៅទីនេះ។</string>
+    <string name="clear_history" formatted="false">ជម្រះប្រវត្តិ</string>
+    <string name="clear_history_confirm" formatted="false">លុបប្រវត្តិរុករកទាំងអស់ចេញពីឧបករណ៍នេះ?</string>
+    <string name="open_new_tab" formatted="false">បើកនៅក្នុងផ្ទាំងថ្មី។</string>
+    <string name="browser_menu" formatted="false">ម៉ឺនុយកម្មវិធីរុករក</string>
+    <string name="shortcut_note" formatted="false">ផ្លូវកាត់គេហទំព័របើកនៅក្នុងកម្មវិធីរុករក។ ភាពអាចរកបាននៃការទាញយកអាស្រ័យលើគេហទំព័រ។</string>
+</resources>

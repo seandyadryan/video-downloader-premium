@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Göz at</string>
+    <string name="downloads" formatted="false">İndirilenler</string>
+    <string name="guide" formatted="false">Rehber</string>
+    <string name="settings" formatted="false">Ayarlar</string>
+    <string name="home_title" formatted="false">Videolarınız. Koleksiyonunuz.</string>
+    <string name="home_subtitle" formatted="false">Saklamaya değer bir şey bulun.</string>
+    <string name="search_hint" formatted="false">Bir web sitesini arayın veya girin</string>
+    <string name="go" formatted="false">Git</string>
+    <string name="paste_link" formatted="false">Video bağlantısını yapıştırın</string>
+    <string name="direct_link" formatted="false">Doğrudan video bağlantısı</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">İndir</string>
+    <string name="detect" formatted="false">Video bul</string>
+    <string name="detected" formatted="false">Bu sayfadaki videolar</string>
+    <string name="no_media" formatted="false">İndirilebilir video bulunamadı. Bir video oynatmaya başlayın ve tekrar deneyin. Korumalı akışlar ve gömülü çerçeveler kullanılamayabilir.</string>
+    <string name="safe_note" formatted="false">Yalnızca sahip olduğunuz veya kaydetme izniniz olan videoları indirin. Korumalı akışlar ve YouTube indirmeleri kullanılamaz.</string>
+    <string name="quick_start" formatted="false">BURADAN BAŞLAYIN</string>
+    <string name="quick_browse" formatted="false">Web\&apos;i keşfedin</string>
+    <string name="quick_browse_body" formatted="false">Yerleşik tarayıcıda tercih ettiğiniz motorla arama yapın.</string>
+    <string name="quick_download" formatted="false">Video kaydetme</string>
+    <string name="quick_download_body" formatted="false">Doğrudan bir HTTPS video bağlantısı yapıştırın veya bir sayfada bir video bulun.</string>
+    <string name="quick_guide" formatted="false">Biraz rehberlik</string>
+    <string name="quick_guide_body" formatted="false">Keşiften koleksiyonunuza kadar resimli dört adım.</string>
+    <string name="back" formatted="false">Geri</string>
+    <string name="forward" formatted="false">İleri</string>
+    <string name="reload" formatted="false">Yeniden yükle</string>
+    <string name="home" formatted="false">Ana sayfa</string>
+    <string name="bookmark" formatted="false">Yer imi</string>
+    <string name="bookmarks" formatted="false">Yer imleri</string>
+    <string name="empty_bookmarks" formatted="false">Kaydedilen web siteleri burada görünecektir.</string>
+    <string name="saved" formatted="false">Kaydedildi</string>
+    <string name="remove" formatted="false">Kaldır</string>
+    <string name="cancel" formatted="false">İptal</string>
+    <string name="close" formatted="false">Kapat</string>
+    <string name="confirm_download" formatted="false">Bu video kaydedilsin mi?</string>
+    <string name="filename" formatted="false">Dosya adı</string>
+    <string name="download_location" formatted="false">İndirilenler / Video İndirici Premium\&apos;a kaydedildi</string>
+    <string name="permission_confirm" formatted="false">Bu videonun sahibiyim veya indirme iznim var.</string>
+    <string name="permission_required" formatted="false">Bu videoyu kaydetme izniniz olduğunu doğrulayın.</string>
+    <string name="invalid_url" formatted="false">Geçerli bir HTTPS video bağlantısı girin.</string>
+    <string name="unsupported" formatted="false">Bu bağlantı indirilebilir bir video değildir. DRM, canlı yayınlar, oynatma listeleri ve YouTube indirmeleri desteklenmez.</string>
+    <string name="queued" formatted="false">İndirme sıraya eklendi</string>
+    <string name="download_error" formatted="false">İndirilemiyor. Bağlantıyı kontrol edin veya yeni bir video bağlantısı kullanın.</string>
+    <string name="collection_title" formatted="false">Koleksiyonunuz</string>
+    <string name="collection_subtitle" formatted="false">Kaydedilen videolar siz hazır olduğunuzda hazır.</string>
+    <string name="empty_downloads" formatted="false">Bir sonraki favoriniz buraya ait.</string>
+    <string name="empty_downloads_body" formatted="false">Koleksiyonunuzu başlatmak için Gözat\&apos;ta bir video bulun veya doğrudan bir video bağlantısı yapıştırın.</string>
+    <string name="pending" formatted="false">Sıraya alındı</string>
+    <string name="running" formatted="false">İndiriliyor</string>
+    <string name="paused" formatted="false">Ağ bekleniyor veya yeniden deneniyor</string>
+    <string name="complete" formatted="false">Tamamlandı</string>
+    <string name="failed" formatted="false">Başarısız</string>
+    <string name="missing" formatted="false">Dosya kullanılamıyor</string>
+    <string name="play" formatted="false">Oyna</string>
+    <string name="share" formatted="false">Paylaş</string>
+    <string name="retry" formatted="false">Yeniden dene</string>
+    <string name="delete_download" formatted="false">İndirilen dosya ve dosyası kaldırılsın mı?</string>
+    <string name="no_player" formatted="false">Bu dosyayı açmak için uyumlu bir uygulama yok.</string>
+    <string name="guide_title" formatted="false">Keşiften indirmeye.</string>
+    <string name="guide_subtitle" formatted="false">Sevdiğiniz videoları saklamanız için basit bir kılavuz.</string>
+    <string name="step_one_title" formatted="false">Videonuzu bulun</string>
+    <string name="step_one_body" formatted="false">Gözat\&apos;ı açın. Bir web sitesi adresi arayın veya girin. Ayrıca başka bir uygulamadaki video bağlantısını da paylaşabilirsiniz.</string>
+    <string name="step_two_title" formatted="false">Kaynağı keşfedin</string>
+    <string name="step_two_body" formatted="false">Bir video oynatın ve ardından Video bul\&apos;a dokunun. Algılanan bir dosyayı seçin veya doğrudan bir HTTPS video bağlantısı yapıştırın.</string>
+    <string name="step_three_title" formatted="false">Senin olsun</string>
+    <string name="step_three_body" formatted="false">Bir dosya adı seçin, videoyu kaydetme izninizi onaylayın ve İndir\&apos;e dokunun. Android indirmeye arka planda devam eder.</string>
+    <string name="step_four_title" formatted="false">Koleksiyonunuzun tadını çıkarın</string>
+    <string name="step_four_body" formatted="false">İlerlemeyi kontrol etmek için İndirilenler\&apos;i açın. Tamamlanan videoları oynatın veya paylaşın. Gerektiğinde başarısız indirme işlemlerini yeni bir bağlantıyla yeniden deneyin.</string>
+    <string name="try_now" formatted="false">Şimdi dene</string>
+    <string name="preferences" formatted="false">Bunu kendinize ait yapın.</string>
+    <string name="preferences_subtitle" formatted="false">Günlük gezinmeniz için birkaç düşünceli kontrol.</string>
+    <string name="dns_title" formatted="false">VPN / Özel DNS</string>
+    <string name="dns_explanation" formatted="false">Özel DNS, DNS sorgularını şifreler. IP adresinizi gizlemez veya bir VPN tüneli oluşturmaz. Android bu ayarı manuel olarak değiştirmenizi gerektirir.</string>
+    <string name="connected" formatted="false">Bağlı</string>
+    <string name="unconnected" formatted="false">Bağlantısız</string>
+    <string name="connect" formatted="false">Bağlan</string>
+    <string name="disconnect" formatted="false">Bağlantıyı kes</string>
+    <string name="dns_instructions" formatted="false">Özel DNS sağlayıcı ana bilgisayar adını seçin, dns.adguard-dns.com adresini yapıştırın ve kaydedin. Bağlantıyı kesmek için aynı sistem ayarında Otomatik veya Kapalı seçeneğini seçin.</string>
+    <string name="copy_hostname" formatted="false">Ana makine adını kopyala</string>
+    <string name="copied" formatted="false">Panoya kopyalandı</string>
+    <string name="open_network_settings" formatted="false">Ağ ayarlarını aç</string>
+    <string name="language" formatted="false">Uygulama dili</string>
+    <string name="system_language" formatted="false">Cihaz dilini takip et</string>
+    <string name="search_language" formatted="false">Bir dil bulun</string>
+    <string name="language_note" formatted="false">Çeviriler çevrimdışı olarak dahil edilir. Listelenmeyen cihaz dilleri İngilizce kullanır. Makine çevirilerinin bölgesel incelemeye ihtiyacı olabilir.</string>
+    <string name="search_engine" formatted="false">Arama motoru</string>
+    <string name="wifi_only" formatted="false">Yalnızca Wi-Fi üzerinden indirin</string>
+    <string name="wifi_body" formatted="false">Yeni indirmeler Wi-Fi kullanılabilir hale gelene kadar beklenir.</string>
+    <string name="javascript" formatted="false">Web sitesi JavaScript\&apos;i</string>
+    <string name="javascript_body" formatted="false">Birçok web sitesi ve HTML5 video keşfi için gereklidir.</string>
+    <string name="privacy" formatted="false">Gizlilik</string>
+    <string name="clear_browser" formatted="false">Tarama verilerini temizle</string>
+    <string name="clear_browser_confirm" formatted="false">Çerezleri, tarayıcı önbelleğini, geçmişi ve web sitesi depolama alanını silmek istiyor musunuz?</string>
+    <string name="privacy_body" formatted="false">Reklam, analiz veya geliştirici hesabı yok. Web siteleri, arama motorları, DNS sağlayıcıları ve indirme sunucuları yaptığınız istekleri alır. İndirme geçmişi ve yer işaretleri bu cihazda kalır.</string>
+    <string name="terms" formatted="false">Sorumlu bir şekilde kullanın</string>
+    <string name="terms_body" formatted="false">Yalnızca sahip olduğunuz veya indirmenize izin verilen videoları kaydedin. Telif hakkı ve web sitesi şartlarına saygı gösterin. Bu uygulama DRM\&apos;yi, ödeme duvarlarını veya platform indirme kısıtlamalarını atlayamaz.</string>
+    <string name="about" formatted="false">Hakkında</string>
+    <string name="version" formatted="false">Sürüm</string>
+    <string name="paid_app" formatted="false">Bir satın alma. Reklam yok. Abonelik yok.</string>
+    <string name="welcome_title" formatted="false">Size ilham veren şeyi koruyun.</string>
+    <string name="welcome_body" formatted="false">İzin verilen videolara tek bir yerden göz atın, keşfedin ve kaydedin. Başlamak için resimli kılavuzu okuyun.</string>
+    <string name="start_browsing" formatted="false">Göz atmaya başlayın</string>
+    <string name="read_guide" formatted="false">Kılavuzu okuyun</string>
+    <string name="browser_error" formatted="false">Bu sayfa yüklenemedi. Adresi ve bağlantıyı kontrol edip yeniden yükleyin.</string>
+    <string name="secure_only" formatted="false">Bu uygulama HTTPS bağlantılarını kullanır. Bu web sitesinin güvenli sürümünü deneyin.</string>
+    <string name="external_link" formatted="false">Bu bağlantı başka bir uygulamada açılsın mı?</string>
+    <string name="open" formatted="false">Açık</string>
+    <string name="refresh" formatted="false">Yenile</string>
+    <string name="accessibility_tutorial" formatted="false">Bu eğitim adımının çizimi</string>
+    <string name="download_reason" formatted="false">Android indirme hata kodu</string>
+    <string name="queue_full" formatted="false">İndirme geçmişi dolu. Önce eski bir girişi kaldırın.</string>
+    <string name="browser_tabs" formatted="false">Tarayıcı sekmeleri</string>
+    <string name="tabs_subtitle" formatted="false">Web sitelerini açık tutun ve aralarında geçiş yapın.</string>
+    <string name="new_tab" formatted="false">Yeni sekme</string>
+    <string name="close_tab" formatted="false">Sekmeyi kapat</string>
+    <string name="active_tab" formatted="false">Etkin sekme</string>
+    <string name="tab_limit" formatted="false">En fazla 8 sekme açabilirsiniz. Başka bir sekme eklemek için bir sekmeyi kapatın.</string>
+    <string name="history" formatted="false">Tarih</string>
+    <string name="history_subtitle" formatted="false">Ziyaret edilen web siteleri yalnızca bu cihaza kaydedilir.</string>
+    <string name="empty_history" formatted="false">Tarama geçmişiniz burada görünecek.</string>
+    <string name="clear_history" formatted="false">Geçmişi temizle</string>
+    <string name="clear_history_confirm" formatted="false">Bu cihazdaki tüm tarama geçmişi silinsin mi?</string>
+    <string name="open_new_tab" formatted="false">Yeni sekmede aç</string>
+    <string name="browser_menu" formatted="false">Tarayıcı menüsü</string>
+    <string name="shortcut_note" formatted="false">Web sitesi kısayolları tarayıcıda açılır. İndirme kullanılabilirliği web sitesine bağlıdır.</string>
+</resources>

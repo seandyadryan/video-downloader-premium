@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">പ്രീമിയം</string>
+    <string name="browse" formatted="false">ബ്രൗസ് ചെയ്യുക</string>
+    <string name="downloads" formatted="false">ഡൗൺലോഡുകൾ</string>
+    <string name="guide" formatted="false">വഴികാട്ടി</string>
+    <string name="settings" formatted="false">ക്രമീകരണങ്ങൾ</string>
+    <string name="home_title" formatted="false">നിങ്ങളുടെ വീഡിയോകൾ. നിങ്ങളുടെ ശേഖരം.</string>
+    <string name="home_subtitle" formatted="false">സൂക്ഷിക്കാൻ മൂല്യമുള്ള എന്തെങ്കിലും കണ്ടെത്തുക.</string>
+    <string name="search_hint" formatted="false">ഒരു വെബ്സൈറ്റ് തിരയുക അല്ലെങ്കിൽ നൽകുക</string>
+    <string name="go" formatted="false">പോകൂ</string>
+    <string name="paste_link" formatted="false">വീഡിയോ ലിങ്ക് ഒട്ടിക്കുക</string>
+    <string name="direct_link" formatted="false">നേരിട്ടുള്ള വീഡിയോ ലിങ്ക്</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="detect" formatted="false">വീഡിയോകൾ കണ്ടെത്തുക</string>
+    <string name="detected" formatted="false">ഈ പേജിലെ വീഡിയോകൾ</string>
+    <string name="no_media" formatted="false">ഡൗൺലോഡ് ചെയ്യാവുന്ന വീഡിയോ ഒന്നും കണ്ടെത്തിയില്ല. ഒരു വീഡിയോ പ്ലേ ചെയ്യാൻ ആരംഭിക്കുക, തുടർന്ന് വീണ്ടും ശ്രമിക്കുക. സംരക്ഷിത സ്ട്രീമുകളും എംബഡഡ് ഫ്രെയിമുകളും ലഭ്യമല്ലായിരിക്കാം.</string>
+    <string name="safe_note" formatted="false">നിങ്ങളുടെ ഉടമസ്ഥതയിലുള്ളതോ സംരക്ഷിക്കാൻ അനുമതിയുള്ളതോ ആയ വീഡിയോകൾ മാത്രം ഡൗൺലോഡ് ചെയ്യുക. പരിരക്ഷിത സ്ട്രീമുകളും YouTube ഡൗൺലോഡുകളും ലഭ്യമല്ല.</string>
+    <string name="quick_start" formatted="false">ഇവിടെ തുടങ്ങുക</string>
+    <string name="quick_browse" formatted="false">വെബ് പര്യവേക്ഷണം ചെയ്യുക</string>
+    <string name="quick_browse_body" formatted="false">ബിൽറ്റ്-ഇൻ ബ്രൗസറിൽ നിങ്ങൾ തിരഞ്ഞെടുത്ത എഞ്ചിൻ ഉപയോഗിച്ച് തിരയുക.</string>
+    <string name="quick_download" formatted="false">ഒരു വീഡിയോ സംരക്ഷിക്കുക</string>
+    <string name="quick_download_body" formatted="false">നേരിട്ടുള്ള HTTPS വീഡിയോ ലിങ്ക് ഒട്ടിക്കുക അല്ലെങ്കിൽ ഒരു പേജിൽ ഒരു വീഡിയോ കണ്ടെത്തുക.</string>
+    <string name="quick_guide" formatted="false">ഒരു ചെറിയ മാർഗ്ഗനിർദ്ദേശം</string>
+    <string name="quick_guide_body" formatted="false">കണ്ടെത്തൽ മുതൽ നിങ്ങളുടെ ശേഖരത്തിലേക്കുള്ള നാല് ചിത്രീകരിച്ച ഘട്ടങ്ങൾ.</string>
+    <string name="back" formatted="false">തിരികെ</string>
+    <string name="forward" formatted="false">മുന്നോട്ട്</string>
+    <string name="reload" formatted="false">വീണ്ടും ലോഡുചെയ്യുക</string>
+    <string name="home" formatted="false">വീട്</string>
+    <string name="bookmark" formatted="false">ബുക്ക്മാർക്ക്</string>
+    <string name="bookmarks" formatted="false">ബുക്ക്മാർക്കുകൾ</string>
+    <string name="empty_bookmarks" formatted="false">സംരക്ഷിച്ച വെബ്‌സൈറ്റുകൾ ഇവിടെ ദൃശ്യമാകും.</string>
+    <string name="saved" formatted="false">സംരക്ഷിച്ചു</string>
+    <string name="remove" formatted="false">നീക്കം ചെയ്യുക</string>
+    <string name="cancel" formatted="false">റദ്ദാക്കുക</string>
+    <string name="close" formatted="false">അടയ്ക്കുക</string>
+    <string name="confirm_download" formatted="false">ഈ വീഡിയോ സംരക്ഷിക്കണോ?</string>
+    <string name="filename" formatted="false">ഫയലിൻ്റെ പേര്</string>
+    <string name="download_location" formatted="false">ഡൗൺലോഡുകൾ / വീഡിയോ ഡൗൺലോഡർ പ്രീമിയത്തിൽ സംരക്ഷിച്ചു</string>
+    <string name="permission_confirm" formatted="false">ഈ വീഡിയോ എനിക്ക് സ്വന്തമാണ് അല്ലെങ്കിൽ ഇത് ഡൗൺലോഡ് ചെയ്യാൻ അനുമതിയുണ്ട്.</string>
+    <string name="permission_required" formatted="false">ഈ വീഡിയോ സംരക്ഷിക്കാൻ നിങ്ങൾക്ക് അനുമതിയുണ്ടെന്ന് സ്ഥിരീകരിക്കുക.</string>
+    <string name="invalid_url" formatted="false">സാധുവായ ഒരു HTTPS വീഡിയോ ലിങ്ക് നൽകുക.</string>
+    <string name="unsupported" formatted="false">ഈ ലിങ്ക് ഡൗൺലോഡ് ചെയ്യാവുന്ന വീഡിയോ അല്ല. DRM, തത്സമയ സ്ട്രീമുകൾ, പ്ലേലിസ്റ്റുകൾ, YouTube ഡൗൺലോഡുകൾ എന്നിവ പിന്തുണയ്ക്കുന്നില്ല.</string>
+    <string name="queued" formatted="false">ഡൗൺലോഡ് ക്യൂവിൽ ചേർത്തു</string>
+    <string name="download_error" formatted="false">ഡൗൺലോഡ് ചെയ്യാനായില്ല. കണക്ഷൻ പരിശോധിക്കുക അല്ലെങ്കിൽ ഒരു പുതിയ വീഡിയോ ലിങ്ക് ഉപയോഗിക്കുക.</string>
+    <string name="collection_title" formatted="false">നിങ്ങളുടെ ശേഖരം</string>
+    <string name="collection_subtitle" formatted="false">സംരക്ഷിച്ച വീഡിയോകൾ, നിങ്ങൾ ആയിരിക്കുമ്പോൾ തയ്യാറാണ്.</string>
+    <string name="empty_downloads" formatted="false">നിങ്ങളുടെ അടുത്ത പ്രിയപ്പെട്ടത് ഇവിടെയുണ്ട്.</string>
+    <string name="empty_downloads_body" formatted="false">നിങ്ങളുടെ ശേഖരം ആരംഭിക്കുന്നതിന് നേരിട്ടുള്ള വീഡിയോ ലിങ്ക് ബ്രൗസ് ചെയ്യുക അല്ലെങ്കിൽ ഒട്ടിക്കുക എന്നതിൽ ഒരു വീഡിയോ കണ്ടെത്തുക.</string>
+    <string name="pending" formatted="false">ക്യൂവിൽ</string>
+    <string name="running" formatted="false">ഡൗൺലോഡ് ചെയ്യുന്നു</string>
+    <string name="paused" formatted="false">നെറ്റ്‌വർക്കിനായി കാത്തിരിക്കുന്നു അല്ലെങ്കിൽ വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="complete" formatted="false">പൂർത്തിയാക്കുക</string>
+    <string name="failed" formatted="false">പരാജയപ്പെട്ടു</string>
+    <string name="missing" formatted="false">ഫയൽ ലഭ്യമല്ല</string>
+    <string name="play" formatted="false">കളിക്കുക</string>
+    <string name="share" formatted="false">പങ്കിടുക</string>
+    <string name="retry" formatted="false">വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="delete_download" formatted="false">ഡൗൺലോഡും അതിൻ്റെ ഫയലും നീക്കം ചെയ്യണോ?</string>
+    <string name="no_player" formatted="false">ഈ ഫയൽ തുറക്കാൻ അനുയോജ്യമായ ആപ്പൊന്നും ലഭ്യമല്ല.</string>
+    <string name="guide_title" formatted="false">കണ്ടെത്തൽ മുതൽ ഡൗൺലോഡ് വരെ.</string>
+    <string name="guide_subtitle" formatted="false">നിങ്ങൾ ഇഷ്ടപ്പെടുന്ന വീഡിയോകൾ സൂക്ഷിക്കുന്നതിനുള്ള ഒരു ലളിതമായ ഗൈഡ്.</string>
+    <string name="step_one_title" formatted="false">നിങ്ങളുടെ വീഡിയോ കണ്ടെത്തുക</string>
+    <string name="step_one_body" formatted="false">ബ്രൗസ് തുറക്കുക. ഒരു വെബ്സൈറ്റ് വിലാസം തിരയുക അല്ലെങ്കിൽ നൽകുക. നിങ്ങൾക്ക് മറ്റൊരു ആപ്പിൽ നിന്ന് ഒരു വീഡിയോ ലിങ്ക് പങ്കിടാനും കഴിയും.</string>
+    <string name="step_two_title" formatted="false">ഉറവിടം കണ്ടെത്തുക</string>
+    <string name="step_two_body" formatted="false">ഒരു വീഡിയോ പ്ലേ ചെയ്യുക, തുടർന്ന് വീഡിയോകൾ കണ്ടെത്തുക ടാപ്പ് ചെയ്യുക. കണ്ടെത്തിയ ഫയൽ തിരഞ്ഞെടുക്കുക അല്ലെങ്കിൽ നേരിട്ടുള്ള HTTPS വീഡിയോ ലിങ്ക് ഒട്ടിക്കുക.</string>
+    <string name="step_three_title" formatted="false">ഇത് നിങ്ങളുടേതാക്കുക</string>
+    <string name="step_three_body" formatted="false">ഒരു ഫയലിൻ്റെ പേര് തിരഞ്ഞെടുക്കുക, വീഡിയോ സംരക്ഷിക്കാനുള്ള നിങ്ങളുടെ അനുമതി സ്ഥിരീകരിക്കുക, ഡൗൺലോഡ് ടാപ്പ് ചെയ്യുക. ആൻഡ്രോയിഡ് പശ്ചാത്തലത്തിൽ ഡൗൺലോഡ് തുടരുന്നു.</string>
+    <string name="step_four_title" formatted="false">നിങ്ങളുടെ ശേഖരം ആസ്വദിക്കൂ</string>
+    <string name="step_four_body" formatted="false">പുരോഗതി പരിശോധിക്കാൻ ഡൗൺലോഡുകൾ തുറക്കുക. പൂർത്തിയാക്കിയ വീഡിയോകൾ പ്ലേ ചെയ്യുക അല്ലെങ്കിൽ പങ്കിടുക. ആവശ്യമുള്ളപ്പോൾ ഒരു പുതിയ ലിങ്ക് ഉപയോഗിച്ച് പരാജയപ്പെട്ട ഡൗൺലോഡുകൾ വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="try_now" formatted="false">ഇപ്പോൾ ശ്രമിക്കുക</string>
+    <string name="preferences" formatted="false">ഇത് നിങ്ങളുടേതാക്കുക.</string>
+    <string name="preferences_subtitle" formatted="false">നിങ്ങളുടെ ദൈനംദിന ബ്രൗസിംഗിനായി ചില ചിന്തനീയമായ നിയന്ത്രണങ്ങൾ.</string>
+    <string name="dns_title" formatted="false">VPN / സ്വകാര്യ DNS</string>
+    <string name="dns_explanation" formatted="false">സ്വകാര്യ ഡിഎൻഎസ് ഡിഎൻഎസ് അന്വേഷണങ്ങൾ എൻക്രിപ്റ്റ് ചെയ്യുന്നു. ഇത് നിങ്ങളുടെ IP വിലാസം മറയ്ക്കുകയോ ഒരു VPN ടണൽ സൃഷ്ടിക്കുകയോ ചെയ്യുന്നില്ല. നിങ്ങൾ ഈ ക്രമീകരണം നേരിട്ട് മാറ്റാൻ Android ആവശ്യപ്പെടുന്നു.</string>
+    <string name="connected" formatted="false">ബന്ധിപ്പിച്ചു</string>
+    <string name="unconnected" formatted="false">ബന്ധിപ്പിച്ചിട്ടില്ല</string>
+    <string name="connect" formatted="false">ബന്ധിപ്പിക്കുക</string>
+    <string name="disconnect" formatted="false">വിച്ഛേദിക്കുക</string>
+    <string name="dns_instructions" formatted="false">സ്വകാര്യ DNS ദാതാവിൻ്റെ ഹോസ്റ്റ്നാമം തിരഞ്ഞെടുക്കുക, dns.adguard-dns.com ഒട്ടിക്കുക, സംരക്ഷിക്കുക. വിച്ഛേദിക്കുന്നതിന്, അതേ സിസ്റ്റം ക്രമീകരണത്തിൽ ഓട്ടോമാറ്റിക് അല്ലെങ്കിൽ ഓഫ് തിരഞ്ഞെടുക്കുക.</string>
+    <string name="copy_hostname" formatted="false">ഹോസ്റ്റ്നാമം പകർത്തുക</string>
+    <string name="copied" formatted="false">ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി</string>
+    <string name="open_network_settings" formatted="false">നെറ്റ്‌വർക്ക് ക്രമീകരണങ്ങൾ തുറക്കുക</string>
+    <string name="language" formatted="false">ആപ്പ് ഭാഷ</string>
+    <string name="system_language" formatted="false">ഉപകരണ ഭാഷ പിന്തുടരുക</string>
+    <string name="search_language" formatted="false">ഒരു ഭാഷ കണ്ടെത്തുക</string>
+    <string name="language_note" formatted="false">വിവർത്തനങ്ങൾ ഓഫ്‌ലൈനിൽ ഉൾപ്പെടുത്തിയിട്ടുണ്ട്. ലിസ്റ്റുചെയ്യാത്ത ഉപകരണ ഭാഷകൾ ഇംഗ്ലീഷ് ഉപയോഗിക്കുന്നു. മെഷീൻ വിവർത്തനങ്ങൾക്ക് പ്രാദേശിക അവലോകനം ആവശ്യമായി വന്നേക്കാം.</string>
+    <string name="search_engine" formatted="false">തിരയൽ എഞ്ചിൻ</string>
+    <string name="wifi_only" formatted="false">Wi-Fi-യിൽ മാത്രം ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="wifi_body" formatted="false">പുതിയ ഡൗൺലോഡുകൾ വൈഫൈ ലഭ്യമാകുന്നത് വരെ കാത്തിരിക്കുക.</string>
+    <string name="javascript" formatted="false">വെബ്‌സൈറ്റ് JavaScript</string>
+    <string name="javascript_body" formatted="false">നിരവധി വെബ്‌സൈറ്റുകൾക്കും HTML5 വീഡിയോ കണ്ടെത്തലിനും ആവശ്യമാണ്.</string>
+    <string name="privacy" formatted="false">സ്വകാര്യത</string>
+    <string name="clear_browser" formatted="false">ബ്രൗസിംഗ് ഡാറ്റ മായ്ക്കുക</string>
+    <string name="clear_browser_confirm" formatted="false">കുക്കികൾ, ബ്രൗസർ കാഷെ, ചരിത്രം, വെബ്‌സൈറ്റ് സംഭരണം എന്നിവ ഇല്ലാതാക്കണോ?</string>
+    <string name="privacy_body" formatted="false">പരസ്യങ്ങളോ അനലിറ്റിക്‌സോ ഡെവലപ്പർ അക്കൗണ്ടുകളോ ഇല്ല. വെബ്‌സൈറ്റുകൾ, സെർച്ച് എഞ്ചിനുകൾ, ഡിഎൻഎസ് ദാതാക്കൾ, ഡൗൺലോഡ് സെർവറുകൾ എന്നിവ നിങ്ങൾ അഭ്യർത്ഥനകൾ സ്വീകരിക്കുന്നു. ഡൗൺലോഡ് ചരിത്രവും ബുക്ക്‌മാർക്കുകളും ഈ ഉപകരണത്തിൽ നിലനിൽക്കും.</string>
+    <string name="terms" formatted="false">ഉത്തരവാദിത്തത്തോടെ ഉപയോഗിക്കുക</string>
+    <string name="terms_body" formatted="false">നിങ്ങളുടെ ഉടമസ്ഥതയിലുള്ളതോ ഡൗൺലോഡ് ചെയ്യാൻ അനുമതിയുള്ളതോ ആയ വീഡിയോകൾ മാത്രം സംരക്ഷിക്കുക. പകർപ്പവകാശവും വെബ്സൈറ്റ് നിബന്ധനകളും മാനിക്കുക. ഈ ആപ്പിന് DRM, പേവാൾ, പ്ലാറ്റ്‌ഫോം ഡൗൺലോഡ് നിയന്ത്രണങ്ങൾ എന്നിവ മറികടക്കാൻ കഴിയില്ല.</string>
+    <string name="about" formatted="false">കുറിച്ച്</string>
+    <string name="version" formatted="false">പതിപ്പ്</string>
+    <string name="paid_app" formatted="false">ഒരു വാങ്ങൽ. പരസ്യങ്ങളില്ല. സബ്സ്ക്രിപ്ഷൻ ഇല്ല.</string>
+    <string name="welcome_title" formatted="false">നിങ്ങളെ പ്രചോദിപ്പിക്കുന്നത് സൂക്ഷിക്കുക.</string>
+    <string name="welcome_body" formatted="false">അനുവദനീയമായ വീഡിയോകൾ ഒരിടത്ത് ബ്രൗസ് ചെയ്യുക, കണ്ടെത്തുക, സംരക്ഷിക്കുക. ആരംഭിക്കുന്നതിന് ചിത്രീകരിച്ച ഗൈഡ് വായിക്കുക.</string>
+    <string name="start_browsing" formatted="false">ബ്രൗസിംഗ് ആരംഭിക്കുക</string>
+    <string name="read_guide" formatted="false">ഗൈഡ് വായിക്കുക</string>
+    <string name="browser_error" formatted="false">ഈ പേജ് ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല. വിലാസവും കണക്ഷനും പരിശോധിക്കുക, തുടർന്ന് വീണ്ടും ലോഡുചെയ്യുക.</string>
+    <string name="secure_only" formatted="false">ഈ ആപ്പ് HTTPS കണക്ഷനുകൾ ഉപയോഗിക്കുന്നു. ഈ വെബ്‌സൈറ്റിൻ്റെ സുരക്ഷിത പതിപ്പ് പരീക്ഷിക്കുക.</string>
+    <string name="external_link" formatted="false">ഈ ലിങ്ക് മറ്റൊരു ആപ്പിൽ തുറക്കണോ?</string>
+    <string name="open" formatted="false">തുറക്കുക</string>
+    <string name="refresh" formatted="false">പുതുക്കുക</string>
+    <string name="accessibility_tutorial" formatted="false">ഈ ട്യൂട്ടോറിയൽ ഘട്ടത്തിനായുള്ള ചിത്രീകരണം</string>
+    <string name="download_reason" formatted="false">ആൻഡ്രോയിഡ് ഡൗൺലോഡ് പിശക് കോഡ്</string>
+    <string name="queue_full" formatted="false">ഡൗൺലോഡ് ചരിത്രം നിറഞ്ഞിരിക്കുന്നു. ആദ്യം പഴയ ഒരു എൻട്രി നീക്കം ചെയ്യുക.</string>
+    <string name="browser_tabs" formatted="false">ബ്രൗസർ ടാബുകൾ</string>
+    <string name="tabs_subtitle" formatted="false">വെബ്സൈറ്റുകൾ തുറന്ന് അവയ്ക്കിടയിൽ മാറുക.</string>
+    <string name="new_tab" formatted="false">പുതിയ ടാബ്</string>
+    <string name="close_tab" formatted="false">ടാബ് അടയ്ക്കുക</string>
+    <string name="active_tab" formatted="false">സജീവ ടാബ്</string>
+    <string name="tab_limit" formatted="false">നിങ്ങൾക്ക് 8 ടാബുകൾ വരെ തുറക്കാനാകും. മറ്റൊന്ന് ചേർക്കാൻ ഒരു ടാബ് അടയ്ക്കുക.</string>
+    <string name="history" formatted="false">ചരിത്രം</string>
+    <string name="history_subtitle" formatted="false">സന്ദർശിച്ച വെബ്‌സൈറ്റുകൾ ഈ ഉപകരണത്തിൽ മാത്രമേ സംരക്ഷിക്കപ്പെടുകയുള്ളൂ.</string>
+    <string name="empty_history" formatted="false">നിങ്ങളുടെ ബ്രൗസിംഗ് ചരിത്രം ഇവിടെ ദൃശ്യമാകും.</string>
+    <string name="clear_history" formatted="false">ചരിത്രം മായ്‌ക്കുക</string>
+    <string name="clear_history_confirm" formatted="false">ഈ ഉപകരണത്തിൽ നിന്ന് എല്ലാ ബ്രൗസിംഗ് ചരിത്രവും ഇല്ലാതാക്കണോ?</string>
+    <string name="open_new_tab" formatted="false">പുതിയ ടാബിൽ തുറക്കുക</string>
+    <string name="browser_menu" formatted="false">ബ്രൗസർ മെനു</string>
+    <string name="shortcut_note" formatted="false">വെബ്‌സൈറ്റ് കുറുക്കുവഴികൾ ബ്രൗസറിൽ തുറക്കുന്നു. ഡൗൺലോഡ് ലഭ്യത വെബ്സൈറ്റിനെ ആശ്രയിച്ചിരിക്കുന്നു.</string>
+</resources>

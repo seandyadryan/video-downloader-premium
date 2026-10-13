@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">프리미엄</string>
+    <string name="browse" formatted="false">찾아보기</string>
+    <string name="downloads" formatted="false">다운로드</string>
+    <string name="guide" formatted="false">가이드</string>
+    <string name="settings" formatted="false">설정</string>
+    <string name="home_title" formatted="false">귀하의 비디오. 당신의 컬렉션.</string>
+    <string name="home_subtitle" formatted="false">간직할 가치가 있는 것을 찾으세요.</string>
+    <string name="search_hint" formatted="false">웹사이트 검색 또는 입력</string>
+    <string name="go" formatted="false">이동</string>
+    <string name="paste_link" formatted="false">동영상 링크 붙여넣기</string>
+    <string name="direct_link" formatted="false">직접 영상 링크</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">다운로드</string>
+    <string name="detect" formatted="false">동영상 찾기</string>
+    <string name="detected" formatted="false">이 페이지의 동영상</string>
+    <string name="no_media" formatted="false">다운로드 가능한 동영상이 없습니다. 동영상 재생을 시작한 후 다시 시도해 보세요. 보호된 스트림과 포함된 프레임을 사용하지 못할 수 있습니다.</string>
+    <string name="safe_note" formatted="false">자신이 소유하거나 저장 권한이 있는 비디오만 다운로드하세요. 보호된 스트림과 YouTube 다운로드를 사용할 수 없습니다.</string>
+    <string name="quick_start" formatted="false">여기에서 시작하세요</string>
+    <string name="quick_browse" formatted="false">웹 탐색</string>
+    <string name="quick_browse_body" formatted="false">내장된 브라우저에서 원하는 엔진으로 검색하세요.</string>
+    <string name="quick_download" formatted="false">비디오 저장</string>
+    <string name="quick_download_body" formatted="false">직접 HTTPS 비디오 링크를 붙여넣거나 페이지에서 비디오를 찾으세요.</string>
+    <string name="quick_guide" formatted="false">약간의 안내</string>
+    <string name="quick_guide_body" formatted="false">발견부터 컬렉션까지의 4가지 단계를 그림으로 보여드립니다.</string>
+    <string name="back" formatted="false">뒤로</string>
+    <string name="forward" formatted="false">앞으로</string>
+    <string name="reload" formatted="false">새로고침</string>
+    <string name="home" formatted="false">홈</string>
+    <string name="bookmark" formatted="false">북마크</string>
+    <string name="bookmarks" formatted="false">북마크</string>
+    <string name="empty_bookmarks" formatted="false">저장된 웹사이트가 여기에 표시됩니다.</string>
+    <string name="saved" formatted="false">저장됨</string>
+    <string name="remove" formatted="false">제거</string>
+    <string name="cancel" formatted="false">취소</string>
+    <string name="close" formatted="false">닫기</string>
+    <string name="confirm_download" formatted="false">이 동영상을 저장하시겠습니까?</string>
+    <string name="filename" formatted="false">파일 이름</string>
+    <string name="download_location" formatted="false">다운로드/비디오 다운로더 프리미엄에 저장됨</string>
+    <string name="permission_confirm" formatted="false">나는 이 비디오를 소유하고 있거나 다운로드할 권한이 있습니다.</string>
+    <string name="permission_required" formatted="false">이 비디오를 저장할 권한이 있는지 확인하세요.</string>
+    <string name="invalid_url" formatted="false">유효한 HTTPS 동영상 링크를 입력하세요.</string>
+    <string name="unsupported" formatted="false">이 링크는 다운로드 가능한 동영상이 아닙니다. DRM, 라이브 스트림, 재생 목록 및 YouTube 다운로드는 지원되지 않습니다.</string>
+    <string name="queued" formatted="false">대기열에 다운로드가 추가되었습니다.</string>
+    <string name="download_error" formatted="false">다운로드할 수 없습니다. 연결을 확인하거나 새로운 비디오 링크를 사용하세요.</string>
+    <string name="collection_title" formatted="false">당신의 컬렉션</string>
+    <string name="collection_subtitle" formatted="false">저장된 비디오를 사용하면 준비가 완료됩니다.</string>
+    <string name="empty_downloads" formatted="false">다음으로 좋아하는 것은 여기에 있습니다.</string>
+    <string name="empty_downloads_body" formatted="false">찾아보기에서 비디오를 찾거나 직접 비디오 링크를 붙여넣어 컬렉션을 시작하세요.</string>
+    <string name="pending" formatted="false">대기 중</string>
+    <string name="running" formatted="false">다운로드 중</string>
+    <string name="paused" formatted="false">네트워크를 기다리는 중이거나 다시 시도하는 중입니다.</string>
+    <string name="complete" formatted="false">완료</string>
+    <string name="failed" formatted="false">실패</string>
+    <string name="missing" formatted="false">파일을 사용할 수 없음</string>
+    <string name="play" formatted="false">플레이</string>
+    <string name="share" formatted="false">공유</string>
+    <string name="retry" formatted="false">재시도</string>
+    <string name="delete_download" formatted="false">다운로드 및 해당 파일을 삭제하시겠습니까?</string>
+    <string name="no_player" formatted="false">이 파일을 열 수 있는 호환 앱이 없습니다.</string>
+    <string name="guide_title" formatted="false">검색부터 다운로드까지.</string>
+    <string name="guide_subtitle" formatted="false">좋아하는 비디오를 보관하기 위한 간단한 가이드입니다.</string>
+    <string name="step_one_title" formatted="false">비디오 찾기</string>
+    <string name="step_one_body" formatted="false">찾아보기를 엽니다. 웹사이트 주소를 검색하거나 입력하세요. 다른 앱의 비디오 링크를 공유할 수도 있습니다.</string>
+    <string name="step_two_title" formatted="false">소스를 찾아보세요</string>
+    <string name="step_two_body" formatted="false">비디오를 재생한 다음 비디오 찾기를 탭합니다. 감지된 파일을 선택하거나 직접 HTTPS 비디오 링크를 붙여넣습니다.</string>
+    <string name="step_three_title" formatted="false">당신의 것으로 만드세요</string>
+    <string name="step_three_body" formatted="false">파일 이름을 선택하고 비디오 저장 권한을 확인한 후 다운로드를 누릅니다. Android는 백그라운드에서 다운로드를 계속합니다.</string>
+    <string name="step_four_title" formatted="false">컬렉션을 즐겨보세요</string>
+    <string name="step_four_body" formatted="false">다운로드를 열어 진행 상황을 확인하세요. 완성된 비디오를 재생하거나 공유하세요. 필요한 경우 새로운 링크를 사용하여 실패한 다운로드를 다시 시도하세요.</string>
+    <string name="try_now" formatted="false">지금 사용해 보세요</string>
+    <string name="preferences" formatted="false">자신만의 것으로 만들어 보세요.</string>
+    <string name="preferences_subtitle" formatted="false">일상적인 탐색을 위한 몇 가지 사려 깊은 제어 기능입니다.</string>
+    <string name="dns_title" formatted="false">VPN / 프라이빗 DNS</string>
+    <string name="dns_explanation" formatted="false">프라이빗 DNS는 DNS 쿼리를 암호화합니다. IP 주소를 숨기거나 VPN 터널을 생성하지 않습니다. Android에서는 이 설정을 수동으로 변경해야 합니다.</string>
+    <string name="connected" formatted="false">연결됨</string>
+    <string name="unconnected" formatted="false">연결되지 않음</string>
+    <string name="connect" formatted="false">연결하다</string>
+    <string name="disconnect" formatted="false">연결 끊기</string>
+    <string name="dns_instructions" formatted="false">비공개 DNS 공급자 호스트 이름을 선택하고 dns.adguard-dns.com을 붙여넣은 후 저장합니다. 연결을 끊으려면 동일한 시스템 설정에서 자동 또는 끄기를 선택하세요.</string>
+    <string name="copy_hostname" formatted="false">호스트 이름 복사</string>
+    <string name="copied" formatted="false">클립보드에 복사됨</string>
+    <string name="open_network_settings" formatted="false">네트워크 설정 열기</string>
+    <string name="language" formatted="false">앱 언어</string>
+    <string name="system_language" formatted="false">기기 언어 따르기</string>
+    <string name="search_language" formatted="false">언어 찾기</string>
+    <string name="language_note" formatted="false">번역은 오프라인으로 포함됩니다. 목록에 없는 장치 언어는 영어를 사용합니다. 기계 번역에는 지역별 검토가 필요할 수 있습니다.</string>
+    <string name="search_engine" formatted="false">검색 엔진</string>
+    <string name="wifi_only" formatted="false">Wi-Fi에서만 다운로드</string>
+    <string name="wifi_body" formatted="false">새로운 다운로드는 Wi-Fi를 사용할 수 있을 때까지 기다립니다.</string>
+    <string name="javascript" formatted="false">웹사이트 자바스크립트</string>
+    <string name="javascript_body" formatted="false">많은 웹사이트와 HTML5 비디오 검색에 필요합니다.</string>
+    <string name="privacy" formatted="false">개인 정보 보호</string>
+    <string name="clear_browser" formatted="false">인터넷 사용 기록 삭제</string>
+    <string name="clear_browser_confirm" formatted="false">쿠키, 브라우저 캐시, 기록, 웹사이트 저장소를 삭제하시겠습니까?</string>
+    <string name="privacy_body" formatted="false">광고, 분석 또는 개발자 계정이 없습니다. 웹사이트, 검색 엔진, DNS 공급자 및 다운로드 서버는 귀하의 요청을 수신합니다. 다운로드 기록과 북마크는 이 기기에 유지됩니다.</string>
+    <string name="terms" formatted="false">책임감 있게 사용하세요</string>
+    <string name="terms_body" formatted="false">귀하가 소유하고 있거나 다운로드가 허용된 비디오만 저장하세요. 저작권과 웹사이트 약관을 존중하세요. 이 앱은 DRM, 페이월 또는 플랫폼 다운로드 제한을 우회할 수 없습니다.</string>
+    <string name="about" formatted="false">소개</string>
+    <string name="version" formatted="false">버전</string>
+    <string name="paid_app" formatted="false">한 번의 구매. 광고가 없습니다. 구독이 없습니다.</string>
+    <string name="welcome_title" formatted="false">당신에게 영감을 주는 것을 유지하세요.</string>
+    <string name="welcome_body" formatted="false">허용된 비디오를 한 곳에서 찾아보고, 발견하고, 저장하세요. 시작하려면 그림이 포함된 가이드를 읽어보세요.</string>
+    <string name="start_browsing" formatted="false">탐색 시작</string>
+    <string name="read_guide" formatted="false">가이드 읽기</string>
+    <string name="browser_error" formatted="false">이 페이지를 로드할 수 없습니다. 주소와 연결을 확인한 후 다시 로드하세요.</string>
+    <string name="secure_only" formatted="false">이 앱은 HTTPS 연결을 사용합니다. 이 웹사이트의 보안 버전을 사용해 보세요.</string>
+    <string name="external_link" formatted="false">다른 앱에서 이 링크를 열까요?</string>
+    <string name="open" formatted="false">열기</string>
+    <string name="refresh" formatted="false">새로고침</string>
+    <string name="accessibility_tutorial" formatted="false">이 튜토리얼 단계에 대한 그림</string>
+    <string name="download_reason" formatted="false">안드로이드 다운로드 오류 코드</string>
+    <string name="queue_full" formatted="false">다운로드 기록이 가득 찼습니다. 먼저 오래된 항목을 제거하세요.</string>
+    <string name="browser_tabs" formatted="false">브라우저 탭</string>
+    <string name="tabs_subtitle" formatted="false">웹사이트를 열어두고 웹사이트 간에 전환하세요.</string>
+    <string name="new_tab" formatted="false">새 탭</string>
+    <string name="close_tab" formatted="false">탭 닫기</string>
+    <string name="active_tab" formatted="false">활성 탭</string>
+    <string name="tab_limit" formatted="false">최대 8개의 탭을 열 수 있습니다. 다른 탭을 추가하려면 탭을 닫으세요.</string>
+    <string name="history" formatted="false">역사</string>
+    <string name="history_subtitle" formatted="false">방문한 웹사이트는 이 기기에만 저장됩니다.</string>
+    <string name="empty_history" formatted="false">귀하의 검색 기록이 여기에 표시됩니다.</string>
+    <string name="clear_history" formatted="false">기록 지우기</string>
+    <string name="clear_history_confirm" formatted="false">이 기기에서 모든 인터넷 사용기록을 삭제하시겠습니까?</string>
+    <string name="open_new_tab" formatted="false">새 탭에서 열기</string>
+    <string name="browser_menu" formatted="false">브라우저 메뉴</string>
+    <string name="shortcut_note" formatted="false">웹사이트 바로가기가 브라우저에서 열립니다. 다운로드 가능 여부는 웹사이트에 따라 다릅니다.</string>
+</resources>

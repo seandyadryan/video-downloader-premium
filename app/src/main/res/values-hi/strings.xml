@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">प्रीमियम</string>
+    <string name="browse" formatted="false">ब्राउज़ करें</string>
+    <string name="downloads" formatted="false">डाउनलोड</string>
+    <string name="guide" formatted="false">मार्गदर्शक</string>
+    <string name="settings" formatted="false">सेटिंग्स</string>
+    <string name="home_title" formatted="false">आपके वीडियो. आपका संग्रह.</string>
+    <string name="home_subtitle" formatted="false">कुछ ऐसा ढूँढ़ें जो रखने लायक हो।</string>
+    <string name="search_hint" formatted="false">कोई वेबसाइट खोजें या दर्ज करें</string>
+    <string name="go" formatted="false">जाओ</string>
+    <string name="paste_link" formatted="false">वीडियो लिंक चिपकाएँ</string>
+    <string name="direct_link" formatted="false">सीधा वीडियो लिंक</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">डाउनलोड करें</string>
+    <string name="detect" formatted="false">वीडियो खोजें</string>
+    <string name="detected" formatted="false">इस पेज पर वीडियो</string>
+    <string name="no_media" formatted="false">कोई डाउनलोड करने योग्य वीडियो नहीं मिला. वीडियो चलाना प्रारंभ करें, फिर पुनः प्रयास करें। संरक्षित स्ट्रीम और एम्बेडेड फ़्रेम अनुपलब्ध हो सकते हैं।</string>
+    <string name="safe_note" formatted="false">केवल वही वीडियो डाउनलोड करें जिनके मालिक आप हैं या जिन्हें सहेजने की अनुमति आपके पास है। संरक्षित स्ट्रीम और यूट्यूब डाउनलोड अनुपलब्ध हैं।</string>
+    <string name="quick_start" formatted="false">यहां से प्रारंभ करें</string>
+    <string name="quick_browse" formatted="false">वेब का अन्वेषण करें</string>
+    <string name="quick_browse_body" formatted="false">अंतर्निहित ब्राउज़र में अपने पसंदीदा इंजन से खोजें।</string>
+    <string name="quick_download" formatted="false">एक वीडियो सहेजें</string>
+    <string name="quick_download_body" formatted="false">एक सीधा HTTPS वीडियो लिंक चिपकाएँ या किसी पेज पर एक वीडियो ढूंढें।</string>
+    <string name="quick_guide" formatted="false">थोड़ा मार्गदर्शन</string>
+    <string name="quick_guide_body" formatted="false">खोज से आपके संग्रह तक के चार सचित्र चरण।</string>
+    <string name="back" formatted="false">वापस</string>
+    <string name="forward" formatted="false">आगे</string>
+    <string name="reload" formatted="false">पुनः लोड करें</string>
+    <string name="home" formatted="false">घर</string>
+    <string name="bookmark" formatted="false">बुकमार्क</string>
+    <string name="bookmarks" formatted="false">बुकमार्क</string>
+    <string name="empty_bookmarks" formatted="false">सहेजी गई वेबसाइटें यहां दिखाई देंगी.</string>
+    <string name="saved" formatted="false">सहेजा गया</string>
+    <string name="remove" formatted="false">हटाओ</string>
+    <string name="cancel" formatted="false">रद्द करें</string>
+    <string name="close" formatted="false">बंद करें</string>
+    <string name="confirm_download" formatted="false">यह वीडियो सहेजें?</string>
+    <string name="filename" formatted="false">फ़ाइल का नाम</string>
+    <string name="download_location" formatted="false">डाउनलोड/वीडियो डाउनलोडर प्रीमियम में सहेजा गया</string>
+    <string name="permission_confirm" formatted="false">मेरे पास यह वीडियो है या मेरे पास इसे डाउनलोड करने की अनुमति है।</string>
+    <string name="permission_required" formatted="false">पुष्टि करें कि आपके पास इस वीडियो को सहेजने की अनुमति है।</string>
+    <string name="invalid_url" formatted="false">एक वैध HTTPS वीडियो लिंक दर्ज करें।</string>
+    <string name="unsupported" formatted="false">यह लिंक डाउनलोड करने योग्य वीडियो नहीं है. DRM, लाइव स्ट्रीम, प्लेलिस्ट और YouTube डाउनलोड असमर्थित हैं।</string>
+    <string name="queued" formatted="false">डाउनलोड को कतार में जोड़ा गया</string>
+    <string name="download_error" formatted="false">डाउनलोड करने में असमर्थ. कनेक्शन की जाँच करें या ताज़ा वीडियो लिंक का उपयोग करें।</string>
+    <string name="collection_title" formatted="false">आपका संग्रह</string>
+    <string name="collection_subtitle" formatted="false">सहेजे गए वीडियो, जब आप तैयार हों।</string>
+    <string name="empty_downloads" formatted="false">आपका अगला पसंदीदा यहाँ है।</string>
+    <string name="empty_downloads_body" formatted="false">अपना संग्रह शुरू करने के लिए ब्राउज़ में एक वीडियो ढूंढें या सीधा वीडियो लिंक पेस्ट करें।</string>
+    <string name="pending" formatted="false">कतारबद्ध</string>
+    <string name="running" formatted="false">डाउनलोड हो रहा है</string>
+    <string name="paused" formatted="false">नेटवर्क या पुनः प्रयास की प्रतीक्षा की जा रही है</string>
+    <string name="complete" formatted="false">पूर्ण</string>
+    <string name="failed" formatted="false">असफल</string>
+    <string name="missing" formatted="false">फ़ाइल अनुपलब्ध है</string>
+    <string name="play" formatted="false">खेलो</string>
+    <string name="share" formatted="false">साझा करें</string>
+    <string name="retry" formatted="false">पुनः प्रयास करें</string>
+    <string name="delete_download" formatted="false">डाउनलोड और उसकी फ़ाइल हटाएँ?</string>
+    <string name="no_player" formatted="false">इस फ़ाइल को खोलने के लिए कोई संगत ऐप उपलब्ध नहीं है।</string>
+    <string name="guide_title" formatted="false">खोज से लेकर डाउनलोड तक.</string>
+    <string name="guide_subtitle" formatted="false">अपने पसंदीदा वीडियो को बनाए रखने के लिए एक सरल मार्गदर्शिका।</string>
+    <string name="step_one_title" formatted="false">अपना वीडियो ढूंढें</string>
+    <string name="step_one_body" formatted="false">ब्राउज़ खोलें. वेबसाइट का पता खोजें या दर्ज करें. आप किसी अन्य ऐप से वीडियो लिंक भी साझा कर सकते हैं।</string>
+    <string name="step_two_title" formatted="false">स्रोत की खोज करें</string>
+    <string name="step_two_body" formatted="false">एक वीडियो चलाएं, फिर वीडियो ढूंढें पर टैप करें। पता लगाई गई फ़ाइल चुनें, या सीधा HTTPS वीडियो लिंक पेस्ट करें।</string>
+    <string name="step_three_title" formatted="false">इसे अपना बनाओ</string>
+    <string name="step_three_body" formatted="false">एक फ़ाइल नाम चुनें, वीडियो को सहेजने के लिए अपनी अनुमति की पुष्टि करें और डाउनलोड पर टैप करें। एंड्रॉइड पृष्ठभूमि में डाउनलोड जारी रखता है।</string>
+    <string name="step_four_title" formatted="false">अपने संग्रह का आनंद लें</string>
+    <string name="step_four_body" formatted="false">प्रगति जांचने के लिए डाउनलोड खोलें। पूर्ण वीडियो चलाएं या साझा करें. आवश्यकता पड़ने पर एक नए लिंक के साथ विफल डाउनलोड का पुनः प्रयास करें।</string>
+    <string name="try_now" formatted="false">इसे अभी आज़माएं</string>
+    <string name="preferences" formatted="false">इसे अपना बनाओ.</string>
+    <string name="preferences_subtitle" formatted="false">आपकी रोजमर्रा की ब्राउज़िंग के लिए कुछ विचारशील नियंत्रण।</string>
+    <string name="dns_title" formatted="false">वीपीएन/निजी डीएनएस</string>
+    <string name="dns_explanation" formatted="false">निजी DNS, DNS क्वेरीज़ को एन्क्रिप्ट करता है। यह आपके आईपी पते को छिपाता नहीं है या वीपीएन सुरंग नहीं बनाता है। एंड्रॉइड के लिए आवश्यक है कि आप इस सेटिंग को मैन्युअल रूप से बदलें।</string>
+    <string name="connected" formatted="false">जुड़ा हुआ</string>
+    <string name="unconnected" formatted="false">असंबद्ध</string>
+    <string name="connect" formatted="false">कनेक्ट करें</string>
+    <string name="disconnect" formatted="false">डिस्कनेक्ट करें</string>
+    <string name="dns_instructions" formatted="false">निजी DNS प्रदाता होस्टनाम चुनें, dns.adguard-dns.com पेस्ट करें और सहेजें। डिस्कनेक्ट करने के लिए, उसी सिस्टम सेटिंग में स्वचालित या बंद का चयन करें।</string>
+    <string name="copy_hostname" formatted="false">होस्टनाम कॉपी करें</string>
+    <string name="copied" formatted="false">क्लिपबोर्ड पर कॉपी किया गया</string>
+    <string name="open_network_settings" formatted="false">नेटवर्क सेटिंग खोलें</string>
+    <string name="language" formatted="false">ऐप भाषा</string>
+    <string name="system_language" formatted="false">डिवाइस भाषा का पालन करें</string>
+    <string name="search_language" formatted="false">एक भाषा खोजें</string>
+    <string name="language_note" formatted="false">अनुवाद ऑफ़लाइन शामिल हैं. असूचीबद्ध डिवाइस भाषाएँ अंग्रेजी का उपयोग करती हैं। मशीनी अनुवादों को क्षेत्रीय समीक्षा की आवश्यकता हो सकती है।</string>
+    <string name="search_engine" formatted="false">खोज इंजन</string>
+    <string name="wifi_only" formatted="false">केवल वाई-फ़ाई पर डाउनलोड करें</string>
+    <string name="wifi_body" formatted="false">नए डाउनलोड वाई-फाई उपलब्ध होने तक प्रतीक्षा करें।</string>
+    <string name="javascript" formatted="false">वेबसाइट जावास्क्रिप्ट</string>
+    <string name="javascript_body" formatted="false">कई वेबसाइटों और HTML5 वीडियो खोज के लिए आवश्यक है।</string>
+    <string name="privacy" formatted="false">गोपनीयता</string>
+    <string name="clear_browser" formatted="false">ब्राउज़िंग डेटा साफ़ करें</string>
+    <string name="clear_browser_confirm" formatted="false">कुकीज़, ब्राउज़र कैश, इतिहास और वेबसाइट संग्रहण हटाएं?</string>
+    <string name="privacy_body" formatted="false">कोई विज्ञापन, विश्लेषण या डेवलपर खाता नहीं। वेबसाइटें, खोज इंजन, डीएनएस प्रदाता और डाउनलोड सर्वर आपके द्वारा किए गए अनुरोध प्राप्त करते हैं। डाउनलोड इतिहास और बुकमार्क इस डिवाइस पर रहते हैं।</string>
+    <string name="terms" formatted="false">जिम्मेदारीपूर्वक उपयोग करें</string>
+    <string name="terms_body" formatted="false">केवल वही वीडियो सहेजें जिनके मालिक आप हैं या जिन्हें डाउनलोड करने की अनुमति है। कॉपीराइट और वेबसाइट की शर्तों का सम्मान करें। यह ऐप DRM, पेवॉल्स या प्लेटफ़ॉर्म डाउनलोड प्रतिबंधों को बायपास नहीं कर सकता है।</string>
+    <string name="about" formatted="false">के बारे में</string>
+    <string name="version" formatted="false">संस्करण</string>
+    <string name="paid_app" formatted="false">एक खरीद. कोई विज्ञापन नहीं. कोई सदस्यता नहीं.</string>
+    <string name="welcome_title" formatted="false">जो आपको प्रेरित करता है उसे रखें।</string>
+    <string name="welcome_body" formatted="false">अनुमत वीडियो ब्राउज़ करें, खोजें और एक ही स्थान पर सहेजें। आरंभ करने के लिए सचित्र मार्गदर्शिका पढ़ें.</string>
+    <string name="start_browsing" formatted="false">ब्राउज़ करना प्रारंभ करें</string>
+    <string name="read_guide" formatted="false">गाइड पढ़ें</string>
+    <string name="browser_error" formatted="false">यह पृष्ठ लोड नहीं किया जा सका. पता और कनेक्शन जांचें, फिर पुनः लोड करें।</string>
+    <string name="secure_only" formatted="false">यह ऐप HTTPS कनेक्शन का उपयोग करता है। इस वेबसाइट का सुरक्षित संस्करण आज़माएँ।</string>
+    <string name="external_link" formatted="false">इस लिंक को किसी अन्य ऐप में खोलें?</string>
+    <string name="open" formatted="false">खुला</string>
+    <string name="refresh" formatted="false">ताज़ा करें</string>
+    <string name="accessibility_tutorial" formatted="false">इस ट्यूटोरियल चरण के लिए चित्रण</string>
+    <string name="download_reason" formatted="false">एंड्रॉइड डाउनलोड त्रुटि कोड</string>
+    <string name="queue_full" formatted="false">डाउनलोड इतिहास पूर्ण है. पहले पुरानी प्रविष्टि हटाएँ.</string>
+    <string name="browser_tabs" formatted="false">ब्राउज़र टैब</string>
+    <string name="tabs_subtitle" formatted="false">वेबसाइटें खुली रखें और उनके बीच स्विच करें।</string>
+    <string name="new_tab" formatted="false">नया टैब</string>
+    <string name="close_tab" formatted="false">टैब बंद करें</string>
+    <string name="active_tab" formatted="false">सक्रिय टैब</string>
+    <string name="tab_limit" formatted="false">आप अधिकतम 8 टैब खोल सकते हैं. दूसरा जोड़ने के लिए एक टैब बंद करें.</string>
+    <string name="history" formatted="false">इतिहास</string>
+    <string name="history_subtitle" formatted="false">विज़िट की गई वेबसाइटें केवल इस डिवाइस पर सहेजी जाती हैं।</string>
+    <string name="empty_history" formatted="false">आपका ब्राउज़िंग इतिहास यहां दिखाई देगा.</string>
+    <string name="clear_history" formatted="false">स्पष्ट इतिहास</string>
+    <string name="clear_history_confirm" formatted="false">इस डिवाइस से सभी ब्राउज़िंग इतिहास हटाएं?</string>
+    <string name="open_new_tab" formatted="false">नए टैब में खोलें</string>
+    <string name="browser_menu" formatted="false">ब्राउज़र मेनू</string>
+    <string name="shortcut_note" formatted="false">वेबसाइट शॉर्टकट ब्राउज़र में खुलते हैं. डाउनलोड उपलब्धता वेबसाइट पर निर्भर करती है।</string>
+</resources>

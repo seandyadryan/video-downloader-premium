@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">I-PREMIUM</string>
+    <string name="browse" formatted="false">Phequlula</string>
+    <string name="downloads" formatted="false">Okulandwayo</string>
+    <string name="guide" formatted="false">Umhlahlandlela</string>
+    <string name="settings" formatted="false">Izilungiselelo</string>
+    <string name="home_title" formatted="false">Amavidiyo akho. Iqoqo lakho.</string>
+    <string name="home_subtitle" formatted="false">Thola okuthile okufanele ukugcine.</string>
+    <string name="search_hint" formatted="false">Sesha noma faka iwebhusayithi</string>
+    <string name="go" formatted="false">Hamba</string>
+    <string name="paste_link" formatted="false">Namathisela isixhumanisi sevidiyo</string>
+    <string name="direct_link" formatted="false">Isixhumanisi sevidiyo esiqondile</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Landa</string>
+    <string name="detect" formatted="false">Thola amavidiyo</string>
+    <string name="detected" formatted="false">Amavidiyo akuleli khasi</string>
+    <string name="no_media" formatted="false">Ayikho ividiyo elandekayo etholiwe. Qala ukudlala ividiyo, bese uyazama futhi. Ukusakaza okuvikelekile nozimele abashumekiwe kungase kungatholakali.</string>
+    <string name="safe_note" formatted="false">Landa kuphela amavidiyo ongumnikazi wawo noma onemvume yokuwalondoloza. Ukusakaza okuvikelekile nokulandiwe kwe-YouTube akutholakali.</string>
+    <string name="quick_start" formatted="false">QALA LAPHA</string>
+    <string name="quick_browse" formatted="false">Hlola iwebhu</string>
+    <string name="quick_browse_body" formatted="false">Sesha ngenjini oyithandayo esipheqululini esakhelwe ngaphakathi.</string>
+    <string name="quick_download" formatted="false">Londoloza ividiyo</string>
+    <string name="quick_download_body" formatted="false">Namathisela isixhumanisi sevidiyo ye-HTTPS eqondile noma thola ividiyo ekhasini.</string>
+    <string name="quick_guide" formatted="false">Isiqondiso esincane</string>
+    <string name="quick_guide_body" formatted="false">Izinyathelo ezine ezinezithombe ukusuka ekutholakaleni kuya eqoqweni lakho.</string>
+    <string name="back" formatted="false">Emuva</string>
+    <string name="forward" formatted="false">Phambili</string>
+    <string name="reload" formatted="false">Layisha kabusha</string>
+    <string name="home" formatted="false">Ikhaya</string>
+    <string name="bookmark" formatted="false">Ibhukhimakhi</string>
+    <string name="bookmarks" formatted="false">Amabhukumaka</string>
+    <string name="empty_bookmarks" formatted="false">Amawebhusayithi alondoloziwe azovela lapha.</string>
+    <string name="saved" formatted="false">Kulondoloziwe</string>
+    <string name="remove" formatted="false">Susa</string>
+    <string name="cancel" formatted="false">Khansela</string>
+    <string name="close" formatted="false">Vala</string>
+    <string name="confirm_download" formatted="false">Londoloza le vidiyo?</string>
+    <string name="filename" formatted="false">Igama lefayela</string>
+    <string name="download_location" formatted="false">Kulondolozwe ku-Premium yokulanda / yokulanda ividiyo</string>
+    <string name="permission_confirm" formatted="false">Ngingumnikazi wale vidiyo noma nginemvume yokuyilanda.</string>
+    <string name="permission_required" formatted="false">Qinisekisa ukuthi unemvume yokugcina le vidiyo.</string>
+    <string name="invalid_url" formatted="false">Faka isixhumanisi sevidiyo ye-HTTPS esivumelekile.</string>
+    <string name="unsupported" formatted="false">Lesi sixhumanisi asiyona ividiyo elandekayo. I-DRM, ukusakaza bukhoma, izinhla zokudlalayo, nokulandiwe kwe-YouTube akusekelwa.</string>
+    <string name="queued" formatted="false">Ukulanda kungeziwe kulayini</string>
+    <string name="download_error" formatted="false">Ayikwazi ukulanda. Hlola uxhumano noma sebenzisa isixhumanisi esisha sevidiyo.</string>
+    <string name="collection_title" formatted="false">Iqoqo lakho</string>
+    <string name="collection_subtitle" formatted="false">Amavidiyo alondoloziwe, alungile uma usulungile.</string>
+    <string name="empty_downloads" formatted="false">Intandokazi yakho elandelayo ingelapha.</string>
+    <string name="empty_downloads_body" formatted="false">Thola ividiyo kokuthi Phequlula noma namathisela isixhumanisi esiqondile sevidiyo ukuze uqale iqoqo lakho.</string>
+    <string name="pending" formatted="false">Kufakwe kulayini</string>
+    <string name="running" formatted="false">Iyalanda</string>
+    <string name="paused" formatted="false">Ilinde inethiwekhi noma zama futhi</string>
+    <string name="complete" formatted="false">Qedela</string>
+    <string name="failed" formatted="false">Yehlulekile</string>
+    <string name="missing" formatted="false">Ifayela alitholakali</string>
+    <string name="play" formatted="false">Dlala</string>
+    <string name="share" formatted="false">Yabelana</string>
+    <string name="retry" formatted="false">Zama futhi</string>
+    <string name="delete_download" formatted="false">Susa ukulanda kanye nefayela lakho?</string>
+    <string name="no_player" formatted="false">Alukho uhlelo lokusebenza oluhambisanayo olutholakalayo ukuze uvule leli fayela.</string>
+    <string name="guide_title" formatted="false">Kusukela ekutholakaleni kuya ukulanda.</string>
+    <string name="guide_subtitle" formatted="false">Umhlahlandlela olula wokugcina amavidiyo owathandayo.</string>
+    <string name="step_one_title" formatted="false">Thola ividiyo yakho</string>
+    <string name="step_one_body" formatted="false">Vula Phequlula. Sesha noma faka ikheli lewebhusayithi. Ungakwazi futhi ukwabelana ngesixhumanisi sevidiyo kolunye uhlelo lokusebenza.</string>
+    <string name="step_two_title" formatted="false">Zitholele umthombo</string>
+    <string name="step_two_body" formatted="false">Dlala ividiyo, bese uthinta Thola amavidiyo. Khetha ifayela elitholiwe, noma namathisela isixhumanisi esiqondile sevidiyo ye-HTTPS.</string>
+    <string name="step_three_title" formatted="false">Kwenze kube eyakho</string>
+    <string name="step_three_body" formatted="false">Khetha igama lefayela, qinisekisa imvume yakho ukuze ulondoloze ividiyo, bese uthepha okuthi Landa. I-Android iqhubeka nokulanda ngemuva.</string>
+    <string name="step_four_title" formatted="false">Jabulela iqoqo lakho</string>
+    <string name="step_four_body" formatted="false">Vula Okulandiwe ukuze uhlole ukuqhubeka. Dlala noma wabelane ngamavidiyo aqediwe. Zama futhi ukulanda okuhlulekile ngesixhumanisi esisha lapho sidingeka.</string>
+    <string name="try_now" formatted="false">Izame manje</string>
+    <string name="preferences" formatted="false">Kwenze okwakho.</string>
+    <string name="preferences_subtitle" formatted="false">Izilawuli ezimbalwa ezicatshangelwayo zokuphequlula kwakho kwansuku zonke.</string>
+    <string name="dns_title" formatted="false">I-VPN / I-DNS yangasese</string>
+    <string name="dns_explanation" formatted="false">I-DNS eyimfihlo ibethela imibuzo ye-DNS. Ayifihli ikheli lakho le-IP noma idale umhubhe we-VPN. I-Android idinga ukuthi uguqule lesi silungiselelo mathupha.</string>
+    <string name="connected" formatted="false">Ixhunyiwe</string>
+    <string name="unconnected" formatted="false">Ayixhunyiwe</string>
+    <string name="connect" formatted="false">Xhuma</string>
+    <string name="disconnect" formatted="false">Nqamula</string>
+    <string name="dns_instructions" formatted="false">Khetha igama lomethuli womhlinzeki we-DNS eyimfihlo, namathisela okuthi dns.adguard-dns.com, bese ulondoloza. Ukuze unqamule, khetha Okuzenzakalelayo noma Valiwe kusethingi yesistimu efanayo.</string>
+    <string name="copy_hostname" formatted="false">Kopisha igama lomethuleli</string>
+    <string name="copied" formatted="false">Ikopishelwe ebhodini lokunamathisela</string>
+    <string name="open_network_settings" formatted="false">Vula izilungiselelo zenethiwekhi</string>
+    <string name="language" formatted="false">Ulimi lohlelo lokusebenza</string>
+    <string name="system_language" formatted="false">Landela ulimi lwedivayisi</string>
+    <string name="search_language" formatted="false">Thola ulimi</string>
+    <string name="language_note" formatted="false">Ukuhumusha kufakwe ungaxhunyiwe ku-inthanethi. Izilimi zedivayisi ezingafakwanga ohlwini zisebenzisa isiNgisi. Ukuhumusha komshini kungase kudinge ukubuyekezwa kwesifunda.</string>
+    <string name="search_engine" formatted="false">Injini yokusesha</string>
+    <string name="wifi_only" formatted="false">Landa nge-Wi-Fi kuphela</string>
+    <string name="wifi_body" formatted="false">Okulandwayo okusha kuyalinda kuze kutholakale i-Wi-Fi.</string>
+    <string name="javascript" formatted="false">Iwebhusayithi JavaScript</string>
+    <string name="javascript_body" formatted="false">Idingwa amawebhusayithi amaningi kanye nokutholwa kwevidiyo ye-HTML5.</string>
+    <string name="privacy" formatted="false">Ubumfihlo</string>
+    <string name="clear_browser" formatted="false">Sula idatha yokuphequlula</string>
+    <string name="clear_browser_confirm" formatted="false">Susa amakhukhi, inqolobane yesiphequluli, umlando, nokugcinwa kwewebhusayithi?</string>
+    <string name="privacy_body" formatted="false">Azikho izikhangiso, izibalo, noma ama-akhawunti kanjiniyela. Amawebhusayithi, izinjini zokusesha, abahlinzeki be-DNS, namaseva okulanda athola izicelo ozenzayo. Landa umlando namabhukhimakhi kuhlala kule divayisi.</string>
+    <string name="terms" formatted="false">Sebenzisa ngokuzibophezela</string>
+    <string name="terms_body" formatted="false">Londoloza kuphela amavidiyo ongumnikazi wawo noma ovunyelwe ukuwalanda. Hlonipha imigomo ye-copyright newebhusayithi. Lolu hlelo lokusebenza alukwazi ukudlula i-DRM, izindonga zokukhokha, noma imikhawulo yokulanda ingxenyekazi.</string>
+    <string name="about" formatted="false">Mayelana</string>
+    <string name="version" formatted="false">Inguqulo</string>
+    <string name="paid_app" formatted="false">Ukuthenga okukodwa. Azikho izikhangiso. Akukho ukubhalisa.</string>
+    <string name="welcome_title" formatted="false">Gcina lokho okukukhuthazayo.</string>
+    <string name="welcome_body" formatted="false">Phequlula, thola, futhi ulondoloze amavidiyo avunyelwe endaweni eyodwa. Funda umhlahlandlela onezithombe ukuze uqalise.</string>
+    <string name="start_browsing" formatted="false">Qala ukuphequlula</string>
+    <string name="read_guide" formatted="false">Funda umhlahlandlela</string>
+    <string name="browser_error" formatted="false">Leli khasi alikwazanga ukulayishwa. Hlola ikheli noxhumo, bese ulayisha kabusha.</string>
+    <string name="secure_only" formatted="false">Lolu hlelo lokusebenza lusebenzisa ukuxhumana kwe-HTTPS. Zama inguqulo evikelekile yale webhusayithi.</string>
+    <string name="external_link" formatted="false">Vula lesi sixhumanisi kolunye uhlelo lokusebenza?</string>
+    <string name="open" formatted="false">Vula</string>
+    <string name="refresh" formatted="false">Vuselela</string>
+    <string name="accessibility_tutorial" formatted="false">Umfanekiso walesi sinyathelo sokufundisa</string>
+    <string name="download_reason" formatted="false">Ikhodi yephutha yokulanda i-Android</string>
+    <string name="queue_full" formatted="false">Umlando wokulanda ugcwele. Susa okufakiwe okudala kuqala.</string>
+    <string name="browser_tabs" formatted="false">Amathebhu esiphequluli</string>
+    <string name="tabs_subtitle" formatted="false">Gcina amawebhusayithi evulekile futhi ushintshe phakathi kwawo.</string>
+    <string name="new_tab" formatted="false">Ithebhu entsha</string>
+    <string name="close_tab" formatted="false">Vala ithebhu</string>
+    <string name="active_tab" formatted="false">Ithebhu esebenzayo</string>
+    <string name="tab_limit" formatted="false">Ungakwazi ukuvula amathebhu angu-8. Vala ithebhu ukuze wengeze enye.</string>
+    <string name="history" formatted="false">Umlando</string>
+    <string name="history_subtitle" formatted="false">Amawebhusayithi avakashelwe alondolozwa kuphela kule divayisi.</string>
+    <string name="empty_history" formatted="false">Umlando wakho wokuphequlula uzovela lapha.</string>
+    <string name="clear_history" formatted="false">Sula umlando</string>
+    <string name="clear_history_confirm" formatted="false">Susa wonke umlando wokuphequlula kule divayisi?</string>
+    <string name="open_new_tab" formatted="false">Vula kuthebhu entsha</string>
+    <string name="browser_menu" formatted="false">Imenyu yesiphequluli</string>
+    <string name="shortcut_note" formatted="false">Izinqamuleli zewebhusayithi zivuleka esipheqululini. Ukutholakala kokulanda kuncike kuwebhusayithi.</string>
+</resources>

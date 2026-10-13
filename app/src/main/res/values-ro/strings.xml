@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Răsfoiește</string>
+    <string name="downloads" formatted="false">Descărcări</string>
+    <string name="guide" formatted="false">Ghid</string>
+    <string name="settings" formatted="false">Setări</string>
+    <string name="home_title" formatted="false">Videoclipurile tale. Colecția ta.</string>
+    <string name="home_subtitle" formatted="false">Găsiți ceva ce merită păstrat.</string>
+    <string name="search_hint" formatted="false">Căutați sau introduceți un site web</string>
+    <string name="go" formatted="false">Du-te</string>
+    <string name="paste_link" formatted="false">Lipiți linkul video</string>
+    <string name="direct_link" formatted="false">Link video direct</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Descărcați</string>
+    <string name="detect" formatted="false">Găsiți videoclipuri</string>
+    <string name="detected" formatted="false">Videoclipuri pe această pagină</string>
+    <string name="no_media" formatted="false">Nu s-a găsit niciun videoclip descărcabil. Începeți să redați un videoclip, apoi încercați din nou. Este posibil ca fluxurile protejate și cadrele încorporate să nu fie disponibile.</string>
+    <string name="safe_note" formatted="false">Descărcați doar videoclipurile pe care le dețineți sau aveți permisiunea de a le salva. Fluxurile protejate și descărcările YouTube nu sunt disponibile.</string>
+    <string name="quick_start" formatted="false">ÎNCEPE AICI</string>
+    <string name="quick_browse" formatted="false">Explorați web-ul</string>
+    <string name="quick_browse_body" formatted="false">Căutați cu motorul preferat în browserul încorporat.</string>
+    <string name="quick_download" formatted="false">Salvați un videoclip</string>
+    <string name="quick_download_body" formatted="false">Inserați un link video HTTPS direct sau găsiți un videoclip pe o pagină.</string>
+    <string name="quick_guide" formatted="false">Puțină îndrumare</string>
+    <string name="quick_guide_body" formatted="false">Patru pași ilustrați de la descoperire la colecția ta.</string>
+    <string name="back" formatted="false">Înapoi</string>
+    <string name="forward" formatted="false">Înainte</string>
+    <string name="reload" formatted="false">Reîncărcați</string>
+    <string name="home" formatted="false">Acasă</string>
+    <string name="bookmark" formatted="false">Marcaj</string>
+    <string name="bookmarks" formatted="false">Marcaje</string>
+    <string name="empty_bookmarks" formatted="false">Site-urile web salvate vor apărea aici.</string>
+    <string name="saved" formatted="false">Salvat</string>
+    <string name="remove" formatted="false">Eliminați</string>
+    <string name="cancel" formatted="false">Anulează</string>
+    <string name="close" formatted="false">Închide</string>
+    <string name="confirm_download" formatted="false">Salvați acest videoclip?</string>
+    <string name="filename" formatted="false">Nume fișier</string>
+    <string name="download_location" formatted="false">Salvat în Descărcări / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Dețin acest videoclip sau am permisiunea să-l descarc.</string>
+    <string name="permission_required" formatted="false">Confirmați că aveți permisiunea de a salva acest videoclip.</string>
+    <string name="invalid_url" formatted="false">Introduceți un link video HTTPS valid.</string>
+    <string name="unsupported" formatted="false">Acest link nu este un videoclip care poate fi descărcat. DRM, streamurile live, listele de redare și descărcările YouTube nu sunt acceptate.</string>
+    <string name="queued" formatted="false">Descărcarea a fost adăugată la coadă</string>
+    <string name="download_error" formatted="false">Nu se poate descărca. Verificați conexiunea sau utilizați un link video nou.</string>
+    <string name="collection_title" formatted="false">Colecția ta</string>
+    <string name="collection_subtitle" formatted="false">Videoclipuri salvate, gata când sunteți.</string>
+    <string name="empty_downloads" formatted="false">Următorul tău favorit este aici.</string>
+    <string name="empty_downloads_body" formatted="false">Găsiți un videoclip în Răsfoire sau inserați un link video direct pentru a vă începe colecția.</string>
+    <string name="pending" formatted="false">În coadă</string>
+    <string name="running" formatted="false">Descărcare</string>
+    <string name="paused" formatted="false">Se așteaptă rețea sau reîncercați</string>
+    <string name="complete" formatted="false">Complet</string>
+    <string name="failed" formatted="false">A eșuat</string>
+    <string name="missing" formatted="false">Fișier indisponibil</string>
+    <string name="play" formatted="false">Joacă</string>
+    <string name="share" formatted="false">Distribuie</string>
+    <string name="retry" formatted="false">Reîncercați</string>
+    <string name="delete_download" formatted="false">Eliminați descărcarea și fișierul acestuia?</string>
+    <string name="no_player" formatted="false">Nu este disponibilă nicio aplicație compatibilă pentru a deschide acest fișier.</string>
+    <string name="guide_title" formatted="false">De la descoperire la descărcare.</string>
+    <string name="guide_subtitle" formatted="false">Un ghid simplu pentru păstrarea videoclipurilor pe care le plac.</string>
+    <string name="step_one_title" formatted="false">Găsește-ți videoclipul</string>
+    <string name="step_one_body" formatted="false">Deschideți Răsfoire. Căutați sau introduceți adresa unui site web. De asemenea, puteți partaja un link video dintr-o altă aplicație.</string>
+    <string name="step_two_title" formatted="false">Descoperiți sursa</string>
+    <string name="step_two_body" formatted="false">Redați un videoclip, apoi atingeți Găsiți videoclipuri. Alegeți un fișier detectat sau inserați o legătură video HTTPS directă.</string>
+    <string name="step_three_title" formatted="false">Fă-l al tău</string>
+    <string name="step_three_body" formatted="false">Alegeți un nume de fișier, confirmați permisiunea de a salva videoclipul și atingeți Descărcare. Android continuă descărcarea în fundal.</string>
+    <string name="step_four_title" formatted="false">Bucură-te de colecția ta</string>
+    <string name="step_four_body" formatted="false">Deschide Descărcări pentru a verifica progresul. Redați sau partajați videoclipurile finalizate. Reîncercați descărcările eșuate cu un nou link atunci când este necesar.</string>
+    <string name="try_now" formatted="false">Încearcă acum</string>
+    <string name="preferences" formatted="false">Fă-l al tău.</string>
+    <string name="preferences_subtitle" formatted="false">Câteva comenzi atente pentru navigarea de zi cu zi.</string>
+    <string name="dns_title" formatted="false">VPN / DNS privat</string>
+    <string name="dns_explanation" formatted="false">DNS privat criptează interogările DNS. Nu vă ascunde adresa IP și nu creează un tunel VPN. Android vă solicită să schimbați manual această setare.</string>
+    <string name="connected" formatted="false">Conectat</string>
+    <string name="unconnected" formatted="false">Neconectat</string>
+    <string name="connect" formatted="false">Conectați-vă</string>
+    <string name="disconnect" formatted="false">Deconectați-vă</string>
+    <string name="dns_instructions" formatted="false">Selectați numele de gazdă a furnizorului DNS privat, inserați dns.adguard-dns.com și salvați. Pentru a vă deconecta, selectați Automat sau Oprit în aceeași setare de sistem.</string>
+    <string name="copy_hostname" formatted="false">Copiați numele gazdei</string>
+    <string name="copied" formatted="false">Copiat în clipboard</string>
+    <string name="open_network_settings" formatted="false">Deschideți setările de rețea</string>
+    <string name="language" formatted="false">Limba aplicației</string>
+    <string name="system_language" formatted="false">Urmăriți limba dispozitivului</string>
+    <string name="search_language" formatted="false">Găsiți o limbă</string>
+    <string name="language_note" formatted="false">Traducerile sunt incluse offline. Limbile nelistate ale dispozitivului folosesc engleza. Traducerile automate pot necesita o revizuire regională.</string>
+    <string name="search_engine" formatted="false">Motor de căutare</string>
+    <string name="wifi_only" formatted="false">Descărcați numai prin Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Descărcările noi așteaptă până când Wi-Fi este disponibil.</string>
+    <string name="javascript" formatted="false">Site JavaScript</string>
+    <string name="javascript_body" formatted="false">Solicitat de multe site-uri web și de descoperire video HTML5.</string>
+    <string name="privacy" formatted="false">Confidențialitate</string>
+    <string name="clear_browser" formatted="false">Ștergeți datele de navigare</string>
+    <string name="clear_browser_confirm" formatted="false">Ștergeți cookie-urile, memoria cache a browserului, istoricul și stocarea site-ului?</string>
+    <string name="privacy_body" formatted="false">Fără reclame, analize sau conturi de dezvoltator. Site-urile web, motoarele de căutare, furnizorii de DNS și serverele de descărcare primesc solicitările pe care le faceți. Istoricul descărcărilor și marcajele rămân pe acest dispozitiv.</string>
+    <string name="terms" formatted="false">Utilizați în mod responsabil</string>
+    <string name="terms_body" formatted="false">Salvați numai videoclipurile pe care le dețineți sau aveți permisiunea de a le descărca. Respectați drepturile de autor și termenii site-ului. Această aplicație nu poate ocoli restricțiile DRM, paywall-uri sau platforme de descărcare.</string>
+    <string name="about" formatted="false">Despre</string>
+    <string name="version" formatted="false">Versiune</string>
+    <string name="paid_app" formatted="false">O singură achiziție. Fără reclame. Fără abonament.</string>
+    <string name="welcome_title" formatted="false">Păstrează ceea ce te inspiră.</string>
+    <string name="welcome_body" formatted="false">Răsfoiți, descoperiți și salvați videoclipurile permise într-un singur loc. Citiți ghidul ilustrat pentru a începe.</string>
+    <string name="start_browsing" formatted="false">Începeți să navigați</string>
+    <string name="read_guide" formatted="false">Citiți ghidul</string>
+    <string name="browser_error" formatted="false">Această pagină nu a putut fi încărcată. Verificați adresa și conexiunea, apoi reîncărcați.</string>
+    <string name="secure_only" formatted="false">Această aplicație folosește conexiuni HTTPS. Încercați versiunea securizată a acestui site web.</string>
+    <string name="external_link" formatted="false">Deschideți acest link într-o altă aplicație?</string>
+    <string name="open" formatted="false">Deschide</string>
+    <string name="refresh" formatted="false">Reîmprospătați</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustrație pentru acest pas tutorial</string>
+    <string name="download_reason" formatted="false">Cod de eroare de descărcare Android</string>
+    <string name="queue_full" formatted="false">Istoricul descărcărilor este plin. Eliminați mai întâi o intrare mai veche.</string>
+    <string name="browser_tabs" formatted="false">Filele browserului</string>
+    <string name="tabs_subtitle" formatted="false">Păstrați site-urile web deschise și comutați între ele.</string>
+    <string name="new_tab" formatted="false">Filă nouă</string>
+    <string name="close_tab" formatted="false">Închide fila</string>
+    <string name="active_tab" formatted="false">Fila activă</string>
+    <string name="tab_limit" formatted="false">Puteți deschide până la 8 file. Închideți o filă pentru a adăuga alta.</string>
+    <string name="history" formatted="false">istorie</string>
+    <string name="history_subtitle" formatted="false">Site-urile web vizitate sunt salvate numai pe acest dispozitiv.</string>
+    <string name="empty_history" formatted="false">Istoricul dvs. de navigare va apărea aici.</string>
+    <string name="clear_history" formatted="false">Ștergeți istoricul</string>
+    <string name="clear_history_confirm" formatted="false">Ștergeți tot istoricul de navigare de pe acest dispozitiv?</string>
+    <string name="open_new_tab" formatted="false">Deschide într-o filă nouă</string>
+    <string name="browser_menu" formatted="false">Meniul browserului</string>
+    <string name="shortcut_note" formatted="false">Comenzile rapide ale site-ului se deschid în browser. Disponibilitatea descărcării depinde de site.</string>
+</resources>

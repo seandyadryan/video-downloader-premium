@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">פרימיום</string>
+    <string name="browse" formatted="false">עיין</string>
+    <string name="downloads" formatted="false">הורדות</string>
+    <string name="guide" formatted="false">מדריך</string>
+    <string name="settings" formatted="false">הגדרות</string>
+    <string name="home_title" formatted="false">הסרטונים שלך. האוסף שלך.</string>
+    <string name="home_subtitle" formatted="false">מצא משהו ששווה לשמור.</string>
+    <string name="search_hint" formatted="false">חפש או היכנס לאתר</string>
+    <string name="go" formatted="false">לך</string>
+    <string name="paste_link" formatted="false">הדבק קישור לסרטון</string>
+    <string name="direct_link" formatted="false">קישור ישיר לסרטון</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">הורד</string>
+    <string name="detect" formatted="false">מצא סרטונים</string>
+    <string name="detected" formatted="false">סרטונים בעמוד זה</string>
+    <string name="no_media" formatted="false">לא נמצא סרטון להורדה. התחל להפעיל סרטון ולאחר מכן נסה שוב. ייתכן שזרמים מוגנים ומסגרות מוטמעות לא יהיו זמינים.</string>
+    <string name="safe_note" formatted="false">הורד רק סרטונים בבעלותך או שיש לך הרשאה לשמור. זרמים מוגנים והורדות מ-YouTube אינם זמינים.</string>
+    <string name="quick_start" formatted="false">התחל כאן</string>
+    <string name="quick_browse" formatted="false">חקור את האינטרנט</string>
+    <string name="quick_browse_body" formatted="false">חפש עם המנוע המועדף עליך בדפדפן המובנה.</string>
+    <string name="quick_download" formatted="false">שמור סרטון</string>
+    <string name="quick_download_body" formatted="false">הדבק קישור ישיר לסרטון HTTPS או מצא סרטון בדף.</string>
+    <string name="quick_guide" formatted="false">קצת הדרכה</string>
+    <string name="quick_guide_body" formatted="false">ארבעה שלבים מאוירים מגילוי לאוסף שלך.</string>
+    <string name="back" formatted="false">חזרה</string>
+    <string name="forward" formatted="false">קדימה</string>
+    <string name="reload" formatted="false">טען מחדש</string>
+    <string name="home" formatted="false">בית</string>
+    <string name="bookmark" formatted="false">סימניה</string>
+    <string name="bookmarks" formatted="false">סימניות</string>
+    <string name="empty_bookmarks" formatted="false">אתרים שמורים יופיעו כאן.</string>
+    <string name="saved" formatted="false">נשמר</string>
+    <string name="remove" formatted="false">הסר</string>
+    <string name="cancel" formatted="false">בטל</string>
+    <string name="close" formatted="false">סגור</string>
+    <string name="confirm_download" formatted="false">האם לשמור את הסרטון הזה?</string>
+    <string name="filename" formatted="false">שם הקובץ</string>
+    <string name="download_location" formatted="false">נשמר בהורדות / הורדת וידאו Premium</string>
+    <string name="permission_confirm" formatted="false">אני הבעלים של הסרטון הזה או שיש לי הרשאה להוריד אותו.</string>
+    <string name="permission_required" formatted="false">אשר שיש לך הרשאה לשמור סרטון זה.</string>
+    <string name="invalid_url" formatted="false">הזן קישור לסרטון HTTPS חוקי.</string>
+    <string name="unsupported" formatted="false">קישור זה אינו סרטון להורדה. אין תמיכה ב-DRM, סטרימינג בשידור חי, רשימות השמעה והורדות מ-YouTube.</string>
+    <string name="queued" formatted="false">הורדה נוספה לתור</string>
+    <string name="download_error" formatted="false">אין אפשרות להוריד. בדוק את החיבור או השתמש בקישור וידאו חדש.</string>
+    <string name="collection_title" formatted="false">האוסף שלך</string>
+    <string name="collection_subtitle" formatted="false">סרטונים שמורים, מוכנים כשתהיה.</string>
+    <string name="empty_downloads" formatted="false">המועדף הבא שלך שייך לכאן.</string>
+    <string name="empty_downloads_body" formatted="false">מצא סרטון ב-עיון או הדבק קישור ישיר לסרטון כדי להתחיל את האוסף שלך.</string>
+    <string name="pending" formatted="false">בתור</string>
+    <string name="running" formatted="false">מוריד</string>
+    <string name="paused" formatted="false">ממתין לרשת או נסה שוב</string>
+    <string name="complete" formatted="false">שלם</string>
+    <string name="failed" formatted="false">נכשל</string>
+    <string name="missing" formatted="false">הקובץ אינו זמין</string>
+    <string name="play" formatted="false">שחק</string>
+    <string name="share" formatted="false">שתף</string>
+    <string name="retry" formatted="false">נסה שוב</string>
+    <string name="delete_download" formatted="false">להסיר את ההורדה והקובץ שלה?</string>
+    <string name="no_player" formatted="false">אין אפליקציה תואמת זמינה לפתיחת קובץ זה.</string>
+    <string name="guide_title" formatted="false">מגילוי להורדה.</string>
+    <string name="guide_subtitle" formatted="false">מדריך פשוט לשמירת הסרטונים שאתה אוהב.</string>
+    <string name="step_one_title" formatted="false">מצא את הסרטון שלך</string>
+    <string name="step_one_body" formatted="false">פתח את עיון. חפש או הזן כתובת אתר. אתה יכול גם לשתף קישור וידאו מאפליקציה אחרת.</string>
+    <string name="step_two_title" formatted="false">גלה את המקור</string>
+    <string name="step_two_body" formatted="false">הפעל סרטון ולאחר מכן הקש על מצא סרטונים. בחר קובץ שזוהה, או הדבק קישור ישיר לסרטון HTTPS.</string>
+    <string name="step_three_title" formatted="false">הפוך אותו לשלך</string>
+    <string name="step_three_body" formatted="false">בחר שם קובץ, אשר את הרשאתך לשמור את הסרטון והקש על הורד. אנדרואיד ממשיכה את ההורדה ברקע.</string>
+    <string name="step_four_title" formatted="false">תהנה מהאוסף שלך</string>
+    <string name="step_four_body" formatted="false">פתח הורדות כדי לבדוק התקדמות. הפעל או שתף סרטונים שהושלמו. נסה שוב הורדות שנכשלו עם קישור חדש בעת הצורך.</string>
+    <string name="try_now" formatted="false">נסה את זה עכשיו</string>
+    <string name="preferences" formatted="false">הפוך את זה לשלך.</string>
+    <string name="preferences_subtitle" formatted="false">כמה פקדים מתחשבים עבור הגלישה היומיומית שלך.</string>
+    <string name="dns_title" formatted="false">VPN / DNS פרטי</string>
+    <string name="dns_explanation" formatted="false">DNS פרטי מצפין שאילתות DNS. זה לא מסתיר את כתובת ה-IP שלך או יוצר מנהרת VPN. אנדרואיד דורש ממך לשנות הגדרה זו באופן ידני.</string>
+    <string name="connected" formatted="false">מחובר</string>
+    <string name="unconnected" formatted="false">לא מחובר</string>
+    <string name="connect" formatted="false">התחבר</string>
+    <string name="disconnect" formatted="false">התנתק</string>
+    <string name="dns_instructions" formatted="false">בחר שם מארח של ספק DNS פרטי, הדבק dns.adguard-dns.com ושמור. כדי להתנתק, בחר אוטומטי או כבוי באותה הגדרת מערכת.</string>
+    <string name="copy_hostname" formatted="false">העתק את שם המארח</string>
+    <string name="copied" formatted="false">הועתק ללוח</string>
+    <string name="open_network_settings" formatted="false">פתח את הגדרות הרשת</string>
+    <string name="language" formatted="false">שפת האפליקציה</string>
+    <string name="system_language" formatted="false">עקוב אחר שפת המכשיר</string>
+    <string name="search_language" formatted="false">מצא שפה</string>
+    <string name="language_note" formatted="false">תרגומים כלולים במצב לא מקוון. שפות מכשיר לא רשומות משתמשות באנגלית. תרגומי מכונה עשויים להזדקק לבדיקה אזורית.</string>
+    <string name="search_engine" formatted="false">מנוע חיפוש</string>
+    <string name="wifi_only" formatted="false">הורד ב-Wi-Fi בלבד</string>
+    <string name="wifi_body" formatted="false">הורדות חדשות ממתינים עד שה-Wi-Fi יהיה זמין.</string>
+    <string name="javascript" formatted="false">אתר JavaScript</string>
+    <string name="javascript_body" formatted="false">נדרש על ידי אתרים רבים וגילוי וידאו HTML5.</string>
+    <string name="privacy" formatted="false">פרטיות</string>
+    <string name="clear_browser" formatted="false">נקה נתוני גלישה</string>
+    <string name="clear_browser_confirm" formatted="false">למחוק קובצי Cookie, מטמון דפדפן, היסטוריה ואחסון אתרים?</string>
+    <string name="privacy_body" formatted="false">אין מודעות, ניתוח נתונים או חשבונות מפתחים. אתרים, מנועי חיפוש, ספקי DNS ושרתי הורדות מקבלים את הבקשות שאתה מגיש. היסטוריית הורדות וסימניות נשארות במכשיר הזה.</string>
+    <string name="terms" formatted="false">השתמש באחריות</string>
+    <string name="terms_body" formatted="false">שמור רק סרטונים בבעלותך או שאתה מורשה להוריד. כבד את זכויות היוצרים ואת תנאי האתר. אפליקציה זו אינה יכולה לעקוף מגבלות DRM, חומות תשלום או הורדת פלטפורמה.</string>
+    <string name="about" formatted="false">בערך</string>
+    <string name="version" formatted="false">גרסה</string>
+    <string name="paid_app" formatted="false">רכישה אחת. אין פרסומות. אין מנוי.</string>
+    <string name="welcome_title" formatted="false">שמור על מה שנותן לך השראה.</string>
+    <string name="welcome_body" formatted="false">דפדף, גלה ושמור סרטונים מותרים במקום אחד. קרא את המדריך המאויר כדי להתחיל.</string>
+    <string name="start_browsing" formatted="false">התחל לגלוש</string>
+    <string name="read_guide" formatted="false">קרא את המדריך</string>
+    <string name="browser_error" formatted="false">לא ניתן היה לטעון את הדף הזה. בדוק את הכתובת והחיבור ולאחר מכן טען מחדש.</string>
+    <string name="secure_only" formatted="false">אפליקציה זו משתמשת בחיבורי HTTPS. נסה את הגרסה המאובטחת של אתר זה.</string>
+    <string name="external_link" formatted="false">לפתוח את הקישור הזה באפליקציה אחרת?</string>
+    <string name="open" formatted="false">פתוח</string>
+    <string name="refresh" formatted="false">רענן</string>
+    <string name="accessibility_tutorial" formatted="false">איור לשלב הדרכה זה</string>
+    <string name="download_reason" formatted="false">קוד שגיאה להורדת אנדרואיד</string>
+    <string name="queue_full" formatted="false">היסטוריית ההורדות מלאה. הסר תחילה ערך ישן יותר.</string>
+    <string name="browser_tabs" formatted="false">כרטיסיות דפדפן</string>
+    <string name="tabs_subtitle" formatted="false">השאר אתרים פתוחים ועבור ביניהם.</string>
+    <string name="new_tab" formatted="false">כרטיסייה חדשה</string>
+    <string name="close_tab" formatted="false">סגור כרטיסייה</string>
+    <string name="active_tab" formatted="false">כרטיסייה פעילה</string>
+    <string name="tab_limit" formatted="false">ניתן לפתוח עד 8 כרטיסיות. סגור כרטיסייה כדי להוסיף עוד כרטיסייה.</string>
+    <string name="history" formatted="false">היסטוריה</string>
+    <string name="history_subtitle" formatted="false">אתרים שבהם ביקרת נשמרים רק במכשיר זה.</string>
+    <string name="empty_history" formatted="false">היסטוריית הגלישה שלך תופיע כאן.</string>
+    <string name="clear_history" formatted="false">נקה היסטוריה</string>
+    <string name="clear_history_confirm" formatted="false">למחוק את כל היסטוריית הגלישה מהמכשיר הזה?</string>
+    <string name="open_new_tab" formatted="false">פתח בכרטיסייה חדשה</string>
+    <string name="browser_menu" formatted="false">תפריט דפדפן</string>
+    <string name="shortcut_note" formatted="false">קיצורי דרך לאתר נפתחים בדפדפן. זמינות ההורדות תלויה באתר.</string>
+</resources>

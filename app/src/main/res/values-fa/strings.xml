@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">مرور کنید</string>
+    <string name="downloads" formatted="false">دانلودها</string>
+    <string name="guide" formatted="false">راهنما</string>
+    <string name="settings" formatted="false">تنظیمات</string>
+    <string name="home_title" formatted="false">ویدیوهای شما مجموعه شما</string>
+    <string name="home_subtitle" formatted="false">چیزی را پیدا کنید که ارزش نگهداری داشته باشد.</string>
+    <string name="search_hint" formatted="false">جستجو کنید یا وارد یک وب سایت شوید</string>
+    <string name="go" formatted="false">برو</string>
+    <string name="paste_link" formatted="false">پیوند ویدیو را جایگذاری کنید</string>
+    <string name="direct_link" formatted="false">لینک مستقیم ویدیو</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">دانلود کنید</string>
+    <string name="detect" formatted="false">ویدیوها را پیدا کنید</string>
+    <string name="detected" formatted="false">ویدیوهای این صفحه</string>
+    <string name="no_media" formatted="false">هیچ ویدیوی قابل دانلودی یافت نشد. پخش یک ویدیو را شروع کنید، سپس دوباره امتحان کنید. جریان‌های محافظت‌شده و قاب‌های تعبیه‌شده ممکن است در دسترس نباشند.</string>
+    <string name="safe_note" formatted="false">فقط ویدیوهایی را دانلود کنید که مالک آنها هستید یا اجازه ذخیره آنها را دارید. جریان‌های محافظت‌شده و بارگیری‌های YouTube در دسترس نیستند.</string>
+    <string name="quick_start" formatted="false">از اینجا شروع کنید</string>
+    <string name="quick_browse" formatted="false">وب را کاوش کنید</string>
+    <string name="quick_browse_body" formatted="false">با موتور دلخواه خود در مرورگر داخلی جستجو کنید.</string>
+    <string name="quick_download" formatted="false">یک ویدیو ذخیره کنید</string>
+    <string name="quick_download_body" formatted="false">پیوند مستقیم ویدیوی HTTPS را جایگذاری کنید یا یک ویدیو را در یک صفحه پیدا کنید.</string>
+    <string name="quick_guide" formatted="false">یه راهنمایی کوچولو</string>
+    <string name="quick_guide_body" formatted="false">چهار مرحله مصور از کشف تا مجموعه شما.</string>
+    <string name="back" formatted="false">برگشت</string>
+    <string name="forward" formatted="false">به جلو</string>
+    <string name="reload" formatted="false">بارگذاری مجدد</string>
+    <string name="home" formatted="false">صفحه اصلی</string>
+    <string name="bookmark" formatted="false">نشانک</string>
+    <string name="bookmarks" formatted="false">نشانک ها</string>
+    <string name="empty_bookmarks" formatted="false">وب سایت های ذخیره شده در اینجا ظاهر می شوند.</string>
+    <string name="saved" formatted="false">ذخیره شد</string>
+    <string name="remove" formatted="false">حذف کنید</string>
+    <string name="cancel" formatted="false">لغو کنید</string>
+    <string name="close" formatted="false">بستن</string>
+    <string name="confirm_download" formatted="false">این ویدیو ذخیره شود؟</string>
+    <string name="filename" formatted="false">نام فایل</string>
+    <string name="download_location" formatted="false">ذخیره شده در Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">من مالک این ویدیو هستم یا اجازه دانلود آن را دارم.</string>
+    <string name="permission_required" formatted="false">تأیید کنید که اجازه ذخیره این ویدیو را دارید.</string>
+    <string name="invalid_url" formatted="false">یک پیوند ویدیویی HTTPS معتبر وارد کنید.</string>
+    <string name="unsupported" formatted="false">این لینک یک ویدیو قابل دانلود نیست. DRM، پخش جریانی زنده، فهرست‌های پخش و بارگیری‌های YouTube پشتیبانی نمی‌شوند.</string>
+    <string name="queued" formatted="false">دانلود به صف اضافه شد</string>
+    <string name="download_error" formatted="false">دانلود نشد. اتصال را بررسی کنید یا از یک پیوند ویدیویی جدید استفاده کنید.</string>
+    <string name="collection_title" formatted="false">مجموعه شما</string>
+    <string name="collection_subtitle" formatted="false">ویدیوهای ذخیره شده، وقتی آماده باشید.</string>
+    <string name="empty_downloads" formatted="false">مورد علاقه بعدی شما به اینجا تعلق دارد.</string>
+    <string name="empty_downloads_body" formatted="false">یک ویدیو را در مرور پیدا کنید یا پیوند مستقیم ویدیو را برای شروع مجموعه خود جایگذاری کنید.</string>
+    <string name="pending" formatted="false">در صف</string>
+    <string name="running" formatted="false">در حال دانلود</string>
+    <string name="paused" formatted="false">در انتظار شبکه یا تلاش مجدد</string>
+    <string name="complete" formatted="false">کامل شود</string>
+    <string name="failed" formatted="false">شکست خورد</string>
+    <string name="missing" formatted="false">فایل در دسترس نیست</string>
+    <string name="play" formatted="false">بازی کنید</string>
+    <string name="share" formatted="false">به اشتراک بگذارید</string>
+    <string name="retry" formatted="false">دوباره امتحان کنید</string>
+    <string name="delete_download" formatted="false">دانلود و فایل آن حذف شود؟</string>
+    <string name="no_player" formatted="false">هیچ برنامه سازگاری برای باز کردن این فایل موجود نیست.</string>
+    <string name="guide_title" formatted="false">از کشف تا دانلود.</string>
+    <string name="guide_subtitle" formatted="false">یک راهنمای ساده برای نگهداری ویدیوهایی که دوست دارید.</string>
+    <string name="step_one_title" formatted="false">ویدیوی خود را پیدا کنید</string>
+    <string name="step_one_body" formatted="false">مرور را باز کنید. آدرس وب سایت را جستجو یا وارد کنید. همچنین می‌توانید پیوند ویدیویی را از برنامه دیگری به اشتراک بگذارید.</string>
+    <string name="step_two_title" formatted="false">منبع را کشف کنید</string>
+    <string name="step_two_body" formatted="false">یک ویدیو پخش کنید، سپس روی Find videos ضربه بزنید. یک فایل شناسایی شده را انتخاب کنید یا پیوند ویدیویی HTTPS مستقیم را جایگذاری کنید.</string>
+    <string name="step_three_title" formatted="false">آن را مال خودت کن</string>
+    <string name="step_three_body" formatted="false">نام فایل را انتخاب کنید، اجازه ذخیره ویدیو را تأیید کنید و روی دانلود ضربه بزنید. اندروید دانلود را در پس‌زمینه ادامه می‌دهد.</string>
+    <string name="step_four_title" formatted="false">از مجموعه خود لذت ببرید</string>
+    <string name="step_four_body" formatted="false">برای بررسی پیشرفت، دانلودها را باز کنید. ویدیوهای تکمیل شده را پخش یا به اشتراک بگذارید. در صورت نیاز، دانلودهای ناموفق را با یک پیوند جدید دوباره امتحان کنید.</string>
+    <string name="try_now" formatted="false">اکنون آن را امتحان کنید</string>
+    <string name="preferences" formatted="false">آن را مال خودت کن</string>
+    <string name="preferences_subtitle" formatted="false">چند کنترل متفکر برای مرور روزمره شما.</string>
+    <string name="dns_title" formatted="false">VPN / DNS خصوصی</string>
+    <string name="dns_explanation" formatted="false">DNS خصوصی پرس و جوهای DNS را رمزگذاری می کند. آدرس IP شما را پنهان نمی کند یا یک تونل VPN ایجاد نمی کند. اندروید از شما می خواهد که این تنظیمات را به صورت دستی تغییر دهید.</string>
+    <string name="connected" formatted="false">متصل شد</string>
+    <string name="unconnected" formatted="false">غیر مرتبط</string>
+    <string name="connect" formatted="false">اتصال</string>
+    <string name="disconnect" formatted="false">قطع کن</string>
+    <string name="dns_instructions" formatted="false">نام میزبان ارائه دهنده DNS خصوصی را انتخاب کنید، dns.adguard-dns.com را جایگذاری کنید و ذخیره کنید. برای قطع اتصال، Automatic یا Off را در همان تنظیمات سیستم انتخاب کنید.</string>
+    <string name="copy_hostname" formatted="false">نام میزبان را کپی کنید</string>
+    <string name="copied" formatted="false">در کلیپ بورد کپی شد</string>
+    <string name="open_network_settings" formatted="false">تنظیمات شبکه را باز کنید</string>
+    <string name="language" formatted="false">زبان برنامه</string>
+    <string name="system_language" formatted="false">زبان دستگاه را دنبال کنید</string>
+    <string name="search_language" formatted="false">یک زبان پیدا کنید</string>
+    <string name="language_note" formatted="false">ترجمه ها بصورت آفلاین گنجانده شده اند. زبان‌های دستگاه فهرست‌نشده از انگلیسی استفاده می‌کنند. ترجمه ماشینی ممکن است نیاز به بررسی منطقه ای داشته باشد.</string>
+    <string name="search_engine" formatted="false">موتور جستجو</string>
+    <string name="wifi_only" formatted="false">دانلود فقط از طریق Wi-Fi</string>
+    <string name="wifi_body" formatted="false">دانلودهای جدید منتظر می مانند تا Wi-Fi در دسترس باشد.</string>
+    <string name="javascript" formatted="false">جاوا اسکریپت وبسایت</string>
+    <string name="javascript_body" formatted="false">مورد نیاز بسیاری از وب سایت ها و کشف ویدیوی HTML5.</string>
+    <string name="privacy" formatted="false">حریم خصوصی</string>
+    <string name="clear_browser" formatted="false">پاک کردن داده های مرور</string>
+    <string name="clear_browser_confirm" formatted="false">کوکی‌ها، حافظه پنهان مرورگر، سابقه و فضای ذخیره‌سازی وب‌سایت حذف شود؟</string>
+    <string name="privacy_body" formatted="false">بدون تبلیغات، تجزیه و تحلیل، یا حساب توسعه دهنده. وب سایت ها، موتورهای جستجو، ارائه دهندگان DNS و سرورهای دانلود درخواست های شما را دریافت می کنند. سابقه دانلود و نشانک ها در این دستگاه باقی می مانند.</string>
+    <string name="terms" formatted="false">مسئولانه استفاده کنید</string>
+    <string name="terms_body" formatted="false">فقط ویدیوهایی را که مالک آنها هستید یا مجاز به دانلود هستید ذخیره کنید. به قوانین کپی رایت و وب سایت احترام بگذارید. این برنامه نمی‌تواند محدودیت‌های بارگیری DRM، دیوارهای پرداخت یا پلتفرم را دور بزند.</string>
+    <string name="about" formatted="false">درباره</string>
+    <string name="version" formatted="false">نسخه</string>
+    <string name="paid_app" formatted="false">یک خرید. بدون تبلیغات بدون اشتراک.</string>
+    <string name="welcome_title" formatted="false">آنچه را که به شما الهام می شود حفظ کنید.</string>
+    <string name="welcome_body" formatted="false">ویدیوهای مجاز را در یک مکان مرور، کشف و ذخیره کنید. برای شروع، راهنمای مصور را بخوانید.</string>
+    <string name="start_browsing" formatted="false">شروع به مرور کنید</string>
+    <string name="read_guide" formatted="false">راهنما را بخوانید</string>
+    <string name="browser_error" formatted="false">این صفحه بارگیری نشد. آدرس و اتصال را بررسی کنید، سپس دوباره بارگیری کنید.</string>
+    <string name="secure_only" formatted="false">این برنامه از اتصالات HTTPS استفاده می کند. نسخه امن این وب سایت را امتحان کنید.</string>
+    <string name="external_link" formatted="false">این پیوند را در برنامه دیگری باز کنید؟</string>
+    <string name="open" formatted="false">باز کنید</string>
+    <string name="refresh" formatted="false">تازه کردن</string>
+    <string name="accessibility_tutorial" formatted="false">تصویری برای این مرحله آموزشی</string>
+    <string name="download_reason" formatted="false">کد خطا دانلود اندروید</string>
+    <string name="queue_full" formatted="false">تاریخچه دانلود کامل است. ابتدا یک ورودی قدیمی را حذف کنید.</string>
+    <string name="browser_tabs" formatted="false">برگه های مرورگر</string>
+    <string name="tabs_subtitle" formatted="false">وب سایت ها را باز نگه دارید و بین آنها جابجا شوید.</string>
+    <string name="new_tab" formatted="false">برگه جدید</string>
+    <string name="close_tab" formatted="false">بستن برگه</string>
+    <string name="active_tab" formatted="false">برگه فعال</string>
+    <string name="tab_limit" formatted="false">می توانید حداکثر 8 برگه را باز کنید. برای افزودن برگه دیگری، یک برگه را ببندید.</string>
+    <string name="history" formatted="false">تاریخچه</string>
+    <string name="history_subtitle" formatted="false">وب سایت های بازدید شده فقط در این دستگاه ذخیره می شوند.</string>
+    <string name="empty_history" formatted="false">سابقه مرور شما در اینجا ظاهر می شود.</string>
+    <string name="clear_history" formatted="false">پاک کردن تاریخچه</string>
+    <string name="clear_history_confirm" formatted="false">تمام سابقه مرور از این دستگاه حذف شود؟</string>
+    <string name="open_new_tab" formatted="false">در برگه جدید باز کنید</string>
+    <string name="browser_menu" formatted="false">منوی مرورگر</string>
+    <string name="shortcut_note" formatted="false">میانبرهای وب سایت در مرورگر باز می شوند. در دسترس بودن دانلود بستگی به وب سایت دارد.</string>
+</resources>

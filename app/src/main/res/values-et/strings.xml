@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Sirvige</string>
+    <string name="downloads" formatted="false">Allalaadimised</string>
+    <string name="guide" formatted="false">Juhend</string>
+    <string name="settings" formatted="false">Seaded</string>
+    <string name="home_title" formatted="false">Teie videod. Teie kollektsioon.</string>
+    <string name="home_subtitle" formatted="false">Leidke midagi, mida tasub hoida.</string>
+    <string name="search_hint" formatted="false">Otsige või sisestage veebisait</string>
+    <string name="go" formatted="false">Mine</string>
+    <string name="paste_link" formatted="false">Kleebi video link</string>
+    <string name="direct_link" formatted="false">Otsene video link</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Laadi alla</string>
+    <string name="detect" formatted="false">Otsige videoid</string>
+    <string name="detected" formatted="false">Videod sellel lehel</string>
+    <string name="no_media" formatted="false">Allalaaditavat videot ei leitud. Alustage video esitamist ja proovige uuesti. Kaitstud vood ja manustatud raamid ei pruugi olla saadaval.</string>
+    <string name="safe_note" formatted="false">Laadige alla ainult teile kuuluvad videod või teil on luba salvestada. Kaitstud vood ja YouTube\&apos;i allalaadimised pole saadaval.</string>
+    <string name="quick_start" formatted="false">ALUSTA SIIT</string>
+    <string name="quick_browse" formatted="false">Uurige veebi</string>
+    <string name="quick_browse_body" formatted="false">Otsige oma eelistatud mootoriga sisseehitatud brauseris.</string>
+    <string name="quick_download" formatted="false">Salvestage video</string>
+    <string name="quick_download_body" formatted="false">Kleepige otse HTTPS-i videolink või leidke lehelt video.</string>
+    <string name="quick_guide" formatted="false">Väike juhend</string>
+    <string name="quick_guide_body" formatted="false">Neli illustreeritud sammu avastamisest koguni.</string>
+    <string name="back" formatted="false">Tagasi</string>
+    <string name="forward" formatted="false">Edasi</string>
+    <string name="reload" formatted="false">Laadi uuesti</string>
+    <string name="home" formatted="false">Kodu</string>
+    <string name="bookmark" formatted="false">Järjehoidja</string>
+    <string name="bookmarks" formatted="false">Järjehoidjad</string>
+    <string name="empty_bookmarks" formatted="false">Siin kuvatakse salvestatud veebisaidid.</string>
+    <string name="saved" formatted="false">Salvestatud</string>
+    <string name="remove" formatted="false">Eemalda</string>
+    <string name="cancel" formatted="false">Tühista</string>
+    <string name="close" formatted="false">Sule</string>
+    <string name="confirm_download" formatted="false">Kas salvestada see video?</string>
+    <string name="filename" formatted="false">Faili nimi</string>
+    <string name="download_location" formatted="false">Salvestatud allalaadimiste / Video Downloader Premiumi alla</string>
+    <string name="permission_confirm" formatted="false">Olen selle video omanik või mul on luba selle allalaadimiseks.</string>
+    <string name="permission_required" formatted="false">Kinnitage, et teil on luba selle video salvestamiseks.</string>
+    <string name="invalid_url" formatted="false">Sisestage kehtiv HTTPS-i videolink.</string>
+    <string name="unsupported" formatted="false">See link ei ole allalaaditav video. DRM-i, otseülekandeid, esitusloendeid ja YouTube\&apos;i allalaadimisi ei toetata.</string>
+    <string name="queued" formatted="false">Allalaadimine lisati järjekorda</string>
+    <string name="download_error" formatted="false">Ei saa alla laadida. Kontrollige ühendust või kasutage värsket videolinki.</string>
+    <string name="collection_title" formatted="false">Teie kollektsioon</string>
+    <string name="collection_subtitle" formatted="false">Salvestatud videod, valmis, kui olete.</string>
+    <string name="empty_downloads" formatted="false">Sinu järgmine lemmik kuulub siia.</string>
+    <string name="empty_downloads_body" formatted="false">Leidke video jaotisest Sirvi või kleepige oma kogu alustamiseks video otselink.</string>
+    <string name="pending" formatted="false">Järjekorras</string>
+    <string name="running" formatted="false">Allalaadimine</string>
+    <string name="paused" formatted="false">Ootab võrku või proovi uuesti</string>
+    <string name="complete" formatted="false">Täielik</string>
+    <string name="failed" formatted="false">Ebaõnnestunud</string>
+    <string name="missing" formatted="false">Fail pole saadaval</string>
+    <string name="play" formatted="false">Mängi</string>
+    <string name="share" formatted="false">Jaga</string>
+    <string name="retry" formatted="false">Proovi uuesti</string>
+    <string name="delete_download" formatted="false">Kas eemaldada allalaaditav fail ja selle fail?</string>
+    <string name="no_player" formatted="false">Selle faili avamiseks pole saadaval ühtegi ühilduvat rakendust.</string>
+    <string name="guide_title" formatted="false">Avastamisest allalaadimiseni.</string>
+    <string name="guide_subtitle" formatted="false">Lihtne juhend armastatud videote hoidmiseks.</string>
+    <string name="step_one_title" formatted="false">Otsige üles oma video</string>
+    <string name="step_one_body" formatted="false">Avage Sirvi. Otsige või sisestage veebisaidi aadress. Saate jagada videolinki ka teisest rakendusest.</string>
+    <string name="step_two_title" formatted="false">Avastage allikas</string>
+    <string name="step_two_body" formatted="false">Esitage video ja toksake Otsi videoid. Valige tuvastatud fail või kleepige HTTPS-i otsene videolink.</string>
+    <string name="step_three_title" formatted="false">Tee see enda omaks</string>
+    <string name="step_three_body" formatted="false">Valige failinimi, kinnitage oma luba video salvestamiseks ja puudutage nuppu Laadi alla. Android jätkab allalaadimist taustal.</string>
+    <string name="step_four_title" formatted="false">Nautige oma kollektsiooni</string>
+    <string name="step_four_body" formatted="false">Edenemise kontrollimiseks avage Allalaadimised. Esitage või jagage lõpetatud videoid. Vajadusel proovige ebaõnnestunud allalaadimisi uuesti uue lingiga.</string>
+    <string name="try_now" formatted="false">Proovi seda kohe</string>
+    <string name="preferences" formatted="false">Tee see enda omaks.</string>
+    <string name="preferences_subtitle" formatted="false">Mõned läbimõeldud juhtnupud teie igapäevaseks sirvimiseks.</string>
+    <string name="dns_title" formatted="false">VPN / privaatne DNS</string>
+    <string name="dns_explanation" formatted="false">Privaatne DNS krüpteerib DNS-päringud. See ei varja teie IP-aadressi ega loo VPN-tunnelit. Android nõuab selle seade käsitsi muutmist.</string>
+    <string name="connected" formatted="false">Ühendatud</string>
+    <string name="unconnected" formatted="false">Ühenduseta</string>
+    <string name="connect" formatted="false">Ühendage</string>
+    <string name="disconnect" formatted="false">Katkesta ühendus</string>
+    <string name="dns_instructions" formatted="false">Valige privaatne DNS-i pakkuja hostinimi, kleepige dns.adguard-dns.com ja salvestage. Ühenduse katkestamiseks valige samas süsteemiseades Automaatne või Väljas.</string>
+    <string name="copy_hostname" formatted="false">Kopeeri hostinimi</string>
+    <string name="copied" formatted="false">Kopeeriti lõikelauale</string>
+    <string name="open_network_settings" formatted="false">Avage võrguseaded</string>
+    <string name="language" formatted="false">Rakenduse keel</string>
+    <string name="system_language" formatted="false">Järgige seadme keelt</string>
+    <string name="search_language" formatted="false">Leia keel</string>
+    <string name="language_note" formatted="false">Tõlked on kaasatud võrguühenduseta. Loendis olevad seadmekeeled kasutavad inglise keelt. Masintõlked võivad vajada piirkondlikku ülevaatamist.</string>
+    <string name="search_engine" formatted="false">Otsingumootor</string>
+    <string name="wifi_only" formatted="false">Laadige alla ainult WiFi kaudu</string>
+    <string name="wifi_body" formatted="false">Uued allalaadimised ootavad, kuni WiFi on saadaval.</string>
+    <string name="javascript" formatted="false">Veebisaidi JavaScript</string>
+    <string name="javascript_body" formatted="false">Seda nõuavad paljud veebisaidid ja HTML5 videote avastamine.</string>
+    <string name="privacy" formatted="false">Privaatsus</string>
+    <string name="clear_browser" formatted="false">Sirvimisandmete kustutamine</string>
+    <string name="clear_browser_confirm" formatted="false">Kas kustutada küpsised, brauseri vahemälu, ajalugu ja veebisaidi salvestusruum?</string>
+    <string name="privacy_body" formatted="false">Ei mingeid reklaame, analüüse ega arendajakontosid. Veebisaidid, otsingumootorid, DNS-i pakkujad ja allalaadimisserverid võtavad vastu teie esitatud päringud. Allalaadimiste ajalugu ja järjehoidjad jäävad sellesse seadmesse.</string>
+    <string name="terms" formatted="false">Kasutage vastutustundlikult</string>
+    <string name="terms_body" formatted="false">Salvestage ainult need videod, mis teile kuuluvad või mida teil on lubatud alla laadida. Austage autoriõigusi ja veebisaidi tingimusi. See rakendus ei saa mööda DRM-i, maksemüüride ega platvormi allalaadimise piirangutest.</string>
+    <string name="about" formatted="false">Umbes</string>
+    <string name="version" formatted="false">Versioon</string>
+    <string name="paid_app" formatted="false">Üks ost. Reklaame pole. Tellimust pole.</string>
+    <string name="welcome_title" formatted="false">Hoidke seda, mis teid inspireerib.</string>
+    <string name="welcome_body" formatted="false">Sirvige, avastage ja salvestage lubatud videoid ühes kohas. Alustamiseks lugege illustreeritud juhendit.</string>
+    <string name="start_browsing" formatted="false">Alustage sirvimist</string>
+    <string name="read_guide" formatted="false">Lugege juhendit</string>
+    <string name="browser_error" formatted="false">Seda lehte ei saanud laadida. Kontrollige aadressi ja ühendust ning seejärel laadige uuesti.</string>
+    <string name="secure_only" formatted="false">See rakendus kasutab HTTPS-ühendusi. Proovige selle veebisaidi turvalist versiooni.</string>
+    <string name="external_link" formatted="false">Kas avada see link teises rakenduses?</string>
+    <string name="open" formatted="false">Avatud</string>
+    <string name="refresh" formatted="false">Värskenda</string>
+    <string name="accessibility_tutorial" formatted="false">Selle õpetuse etapi illustratsioon</string>
+    <string name="download_reason" formatted="false">Androidi allalaadimise veakood</string>
+    <string name="queue_full" formatted="false">Allalaadimiste ajalugu on täis. Esmalt eemaldage vanem kirje.</string>
+    <string name="browser_tabs" formatted="false">Brauseri vahekaardid</string>
+    <string name="tabs_subtitle" formatted="false">Hoidke veebisaidid avatuna ja vahetage nende vahel.</string>
+    <string name="new_tab" formatted="false">Uus vahekaart</string>
+    <string name="close_tab" formatted="false">Sule vahekaart</string>
+    <string name="active_tab" formatted="false">Aktiivne vahekaart</string>
+    <string name="tab_limit" formatted="false">Saate avada kuni 8 vahekaarti. Teise lisamiseks sulgege vahekaart.</string>
+    <string name="history" formatted="false">Ajalugu</string>
+    <string name="history_subtitle" formatted="false">Külastatud veebisaidid salvestatakse ainult sellesse seadmesse.</string>
+    <string name="empty_history" formatted="false">Siin kuvatakse teie sirvimisajalugu.</string>
+    <string name="clear_history" formatted="false">Tühjenda ajalugu</string>
+    <string name="clear_history_confirm" formatted="false">Kas kustutada sellest seadmest kogu sirvimisajalugu?</string>
+    <string name="open_new_tab" formatted="false">Ava uuel vahelehel</string>
+    <string name="browser_menu" formatted="false">Brauseri menüü</string>
+    <string name="shortcut_note" formatted="false">Veebisaidi otseteed avanevad brauseris. Allalaadimise saadavus sõltub veebisaidist.</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ПРЕМІУМ</string>
+    <string name="browse" formatted="false">переглядати</string>
+    <string name="downloads" formatted="false">Завантаження</string>
+    <string name="guide" formatted="false">Гід</string>
+    <string name="settings" formatted="false">Налаштування</string>
+    <string name="home_title" formatted="false">Ваші відео. Ваша колекція.</string>
+    <string name="home_subtitle" formatted="false">Знайдіть те, що варто зберегти.</string>
+    <string name="search_hint" formatted="false">Знайдіть або введіть веб-сайт</string>
+    <string name="go" formatted="false">Ідіть</string>
+    <string name="paste_link" formatted="false">Вставте посилання на відео</string>
+    <string name="direct_link" formatted="false">Пряме посилання на відео</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Завантажити</string>
+    <string name="detect" formatted="false">Знайти відео</string>
+    <string name="detected" formatted="false">Відео на цій сторінці</string>
+    <string name="no_media" formatted="false">Відео для завантаження не знайдено. Почніть відтворення відео, а потім повторіть спробу. Захищені потоки та вбудовані кадри можуть бути недоступні.</string>
+    <string name="safe_note" formatted="false">Завантажуйте лише відео, якими ви володієте або маєте дозвіл на збереження. Захищені потоки та завантаження YouTube недоступні.</string>
+    <string name="quick_start" formatted="false">ПОЧНІТЬ ТУТ</string>
+    <string name="quick_browse" formatted="false">Досліджуйте Інтернет</string>
+    <string name="quick_browse_body" formatted="false">Шукайте за допомогою бажаної системи у вбудованому браузері.</string>
+    <string name="quick_download" formatted="false">Зберегти відео</string>
+    <string name="quick_download_body" formatted="false">Вставте пряме посилання на відео HTTPS або знайдіть відео на сторінці.</string>
+    <string name="quick_guide" formatted="false">Невелике керівництво</string>
+    <string name="quick_guide_body" formatted="false">Чотири проілюстровані кроки від відкриття до вашої колекції.</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="forward" formatted="false">вперед</string>
+    <string name="reload" formatted="false">Перезавантажити</string>
+    <string name="home" formatted="false">додому</string>
+    <string name="bookmark" formatted="false">Закладка</string>
+    <string name="bookmarks" formatted="false">Закладки</string>
+    <string name="empty_bookmarks" formatted="false">Тут з’являться збережені веб-сайти.</string>
+    <string name="saved" formatted="false">Збережено</string>
+    <string name="remove" formatted="false">видалити</string>
+    <string name="cancel" formatted="false">Скасувати</string>
+    <string name="close" formatted="false">Закрити</string>
+    <string name="confirm_download" formatted="false">Зберегти це відео?</string>
+    <string name="filename" formatted="false">Ім\&apos;я файлу</string>
+    <string name="download_location" formatted="false">Збережено в завантаженнях / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Я є власником цього відео або маю дозвіл на його завантаження.</string>
+    <string name="permission_required" formatted="false">Підтвердьте, що у вас є дозвіл на збереження цього відео.</string>
+    <string name="invalid_url" formatted="false">Введіть дійсне посилання на відео HTTPS.</string>
+    <string name="unsupported" formatted="false">Це посилання не є відео для завантаження. DRM, прямі трансляції, списки відтворення та завантаження з YouTube не підтримуються.</string>
+    <string name="queued" formatted="false">Завантаження додано в чергу</string>
+    <string name="download_error" formatted="false">Неможливо завантажити. Перевірте з’єднання або скористайтеся новим посиланням на відео.</string>
+    <string name="collection_title" formatted="false">Ваша колекція</string>
+    <string name="collection_subtitle" formatted="false">Збережені відео, готові, коли ви будете.</string>
+    <string name="empty_downloads" formatted="false">Ваш наступний фаворит належить сюди.</string>
+    <string name="empty_downloads_body" formatted="false">Знайдіть відео в Огляді або вставте пряме посилання на відео, щоб розпочати свою колекцію.</string>
+    <string name="pending" formatted="false">У черзі</string>
+    <string name="running" formatted="false">Завантаження</string>
+    <string name="paused" formatted="false">Очікування мережі або повторіть спробу</string>
+    <string name="complete" formatted="false">Повний</string>
+    <string name="failed" formatted="false">Не вдалося</string>
+    <string name="missing" formatted="false">Файл недоступний</string>
+    <string name="play" formatted="false">грати</string>
+    <string name="share" formatted="false">Поділіться</string>
+    <string name="retry" formatted="false">Повторіть спробу</string>
+    <string name="delete_download" formatted="false">Видалити завантаження та його файл?</string>
+    <string name="no_player" formatted="false">Немає сумісної програми для відкриття цього файлу.</string>
+    <string name="guide_title" formatted="false">Від відкриття до завантаження.</string>
+    <string name="guide_subtitle" formatted="false">Простий посібник із збереження ваших улюблених відео.</string>
+    <string name="step_one_title" formatted="false">Знайдіть своє відео</string>
+    <string name="step_one_body" formatted="false">Відкрийте Огляд. Знайдіть або введіть адресу веб-сайту. Ви також можете поділитися посиланням на відео з іншої програми.</string>
+    <string name="step_two_title" formatted="false">Відкрийте джерело</string>
+    <string name="step_two_body" formatted="false">Відтворіть відео, а потім натисніть «Знайти відео». Виберіть знайдений файл або вставте пряме посилання на відео HTTPS.</string>
+    <string name="step_three_title" formatted="false">Зробіть це своїм</string>
+    <string name="step_three_body" formatted="false">Виберіть назву файлу, підтвердьте свій дозвіл на збереження відео та торкніться «Завантажити». Android продовжує завантаження у фоновому режимі.</string>
+    <string name="step_four_title" formatted="false">Насолоджуйтесь своєю колекцією</string>
+    <string name="step_four_body" formatted="false">Відкрийте Завантаження, щоб перевірити прогрес. Відтворюйте або діліться завершеними відео. Повторіть спробу невдалого завантаження з новим посиланням, коли потрібно.</string>
+    <string name="try_now" formatted="false">Спробуйте зараз</string>
+    <string name="preferences" formatted="false">Зробіть це своїм.</string>
+    <string name="preferences_subtitle" formatted="false">Кілька продуманих елементів керування для щоденного перегляду.</string>
+    <string name="dns_title" formatted="false">VPN / Приватний DNS</string>
+    <string name="dns_explanation" formatted="false">Приватний DNS шифрує запити DNS. Він не приховує вашу IP-адресу та не створює VPN-тунель. Для Android потрібно змінити цей параметр вручну.</string>
+    <string name="connected" formatted="false">Підключено</string>
+    <string name="unconnected" formatted="false">Без зв\&apos;язку</string>
+    <string name="connect" formatted="false">Підключитися</string>
+    <string name="disconnect" formatted="false">Відключити</string>
+    <string name="dns_instructions" formatted="false">Виберіть ім’я хоста постачальника приватних DNS, вставте dns.adguard-dns.com і збережіть. Щоб від’єднатися, виберіть «Автоматично» або «Вимк.» у тих самих налаштуваннях системи.</string>
+    <string name="copy_hostname" formatted="false">Скопіюйте ім\&apos;я хоста</string>
+    <string name="copied" formatted="false">Скопійовано в буфер обміну</string>
+    <string name="open_network_settings" formatted="false">Відкрийте налаштування мережі</string>
+    <string name="language" formatted="false">Мова програми</string>
+    <string name="system_language" formatted="false">Слідкуйте за мовою пристрою</string>
+    <string name="search_language" formatted="false">Знайдіть мову</string>
+    <string name="language_note" formatted="false">Переклади включені офлайн. У неперерахованих мовах пристрою використовується англійська. Машинні переклади можуть потребувати регіонального перегляду.</string>
+    <string name="search_engine" formatted="false">Пошукова система</string>
+    <string name="wifi_only" formatted="false">Завантажувати лише через Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Нові завантаження чекають, поки Wi-Fi стане доступним.</string>
+    <string name="javascript" formatted="false">JavaScript сайту</string>
+    <string name="javascript_body" formatted="false">Необхідний для багатьох веб-сайтів і для виявлення відео HTML5.</string>
+    <string name="privacy" formatted="false">Конфіденційність</string>
+    <string name="clear_browser" formatted="false">Очистити дані веб-перегляду</string>
+    <string name="clear_browser_confirm" formatted="false">Видалити файли cookie, кеш браузера, історію та сховище веб-сайту?</string>
+    <string name="privacy_body" formatted="false">Без реклами, аналітики чи облікових записів розробників. Веб-сайти, пошукові системи, постачальники DNS і сервери завантажень отримують ваші запити. Історія завантажень і закладки залишаються на цьому пристрої.</string>
+    <string name="terms" formatted="false">Використовуйте відповідально</string>
+    <string name="terms_body" formatted="false">Зберігайте лише ті відео, які належать вам або які дозволено завантажувати. Поважайте авторські права та умови веб-сайту. Ця програма не може обійти DRM, платні екрани або обмеження на завантаження платформи.</string>
+    <string name="about" formatted="false">про</string>
+    <string name="version" formatted="false">Версія</string>
+    <string name="paid_app" formatted="false">Одна покупка. Без реклами. Немає підписки.</string>
+    <string name="welcome_title" formatted="false">Зберігайте те, що вас надихає.</string>
+    <string name="welcome_body" formatted="false">Переглядайте, знаходьте та зберігайте дозволені відео в одному місці. Прочитайте ілюстрований посібник, щоб почати.</string>
+    <string name="start_browsing" formatted="false">Почати перегляд</string>
+    <string name="read_guide" formatted="false">Прочитайте посібник</string>
+    <string name="browser_error" formatted="false">Не вдалося завантажити цю сторінку. Перевірте адресу та підключення, потім перезавантажте.</string>
+    <string name="secure_only" formatted="false">Ця програма використовує з’єднання HTTPS. Спробуйте безпечну версію цього веб-сайту.</string>
+    <string name="external_link" formatted="false">Відкрити це посилання в іншій програмі?</string>
+    <string name="open" formatted="false">відкритий</string>
+    <string name="refresh" formatted="false">Оновити</string>
+    <string name="accessibility_tutorial" formatted="false">Ілюстрація для цього кроку підручника</string>
+    <string name="download_reason" formatted="false">Код помилки завантаження Android</string>
+    <string name="queue_full" formatted="false">Історія завантажень заповнена. Спочатку видаліть старіший запис.</string>
+    <string name="browser_tabs" formatted="false">Вкладки браузера</string>
+    <string name="tabs_subtitle" formatted="false">Тримайте веб-сайти відкритими та переходьте між ними.</string>
+    <string name="new_tab" formatted="false">Нова вкладка</string>
+    <string name="close_tab" formatted="false">Закрити вкладку</string>
+    <string name="active_tab" formatted="false">Активна вкладка</string>
+    <string name="tab_limit" formatted="false">Ви можете відкрити до 8 вкладок. Закрийте вкладку, щоб додати іншу.</string>
+    <string name="history" formatted="false">історія</string>
+    <string name="history_subtitle" formatted="false">Відвідані веб-сайти зберігаються лише на цьому пристрої.</string>
+    <string name="empty_history" formatted="false">Тут з’явиться ваша історія веб-перегляду.</string>
+    <string name="clear_history" formatted="false">Очистити історію</string>
+    <string name="clear_history_confirm" formatted="false">Видалити всю історію веб-перегляду з цього пристрою?</string>
+    <string name="open_new_tab" formatted="false">Відкрити в новій вкладці</string>
+    <string name="browser_menu" formatted="false">Меню браузера</string>
+    <string name="shortcut_note" formatted="false">Ярлики веб-сайтів відкриваються в браузері. Доступність завантаження залежить від веб-сайту.</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">توركۆرگۈ</string>
+    <string name="downloads" formatted="false">چۈشۈرۈش</string>
+    <string name="guide" formatted="false">يېتەكچى</string>
+    <string name="settings" formatted="false">تەڭشەك</string>
+    <string name="home_title" formatted="false">سىنلىرىڭىز. توپلىمىڭىز.</string>
+    <string name="home_subtitle" formatted="false">ساقلاشقا ئەرزىيدىغان نەرسىنى تېپىڭ.</string>
+    <string name="search_hint" formatted="false">توربېكەتنى ئىزدەڭ ياكى كىرگۈزۈڭ</string>
+    <string name="go" formatted="false">كەت</string>
+    <string name="paste_link" formatted="false">سىن ئۇلانمىسىنى چاپلاڭ</string>
+    <string name="direct_link" formatted="false">بىۋاسىتە سىن ئۇلىنىشى</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">چۈشۈرۈش</string>
+    <string name="detect" formatted="false">سىن ئىزدەڭ</string>
+    <string name="detected" formatted="false">بۇ بەتتىكى سىنلار</string>
+    <string name="no_media" formatted="false">چۈشۈرگىلى بولىدىغان سىن تېپىلمىدى. سىن ئويناشنى باشلاڭ ، ئاندىن قايتا سىناڭ. قوغدىلىدىغان ئېقىن ۋە قىستۇرۇلغان رامكىلارنى ئىشلەتكىلى بولمايدۇ.</string>
+    <string name="safe_note" formatted="false">پەقەت ئۆزىڭىز ئىگە بولغان ياكى ساقلاشقا ئىجازەت ئالغان سىنلارنى چۈشۈرۈڭ. قوغدىلىدىغان ئېقىم ۋە YouTube چۈشۈرۈشنى ئىشلەتكىلى بولمايدۇ.</string>
+    <string name="quick_start" formatted="false">بۇ يەردىن باشلاڭ</string>
+    <string name="quick_browse" formatted="false">تور ئۈستىدە ئىزدىنىڭ</string>
+    <string name="quick_browse_body" formatted="false">ئۆزىڭىز ياقتۇرىدىغان ماتورنى قاچىلانغان توركۆرگۈدىن ئىزدەڭ.</string>
+    <string name="quick_download" formatted="false">سىننى ساقلاڭ</string>
+    <string name="quick_download_body" formatted="false">بىۋاسىتە HTTPS سىن ئۇلانمىسىنى چاپلاڭ ياكى بىر بەتتىن سىن تاپالايسىز.</string>
+    <string name="quick_guide" formatted="false">ئازراق يېتەكلەش</string>
+    <string name="quick_guide_body" formatted="false">بايقاشتىن يىغىپ ساقلاشقىچە بولغان تۆت رەسىملىك باسقۇچ.</string>
+    <string name="back" formatted="false">قايتىش</string>
+    <string name="forward" formatted="false">ئالدىغا</string>
+    <string name="reload" formatted="false">قايتا يۈكلەڭ</string>
+    <string name="home" formatted="false">ئۆي</string>
+    <string name="bookmark" formatted="false">خەتكۈچ</string>
+    <string name="bookmarks" formatted="false">خەتكۈچلەر</string>
+    <string name="empty_bookmarks" formatted="false">ساقلانغان تور بېكەتلەر بۇ يەردە كۆرۈنىدۇ.</string>
+    <string name="saved" formatted="false">ساقلاندى</string>
+    <string name="remove" formatted="false">ئۆچۈرۈڭ</string>
+    <string name="cancel" formatted="false">بىكار قىلىش</string>
+    <string name="close" formatted="false">تاقاش</string>
+    <string name="confirm_download" formatted="false">بۇ فىلىمنى ساقلامسىز؟</string>
+    <string name="filename" formatted="false">ھۆججەت ئىسمى</string>
+    <string name="download_location" formatted="false">چۈشۈرۈش / سىن چۈشۈرۈش پروگراممىسىدا ساقلاندى</string>
+    <string name="permission_confirm" formatted="false">مەن بۇ فىلىمنىڭ ئىگىسى ياكى چۈشۈرۈش ھوقۇقىم بار.</string>
+    <string name="permission_required" formatted="false">بۇ فىلىمنى ساقلاشقا ئىجازەت بارلىقىنى جەزملەشتۈرۈڭ.</string>
+    <string name="invalid_url" formatted="false">ئىناۋەتلىك HTTPS سىن ئۇلانمىسىنى كىرگۈزۈڭ.</string>
+    <string name="unsupported" formatted="false">بۇ ئۇلىنىش چۈشۈرگىلى بولىدىغان سىن ئەمەس. DRM ، نەق مەيدان ئېقىمى ، قويۇش تىزىملىكى ۋە YouTube چۈشۈرۈشنى قوللىمايدۇ.</string>
+    <string name="queued" formatted="false">چۈشۈرۈش ئۆچرەتكە قوشۇلدى</string>
+    <string name="download_error" formatted="false">چۈشۈرۈشكە ئامالسىز. ئۇلىنىشنى تەكشۈرۈڭ ياكى يېڭى سىن ئۇلانمىسىنى ئىشلىتىڭ.</string>
+    <string name="collection_title" formatted="false">توپلىمىڭىز</string>
+    <string name="collection_subtitle" formatted="false">ساقلانغان سىنلار ، تەييار بولغاندا تەييار.</string>
+    <string name="empty_downloads" formatted="false">كېيىنكى ياقتۇرىدىغانلىرىڭىز مۇشۇ يەرگە تەۋە.</string>
+    <string name="empty_downloads_body" formatted="false">توركۆرگۈدىن سىن ئىزدەڭ ياكى بىۋاسىتە سىن ئۇلانمىسىنى چاپلاپ توپلىمىڭىزنى باشلاڭ.</string>
+    <string name="pending" formatted="false">ئۆچرەتتە تۇرغان</string>
+    <string name="running" formatted="false">چۈشۈرۈش</string>
+    <string name="paused" formatted="false">تورنى ساقلاش ياكى قايتا سىناڭ</string>
+    <string name="complete" formatted="false">تامام</string>
+    <string name="failed" formatted="false">مەغلۇب بولدى</string>
+    <string name="missing" formatted="false">ھۆججەتنى ئىشلەتكىلى بولمايدۇ</string>
+    <string name="play" formatted="false">ئويناش</string>
+    <string name="share" formatted="false">ھەمبەھىرلەش</string>
+    <string name="retry" formatted="false">قايتا سىناڭ</string>
+    <string name="delete_download" formatted="false">چۈشۈرۈش ۋە ئۇنىڭ ھۆججىتىنى ئۆچۈرەمسىز؟</string>
+    <string name="no_player" formatted="false">بۇ ھۆججەتنى ئېچىشقا ماس كېلىدىغان ئەپ يوق.</string>
+    <string name="guide_title" formatted="false">بايقاشتىن چۈشۈرۈشكىچە.</string>
+    <string name="guide_subtitle" formatted="false">سىز ياخشى كۆرىدىغان سىنلارنى ساقلاشنىڭ ئاددىي قوللانمىسى.</string>
+    <string name="step_one_title" formatted="false">سىننى ئىزدەڭ</string>
+    <string name="step_one_body" formatted="false">توركۆرگۈنى ئېچىڭ. تور بېكەت ئادرېسىنى ئىزدەڭ ياكى كىرگۈزۈڭ. باشقا ئەپتىن سىن ئۇلانمىسىنى ھەمبەھىرلىيەلەيسىز.</string>
+    <string name="step_two_title" formatted="false">مەنبەنى بايقايسىز</string>
+    <string name="step_two_body" formatted="false">سىن قويۇڭ ، ئاندىن سىن تېپىش نى چېكىڭ. بايقالغان ھۆججەتنى تاللاڭ ياكى بىۋاسىتە HTTPS سىن ئۇلانمىسىنى چاپلاڭ.</string>
+    <string name="step_three_title" formatted="false">ئۇنى ئۆزىڭىزگە ئايلاندۇرۇڭ</string>
+    <string name="step_three_body" formatted="false">ھۆججەت نامىنى تاللاڭ ، سىننى ساقلاشقا ئىجازەت بەرگەنلىكىڭىزنى جەزملەشتۈرۈڭ ۋە «چۈشۈرۈش» نى چېكىڭ. ئاندىرويىد چۈشۈرۈشنى ئارقا سۇپىدا داۋاملاشتۇرىدۇ.</string>
+    <string name="step_four_title" formatted="false">توپلىمىڭىزدىن ھۇزۇرلىنىڭ</string>
+    <string name="step_four_body" formatted="false">چۈشۈرۈشنى ئېچىڭ. تاماملانغان سىنلارنى قويۇش ياكى ئورتاقلىشىش. لازىم بولغاندا يېڭى ئۇلىنىش ئارقىلىق چۈشۈرۈشنى قايتا سىناڭ.</string>
+    <string name="try_now" formatted="false">ھازىر سىناپ بېقىڭ</string>
+    <string name="preferences" formatted="false">ئۇنى ئۆزىڭىزگە ئايلاندۇرۇڭ.</string>
+    <string name="preferences_subtitle" formatted="false">كۈندىلىك كۆرۈشلىرىڭىزنى بىر ئاز ئويلانغان كونتروللار.</string>
+    <string name="dns_title" formatted="false">VPN / شەخسىي DNS</string>
+    <string name="dns_explanation" formatted="false">شەخسىي DNS DNS سوئاللىرىنى مەخپىيلەشتۈردى. ئۇ IP ئادرېسىڭىزنى يوشۇرمايدۇ ياكى VPN تونېلى قۇرمايدۇ. ئاندىرويىد بۇ تەڭشەكنى قولدا ئۆزگەرتىشىڭىزنى تەلەپ قىلىدۇ.</string>
+    <string name="connected" formatted="false">ئۇلاندى</string>
+    <string name="unconnected" formatted="false">ئۇلانمىدى</string>
+    <string name="connect" formatted="false">ئۇلاڭ</string>
+    <string name="disconnect" formatted="false">ئۈزۈڭ</string>
+    <string name="dns_instructions" formatted="false">شەخسىي DNS تەمىنلىگۈچىنىڭ باش نامىنى تاللاڭ ، dns.adguard-dns.com نى چاپلاپ ساقلاڭ. ئۈزۈش ئۈچۈن ئوخشاش سىستېما تەڭشىكىدە ئاپتوماتىك ياكى Off نى تاللاڭ.</string>
+    <string name="copy_hostname" formatted="false">باش ئاپپارات نامىنى كۆچۈرۈڭ</string>
+    <string name="copied" formatted="false">چاپلاش تاختىسىغا كۆچۈرۈلدى</string>
+    <string name="open_network_settings" formatted="false">تور تەڭشىكىنى ئېچىڭ</string>
+    <string name="language" formatted="false">ئەپ تىلى</string>
+    <string name="system_language" formatted="false">ئۈسكۈنە تىلىغا ئەگىشىڭ</string>
+    <string name="search_language" formatted="false">تىل تېپىڭ</string>
+    <string name="language_note" formatted="false">تەرجىمە تورسىز. تىزىملىككە كىرگۈزۈلمىگەن ئۈسكۈنە تىلى ئىنگلىزچىنى ئىشلىتىدۇ. ماشىنا تەرجىمىلىرى رايون تەكشۈرۈشىگە موھتاج بولۇشى مۇمكىن.</string>
+    <string name="search_engine" formatted="false">ئىزدەش ماتورى</string>
+    <string name="wifi_only" formatted="false">پەقەت Wi-Fi دىن چۈشۈرۈڭ</string>
+    <string name="wifi_body" formatted="false">يېڭى چۈشۈرۈشلەر Wi-Fi بولغۇچە ساقلايدۇ.</string>
+    <string name="javascript" formatted="false">تور بېكەت JavaScript</string>
+    <string name="javascript_body" formatted="false">نۇرغۇن تور بېكەتلەر ۋە HTML5 سىن بايقاش تەلەپ قىلىنىدۇ.</string>
+    <string name="privacy" formatted="false">مەخپىيەتلىك</string>
+    <string name="clear_browser" formatted="false">كۆرۈش سانلىق مەلۇماتلىرىنى تازىلاش</string>
+    <string name="clear_browser_confirm" formatted="false">ساقلانمىلار ، توركۆرگۈ ساقلىغۇچ ، تارىخ ۋە تور بېكەت ساقلاشلىرىنى ئۆچۈرۈڭ؟</string>
+    <string name="privacy_body" formatted="false">ئېلان ، ئانالىز ياكى ئاچقۇچىلار ھېساباتى يوق. تور بېكەت ، ئىزدەش ماتورى ، DNS تەمىنلىگۈچىلەر ۋە چۈشۈرۈش مۇلازىمېتىرلىرى سىز تەلەپ قىلغان تەلەپلەرنى تاپشۇرۇۋالىدۇ. بۇ ئۈسكۈنىدە تارىخ ۋە خەتكۈچلەرنى چۈشۈرۈڭ.</string>
+    <string name="terms" formatted="false">مەسئۇلىيەتچانلىق بىلەن ئىشلىتىڭ</string>
+    <string name="terms_body" formatted="false">پەقەت ئۆزىڭىز ئىگە بولغان ياكى چۈشۈرۈشكە رۇخسەت قىلىنغان سىنلارنىلا ساقلاڭ. نەشر ھوقۇقى ۋە تور بېكەت شەرتلىرىگە ھۆرمەت قىلىڭ. بۇ ئەپ DRM ، ھەق تۆلەش ياكى سۇپا چۈشۈرۈش چەكلىمىسىنى ئايلىنىپ ئۆتەلمەيدۇ.</string>
+    <string name="about" formatted="false">ھەققىدە</string>
+    <string name="version" formatted="false">نەشرى</string>
+    <string name="paid_app" formatted="false">بىر سېتىۋېلىش. ئېلان يوق. مۇشتەرىلىكى يوق.</string>
+    <string name="welcome_title" formatted="false">سىزنى ئىلھاملاندۇرىدىغان نەرسىنى ساقلاڭ.</string>
+    <string name="welcome_body" formatted="false">رۇخسەت قىلىنغان سىنلارنى بىر جايدا كۆرۈش ، بايقاش ۋە ساقلاش. باشلاش ئۈچۈن رەسىملىك ​​قوللانمىنى ئوقۇڭ.</string>
+    <string name="start_browsing" formatted="false">كۆرۈشنى باشلاڭ</string>
+    <string name="read_guide" formatted="false">قوللانمىنى ئوقۇڭ</string>
+    <string name="browser_error" formatted="false">بۇ بەتنى يۈكلەشكە بولمىدى. ئادرېس ۋە ئۇلىنىشنى تەكشۈرۈپ ئاندىن قايتا يۈكلەڭ.</string>
+    <string name="secure_only" formatted="false">بۇ ئەپتە HTTPS ئۇلىنىشى ئىشلىتىلىدۇ. بۇ تور بېكەتنىڭ بىخەتەر نەشرىنى سىناپ بېقىڭ.</string>
+    <string name="external_link" formatted="false">بۇ ئۇلىنىشنى باشقا ئەپتە ئاچامسىز؟</string>
+    <string name="open" formatted="false">ئېچىڭ</string>
+    <string name="refresh" formatted="false">يېڭىلاش</string>
+    <string name="accessibility_tutorial" formatted="false">بۇ دەرسلىك باسقۇچىنىڭ تەسۋىرى</string>
+    <string name="download_reason" formatted="false">ئاندروئىد چۈشۈرۈش خاتالىق كودى</string>
+    <string name="queue_full" formatted="false">چۈشۈرۈش تارىخى تولۇق. ئالدى بىلەن كونا تۈرنى ئۆچۈرۈڭ.</string>
+    <string name="browser_tabs" formatted="false">توركۆرگۈ بەتكۈچلىرى</string>
+    <string name="tabs_subtitle" formatted="false">تور بېكەتلەرنى ئوچۇق قىلىپ ، ئۇلارنىڭ ئارىسىدا ئالماشتۇرۇڭ.</string>
+    <string name="new_tab" formatted="false">يېڭى بەتكۈچ</string>
+    <string name="close_tab" formatted="false">بەتكۈچنى تاقاش</string>
+    <string name="active_tab" formatted="false">ئاكتىپ بەتكۈچ</string>
+    <string name="tab_limit" formatted="false">8 بەتكۈچنى ئاچالايسىز. باشقا بەتكۈچ قوشۇش ئۈچۈن بەتكۈچنى تاقاڭ.</string>
+    <string name="history" formatted="false">تارىخ</string>
+    <string name="history_subtitle" formatted="false">زىيارەت قىلىنغان تور بېكەتلەر پەقەت بۇ ئۈسكۈنىدىلا ساقلىنىدۇ.</string>
+    <string name="empty_history" formatted="false">كۆرۈش تارىخىڭىز بۇ يەردە كۆرۈنىدۇ.</string>
+    <string name="clear_history" formatted="false">تارىخنى ئېنىقلاش</string>
+    <string name="clear_history_confirm" formatted="false">بۇ ئۈسكۈنىدىن بارلىق كۆرۈش تارىخىنى ئۆچۈرەمسىز؟</string>
+    <string name="open_new_tab" formatted="false">يېڭى بەتكۈچتە ئېچىڭ</string>
+    <string name="browser_menu" formatted="false">توركۆرگۈ تىزىملىكى</string>
+    <string name="shortcut_note" formatted="false">توركۆرگۈچتە تور بېكەت تېزلەتمىلىرى ئېچىلدى. چۈشۈرۈشنىڭ تور بېتىگە باغلىق.</string>
+</resources>

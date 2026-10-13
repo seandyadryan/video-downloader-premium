@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Mikaroka</string>
+    <string name="downloads" formatted="false">Downloads</string>
+    <string name="guide" formatted="false">Mpitarika</string>
+    <string name="settings" formatted="false">Settings</string>
+    <string name="home_title" formatted="false">Ny horonan-tsarinao. Ny fanangonanao.</string>
+    <string name="home_subtitle" formatted="false">Mitadiava zavatra mendrika hotehirizina.</string>
+    <string name="search_hint" formatted="false">Mitadiava na midira vohikala</string>
+    <string name="go" formatted="false">Mandehana</string>
+    <string name="paste_link" formatted="false">Apetaho rohy video</string>
+    <string name="direct_link" formatted="false">Rohy video mivantana</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Download</string>
+    <string name="detect" formatted="false">Mitadiava video</string>
+    <string name="detected" formatted="false">Horonantsary eto amin\&apos;ity pejy ity</string>
+    <string name="no_media" formatted="false">Tsy misy horonantsary azo alaina hita. Manomboha milalao video, dia andramo indray. Mety tsy ho hita ny riaka voaaro sy ny sarin-trano tafiditra.</string>
+    <string name="safe_note" formatted="false">Ampidino ihany ny horonan-tsary anananao na mahazo alalana hitehirizana. Tsy misy ny stream voaaro sy ny fampidinana YouTube.</string>
+    <string name="quick_start" formatted="false">Atombohy ETO</string>
+    <string name="quick_browse" formatted="false">Tsidiho ny tranonkala</string>
+    <string name="quick_browse_body" formatted="false">Mitadiava miaraka amin\&apos;ny motera tianao amin\&apos;ny navigateur namboarina.</string>
+    <string name="quick_download" formatted="false">Tehirizo video</string>
+    <string name="quick_download_body" formatted="false">Apetaho rohy video HTTPS mivantana na mitadiava video amin\&apos;ny pejy iray.</string>
+    <string name="quick_guide" formatted="false">Torolalana kely</string>
+    <string name="quick_guide_body" formatted="false">Dingana efatra misy sary manomboka amin\&apos;ny fikarohana mankany amin\&apos;ny fanangonanao.</string>
+    <string name="back" formatted="false">Miverina</string>
+    <string name="forward" formatted="false">Mandrosoa</string>
+    <string name="reload" formatted="false">Avereno</string>
+    <string name="home" formatted="false">Trano</string>
+    <string name="bookmark" formatted="false">Bookmark</string>
+    <string name="bookmarks" formatted="false">Bookmarks</string>
+    <string name="empty_bookmarks" formatted="false">Ireo tranonkala voatahiry dia hiseho eto.</string>
+    <string name="saved" formatted="false">voavonjy</string>
+    <string name="remove" formatted="false">Esory</string>
+    <string name="cancel" formatted="false">Manafoana</string>
+    <string name="close" formatted="false">Akatona</string>
+    <string name="confirm_download" formatted="false">Tehirizo ity horonantsary ity?</string>
+    <string name="filename" formatted="false">Anaran\&apos;ny rakitra</string>
+    <string name="download_location" formatted="false">Voatahiry ao amin\&apos;ny Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Izaho no tompon\&apos;ity video ity na manana alalana hisintona azy.</string>
+    <string name="permission_required" formatted="false">Hamafiso fa manana alalana ianao hitahiry ity horonantsary ity.</string>
+    <string name="invalid_url" formatted="false">Ampidiro rohy video HTTPS manan-kery.</string>
+    <string name="unsupported" formatted="false">Ity rohy ity dia tsy video azo alaina. DRM, stream mivantana, playlists, ary ny fampidinana YouTube dia tsy tohanana.</string>
+    <string name="queued" formatted="false">Nampidirina amin\&apos;ny filaharana ny fampidinana</string>
+    <string name="download_error" formatted="false">Tsy afaka misintona. Jereo ny fifandraisana na ampiasao rohy video vaovao.</string>
+    <string name="collection_title" formatted="false">Ny fanangonanao</string>
+    <string name="collection_subtitle" formatted="false">Horonantsary voatahiry, vonona rehefa vonona ianao.</string>
+    <string name="empty_downloads" formatted="false">Ny ankafizinao manaraka dia eto.</string>
+    <string name="empty_downloads_body" formatted="false">Mitadiava horonan-tsary ao amin\&apos;ny Mikaroka na mametaka rohy video mivantana hanombohana ny fanangonanao.</string>
+    <string name="pending" formatted="false">nilahatra</string>
+    <string name="running" formatted="false">Misintona</string>
+    <string name="paused" formatted="false">Miandry tambajotra na manandrana indray</string>
+    <string name="complete" formatted="false">feno</string>
+    <string name="failed" formatted="false">Tsy nahomby</string>
+    <string name="missing" formatted="false">Tsy misy ny rakitra</string>
+    <string name="play" formatted="false">Play</string>
+    <string name="share" formatted="false">Zarao</string>
+    <string name="retry" formatted="false">Andramo indray</string>
+    <string name="delete_download" formatted="false">Esory ny fampidinana sy ny rakitra?</string>
+    <string name="no_player" formatted="false">Tsy misy fampiharana mifanentana afaka manokatra ity rakitra ity.</string>
+    <string name="guide_title" formatted="false">Avy amin\&apos;ny Discovery mankany amin\&apos;ny download.</string>
+    <string name="guide_subtitle" formatted="false">Torolàlana tsotra hitazomana ireo horonan-tsary tianao.</string>
+    <string name="step_one_title" formatted="false">Tadiavo ny videonao</string>
+    <string name="step_one_body" formatted="false">Sokafy ny Browse. Mitadiava na midira adiresy tranonkala. Azonao atao koa ny mizara rohy video avy amin\&apos;ny fampiharana hafa.</string>
+    <string name="step_two_title" formatted="false">Fantaro ny loharano</string>
+    <string name="step_two_body" formatted="false">Alefaso video, dia tadiavo ny Find videos. Misafidiana rakitra hita, na apetaho rohy video HTTPS mivantana.</string>
+    <string name="step_three_title" formatted="false">Ataovy ho anao</string>
+    <string name="step_three_body" formatted="false">Misafidiana anaran-drakitra, hamafiso ny fahazoan-dàlanao hitahiry ilay video, ary tsindrio ny Download. Android dia manohy ny fampidinana ao ambadika.</string>
+    <string name="step_four_title" formatted="false">Ankafizo ny fanangonanao</string>
+    <string name="step_four_body" formatted="false">Sokafy ny Downloads hijerena ny fivoarana. Alefaso na zarao ireo horonan-tsary vita. Andramo indray ny fampidinana tsy nahomby miaraka amina rohy vaovao rehefa ilaina.</string>
+    <string name="try_now" formatted="false">Andramo izao</string>
+    <string name="preferences" formatted="false">Ataovy ho anao manokana.</string>
+    <string name="preferences_subtitle" formatted="false">Fifehezana voahevitra vitsivitsy ho an\&apos;ny fitetezanao isan\&apos;andro.</string>
+    <string name="dns_title" formatted="false">VPN / DNS manokana</string>
+    <string name="dns_explanation" formatted="false">Ny DNS tsy miankina dia manidy fanontaniana DNS. Tsy manafina ny adiresy IP-nao na mamorona tonelina VPN. Mitaky anao hanova an\&apos;io fika io amin\&apos;ny tananao ny Android.</string>
+    <string name="connected" formatted="false">Mifandray</string>
+    <string name="unconnected" formatted="false">Tsy mifandray</string>
+    <string name="connect" formatted="false">Connect</string>
+    <string name="disconnect" formatted="false">Tapaho ny fifandraisana</string>
+    <string name="dns_instructions" formatted="false">Mifidiana anarana mpampiantrano mpamatsy DNS tsy miankina, apetaho ny dns.adguard-dns.com, ary tehirizo. Raha hanapaka, safidio ny Automatic na Off ao amin\&apos;ny firafitry ny rafitra mitovy.</string>
+    <string name="copy_hostname" formatted="false">Adikao ny anaran\&apos;ny mpampiantrano</string>
+    <string name="copied" formatted="false">Nadika ho amin\&apos;ny solaitrabe</string>
+    <string name="open_network_settings" formatted="false">Sokafy ny firafitry ny tambajotra</string>
+    <string name="language" formatted="false">Fiteny fampiharana</string>
+    <string name="system_language" formatted="false">Araho ny fitenin\&apos;ny fitaovana</string>
+    <string name="search_language" formatted="false">Mitadiava fiteny</string>
+    <string name="language_note" formatted="false">Ampidirina ivelan\&apos;ny aterineto ny dikanteny. Mampiasa anglisy ny fiteny fitaovana tsy voatanisa. Mety mila dinihina isam-paritra ny fandikana milina.</string>
+    <string name="search_engine" formatted="false">Motera fikarohana</string>
+    <string name="wifi_only" formatted="false">Misintona amin\&apos;ny Wi-Fi ihany</string>
+    <string name="wifi_body" formatted="false">Ny fampidinana vaovao dia miandry mandra-pisian\&apos;ny Wi-Fi.</string>
+    <string name="javascript" formatted="false">Website JavaScript</string>
+    <string name="javascript_body" formatted="false">Takian\&apos;ny tranonkala maro sy ny fitadiavana video HTML5.</string>
+    <string name="privacy" formatted="false">Privacy</string>
+    <string name="clear_browser" formatted="false">Fafao ny angona fitetezana</string>
+    <string name="clear_browser_confirm" formatted="false">Hamafa cookies, cache navigateur, tantara ary fitahirizana tranokala?</string>
+    <string name="privacy_body" formatted="false">Tsy misy doka, analyse, na kaonty developer. Ny tranokala, ny milina fikarohana, ny mpanome DNS ary ny mpizara fampidinana dia mahazo ny fangatahana ataonao. Mijanona ao amin\&apos;ity fitaovana ity ny fisintonana tantara sy tsoratadidy.</string>
+    <string name="terms" formatted="false">Ampiasao amim-pahamendrehana</string>
+    <string name="terms_body" formatted="false">Tehirizo ihany ny horonan-tsary anananao na avela hisintona. Hajao ny zon\&apos;ny mpamorona sy ny fepetran\&apos;ny tranonkala. Ity fampiharana ity dia tsy afaka mandingana ny DRM, ny fandoavam-bola, na ny famerana ny fampidinana sehatra.</string>
+    <string name="about" formatted="false">Momba ny</string>
+    <string name="version" formatted="false">Version</string>
+    <string name="paid_app" formatted="false">Fividianana iray. Tsy misy doka. Tsy misy famandrihana.</string>
+    <string name="welcome_title" formatted="false">Tazony izay manentana anao.</string>
+    <string name="welcome_body" formatted="false">Mitadiava, fantaro ary tehirizo ireo horonan-tsary navela amin\&apos;ny toerana iray. Vakio ny torolalana misy sary mba hanombohana.</string>
+    <string name="start_browsing" formatted="false">Manomboka mijery</string>
+    <string name="read_guide" formatted="false">Vakio ny torolàlana</string>
+    <string name="browser_error" formatted="false">Tsy azo nampidirina ity pejy ity. Hamarino ny adiresy sy ny fifandraisana, dia avereno indray.</string>
+    <string name="secure_only" formatted="false">Mampiasa fifandraisana HTTPS ity fampiharana ity. Andramo ny kinova azo antoka amin\&apos;ity tranokala ity.</string>
+    <string name="external_link" formatted="false">Sokafy amin\&apos;ny fampiharana hafa ity rohy ity?</string>
+    <string name="open" formatted="false">Misokatra</string>
+    <string name="refresh" formatted="false">Havaozina</string>
+    <string name="accessibility_tutorial" formatted="false">Fanoharana ho an\&apos;ity dingana fampianarana ity</string>
+    <string name="download_reason" formatted="false">Kaody hadisoana fampidinana Android</string>
+    <string name="queue_full" formatted="false">Feno ny tantaran\&apos;ny fampidinana. Esory aloha ny fidirana tranainy.</string>
+    <string name="browser_tabs" formatted="false">Tab navigateur</string>
+    <string name="tabs_subtitle" formatted="false">Ataovy misokatra ny tranokala ary mifamadika amin\&apos;izy ireo.</string>
+    <string name="new_tab" formatted="false">Kiheba vaovao</string>
+    <string name="close_tab" formatted="false">Akatona ny tabilao</string>
+    <string name="active_tab" formatted="false">Kiheba mavitrika</string>
+    <string name="tab_limit" formatted="false">Afaka manokatra tabilao 8 ianao. Manakatona kiheba iray hanampiana iray hafa.</string>
+    <string name="history" formatted="false">Tantara</string>
+    <string name="history_subtitle" formatted="false">Ny tranokala notsidihina dia voatahiry amin\&apos;ity fitaovana ity ihany.</string>
+    <string name="empty_history" formatted="false">Hiseho eto ny tantaran\&apos;ny fitetezanao.</string>
+    <string name="clear_history" formatted="false">Fafao ny tantara</string>
+    <string name="clear_history_confirm" formatted="false">Fafao ny tantaran\&apos;ny fitetezana rehetra amin\&apos;ity fitaovana ity?</string>
+    <string name="open_new_tab" formatted="false">Sokafy amin\&apos;ny tabilao vaovao</string>
+    <string name="browser_menu" formatted="false">Menu navigateur</string>
+    <string name="shortcut_note" formatted="false">Misokatra amin\&apos;ny mpitety tranonkala ny hitsin-dàlana. Ny fahafahana misintona dia miankina amin\&apos;ny tranokala.</string>
+</resources>

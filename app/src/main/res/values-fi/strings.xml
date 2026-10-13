@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Selaa</string>
+    <string name="downloads" formatted="false">Lataukset</string>
+    <string name="guide" formatted="false">Opas</string>
+    <string name="settings" formatted="false">Asetukset</string>
+    <string name="home_title" formatted="false">Sinun videosi. Sinun kokoelmasi.</string>
+    <string name="home_subtitle" formatted="false">Etsi jotain säilyttämisen arvoista.</string>
+    <string name="search_hint" formatted="false">Hae tai kirjoita verkkosivusto</string>
+    <string name="go" formatted="false">Mene</string>
+    <string name="paste_link" formatted="false">Liitä videolinkki</string>
+    <string name="direct_link" formatted="false">Suora videolinkki</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Lataa</string>
+    <string name="detect" formatted="false">Etsi videoita</string>
+    <string name="detected" formatted="false">Videoita tällä sivulla</string>
+    <string name="no_media" formatted="false">Ladattavaa videota ei löytynyt. Aloita videon toistaminen ja yritä sitten uudelleen. Suojatut streamit ja upotetut kehykset eivät ehkä ole käytettävissä.</string>
+    <string name="safe_note" formatted="false">Lataa vain videoita, jotka omistat tai sinulla on lupa tallentaa. Suojatut streamit ja YouTube-lataukset eivät ole käytettävissä.</string>
+    <string name="quick_start" formatted="false">ALOITA TÄSTÄ</string>
+    <string name="quick_browse" formatted="false">Tutustu verkkoon</string>
+    <string name="quick_browse_body" formatted="false">Hae haluamallasi koneella sisäänrakennetussa selaimessa.</string>
+    <string name="quick_download" formatted="false">Tallenna video</string>
+    <string name="quick_download_body" formatted="false">Liitä suora HTTPS-videolinkki tai etsi video sivulta.</string>
+    <string name="quick_guide" formatted="false">Pientä opastusta</string>
+    <string name="quick_guide_body" formatted="false">Neljä kuvitettua vaihetta löydöstä kokoelmaasi.</string>
+    <string name="back" formatted="false">Takaisin</string>
+    <string name="forward" formatted="false">Eteenpäin</string>
+    <string name="reload" formatted="false">Lataa uudelleen</string>
+    <string name="home" formatted="false">Kotiin</string>
+    <string name="bookmark" formatted="false">Kirjanmerkki</string>
+    <string name="bookmarks" formatted="false">Kirjanmerkit</string>
+    <string name="empty_bookmarks" formatted="false">Tallennetut verkkosivustot näkyvät täällä.</string>
+    <string name="saved" formatted="false">Tallennettu</string>
+    <string name="remove" formatted="false">Poista</string>
+    <string name="cancel" formatted="false">Peruuta</string>
+    <string name="close" formatted="false">Sulje</string>
+    <string name="confirm_download" formatted="false">Tallennetaanko tämä video?</string>
+    <string name="filename" formatted="false">Tiedoston nimi</string>
+    <string name="download_location" formatted="false">Tallennettu Lataukset / Video Downloader Premiumiin</string>
+    <string name="permission_confirm" formatted="false">Omistan tämän videon tai minulla on lupa ladata se.</string>
+    <string name="permission_required" formatted="false">Vahvista, että sinulla on lupa tallentaa tämä video.</string>
+    <string name="invalid_url" formatted="false">Anna kelvollinen HTTPS-videolinkki.</string>
+    <string name="unsupported" formatted="false">Tämä linkki ei ole ladattava video. DRM:ää, live-streameja, soittolistoja ja YouTube-latauksia ei tueta.</string>
+    <string name="queued" formatted="false">Lataus lisätty jonoon</string>
+    <string name="download_error" formatted="false">Ei voi ladata. Tarkista yhteys tai käytä uutta videolinkkiä.</string>
+    <string name="collection_title" formatted="false">Sinun kokoelmasi</string>
+    <string name="collection_subtitle" formatted="false">Tallennetut videot, valmiina kun olet.</string>
+    <string name="empty_downloads" formatted="false">Seuraava suosikkisi kuuluu tänne.</string>
+    <string name="empty_downloads_body" formatted="false">Etsi video Selaa-kohdasta tai liitä suora videolinkki aloittaaksesi kokoelmasi.</string>
+    <string name="pending" formatted="false">Jonossa</string>
+    <string name="running" formatted="false">Ladataan</string>
+    <string name="paused" formatted="false">Odotetaan verkkoa tai yritä uudelleen</string>
+    <string name="complete" formatted="false">Täydellinen</string>
+    <string name="failed" formatted="false">Epäonnistui</string>
+    <string name="missing" formatted="false">Tiedosto ei ole käytettävissä</string>
+    <string name="play" formatted="false">Pelaa</string>
+    <string name="share" formatted="false">Jaa</string>
+    <string name="retry" formatted="false">Yritä uudelleen</string>
+    <string name="delete_download" formatted="false">Poistetaanko lataus ja sen tiedosto?</string>
+    <string name="no_player" formatted="false">Tämän tiedoston avaamiseen ei ole saatavilla yhteensopivaa sovellusta.</string>
+    <string name="guide_title" formatted="false">Löytämisestä lataukseen.</string>
+    <string name="guide_subtitle" formatted="false">Yksinkertainen opas rakastamiesi videoiden säilyttämiseen.</string>
+    <string name="step_one_title" formatted="false">Etsi videosi</string>
+    <string name="step_one_body" formatted="false">Avaa Selaa. Hae tai kirjoita verkkosivuston osoite. Voit myös jakaa videolinkin toisesta sovelluksesta.</string>
+    <string name="step_two_title" formatted="false">Löydä lähde</string>
+    <string name="step_two_body" formatted="false">Toista video ja napauta sitten Etsi videoita. Valitse havaittu tiedosto tai liitä suora HTTPS-videolinkki.</string>
+    <string name="step_three_title" formatted="false">Tee siitä omasi</string>
+    <string name="step_three_body" formatted="false">Valitse tiedostonimi, vahvista lupasi tallentaa video ja napauta Lataa. Android jatkaa latausta taustalla.</string>
+    <string name="step_four_title" formatted="false">Nauti kokoelmastasi</string>
+    <string name="step_four_body" formatted="false">Tarkista edistyminen avaamalla Lataukset. Toista tai jaa valmiita videoita. Yritä epäonnistuneita latauksia tarvittaessa uudella linkillä.</string>
+    <string name="try_now" formatted="false">Kokeile nyt</string>
+    <string name="preferences" formatted="false">Tee siitä omasi.</string>
+    <string name="preferences_subtitle" formatted="false">Muutamia harkittuja säätimiä jokapäiväistä selaamista varten.</string>
+    <string name="dns_title" formatted="false">VPN / yksityinen DNS</string>
+    <string name="dns_explanation" formatted="false">Yksityinen DNS salaa DNS-kyselyt. Se ei piilota IP-osoitettasi tai luo VPN-tunnelia. Android vaatii tämän asetuksen muuttamisen manuaalisesti.</string>
+    <string name="connected" formatted="false">Yhdistetty</string>
+    <string name="unconnected" formatted="false">Ei yhteyttä</string>
+    <string name="connect" formatted="false">Yhdistä</string>
+    <string name="disconnect" formatted="false">Katkaise yhteys</string>
+    <string name="dns_instructions" formatted="false">Valitse Yksityinen DNS-palveluntarjoajan isäntänimi, liitä dns.adguard-dns.com ja tallenna. Katkaise yhteys valitsemalla Automaattinen tai Pois samasta järjestelmäasetuksesta.</string>
+    <string name="copy_hostname" formatted="false">Kopioi isäntänimi</string>
+    <string name="copied" formatted="false">Kopioitu leikepöydälle</string>
+    <string name="open_network_settings" formatted="false">Avaa verkkoasetukset</string>
+    <string name="language" formatted="false">Sovelluksen kieli</string>
+    <string name="system_language" formatted="false">Seuraa laitteen kieltä</string>
+    <string name="search_language" formatted="false">Etsi kieli</string>
+    <string name="language_note" formatted="false">Käännökset sisältyvät offline-tilaan. Luetteloimattomien laitteiden kielet ovat englanti. Konekäännökset saattavat vaatia alueellista tarkistusta.</string>
+    <string name="search_engine" formatted="false">Hakukone</string>
+    <string name="wifi_only" formatted="false">Lataa vain Wi-Fi-yhteydellä</string>
+    <string name="wifi_body" formatted="false">Uudet lataukset odottavat, kunnes Wi-Fi on saatavilla.</string>
+    <string name="javascript" formatted="false">Verkkosivusto JavaScript</string>
+    <string name="javascript_body" formatted="false">Vaaditaan monilla verkkosivustoilla ja HTML5-videoiden löytämisessä.</string>
+    <string name="privacy" formatted="false">Yksityisyys</string>
+    <string name="clear_browser" formatted="false">Tyhjennä selaustiedot</string>
+    <string name="clear_browser_confirm" formatted="false">Poistetaanko evästeet, selaimen välimuisti, historia ja verkkosivuston tallennustila?</string>
+    <string name="privacy_body" formatted="false">Ei mainoksia, analytiikkaa tai kehittäjätilejä. Web-sivustot, hakukoneet, DNS-palveluntarjoajat ja latauspalvelimet vastaanottavat tekemäsi pyynnöt. Lataushistoria ja kirjanmerkit säilyvät tällä laitteella.</string>
+    <string name="terms" formatted="false">Käytä vastuullisesti</string>
+    <string name="terms_body" formatted="false">Tallenna vain videot, jotka omistat tai joiden lataaminen on sallittua. Kunnioita tekijänoikeuksia ja verkkosivuston ehtoja. Tämä sovellus ei voi ohittaa DRM-, maksumuureja tai alustan latausrajoituksia.</string>
+    <string name="about" formatted="false">Tietoja</string>
+    <string name="version" formatted="false">Versio</string>
+    <string name="paid_app" formatted="false">Yksi ostos. Ei mainoksia. Ei tilausta.</string>
+    <string name="welcome_title" formatted="false">Pidä se, mikä inspiroi sinua.</string>
+    <string name="welcome_body" formatted="false">Selaa, löydä ja tallenna sallittuja videoita yhteen paikkaan. Aloita lukemalla kuvitettu opas.</string>
+    <string name="start_browsing" formatted="false">Aloita selaaminen</string>
+    <string name="read_guide" formatted="false">Lue ohje</string>
+    <string name="browser_error" formatted="false">Tätä sivua ei voitu ladata. Tarkista osoite ja yhteys ja lataa sitten uudelleen.</string>
+    <string name="secure_only" formatted="false">Tämä sovellus käyttää HTTPS-yhteyksiä. Kokeile tämän sivuston suojattua versiota.</string>
+    <string name="external_link" formatted="false">Avataanko tämä linkki toisessa sovelluksessa?</string>
+    <string name="open" formatted="false">Avaa</string>
+    <string name="refresh" formatted="false">Päivitä</string>
+    <string name="accessibility_tutorial" formatted="false">Kuva tälle opetusohjelman vaiheelle</string>
+    <string name="download_reason" formatted="false">Android-latauksen virhekoodi</string>
+    <string name="queue_full" formatted="false">Lataushistoria on täynnä. Poista ensin vanhempi merkintä.</string>
+    <string name="browser_tabs" formatted="false">Selaimen välilehdet</string>
+    <string name="tabs_subtitle" formatted="false">Pidä verkkosivustot auki ja vaihda niiden välillä.</string>
+    <string name="new_tab" formatted="false">Uusi välilehti</string>
+    <string name="close_tab" formatted="false">Sulje välilehti</string>
+    <string name="active_tab" formatted="false">Aktiivinen välilehti</string>
+    <string name="tab_limit" formatted="false">Voit avata enintään 8 välilehteä. Sulje välilehti lisätäksesi toisen.</string>
+    <string name="history" formatted="false">Historia</string>
+    <string name="history_subtitle" formatted="false">Vierailemasi verkkosivustot tallennetaan vain tälle laitteelle.</string>
+    <string name="empty_history" formatted="false">Selaushistoriasi näkyy täällä.</string>
+    <string name="clear_history" formatted="false">Tyhjennä historia</string>
+    <string name="clear_history_confirm" formatted="false">Poistetaanko koko selaushistoria tältä laitteelta?</string>
+    <string name="open_new_tab" formatted="false">Avaa uudessa välilehdessä</string>
+    <string name="browser_menu" formatted="false">Selaimen valikko</string>
+    <string name="shortcut_note" formatted="false">Verkkosivuston pikakuvakkeet avautuvat selaimessa. Latauksen saatavuus riippuu verkkosivustosta.</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ПРЕМИУМ</string>
+    <string name="browse" formatted="false">Мурури</string>
+    <string name="downloads" formatted="false">Боргириҳо</string>
+    <string name="guide" formatted="false">Роҳнамо</string>
+    <string name="settings" formatted="false">Танзимотҳо</string>
+    <string name="home_title" formatted="false">Видеоҳои шумо. Коллексияи шумо.</string>
+    <string name="home_subtitle" formatted="false">Чизеро пайдо кунед, ки арзанда нигоҳ доред.</string>
+    <string name="search_hint" formatted="false">Вебсайтро ҷустуҷӯ кунед ё ворид кунед</string>
+    <string name="go" formatted="false">Бирав</string>
+    <string name="paste_link" formatted="false">Истиноди видеоро часбонед</string>
+    <string name="direct_link" formatted="false">Истиноди мустақими видео</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Зеркашӣ кунед</string>
+    <string name="detect" formatted="false">Видеоҳоро пайдо кунед</string>
+    <string name="detected" formatted="false">Видеоҳо дар ин саҳифа</string>
+    <string name="no_media" formatted="false">Ягон видеои зеркашишаванда ёфт нашуд. Навозишро оғоз кунед ва пас аз нав кӯшиш кунед. Ҷараёнҳои ҳифзшуда ва чаҳорчӯбаҳои дарунсохт метавонанд дастнорас бошанд.</string>
+    <string name="safe_note" formatted="false">Танҳо видеоҳоеро, ки ба шумо тааллуқ доред, зеркашӣ кунед ё иҷозати захира кардан доред. Ҷараёнҳои ҳифзшуда ва зеркашиҳои YouTube дастрас нестанд.</string>
+    <string name="quick_start" formatted="false">ИН ҶО Оғоз кунед</string>
+    <string name="quick_browse" formatted="false">Вебро омӯзед</string>
+    <string name="quick_browse_body" formatted="false">Бо муҳаррики дилхоҳатон дар браузери дарунсохт ҷустуҷӯ кунед.</string>
+    <string name="quick_download" formatted="false">Видеоро захира кунед</string>
+    <string name="quick_download_body" formatted="false">Истиноди мустақими видеои HTTPS-ро часбонед ё дар саҳифа видео пайдо кунед.</string>
+    <string name="quick_guide" formatted="false">Як роҳнамоии каме</string>
+    <string name="quick_guide_body" formatted="false">Чор қадами тасвиршуда аз кашф то коллексияи шумо.</string>
+    <string name="back" formatted="false">Бозгашт</string>
+    <string name="forward" formatted="false">Ба пеш</string>
+    <string name="reload" formatted="false">Аз нав бор кунед</string>
+    <string name="home" formatted="false">Хона</string>
+    <string name="bookmark" formatted="false">Хатчӯб</string>
+    <string name="bookmarks" formatted="false">Хатчӯбҳо</string>
+    <string name="empty_bookmarks" formatted="false">Вебсайтҳои захирашуда дар ин ҷо пайдо мешаванд.</string>
+    <string name="saved" formatted="false">Захира карда шуд</string>
+    <string name="remove" formatted="false">Хориҷ кунед</string>
+    <string name="cancel" formatted="false">Бекор кардан</string>
+    <string name="close" formatted="false">Пӯшед</string>
+    <string name="confirm_download" formatted="false">Ин видеоро захира кунед?</string>
+    <string name="filename" formatted="false">Номи файл</string>
+    <string name="download_location" formatted="false">Дар зеркашиҳо / Video Downloader Premium захира шудааст</string>
+    <string name="permission_confirm" formatted="false">Ман ин видеоро дорам ё барои зеркашии он иҷозат дорам.</string>
+    <string name="permission_required" formatted="false">Тасдиқ кунед, ки шумо барои захира кардани ин видео иҷозат доред.</string>
+    <string name="invalid_url" formatted="false">Истиноди дурусти видеои HTTPS-ро ворид кунед.</string>
+    <string name="unsupported" formatted="false">Ин истинод видеои зеркашишаванда нест. DRM, ҷараёнҳои зинда, рӯйхатҳои навозиш ва зеркашиҳои YouTube дастгирӣ намешаванд.</string>
+    <string name="queued" formatted="false">Зеркашӣ ба навбат илова карда шуд</string>
+    <string name="download_error" formatted="false">Зеркашӣ кардан ғайриимкон аст. Пайвастро санҷед ё пайванди видеоии навро истифода баред.</string>
+    <string name="collection_title" formatted="false">Коллексияи шумо</string>
+    <string name="collection_subtitle" formatted="false">Видеоҳои захирашуда, вақте ки шумо омодаед.</string>
+    <string name="empty_downloads" formatted="false">Дӯстдоштаи навбатии шумо ин ҷост.</string>
+    <string name="empty_downloads_body" formatted="false">Барои оғоз кардани коллексияи худ дар \&quot;Параш\&quot; видео пайдо кунед ё пайванди мустақими видеоро часбонед.</string>
+    <string name="pending" formatted="false">Дар навбат</string>
+    <string name="running" formatted="false">Зеркашӣ кардан</string>
+    <string name="paused" formatted="false">Интизори шабака ё дубора кӯшиш кунед</string>
+    <string name="complete" formatted="false">Анҷом</string>
+    <string name="failed" formatted="false">Муваффақ шуд</string>
+    <string name="missing" formatted="false">Файл дастрас нест</string>
+    <string name="play" formatted="false">Бозӣ</string>
+    <string name="share" formatted="false">Мубодила</string>
+    <string name="retry" formatted="false">Аз нав кӯшиш кунед</string>
+    <string name="delete_download" formatted="false">Зеркашӣ ва файли онро нест кунед?</string>
+    <string name="no_player" formatted="false">Ягон барномаи мувофиқ барои кушодани ин файл дастрас нест.</string>
+    <string name="guide_title" formatted="false">Аз кашф то зеркашӣ.</string>
+    <string name="guide_subtitle" formatted="false">Роҳнамои оддӣ барои нигоҳ доштани видеоҳои дӯстдоштаи шумо.</string>
+    <string name="step_one_title" formatted="false">Видеои худро пайдо кунед</string>
+    <string name="step_one_body" formatted="false">Бознигариро кушоед. Суроғаи вебсайтро ҷустуҷӯ кунед ё ворид кунед. Шумо инчунин метавонед пайванди видеоиро аз барномаи дигар мубодила кунед.</string>
+    <string name="step_two_title" formatted="false">Манбаъро кашф кунед</string>
+    <string name="step_two_body" formatted="false">Видеоро навозиш кунед ва сипас Ҷустуҷӯи видеоҳоро клик кунед. Файли ошкоршударо интихоб кунед ё пайванди видеоии мустақими HTTPS-ро часбонед.</string>
+    <string name="step_three_title" formatted="false">Онро аз они худ созед</string>
+    <string name="step_three_body" formatted="false">Номи файлро интихоб кунед, иҷозати захира кардани видеоро тасдиқ кунед ва Зеркашӣ-ро клик кунед. Android зеркаширо дар замина идома медиҳад.</string>
+    <string name="step_four_title" formatted="false">Аз коллексияи худ лаззат баред</string>
+    <string name="step_four_body" formatted="false">Боргириҳоро кушоед, то пешрафти онро тафтиш кунед. Видеоҳои анҷомёфтаро бозӣ кунед ё мубодила кунед. Ҳангоми зарурат зеркашиҳои нокомро бо истиноди нав такрор кунед.</string>
+    <string name="try_now" formatted="false">Ҳоло кӯшиш кунед</string>
+    <string name="preferences" formatted="false">Онро худатон созед.</string>
+    <string name="preferences_subtitle" formatted="false">Якчанд назорати оқилона барои дидани ҳаррӯзаи шумо.</string>
+    <string name="dns_title" formatted="false">VPN / DNS хусусӣ</string>
+    <string name="dns_explanation" formatted="false">DNS хусусӣ дархостҳои DNS-ро рамзгузорӣ мекунад. Он суроғаи IP-и шуморо пинҳон намекунад ё нақби VPN эҷод намекунад. Android аз шумо талаб мекунад, ки ин танзимотро дастӣ тағир диҳед.</string>
+    <string name="connected" formatted="false">пайваст</string>
+    <string name="unconnected" formatted="false">Пайваст нест</string>
+    <string name="connect" formatted="false">Пайваст кунед</string>
+    <string name="disconnect" formatted="false">Қатъ кунед</string>
+    <string name="dns_instructions" formatted="false">Номи мизбони провайдери хусусии DNS-ро интихоб кунед, dns.adguard-dns.com-ро часбонед ва захира кунед. Барои қатъ кардан, Автоматӣ ё Хомӯш -ро дар ҳамон танзимоти система интихоб кунед.</string>
+    <string name="copy_hostname" formatted="false">Номи мизбонро нусхабардорӣ кунед</string>
+    <string name="copied" formatted="false">Ба буфер нусхабардорӣ карда шуд</string>
+    <string name="open_network_settings" formatted="false">Танзимоти шабакаро кушоед</string>
+    <string name="language" formatted="false">Забони барнома</string>
+    <string name="system_language" formatted="false">Забони дастгоҳро риоя кунед</string>
+    <string name="search_language" formatted="false">Забоне пайдо кунед</string>
+    <string name="language_note" formatted="false">Тарҷумаҳо офлайн дохил карда мешаванд. Забонҳои номбаршудаи дастгоҳ забони англисиро истифода мебаранд. Тарҷумаи мошин метавонад баррасии минтақавиро талаб кунад.</string>
+    <string name="search_engine" formatted="false">Муҳаррики ҷустуҷӯ</string>
+    <string name="wifi_only" formatted="false">Танҳо дар Wi-Fi зеркашӣ кунед</string>
+    <string name="wifi_body" formatted="false">Зеркашиҳои нав то дастрас шудани Wi-Fi интизор мешаванд.</string>
+    <string name="javascript" formatted="false">Вебсайт JavaScript</string>
+    <string name="javascript_body" formatted="false">Барои бисёр вебсайтҳо ва кашфи видеои HTML5 талаб карда мешавад.</string>
+    <string name="privacy" formatted="false">Махфият</string>
+    <string name="clear_browser" formatted="false">Тоза кардани маълумоти дидан</string>
+    <string name="clear_browser_confirm" formatted="false">Кукиҳо, кэши браузер, таърих ва нигаҳдории вебсайтро нест кунед?</string>
+    <string name="privacy_body" formatted="false">Ҳеҷ гуна таблиғ, таҳлил ё ҳисобҳои таҳиякунанда нест. Вебсайтҳо, системаҳои ҷустуҷӯӣ, провайдерҳои DNS ва серверҳои зеркашӣ дархостҳои шуморо қабул мекунанд. Таърихи зеркашӣ ва хатчӯбҳо дар ин дастгоҳ боқӣ мемонанд.</string>
+    <string name="terms" formatted="false">Бо камоли масъулият истифода баред</string>
+    <string name="terms_body" formatted="false">Танҳо видеоҳоеро, ки ба шумо тааллуқ доранд, захира кунед ё барои зеркашӣ иҷозат дода шудааст. Шартҳои ҳуқуқи муаллиф ва вебсайтро эҳтиром кунед. Ин барнома наметавонад DRM, пардохтҳо ё маҳдудиятҳои зеркашии платформаро убур кунад.</string>
+    <string name="about" formatted="false">Дар бораи</string>
+    <string name="version" formatted="false">Версия</string>
+    <string name="paid_app" formatted="false">Як харид. Бе реклама. Обуна нест.</string>
+    <string name="welcome_title" formatted="false">Он чизеро, ки ба шумо илҳом мебахшад, нигоҳ доред.</string>
+    <string name="welcome_body" formatted="false">Видеоҳои иҷозатдодашударо дар як ҷо паймоиш, кашф ва захира кунед. Барои оғози кор дастури тасвиршударо хонед.</string>
+    <string name="start_browsing" formatted="false">Ба дидан оғоз кунед</string>
+    <string name="read_guide" formatted="false">Дастурро хонед</string>
+    <string name="browser_error" formatted="false">Ин саҳифа бор карда нашуд. Суроға ва пайвастро тафтиш кунед, пас аз нав бор кунед.</string>
+    <string name="secure_only" formatted="false">Ин барнома пайвастҳои HTTPS-ро истифода мебарад. Версияи бехатари ин вебсайтро санҷед.</string>
+    <string name="external_link" formatted="false">Оё ин истинодро дар барномаи дигар кушоед?</string>
+    <string name="open" formatted="false">Кушода</string>
+    <string name="refresh" formatted="false">Навсозӣ</string>
+    <string name="accessibility_tutorial" formatted="false">Тасвири ин қадами дарсӣ</string>
+    <string name="download_reason" formatted="false">Рамзи хатогии зеркашӣ Android</string>
+    <string name="queue_full" formatted="false">Таърихи зеркашӣ пур аст. Аввал як сабти кӯҳнаро хориҷ кунед.</string>
+    <string name="browser_tabs" formatted="false">Варақаҳои браузер</string>
+    <string name="tabs_subtitle" formatted="false">Вебсайтҳоро кушода нигоҳ доред ва байни онҳо гузаред.</string>
+    <string name="new_tab" formatted="false">Ҷадвали нав</string>
+    <string name="close_tab" formatted="false">Варақаро пӯшед</string>
+    <string name="active_tab" formatted="false">Ҷадвали фаъол</string>
+    <string name="tab_limit" formatted="false">Шумо метавонед то 8 ҷадвал кушоед. Барои илова кардани дигар ҷадвалро пӯшед.</string>
+    <string name="history" formatted="false">Таърих</string>
+    <string name="history_subtitle" formatted="false">Вебсайтҳои боздидшуда танҳо дар ин дастгоҳ захира карда мешаванд.</string>
+    <string name="empty_history" formatted="false">Таърихи дидани шумо дар ин ҷо пайдо мешавад.</string>
+    <string name="clear_history" formatted="false">Таърихро тоза кунед</string>
+    <string name="clear_history_confirm" formatted="false">Ҳама таърихи дидан аз ин дастгоҳ нест карда шаванд?</string>
+    <string name="open_new_tab" formatted="false">Дар ҷадвали нав кушоед</string>
+    <string name="browser_menu" formatted="false">Менюи браузер</string>
+    <string name="shortcut_note" formatted="false">Миёнабурҳои вебсайт дар браузер кушода мешаванд. Мавҷудияти зеркашӣ аз вебсайт вобаста аст.</string>
+</resources>

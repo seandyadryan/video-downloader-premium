@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Kotektak</string>
+    <string name="downloads" formatted="false">Undeuran</string>
+    <string name="guide" formatted="false">Pituduh</string>
+    <string name="settings" formatted="false">Setélan</string>
+    <string name="home_title" formatted="false">video Anjeun. Koléksi anjeun.</string>
+    <string name="home_subtitle" formatted="false">Manggihan hal patut ngajaga.</string>
+    <string name="search_hint" formatted="false">Pilarian atanapi lebetkeun situs wéb</string>
+    <string name="go" formatted="false">indit</string>
+    <string name="paste_link" formatted="false">Témpélkeun tautan pidéo</string>
+    <string name="direct_link" formatted="false">Link video langsung</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Ngundeur</string>
+    <string name="detect" formatted="false">Manggihan video</string>
+    <string name="detected" formatted="false">Video dina kaca ieu</string>
+    <string name="no_media" formatted="false">Teu kapanggih video nu bisa diundeur. Mimiti muterkeun hiji video, teras cobian deui. Aliran anu ditangtayungan sareng pigura anu dipasang tiasa henteu sayogi.</string>
+    <string name="safe_note" formatted="false">Ukur unduh pidéo anu anjeun gaduh atanapi gaduh idin pikeun nyimpen. Aliran anu ditangtayungan sareng unduhan YouTube henteu sayogi.</string>
+    <string name="quick_start" formatted="false">Mimitian IEUH</string>
+    <string name="quick_browse" formatted="false">Ngajalajah web</string>
+    <string name="quick_browse_body" formatted="false">Pilarian nganggo mesin anu anjeun pikaresep dina browser anu diwangun.</string>
+    <string name="quick_download" formatted="false">Simpen pidio</string>
+    <string name="quick_download_body" formatted="false">Tempelkeun tautan pidéo HTTPS langsung atanapi milarian pidéo dina halaman.</string>
+    <string name="quick_guide" formatted="false">Pituduh saeutik</string>
+    <string name="quick_guide_body" formatted="false">Opat léngkah-léngkah anu digambar tina penemuan dugi ka koleksi anjeun.</string>
+    <string name="back" formatted="false">Balik deui</string>
+    <string name="forward" formatted="false">Maju</string>
+    <string name="reload" formatted="false">Muatan deui</string>
+    <string name="home" formatted="false">Imah</string>
+    <string name="bookmark" formatted="false">Tetengger</string>
+    <string name="bookmarks" formatted="false">Tetengger</string>
+    <string name="empty_bookmarks" formatted="false">Situs wéb anu disimpen bakal muncul di dieu.</string>
+    <string name="saved" formatted="false">Disimpen</string>
+    <string name="remove" formatted="false">Cabut</string>
+    <string name="cancel" formatted="false">Ngabolaykeun</string>
+    <string name="close" formatted="false">Tutup</string>
+    <string name="confirm_download" formatted="false">Simpen video ieu?</string>
+    <string name="filename" formatted="false">Ngaran koropak</string>
+    <string name="download_location" formatted="false">Disimpen dina Undeuran / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Abdi gaduh pidéo ieu atanapi gaduh idin pikeun ngaunduhana.</string>
+    <string name="permission_required" formatted="false">Pastikeun yén anjeun gaduh idin pikeun nyimpen video ieu.</string>
+    <string name="invalid_url" formatted="false">Lebetkeun tautan pidéo HTTPS anu sah.</string>
+    <string name="unsupported" formatted="false">Tautan ieu sanés pidéo anu tiasa diunduh. DRM, aliran langsung, daptar puter, sareng unduhan YouTube henteu dirojong.</string>
+    <string name="queued" formatted="false">Download ditambahkeun kana antrian</string>
+    <string name="download_error" formatted="false">Teu bisa diundeur. Pariksa sambungan atawa make link video anyar.</string>
+    <string name="collection_title" formatted="false">Koléksi anjeun</string>
+    <string name="collection_subtitle" formatted="false">Video disimpen, siap nalika anjeun.</string>
+    <string name="empty_downloads" formatted="false">paporit Anjeun salajengna milik dieu.</string>
+    <string name="empty_downloads_body" formatted="false">Milarian pidéo di Kotektak atanapi témpélkeun tautan pidéo langsung pikeun ngamimitian koleksi anjeun.</string>
+    <string name="pending" formatted="false">Ngantri</string>
+    <string name="running" formatted="false">Ngundeur</string>
+    <string name="paused" formatted="false">Ngantosan jaringan atanapi cobian deui</string>
+    <string name="complete" formatted="false">Lengkep</string>
+    <string name="failed" formatted="false">Gagal</string>
+    <string name="missing" formatted="false">Berkas teu sadia</string>
+    <string name="play" formatted="false">Maén</string>
+    <string name="share" formatted="false">Bagikeun</string>
+    <string name="retry" formatted="false">Coba deui</string>
+    <string name="delete_download" formatted="false">Hapus undeuran sareng file na?</string>
+    <string name="no_player" formatted="false">Henteu aya aplikasi anu cocog pikeun muka file ieu.</string>
+    <string name="guide_title" formatted="false">Ti kapanggihna pikeun ngundeur.</string>
+    <string name="guide_subtitle" formatted="false">Pituduh saderhana pikeun ngajaga pidéo anu anjeun resep.</string>
+    <string name="step_one_title" formatted="false">Manggihan video Anjeun</string>
+    <string name="step_one_body" formatted="false">Buka Kotektak. Pilarian atanapi lebetkeun alamat wéb. Anjeun ogé tiasa ngabagi tautan pidéo tina aplikasi anu sanés.</string>
+    <string name="step_two_title" formatted="false">Panggihan sumberna</string>
+    <string name="step_two_body" formatted="false">Puter hiji video, teras ketok Pilarian video. Pilih file anu dideteksi, atanapi témpél tautan pidéo HTTPS langsung.</string>
+    <string name="step_three_title" formatted="false">Jieun eta milik anjeun</string>
+    <string name="step_three_body" formatted="false">Pilih nami file, konpirmasikeun idin anjeun pikeun nyimpen pidéo, teras ketok Unduh. Android neruskeun undeuran di latar tukang.</string>
+    <string name="step_four_title" formatted="false">Ngarasakeun koleksi anjeun</string>
+    <string name="step_four_body" formatted="false">Buka Undeuran pikeun mariksa kamajuan. Puter atanapi bagikeun pidéo anu parantos réngsé. Coba deui undeuran anu gagal sareng tautan énggal upami diperyogikeun.</string>
+    <string name="try_now" formatted="false">Coba ayeuna</string>
+    <string name="preferences" formatted="false">Jieun sorangan.</string>
+    <string name="preferences_subtitle" formatted="false">Sababaraha kadali wijaksana pikeun browsing sapopoé Anjeun.</string>
+    <string name="dns_title" formatted="false">VPN / DNS swasta</string>
+    <string name="dns_explanation" formatted="false">DNS swasta encrypts queries DNS. Éta henteu nyumputkeun alamat IP anjeun atanapi nyiptakeun torowongan VPN. Android merlukeun anjeun ngarobah setelan ieu sacara manual.</string>
+    <string name="connected" formatted="false">Nyambung</string>
+    <string name="unconnected" formatted="false">Teu nyambung</string>
+    <string name="connect" formatted="false">Nyambung</string>
+    <string name="disconnect" formatted="false">Pegatkeun sambungan</string>
+    <string name="dns_instructions" formatted="false">Pilih hostname panyadia DNS swasta, témpél dns.adguard-dns.com, teras simpen. Pikeun megatkeun sambungan, pilih Otomatis atawa Pareum dina setelan sistem nu sami.</string>
+    <string name="copy_hostname" formatted="false">Salin ngaran host</string>
+    <string name="copied" formatted="false">Disalin kana clipboard</string>
+    <string name="open_network_settings" formatted="false">Buka setélan jaringan</string>
+    <string name="language" formatted="false">Basa aplikasi</string>
+    <string name="system_language" formatted="false">Turutan basa alat</string>
+    <string name="search_language" formatted="false">Teangan basa</string>
+    <string name="language_note" formatted="false">Tarjamahan kaasup offline. Basa alat nu teu didaptarkeun make basa Inggris. Tarjamahan mesin bisa jadi butuh review régional.</string>
+    <string name="search_engine" formatted="false">Mesin pencari</string>
+    <string name="wifi_only" formatted="false">Ngundeur dina Wi-Fi wungkul</string>
+    <string name="wifi_body" formatted="false">Undeuran anyar ngantosan dugi Wi-Fi sayogi.</string>
+    <string name="javascript" formatted="false">Website JavaScript</string>
+    <string name="javascript_body" formatted="false">Dibutuhkeun ku seueur situs wéb sareng panemuan pidéo HTML5.</string>
+    <string name="privacy" formatted="false">Privasi</string>
+    <string name="clear_browser" formatted="false">Hapus data browsing</string>
+    <string name="clear_browser_confirm" formatted="false">Hapus cookies, cache browser, sajarah, sareng panyimpenan halaman wéb?</string>
+    <string name="privacy_body" formatted="false">Henteu aya iklan, analitik, atanapi akun pamekar. Situs wéb, mesin pencari, panyadia DNS, sareng server unduh nampi pamundut anu anjeun lakukeun. Unduh riwayat sareng tetengger tetep dina alat ieu.</string>
+    <string name="terms" formatted="false">Paké responsibly</string>
+    <string name="terms_body" formatted="false">Simpen ngan ukur pidéo anu anjeun gaduh atanapi anu diidinan pikeun diunduh. Hormat hak cipta sareng istilah situs wéb. Aplikasi ieu teu tiasa ngalangkungan DRM, paywall, atanapi larangan undeuran platform.</string>
+    <string name="about" formatted="false">Ngeunaan</string>
+    <string name="version" formatted="false">Vérsi</string>
+    <string name="paid_app" formatted="false">Hiji beuli. Taya iklan. Taya langganan.</string>
+    <string name="welcome_title" formatted="false">Tetep naon mere ilham anjeun.</string>
+    <string name="welcome_body" formatted="false">Kotektak, panggihan, sareng simpen pidéo anu diidinan dina hiji tempat. Baca pituduh gambar pikeun ngamimitian.</string>
+    <string name="start_browsing" formatted="false">Mimitian browsing</string>
+    <string name="read_guide" formatted="false">Baca pituduh</string>
+    <string name="browser_error" formatted="false">Kaca ieu teu bisa dimuat. Pariksa alamat sareng sambunganna, teras muatkeun deui.</string>
+    <string name="secure_only" formatted="false">Aplikasi ieu nganggo sambungan HTTPS. Coba versi aman tina ramatloka ieu.</string>
+    <string name="external_link" formatted="false">Buka tautan ieu dina aplikasi anu sanés?</string>
+    <string name="open" formatted="false">Buka</string>
+    <string name="refresh" formatted="false">Nyegerkeun</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustrasi pikeun léngkah tutorial ieu</string>
+    <string name="download_reason" formatted="false">Android download kode kasalahan</string>
+    <string name="queue_full" formatted="false">Sajarah download pinuh. Pupus heula entri anu langkung lami.</string>
+    <string name="browser_tabs" formatted="false">Tab browser</string>
+    <string name="tabs_subtitle" formatted="false">Tetep situs web kabuka sarta pindah antara aranjeunna.</string>
+    <string name="new_tab" formatted="false">Tab anyar</string>
+    <string name="close_tab" formatted="false">Tutup tab</string>
+    <string name="active_tab" formatted="false">Tab aktip</string>
+    <string name="tab_limit" formatted="false">Anjeun tiasa muka nepi ka 8 tab. Tutup tab pikeun nambihan anu sanés.</string>
+    <string name="history" formatted="false">Sajarah</string>
+    <string name="history_subtitle" formatted="false">Situs web anu dilongok disimpen ngan dina alat ieu.</string>
+    <string name="empty_history" formatted="false">Sajarah browsing anjeun bakal muncul di dieu.</string>
+    <string name="clear_history" formatted="false">Hapus sajarah</string>
+    <string name="clear_history_confirm" formatted="false">Pupus sadaya riwayat browsing tina alat ieu?</string>
+    <string name="open_new_tab" formatted="false">Buka dina tab anyar</string>
+    <string name="browser_menu" formatted="false">menu browser</string>
+    <string name="shortcut_note" formatted="false">Potong kompas situs wéb dibuka dina browser. kasadiaan download gumantung kana website.</string>
+</resources>

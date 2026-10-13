@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Foliumi</string>
+    <string name="downloads" formatted="false">Elŝutoj</string>
+    <string name="guide" formatted="false">Gvidilo</string>
+    <string name="settings" formatted="false">Agordoj</string>
+    <string name="home_title" formatted="false">Viaj filmetoj. Via kolekto.</string>
+    <string name="home_subtitle" formatted="false">Trovu ion konservinda.</string>
+    <string name="search_hint" formatted="false">Serĉu aŭ enigu retejon</string>
+    <string name="go" formatted="false">Iru</string>
+    <string name="paste_link" formatted="false">Algluu videoligilon</string>
+    <string name="direct_link" formatted="false">Rekta video-ligo</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Elŝutu</string>
+    <string name="detect" formatted="false">Trovu filmetojn</string>
+    <string name="detected" formatted="false">Videoj sur ĉi tiu paĝo</string>
+    <string name="no_media" formatted="false">Neniu elŝutebla video trovita. Komencu reprodukti videon, poste provu denove. Protektitaj riveretoj kaj enigitaj kadroj povas esti neatingeblaj.</string>
+    <string name="safe_note" formatted="false">Nur elŝutu filmetojn, kiujn vi posedas aŭ havas permeson konservi. Protektitaj fluoj kaj jutubaj elŝutoj ne estas disponeblaj.</string>
+    <string name="quick_start" formatted="false">KOMENCU TIE</string>
+    <string name="quick_browse" formatted="false">Esploru la retejon</string>
+    <string name="quick_browse_body" formatted="false">Serĉu per via preferata motoro en la enkonstruita retumilo.</string>
+    <string name="quick_download" formatted="false">Konservu videon</string>
+    <string name="quick_download_body" formatted="false">Algluu rektan HTTPS-video-ligilon aŭ trovu videon sur paĝo.</string>
+    <string name="quick_guide" formatted="false">Iom da gvido</string>
+    <string name="quick_guide_body" formatted="false">Kvar ilustritaj paŝoj de malkovro ĝis via kolekto.</string>
+    <string name="back" formatted="false">Reen</string>
+    <string name="forward" formatted="false">Antaŭen</string>
+    <string name="reload" formatted="false">Reŝargi</string>
+    <string name="home" formatted="false">Hejmo</string>
+    <string name="bookmark" formatted="false">Legomarko</string>
+    <string name="bookmarks" formatted="false">Legosignoj</string>
+    <string name="empty_bookmarks" formatted="false">Konservitaj retejoj aperos ĉi tie.</string>
+    <string name="saved" formatted="false">Savita</string>
+    <string name="remove" formatted="false">Forigi</string>
+    <string name="cancel" formatted="false">Nuligi</string>
+    <string name="close" formatted="false">Fermu</string>
+    <string name="confirm_download" formatted="false">Ĉu konservi ĉi tiun videon?</string>
+    <string name="filename" formatted="false">Dosiernomo</string>
+    <string name="download_location" formatted="false">Konservite en Elŝutoj / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Mi posedas ĉi tiun videon aŭ havas permeson elŝuti ĝin.</string>
+    <string name="permission_required" formatted="false">Konfirmu, ke vi havas permeson konservi ĉi tiun videon.</string>
+    <string name="invalid_url" formatted="false">Enigu validan HTTPS-video-ligilon.</string>
+    <string name="unsupported" formatted="false">Ĉi tiu ligilo ne estas elŝutebla video. DRM, vivaj fluoj, ludlistoj kaj jutubaj elŝutoj ne estas subtenataj.</string>
+    <string name="queued" formatted="false">Elŝuto aldonita al la vico</string>
+    <string name="download_error" formatted="false">Ne eblas elŝuti. Kontrolu la konekton aŭ uzu freŝan videoligon.</string>
+    <string name="collection_title" formatted="false">Via kolekto</string>
+    <string name="collection_subtitle" formatted="false">Konservitaj filmetoj, pretaj kiam vi estos.</string>
+    <string name="empty_downloads" formatted="false">Via sekva favorato apartenas ĉi tie.</string>
+    <string name="empty_downloads_body" formatted="false">Trovu videon en Foliumi aŭ algluu rektan videoligilon por komenci vian kolekton.</string>
+    <string name="pending" formatted="false">Envico</string>
+    <string name="running" formatted="false">Elŝutante</string>
+    <string name="paused" formatted="false">Atendante reton aŭ reprovu</string>
+    <string name="complete" formatted="false">Kompleta</string>
+    <string name="failed" formatted="false">Malsukcesis</string>
+    <string name="missing" formatted="false">Dosiero nedisponebla</string>
+    <string name="play" formatted="false">Ludu</string>
+    <string name="share" formatted="false">Kunhavigi</string>
+    <string name="retry" formatted="false">Reprovi</string>
+    <string name="delete_download" formatted="false">Ĉu forigi elŝuton kaj ĝian dosieron?</string>
+    <string name="no_player" formatted="false">Neniu kongrua aplikaĵo disponeblas por malfermi ĉi tiun dosieron.</string>
+    <string name="guide_title" formatted="false">De malkovro ĝis elŝuto.</string>
+    <string name="guide_subtitle" formatted="false">Simpla gvidilo por konservi la videojn, kiujn vi amas.</string>
+    <string name="step_one_title" formatted="false">Trovu vian videon</string>
+    <string name="step_one_body" formatted="false">Malfermu Foliumi. Serĉu aŭ enigu adreson de retejo. Vi ankaŭ povas dividi videoligilon de alia aplikaĵo.</string>
+    <string name="step_two_title" formatted="false">Malkovru la fonton</string>
+    <string name="step_two_body" formatted="false">Ludu videon, tiam klaku Trovi filmetojn. Elektu detektitan dosieron aŭ algluu rektan HTTPS-video-ligon.</string>
+    <string name="step_three_title" formatted="false">Faru ĝin via</string>
+    <string name="step_three_body" formatted="false">Elektu dosiernomon, konfirmu vian permeson konservi la videon, kaj alklaku Elŝuti. Android daŭrigas la elŝuton en la fono.</string>
+    <string name="step_four_title" formatted="false">Ĝuu vian kolekton</string>
+    <string name="step_four_body" formatted="false">Malfermu Elŝutojn por kontroli progreson. Ludu aŭ dividu finitajn filmetojn. Reprovi malsukcesajn elŝutojn kun freŝa ligo kiam necese.</string>
+    <string name="try_now" formatted="false">Provu ĝin nun</string>
+    <string name="preferences" formatted="false">Faru ĝin via.</string>
+    <string name="preferences_subtitle" formatted="false">Kelkaj pripensemaj kontroloj por via ĉiutaga foliumado.</string>
+    <string name="dns_title" formatted="false">VPN / Privata DNS</string>
+    <string name="dns_explanation" formatted="false">Privata DNS ĉifras DNS-demandojn. Ĝi ne kaŝas vian IP-adreson aŭ kreas VPN-tunelon. Android postulas, ke vi ŝanĝu ĉi tiun agordon permane.</string>
+    <string name="connected" formatted="false">Konektita</string>
+    <string name="unconnected" formatted="false">Nekonektita</string>
+    <string name="connect" formatted="false">Konekti</string>
+    <string name="disconnect" formatted="false">Malkonekti</string>
+    <string name="dns_instructions" formatted="false">Elektu gastigan nomon de privata DNS-provizanto, algluu dns.adguard-dns.com kaj konservu. Por malkonekti, elektu Aŭtomata aŭ Malŝaltita en la sama sistema agordo.</string>
+    <string name="copy_hostname" formatted="false">Kopiu gastigan nomon</string>
+    <string name="copied" formatted="false">Kopiita al tondujo</string>
+    <string name="open_network_settings" formatted="false">Malfermu retajn agordojn</string>
+    <string name="language" formatted="false">Aplingvo</string>
+    <string name="system_language" formatted="false">Sekvu aparatlingvon</string>
+    <string name="search_language" formatted="false">Trovu lingvon</string>
+    <string name="language_note" formatted="false">Tradukoj estas inkluzivitaj eksterrete. Nelistigitaj aparatlingvoj uzas la anglan. Maŝintradukoj eble bezonas regionan revizion.</string>
+    <string name="search_engine" formatted="false">Serĉilo</string>
+    <string name="wifi_only" formatted="false">Elŝutu nur per Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Novaj elŝutoj atendas ĝis Wi-Fi estas disponebla.</string>
+    <string name="javascript" formatted="false">Retejo JavaScript</string>
+    <string name="javascript_body" formatted="false">Postulata de multaj retejoj kaj HTML5-video-malkovro.</string>
+    <string name="privacy" formatted="false">Privateco</string>
+    <string name="clear_browser" formatted="false">Malplenigi foliumajn datumojn</string>
+    <string name="clear_browser_confirm" formatted="false">Ĉu forigi kuketojn, retumilon kaŝmemoron, historion kaj retejan konservadon?</string>
+    <string name="privacy_body" formatted="false">Neniuj reklamoj, analizoj aŭ kontoj de programistoj. Retejoj, serĉiloj, DNS-provizantoj kaj elŝutaj serviloj ricevas la petojn, kiujn vi faras. Elŝuta historio kaj legosignoj restas sur ĉi tiu aparato.</string>
+    <string name="terms" formatted="false">Uzu respondece</string>
+    <string name="terms_body" formatted="false">Konservu nur filmetojn, kiujn vi posedas aŭ rajtas elŝuti. Respektu kopirajtojn kaj retejojn. Ĉi tiu programo ne povas preterpasi limigojn pri DRM, pagomuroj aŭ platformaj elŝutaj limigoj.</string>
+    <string name="about" formatted="false">Pri</string>
+    <string name="version" formatted="false">Versio</string>
+    <string name="paid_app" formatted="false">Unu aĉeto. Neniuj reklamoj. Neniu abono.</string>
+    <string name="welcome_title" formatted="false">Konservu tion, kio inspiras vin.</string>
+    <string name="welcome_body" formatted="false">Foliumu, malkovru kaj konservu permesitajn filmetojn en unu loko. Legu la ilustritan gvidilon por komenci.</string>
+    <string name="start_browsing" formatted="false">Komencu foliumi</string>
+    <string name="read_guide" formatted="false">Legu la gvidilon</string>
+    <string name="browser_error" formatted="false">Ĉi tiu paĝo ne eblis ŝargi. Kontrolu la adreson kaj konekton, poste reŝargu.</string>
+    <string name="secure_only" formatted="false">Ĉi tiu programo uzas HTTPS-konektojn. Provu la sekuran version de ĉi tiu retejo.</string>
+    <string name="external_link" formatted="false">Ĉu malfermi ĉi tiun ligilon en alia aplikaĵo?</string>
+    <string name="open" formatted="false">Malfermu</string>
+    <string name="refresh" formatted="false">Refreŝigi</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustraĵo por ĉi tiu lerniga paŝo</string>
+    <string name="download_reason" formatted="false">Android-elŝuta erarkodo</string>
+    <string name="queue_full" formatted="false">La elŝuta historio estas plena. Forigu pli malnovan enskribon unue.</string>
+    <string name="browser_tabs" formatted="false">Retumilo langetoj</string>
+    <string name="tabs_subtitle" formatted="false">Tenu retejojn malfermitaj kaj ŝanĝu inter ili.</string>
+    <string name="new_tab" formatted="false">Nova langeto</string>
+    <string name="close_tab" formatted="false">Fermu langeton</string>
+    <string name="active_tab" formatted="false">Aktiva langeto</string>
+    <string name="tab_limit" formatted="false">Vi povas malfermi ĝis 8 langetojn. Fermu langeton por aldoni alian.</string>
+    <string name="history" formatted="false">Historio</string>
+    <string name="history_subtitle" formatted="false">Vizititaj retejoj estas konservitaj nur en ĉi tiu aparato.</string>
+    <string name="empty_history" formatted="false">Via foliumhistorio aperos ĉi tie.</string>
+    <string name="clear_history" formatted="false">Klarigi historion</string>
+    <string name="clear_history_confirm" formatted="false">Ĉu forigi la tutan foliumhistorion de ĉi tiu aparato?</string>
+    <string name="open_new_tab" formatted="false">Malfermu en nova langeto</string>
+    <string name="browser_menu" formatted="false">Retumila menuo</string>
+    <string name="shortcut_note" formatted="false">Retejaj ŝparvojoj malfermiĝas en la retumilo. Elŝuta havebleco dependas de la retejo.</string>
+</resources>

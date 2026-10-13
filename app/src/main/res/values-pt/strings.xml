@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Navegar</string>
+    <string name="downloads" formatted="false">Transferências</string>
+    <string name="guide" formatted="false">Guia</string>
+    <string name="settings" formatted="false">Configurações</string>
+    <string name="home_title" formatted="false">Seus vídeos. Sua coleção.</string>
+    <string name="home_subtitle" formatted="false">Encontre algo que valha a pena guardar.</string>
+    <string name="search_hint" formatted="false">Pesquise ou entre em um site</string>
+    <string name="go" formatted="false">Vá</string>
+    <string name="paste_link" formatted="false">Cole o link do vídeo</string>
+    <string name="direct_link" formatted="false">Link direto do vídeo</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Baixar</string>
+    <string name="detect" formatted="false">Encontre vídeos</string>
+    <string name="detected" formatted="false">Vídeos nesta página</string>
+    <string name="no_media" formatted="false">Nenhum vídeo para download encontrado. Comece a reproduzir um vídeo e tente novamente. Fluxos protegidos e quadros incorporados podem estar indisponíveis.</string>
+    <string name="safe_note" formatted="false">Baixe apenas vídeos que você possui ou tem permissão para salvar. Streams protegidos e downloads do YouTube não estão disponíveis.</string>
+    <string name="quick_start" formatted="false">COMECE AQUI</string>
+    <string name="quick_browse" formatted="false">Explorar a web</string>
+    <string name="quick_browse_body" formatted="false">Pesquise com seu mecanismo preferido no navegador integrado.</string>
+    <string name="quick_download" formatted="false">Salvar um vídeo</string>
+    <string name="quick_download_body" formatted="false">Cole um link direto de vídeo HTTPS ou encontre um vídeo em uma página.</string>
+    <string name="quick_guide" formatted="false">Um pouco de orientação</string>
+    <string name="quick_guide_body" formatted="false">Quatro etapas ilustradas desde a descoberta até sua coleção.</string>
+    <string name="back" formatted="false">Voltar</string>
+    <string name="forward" formatted="false">Avançar</string>
+    <string name="reload" formatted="false">Recarregar</string>
+    <string name="home" formatted="false">Página inicial</string>
+    <string name="bookmark" formatted="false">Marcador</string>
+    <string name="bookmarks" formatted="false">Favoritos</string>
+    <string name="empty_bookmarks" formatted="false">Os sites salvos aparecerão aqui.</string>
+    <string name="saved" formatted="false">Salvo</string>
+    <string name="remove" formatted="false">Remover</string>
+    <string name="cancel" formatted="false">Cancelar</string>
+    <string name="close" formatted="false">Fechar</string>
+    <string name="confirm_download" formatted="false">Salvar este vídeo?</string>
+    <string name="filename" formatted="false">Nome do arquivo</string>
+    <string name="download_location" formatted="false">Salvo em Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Este vídeo é meu ou tenho permissão para baixá-lo.</string>
+    <string name="permission_required" formatted="false">Confirme que você tem permissão para salvar este vídeo.</string>
+    <string name="invalid_url" formatted="false">Insira um link de vídeo HTTPS válido.</string>
+    <string name="unsupported" formatted="false">Este link não é um vídeo para download. DRM, transmissões ao vivo, listas de reprodução e downloads do YouTube não são suportados.</string>
+    <string name="queued" formatted="false">Download adicionado à fila</string>
+    <string name="download_error" formatted="false">Não foi possível fazer o download. Verifique a conexão ou use um novo link de vídeo.</string>
+    <string name="collection_title" formatted="false">Sua coleção</string>
+    <string name="collection_subtitle" formatted="false">Vídeos salvos, prontos quando você estiver.</string>
+    <string name="empty_downloads" formatted="false">Seu próximo favorito pertence aqui.</string>
+    <string name="empty_downloads_body" formatted="false">Encontre um vídeo em Navegar ou cole um link direto do vídeo para iniciar sua coleção.</string>
+    <string name="pending" formatted="false">Na fila</string>
+    <string name="running" formatted="false">Baixando</string>
+    <string name="paused" formatted="false">Aguardando rede ou tente novamente</string>
+    <string name="complete" formatted="false">Completo</string>
+    <string name="failed" formatted="false">Falha</string>
+    <string name="missing" formatted="false">Arquivo indisponível</string>
+    <string name="play" formatted="false">Jogar</string>
+    <string name="share" formatted="false">Compartilhar</string>
+    <string name="retry" formatted="false">Tentar novamente</string>
+    <string name="delete_download" formatted="false">Remover o download e seu arquivo?</string>
+    <string name="no_player" formatted="false">Nenhum aplicativo compatível está disponível para abrir este arquivo.</string>
+    <string name="guide_title" formatted="false">Da descoberta ao download.</string>
+    <string name="guide_subtitle" formatted="false">Um guia simples para manter os vídeos que você adora.</string>
+    <string name="step_one_title" formatted="false">Encontre seu vídeo</string>
+    <string name="step_one_body" formatted="false">Abra Navegar. Pesquise ou insira o endereço de um site. Você também pode compartilhar um link de vídeo de outro aplicativo.</string>
+    <string name="step_two_title" formatted="false">Descubra a fonte</string>
+    <string name="step_two_body" formatted="false">Reproduza um vídeo e toque em Encontrar vídeos. Escolha um arquivo detectado ou cole um link direto de vídeo HTTPS.</string>
+    <string name="step_three_title" formatted="false">Faça com que seja seu</string>
+    <string name="step_three_body" formatted="false">Escolha um nome de arquivo, confirme sua permissão para salvar o vídeo e toque em Baixar. O Android continua o download em segundo plano.</string>
+    <string name="step_four_title" formatted="false">Aproveite sua coleção</string>
+    <string name="step_four_body" formatted="false">Abra Downloads para verificar o progresso. Reproduza ou compartilhe vídeos concluídos. Tente novamente os downloads que falharam com um novo link quando necessário.</string>
+    <string name="try_now" formatted="false">Experimente agora</string>
+    <string name="preferences" formatted="false">Faça o seu próprio.</string>
+    <string name="preferences_subtitle" formatted="false">Alguns controles bem pensados ​​para sua navegação diária.</string>
+    <string name="dns_title" formatted="false">VPN/DNS privado</string>
+    <string name="dns_explanation" formatted="false">O DNS privado criptografa as consultas DNS. Ele não oculta seu endereço IP nem cria um túnel VPN. O Android exige que você altere essa configuração manualmente.</string>
+    <string name="connected" formatted="false">Conectado</string>
+    <string name="unconnected" formatted="false">Desconectado</string>
+    <string name="connect" formatted="false">Conectar</string>
+    <string name="disconnect" formatted="false">Desconectar</string>
+    <string name="dns_instructions" formatted="false">Selecione o nome do host do provedor DNS privado, cole dns.adguard-dns.com e salve. Para desconectar, selecione Automático ou Desligado na mesma configuração do sistema.</string>
+    <string name="copy_hostname" formatted="false">Copiar nome do host</string>
+    <string name="copied" formatted="false">Copiado para a área de transferência</string>
+    <string name="open_network_settings" formatted="false">Abra as configurações de rede</string>
+    <string name="language" formatted="false">Idioma do aplicativo</string>
+    <string name="system_language" formatted="false">Siga o idioma do dispositivo</string>
+    <string name="search_language" formatted="false">Encontre um idioma</string>
+    <string name="language_note" formatted="false">As traduções estão incluídas offline. Os idiomas dos dispositivos não listados usam o inglês. As traduções automáticas podem precisar de revisão regional.</string>
+    <string name="search_engine" formatted="false">Mecanismo de busca</string>
+    <string name="wifi_only" formatted="false">Baixe apenas em Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Novos downloads aguardam até que o Wi-Fi esteja disponível.</string>
+    <string name="javascript" formatted="false">JavaScript do site</string>
+    <string name="javascript_body" formatted="false">Exigido por muitos sites e descoberta de vídeo HTML5.</string>
+    <string name="privacy" formatted="false">Privacidade</string>
+    <string name="clear_browser" formatted="false">Limpar dados de navegação</string>
+    <string name="clear_browser_confirm" formatted="false">Excluir cookies, cache do navegador, histórico e armazenamento do site?</string>
+    <string name="privacy_body" formatted="false">Sem anúncios, análises ou contas de desenvolvedor. Sites, mecanismos de pesquisa, provedores de DNS e servidores de download recebem as solicitações que você faz. O histórico de downloads e os favoritos permanecem neste dispositivo.</string>
+    <string name="terms" formatted="false">Use com responsabilidade</string>
+    <string name="terms_body" formatted="false">Salve apenas os vídeos que você possui ou tem permissão para baixar. Respeite os direitos autorais e os termos do site. Este aplicativo não pode ignorar restrições de DRM, paywalls ou download de plataforma.</string>
+    <string name="about" formatted="false">Sobre</string>
+    <string name="version" formatted="false">Versão</string>
+    <string name="paid_app" formatted="false">Uma compra. Sem anúncios. Sem assinatura.</string>
+    <string name="welcome_title" formatted="false">Mantenha o que te inspira.</string>
+    <string name="welcome_body" formatted="false">Navegue, descubra e salve vídeos permitidos em um só lugar. Leia o guia ilustrado para começar.</string>
+    <string name="start_browsing" formatted="false">Comece a navegar</string>
+    <string name="read_guide" formatted="false">Leia o guia</string>
+    <string name="browser_error" formatted="false">Esta página não pôde ser carregada. Verifique o endereço e a conexão e recarregue.</string>
+    <string name="secure_only" formatted="false">Este aplicativo usa conexões HTTPS. Experimente a versão segura deste site.</string>
+    <string name="external_link" formatted="false">Abrir este link em outro aplicativo?</string>
+    <string name="open" formatted="false">Abrir</string>
+    <string name="refresh" formatted="false">Atualizar</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustração para esta etapa do tutorial</string>
+    <string name="download_reason" formatted="false">Código de erro de download do Android</string>
+    <string name="queue_full" formatted="false">O histórico de downloads está cheio. Remova primeiro uma entrada mais antiga.</string>
+    <string name="browser_tabs" formatted="false">Guias do navegador</string>
+    <string name="tabs_subtitle" formatted="false">Mantenha os sites abertos e alterne entre eles.</string>
+    <string name="new_tab" formatted="false">Nova guia</string>
+    <string name="close_tab" formatted="false">Fechar guia</string>
+    <string name="active_tab" formatted="false">Guia ativa</string>
+    <string name="tab_limit" formatted="false">Você pode abrir até 8 guias. Feche uma guia para adicionar outra.</string>
+    <string name="history" formatted="false">História</string>
+    <string name="history_subtitle" formatted="false">Os sites visitados são salvos apenas neste dispositivo.</string>
+    <string name="empty_history" formatted="false">Seu histórico de navegação aparecerá aqui.</string>
+    <string name="clear_history" formatted="false">Limpar histórico</string>
+    <string name="clear_history_confirm" formatted="false">Excluir todo o histórico de navegação deste dispositivo?</string>
+    <string name="open_new_tab" formatted="false">Abrir em nova aba</string>
+    <string name="browser_menu" formatted="false">Menu do navegador</string>
+    <string name="shortcut_note" formatted="false">Os atalhos do site são abertos no navegador. A disponibilidade de download depende do site.</string>
+</resources>

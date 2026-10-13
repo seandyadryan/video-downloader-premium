@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Blêdzje</string>
+    <string name="downloads" formatted="false">Downloads</string>
+    <string name="guide" formatted="false">Gids</string>
+    <string name="settings" formatted="false">Ynstellings</string>
+    <string name="home_title" formatted="false">Jo fideo\&apos;s. Jo kolleksje.</string>
+    <string name="home_subtitle" formatted="false">Fyn wat wurdich te hâlden.</string>
+    <string name="search_hint" formatted="false">Sykje of fier in webside yn</string>
+    <string name="go" formatted="false">Gean</string>
+    <string name="paste_link" formatted="false">Plak fideo keppeling</string>
+    <string name="direct_link" formatted="false">Direkte fideo keppeling</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Download</string>
+    <string name="detect" formatted="false">Fyn fideo\&apos;s</string>
+    <string name="detected" formatted="false">Fideo\&apos;s op dizze side</string>
+    <string name="no_media" formatted="false">Gjin downloadbare fideo fûn. Begjinne mei it spieljen fan in fideo, probearje dan nochris. Beskerme streamen en ynbêde frames kinne miskien net beskikber wêze.</string>
+    <string name="safe_note" formatted="false">Download allinich fideo\&apos;s dy\&apos;t jo hawwe of tastimming hawwe om te bewarjen. Beskerme streamen en YouTube-downloads binne net beskikber.</string>
+    <string name="quick_start" formatted="false">START HJIR</string>
+    <string name="quick_browse" formatted="false">Ferkenne it web</string>
+    <string name="quick_browse_body" formatted="false">Sykje mei jo foarkarmotor yn \&apos;e ynboude browser.</string>
+    <string name="quick_download" formatted="false">Bewarje in fideo</string>
+    <string name="quick_download_body" formatted="false">Plak in direkte HTTPS-fideo-keppeling of fyn in fideo op in side.</string>
+    <string name="quick_guide" formatted="false">In bytsje begelieding</string>
+    <string name="quick_guide_body" formatted="false">Fjouwer yllustrearre stappen fan ûntdekking oant jo kolleksje.</string>
+    <string name="back" formatted="false">Werom</string>
+    <string name="forward" formatted="false">Foarút</string>
+    <string name="reload" formatted="false">Reload</string>
+    <string name="home" formatted="false">Thús</string>
+    <string name="bookmark" formatted="false">Blêdwizer</string>
+    <string name="bookmarks" formatted="false">Blêdwizers</string>
+    <string name="empty_bookmarks" formatted="false">Opsleine websiden sille hjir ferskine.</string>
+    <string name="saved" formatted="false">Opslein</string>
+    <string name="remove" formatted="false">Fuortsmite</string>
+    <string name="cancel" formatted="false">Ofbrekke</string>
+    <string name="close" formatted="false">Slút</string>
+    <string name="confirm_download" formatted="false">Dizze fideo bewarje?</string>
+    <string name="filename" formatted="false">Bestânsnamme</string>
+    <string name="download_location" formatted="false">Opslein yn Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Ik besit dizze fideo of haw tastimming om it te downloaden.</string>
+    <string name="permission_required" formatted="false">Befêstigje dat jo tastimming hawwe om dizze fideo op te slaan.</string>
+    <string name="invalid_url" formatted="false">Fier in jildige HTTPS-fideo-keppeling yn.</string>
+    <string name="unsupported" formatted="false">Dizze keppeling is gjin downloadbare fideo. DRM, live streams, playlists en YouTube-downloads wurde net stipe.</string>
+    <string name="queued" formatted="false">Download tafoege oan de wachtrige</string>
+    <string name="download_error" formatted="false">Kin net downloade. Kontrolearje de ferbining of brûk in nije fideokeppeling.</string>
+    <string name="collection_title" formatted="false">Jo kolleksje</string>
+    <string name="collection_subtitle" formatted="false">Opsleine fideo\&apos;s, klear as jo binne.</string>
+    <string name="empty_downloads" formatted="false">Jo folgjende favorite heart hjir.</string>
+    <string name="empty_downloads_body" formatted="false">Fyn in fideo yn Blêdzje of plak in direkte fideokepling om jo kolleksje te begjinnen.</string>
+    <string name="pending" formatted="false">Wachtrige</string>
+    <string name="running" formatted="false">Ynladen</string>
+    <string name="paused" formatted="false">Wachtsje op netwurk of besykje it opnij</string>
+    <string name="complete" formatted="false">Folslein</string>
+    <string name="failed" formatted="false">Mislearre</string>
+    <string name="missing" formatted="false">Triem net beskikber</string>
+    <string name="play" formatted="false">Boartsje</string>
+    <string name="share" formatted="false">Diele</string>
+    <string name="retry" formatted="false">Opnij besykje</string>
+    <string name="delete_download" formatted="false">Download en syn triem fuortsmite?</string>
+    <string name="no_player" formatted="false">Gjin kompatibele app is beskikber om dit bestân te iepenjen.</string>
+    <string name="guide_title" formatted="false">Fan ûntdekking oant download.</string>
+    <string name="guide_subtitle" formatted="false">In ienfâldige hantlieding foar it bewarjen fan de fideo\&apos;s dy\&apos;t jo hâlde.</string>
+    <string name="step_one_title" formatted="false">Fyn jo fideo</string>
+    <string name="step_one_body" formatted="false">Iepenje Blêdzje. Sykje of fier in websideadres yn. Jo kinne ek in fideokepling diele fan in oare app.</string>
+    <string name="step_two_title" formatted="false">Untdek de boarne</string>
+    <string name="step_two_body" formatted="false">Spielje in fideo en tik dan op Fideo\&apos;s fine. Kies in ûntdutsen bestân, of plak in direkte HTTPS-fideo-keppeling.</string>
+    <string name="step_three_title" formatted="false">Meitsje it fan jo</string>
+    <string name="step_three_body" formatted="false">Kies in bestânsnamme, befêstigje jo tastimming om de fideo op te slaan, en tik op Download. Android bliuwt de download op \&apos;e eftergrûn.</string>
+    <string name="step_four_title" formatted="false">Genietsje fan jo kolleksje</string>
+    <string name="step_four_body" formatted="false">Iepenje Downloads om foarútgong te kontrolearjen. Spielje of diel foltôge fideo\&apos;s. Besykje mislearre downloads opnij mei in nije keppeling as it nedich is.</string>
+    <string name="try_now" formatted="false">Besykje it no</string>
+    <string name="preferences" formatted="false">Meitsje it jo eigen.</string>
+    <string name="preferences_subtitle" formatted="false">In pear trochtochte kontrôles foar jo deistige blêdzjen.</string>
+    <string name="dns_title" formatted="false">VPN / Privee DNS</string>
+    <string name="dns_explanation" formatted="false">Private DNS fersiferet DNS-fragen. It ferberget jo IP-adres net of meitsje in VPN-tunnel. Android fereasket dat jo dizze ynstelling manuell wizigje.</string>
+    <string name="connected" formatted="false">Ferbûn</string>
+    <string name="unconnected" formatted="false">Net ferbûn</string>
+    <string name="connect" formatted="false">Ferbine</string>
+    <string name="disconnect" formatted="false">Ferbine</string>
+    <string name="dns_instructions" formatted="false">Selektearje Privee DNS-provider hostnamme, plak dns.adguard-dns.com, en bewarje. Om de ferbining te ferbrekken, selektearje Automatysk of Ut yn deselde systeemynstelling.</string>
+    <string name="copy_hostname" formatted="false">Hostnamme kopiearje</string>
+    <string name="copied" formatted="false">Kopiearje nei klamboerd</string>
+    <string name="open_network_settings" formatted="false">Iepenje netwurk ynstellings</string>
+    <string name="language" formatted="false">App taal</string>
+    <string name="system_language" formatted="false">Folgje apparaat taal</string>
+    <string name="search_language" formatted="false">Sykje in taal</string>
+    <string name="language_note" formatted="false">Oarsettingen binne offline opnommen. Net neamde apparaattalen brûke Ingelsk. Masine-oersettingen kinne regionale resinsje nedich wêze.</string>
+    <string name="search_engine" formatted="false">Sykmasine</string>
+    <string name="wifi_only" formatted="false">Download allinich op Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Nije downloads wachtsje oant Wi-Fi beskikber is.</string>
+    <string name="javascript" formatted="false">Webside JavaSkript</string>
+    <string name="javascript_body" formatted="false">Fereaske troch in protte websiden en HTML5 video ûntdekking.</string>
+    <string name="privacy" formatted="false">Privacy</string>
+    <string name="clear_browser" formatted="false">Wiskje blêdzjegegevens</string>
+    <string name="clear_browser_confirm" formatted="false">Cookies, browser-cache, skiednis en webside opslach wiskje?</string>
+    <string name="privacy_body" formatted="false">Gjin advertinsjes, analytics, of ûntwikkeldersakkounts. Websites, sykmasines, DNS-providers en downloadservers ûntfange de oanfragen dy\&apos;t jo meitsje. Downloadskiednis en blêdwizers bliuwe op dit apparaat.</string>
+    <string name="terms" formatted="false">Brûk ferantwurde</string>
+    <string name="terms_body" formatted="false">Bewarje allinich fideo\&apos;s dy\&apos;t jo hawwe of binne tastien om te downloaden. Respektearje copyright en webside betingsten. Dizze app kin DRM, paywalls, of platfoarm downloadbeperkingen net omgean.</string>
+    <string name="about" formatted="false">Oer</string>
+    <string name="version" formatted="false">Ferzje</string>
+    <string name="paid_app" formatted="false">Ien oankeap. Gjin advertinsjes. Gjin abonnemint.</string>
+    <string name="welcome_title" formatted="false">Hâld wat jo ynspirearret.</string>
+    <string name="welcome_body" formatted="false">Blêdzje, ûntdekke en bewarje tastiene fideo\&apos;s op ien plak. Lês de yllustrearre gids om te begjinnen.</string>
+    <string name="start_browsing" formatted="false">Begjin te blêdzjen</string>
+    <string name="read_guide" formatted="false">Lês de gids</string>
+    <string name="browser_error" formatted="false">Dizze side koe net laden wurde. Kontrolearje it adres en de ferbining, laden dan opnij.</string>
+    <string name="secure_only" formatted="false">Dizze app brûkt HTTPS-ferbiningen. Besykje de feilige ferzje fan dizze webside.</string>
+    <string name="external_link" formatted="false">Dizze keppeling iepenje yn in oare app?</string>
+    <string name="open" formatted="false">Iepenje</string>
+    <string name="refresh" formatted="false">Ferfarskje</string>
+    <string name="accessibility_tutorial" formatted="false">Yllustraasje foar dizze tutorial stap</string>
+    <string name="download_reason" formatted="false">Android download flaterkoade</string>
+    <string name="queue_full" formatted="false">De downloadskiednis is fol. Ferwiderje earst in âldere yngong.</string>
+    <string name="browser_tabs" formatted="false">Browser ljeppers</string>
+    <string name="tabs_subtitle" formatted="false">Hâld websiden iepen en wikselje tusken har.</string>
+    <string name="new_tab" formatted="false">Nije ljepper</string>
+    <string name="close_tab" formatted="false">Ljepblêd slute</string>
+    <string name="active_tab" formatted="false">Aktive ljepper</string>
+    <string name="tab_limit" formatted="false">Jo kinne maksimaal 8 ljeppers iepenje. Slút in ljepper om in oare ta te foegjen.</string>
+    <string name="history" formatted="false">Skiednis</string>
+    <string name="history_subtitle" formatted="false">Besochte websiden wurde allinich op dit apparaat bewarre.</string>
+    <string name="empty_history" formatted="false">Jo blêdzjeskiednis sil hjir ferskine.</string>
+    <string name="clear_history" formatted="false">Histoarje wiskje</string>
+    <string name="clear_history_confirm" formatted="false">Alle blêdzjenskiednis fan dit apparaat wiskje?</string>
+    <string name="open_new_tab" formatted="false">Iepenje yn nije ljepper</string>
+    <string name="browser_menu" formatted="false">Browser menu</string>
+    <string name="shortcut_note" formatted="false">Webside fluchtoetsen iepenje yn \&apos;e browser. Download beskikberens hinget ôf fan de webside.</string>
+</resources>

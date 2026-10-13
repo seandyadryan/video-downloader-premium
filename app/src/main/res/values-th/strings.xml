@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">พรีเมี่ยม</string>
+    <string name="browse" formatted="false">เรียกดู</string>
+    <string name="downloads" formatted="false">ดาวน์โหลด</string>
+    <string name="guide" formatted="false">คู่มือ</string>
+    <string name="settings" formatted="false">การตั้งค่า</string>
+    <string name="home_title" formatted="false">วิดีโอของคุณ คอลเลกชันของคุณ</string>
+    <string name="home_subtitle" formatted="false">หาของมีค่ามาเก็บไว้</string>
+    <string name="search_hint" formatted="false">ค้นหาหรือป้อนเว็บไซต์</string>
+    <string name="go" formatted="false">ไป</string>
+    <string name="paste_link" formatted="false">วางลิงค์วิดีโอ</string>
+    <string name="direct_link" formatted="false">ลิงค์วิดีโอโดยตรง</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ดาวน์โหลด</string>
+    <string name="detect" formatted="false">ค้นหาวิดีโอ</string>
+    <string name="detected" formatted="false">วิดีโอในหน้านี้</string>
+    <string name="no_media" formatted="false">ไม่พบวิดีโอที่ดาวน์โหลดได้ เริ่มเล่นวิดีโอแล้วลองอีกครั้ง สตรีมที่ได้รับการป้องกันและเฟรมที่ฝังไว้อาจไม่พร้อมใช้งาน</string>
+    <string name="safe_note" formatted="false">ดาวน์โหลดเฉพาะวิดีโอที่คุณเป็นเจ้าของหรือได้รับอนุญาตให้บันทึก สตรีมที่มีการป้องกันและการดาวน์โหลด YouTube ไม่พร้อมใช้งาน</string>
+    <string name="quick_start" formatted="false">เริ่มต้นที่นี่</string>
+    <string name="quick_browse" formatted="false">สำรวจเว็บ</string>
+    <string name="quick_browse_body" formatted="false">ค้นหาด้วยเครื่องมือที่คุณต้องการในเบราว์เซอร์ในตัว</string>
+    <string name="quick_download" formatted="false">บันทึกวิดีโอ</string>
+    <string name="quick_download_body" formatted="false">วางลิงก์วิดีโอ HTTPS โดยตรงหรือค้นหาวิดีโอบนหน้าเว็บ</string>
+    <string name="quick_guide" formatted="false">คำแนะนำเล็กน้อย</string>
+    <string name="quick_guide_body" formatted="false">สี่ขั้นตอนที่มีภาพประกอบตั้งแต่การค้นพบไปจนถึงคอลเลกชันของคุณ</string>
+    <string name="back" formatted="false">กลับ</string>
+    <string name="forward" formatted="false">ไปข้างหน้า</string>
+    <string name="reload" formatted="false">โหลดซ้ำ</string>
+    <string name="home" formatted="false">บ้าน</string>
+    <string name="bookmark" formatted="false">บุ๊กมาร์ก</string>
+    <string name="bookmarks" formatted="false">บุ๊กมาร์ก</string>
+    <string name="empty_bookmarks" formatted="false">เว็บไซต์ที่บันทึกไว้จะปรากฏที่นี่</string>
+    <string name="saved" formatted="false">บันทึกแล้ว</string>
+    <string name="remove" formatted="false">ลบ</string>
+    <string name="cancel" formatted="false">ยกเลิก</string>
+    <string name="close" formatted="false">ปิด</string>
+    <string name="confirm_download" formatted="false">บันทึกวิดีโอนี้ใช่ไหม</string>
+    <string name="filename" formatted="false">ชื่อไฟล์</string>
+    <string name="download_location" formatted="false">บันทึกในการดาวน์โหลด / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">ฉันเป็นเจ้าของวิดีโอนี้หรือได้รับอนุญาตให้ดาวน์โหลด</string>
+    <string name="permission_required" formatted="false">ยืนยันว่าคุณได้รับอนุญาตให้บันทึกวิดีโอนี้</string>
+    <string name="invalid_url" formatted="false">ป้อนลิงก์วิดีโอ HTTPS ที่ถูกต้อง</string>
+    <string name="unsupported" formatted="false">ลิงก์นี้ไม่ใช่วิดีโอที่ดาวน์โหลดได้ ไม่รองรับ DRM, สตรีมสด, เพลย์ลิสต์ และการดาวน์โหลด YouTube</string>
+    <string name="queued" formatted="false">เพิ่มการดาวน์โหลดลงในคิวแล้ว</string>
+    <string name="download_error" formatted="false">ไม่สามารถดาวน์โหลดได้ ตรวจสอบการเชื่อมต่อหรือใช้ลิงก์วิดีโอใหม่</string>
+    <string name="collection_title" formatted="false">คอลเลกชันของคุณ</string>
+    <string name="collection_subtitle" formatted="false">วิดีโอที่บันทึกไว้พร้อมทุกเมื่อ</string>
+    <string name="empty_downloads" formatted="false">รายการโปรดถัดไปของคุณอยู่ที่นี่</string>
+    <string name="empty_downloads_body" formatted="false">ค้นหาวิดีโอในเรียกดูหรือวางลิงก์วิดีโอโดยตรงเพื่อเริ่มคอลเลกชันของคุณ</string>
+    <string name="pending" formatted="false">เข้าคิว</string>
+    <string name="running" formatted="false">กำลังดาวน์โหลด</string>
+    <string name="paused" formatted="false">กำลังรอเครือข่ายหรือลองอีกครั้ง</string>
+    <string name="complete" formatted="false">เสร็จสมบูรณ์</string>
+    <string name="failed" formatted="false">ล้มเหลว</string>
+    <string name="missing" formatted="false">ไฟล์ไม่พร้อมใช้งาน</string>
+    <string name="play" formatted="false">เล่น</string>
+    <string name="share" formatted="false">แบ่งปัน</string>
+    <string name="retry" formatted="false">ลองอีกครั้ง</string>
+    <string name="delete_download" formatted="false">ลบการดาวน์โหลดและไฟล์ของมันออกใช่ไหม</string>
+    <string name="no_player" formatted="false">ไม่มีแอปที่รองรับสำหรับการเปิดไฟล์นี้</string>
+    <string name="guide_title" formatted="false">จากการค้นพบสู่การดาวน์โหลด</string>
+    <string name="guide_subtitle" formatted="false">คำแนะนำง่ายๆ ในการเก็บวิดีโอที่คุณชื่นชอบ</string>
+    <string name="step_one_title" formatted="false">ค้นหาวิดีโอของคุณ</string>
+    <string name="step_one_body" formatted="false">เปิดเรียกดู ค้นหาหรือป้อนที่อยู่เว็บไซต์ คุณยังสามารถแชร์ลิงก์วิดีโอจากแอปอื่นได้อีกด้วย</string>
+    <string name="step_two_title" formatted="false">ค้นพบแหล่งที่มา</string>
+    <string name="step_two_body" formatted="false">เล่นวิดีโอ จากนั้นแตะค้นหาวิดีโอ เลือกไฟล์ที่ตรวจพบ หรือวางลิงก์วิดีโอ HTTPS โดยตรง</string>
+    <string name="step_three_title" formatted="false">ทำให้มันเป็นของคุณ</string>
+    <string name="step_three_body" formatted="false">เลือกชื่อไฟล์ ยืนยันการอนุญาตของคุณในการบันทึกวิดีโอ แล้วแตะดาวน์โหลด Android ยังคงดาวน์โหลดต่อไปในเบื้องหลัง</string>
+    <string name="step_four_title" formatted="false">เพลิดเพลินไปกับคอลเลกชันของคุณ</string>
+    <string name="step_four_body" formatted="false">เปิดการดาวน์โหลดเพื่อตรวจสอบความคืบหน้า เล่นหรือแชร์วิดีโอที่เสร็จสมบูรณ์ ลองดาวน์โหลดที่ล้มเหลวอีกครั้งด้วยลิงก์ใหม่เมื่อจำเป็น</string>
+    <string name="try_now" formatted="false">ลองตอนนี้</string>
+    <string name="preferences" formatted="false">ทำให้เป็นของคุณเอง</string>
+    <string name="preferences_subtitle" formatted="false">การควบคุมที่รอบคอบบางประการสำหรับการท่องเว็บในแต่ละวันของคุณ</string>
+    <string name="dns_title" formatted="false">VPN / DNS ส่วนตัว</string>
+    <string name="dns_explanation" formatted="false">DNS ส่วนตัวเข้ารหัสการสืบค้น DNS มันไม่ได้ซ่อนที่อยู่ IP ของคุณหรือสร้างอุโมงค์ VPN Android ต้องการให้คุณเปลี่ยนการตั้งค่านี้ด้วยตนเอง</string>
+    <string name="connected" formatted="false">เชื่อมต่อแล้ว</string>
+    <string name="unconnected" formatted="false">ไม่ได้เชื่อมต่อ</string>
+    <string name="connect" formatted="false">เชื่อมต่อ</string>
+    <string name="disconnect" formatted="false">ตัดการเชื่อมต่อ</string>
+    <string name="dns_instructions" formatted="false">เลือกชื่อโฮสต์ของผู้ให้บริการ DNS ส่วนตัว วาง dns.adguard-dns.com และบันทึก หากต้องการยกเลิกการเชื่อมต่อ ให้เลือกอัตโนมัติหรือปิดในการตั้งค่าระบบเดียวกัน</string>
+    <string name="copy_hostname" formatted="false">คัดลอกชื่อโฮสต์</string>
+    <string name="copied" formatted="false">คัดลอกไปยังคลิปบอร์ดแล้ว</string>
+    <string name="open_network_settings" formatted="false">เปิดการตั้งค่าเครือข่าย</string>
+    <string name="language" formatted="false">ภาษาของแอป</string>
+    <string name="system_language" formatted="false">ทำตามภาษาของอุปกรณ์</string>
+    <string name="search_language" formatted="false">ค้นหาภาษา</string>
+    <string name="language_note" formatted="false">การแปลจะรวมอยู่ครับ ภาษาของอุปกรณ์ที่ไม่อยู่ในรายการจะใช้ภาษาอังกฤษ การแปลด้วยคอมพิวเตอร์อาจต้องมีการตรวจสอบในระดับภูมิภาค</string>
+    <string name="search_engine" formatted="false">เครื่องมือค้นหา</string>
+    <string name="wifi_only" formatted="false">ดาวน์โหลดผ่าน Wi-Fi เท่านั้น</string>
+    <string name="wifi_body" formatted="false">การดาวน์โหลดใหม่จะรอจนกว่า Wi-Fi จะพร้อมใช้งาน</string>
+    <string name="javascript" formatted="false">จาวาสคริปต์ของเว็บไซต์</string>
+    <string name="javascript_body" formatted="false">จำเป็นสำหรับเว็บไซต์จำนวนมากและการค้นพบวิดีโอ HTML5</string>
+    <string name="privacy" formatted="false">ความเป็นส่วนตัว</string>
+    <string name="clear_browser" formatted="false">ล้างข้อมูลการท่องเว็บ</string>
+    <string name="clear_browser_confirm" formatted="false">ลบคุกกี้ แคชของเบราว์เซอร์ ประวัติ และพื้นที่เก็บข้อมูลเว็บไซต์หรือไม่</string>
+    <string name="privacy_body" formatted="false">ไม่มีโฆษณา การวิเคราะห์ หรือบัญชีนักพัฒนา เว็บไซต์ โปรแกรมค้นหา ผู้ให้บริการ DNS และเซิร์ฟเวอร์ดาวน์โหลดได้รับคำขอของคุณ ประวัติการดาวน์โหลดและบุ๊กมาร์กจะยังคงอยู่ในอุปกรณ์นี้</string>
+    <string name="terms" formatted="false">ใช้อย่างมีความรับผิดชอบ</string>
+    <string name="terms_body" formatted="false">บันทึกเฉพาะวิดีโอที่คุณเป็นเจ้าของหรือได้รับอนุญาตให้ดาวน์โหลด เคารพลิขสิทธิ์และข้อกำหนดของเว็บไซต์ แอปนี้ไม่สามารถข้ามข้อจำกัด DRM, เพย์วอลล์ หรือการดาวน์โหลดแพลตฟอร์มได้</string>
+    <string name="about" formatted="false">เกี่ยวกับ</string>
+    <string name="version" formatted="false">เวอร์ชัน</string>
+    <string name="paid_app" formatted="false">การซื้อหนึ่งครั้ง ไม่มีโฆษณา ไม่มีการสมัครสมาชิก</string>
+    <string name="welcome_title" formatted="false">เก็บสิ่งที่เป็นแรงบันดาลใจของคุณ</string>
+    <string name="welcome_body" formatted="false">เรียกดู ค้นพบ และบันทึกวิดีโอที่ได้รับอนุญาตไว้ในที่เดียว อ่านคู่มือภาพประกอบเพื่อเริ่มต้นใช้งาน</string>
+    <string name="start_browsing" formatted="false">เริ่มการเรียกดู</string>
+    <string name="read_guide" formatted="false">อ่านคำแนะนำ</string>
+    <string name="browser_error" formatted="false">ไม่สามารถโหลดหน้านี้ได้ ตรวจสอบที่อยู่และการเชื่อมต่อ จากนั้นโหลดซ้ำ</string>
+    <string name="secure_only" formatted="false">แอพนี้ใช้การเชื่อมต่อ HTTPS ลองใช้เวอร์ชันที่ปลอดภัยของเว็บไซต์นี้</string>
+    <string name="external_link" formatted="false">เปิดลิงก์นี้ในแอปอื่นใช่ไหม</string>
+    <string name="open" formatted="false">เปิด</string>
+    <string name="refresh" formatted="false">รีเฟรช</string>
+    <string name="accessibility_tutorial" formatted="false">ภาพประกอบสำหรับขั้นตอนการสอนนี้</string>
+    <string name="download_reason" formatted="false">รหัสข้อผิดพลาดการดาวน์โหลด Android</string>
+    <string name="queue_full" formatted="false">ประวัติการดาวน์โหลดเต็ม ลบรายการเก่าก่อน</string>
+    <string name="browser_tabs" formatted="false">แท็บเบราว์เซอร์</string>
+    <string name="tabs_subtitle" formatted="false">เปิดเว็บไซต์ไว้และสลับระหว่างเว็บไซต์เหล่านั้น</string>
+    <string name="new_tab" formatted="false">แท็บใหม่</string>
+    <string name="close_tab" formatted="false">ปิดแท็บ</string>
+    <string name="active_tab" formatted="false">แท็บที่ใช้งานอยู่</string>
+    <string name="tab_limit" formatted="false">คุณสามารถเปิดได้สูงสุด 8 แท็บ ปิดแท็บเพื่อเพิ่มแท็บอื่น</string>
+    <string name="history" formatted="false">ประวัติศาสตร์</string>
+    <string name="history_subtitle" formatted="false">เว็บไซต์ที่เยี่ยมชมจะถูกบันทึกไว้ในอุปกรณ์นี้เท่านั้น</string>
+    <string name="empty_history" formatted="false">ประวัติการเข้าชมของคุณจะปรากฏที่นี่</string>
+    <string name="clear_history" formatted="false">ล้างประวัติ</string>
+    <string name="clear_history_confirm" formatted="false">ลบประวัติการท่องเว็บทั้งหมดออกจากอุปกรณ์นี้ไหม</string>
+    <string name="open_new_tab" formatted="false">เปิดในแท็บใหม่</string>
+    <string name="browser_menu" formatted="false">เมนูเบราว์เซอร์</string>
+    <string name="shortcut_note" formatted="false">ทางลัดเว็บไซต์จะเปิดในเบราว์เซอร์ ความพร้อมใช้งานในการดาวน์โหลดขึ้นอยู่กับเว็บไซต์</string>
+</resources>

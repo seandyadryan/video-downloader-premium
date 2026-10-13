@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Navega</string>
+    <string name="downloads" formatted="false">Descàrregues</string>
+    <string name="guide" formatted="false">Guia</string>
+    <string name="settings" formatted="false">Configuració</string>
+    <string name="home_title" formatted="false">Els teus vídeos. La teva col·lecció.</string>
+    <string name="home_subtitle" formatted="false">Trobeu alguna cosa que valgui la pena conservar.</string>
+    <string name="search_hint" formatted="false">Cerqueu o introduïu un lloc web</string>
+    <string name="go" formatted="false">Vés</string>
+    <string name="paste_link" formatted="false">Enganxa l\&apos;enllaç del vídeo</string>
+    <string name="direct_link" formatted="false">Enllaç directe de vídeo</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Descarregar</string>
+    <string name="detect" formatted="false">Cerca vídeos</string>
+    <string name="detected" formatted="false">Vídeos d\&apos;aquesta pàgina</string>
+    <string name="no_media" formatted="false">No s\&apos;ha trobat cap vídeo baixable. Comença a reproduir un vídeo i torna-ho a provar. És possible que els fluxos protegits i els marcs incrustats no estiguin disponibles.</string>
+    <string name="safe_note" formatted="false">Baixeu només vídeos que teniu o teniu permís per desar-los. Els fluxos protegits i les baixades de YouTube no estan disponibles.</string>
+    <string name="quick_start" formatted="false">COMENÇA AQUÍ</string>
+    <string name="quick_browse" formatted="false">Exploreu la web</string>
+    <string name="quick_browse_body" formatted="false">Cerqueu amb el vostre motor preferit al navegador integrat.</string>
+    <string name="quick_download" formatted="false">Desa un vídeo</string>
+    <string name="quick_download_body" formatted="false">Enganxeu un enllaç de vídeo HTTPS directe o cerqueu un vídeo en una pàgina.</string>
+    <string name="quick_guide" formatted="false">Una mica d\&apos;orientació</string>
+    <string name="quick_guide_body" formatted="false">Quatre passos il·lustrats des del descobriment fins a la vostra col·lecció.</string>
+    <string name="back" formatted="false">Enrere</string>
+    <string name="forward" formatted="false">Endavant</string>
+    <string name="reload" formatted="false">Torna a carregar</string>
+    <string name="home" formatted="false">a casa</string>
+    <string name="bookmark" formatted="false">Marcador</string>
+    <string name="bookmarks" formatted="false">Adreces d\&apos;interès</string>
+    <string name="empty_bookmarks" formatted="false">Els llocs web desats apareixeran aquí.</string>
+    <string name="saved" formatted="false">Desat</string>
+    <string name="remove" formatted="false">Eliminar</string>
+    <string name="cancel" formatted="false">Cancel·la</string>
+    <string name="close" formatted="false">Tancar</string>
+    <string name="confirm_download" formatted="false">Vols desar aquest vídeo?</string>
+    <string name="filename" formatted="false">Nom del fitxer</string>
+    <string name="download_location" formatted="false">Desat a Descàrregues / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Sóc el propietari d\&apos;aquest vídeo o tinc permís per baixar-lo.</string>
+    <string name="permission_required" formatted="false">Confirmeu que teniu permís per desar aquest vídeo.</string>
+    <string name="invalid_url" formatted="false">Introduïu un enllaç de vídeo HTTPS vàlid.</string>
+    <string name="unsupported" formatted="false">Aquest enllaç no és un vídeo que es pot descarregar. DRM, reproduccions en directe, llistes de reproducció i baixades de YouTube no són compatibles.</string>
+    <string name="queued" formatted="false">La descàrrega s\&apos;ha afegit a la cua</string>
+    <string name="download_error" formatted="false">No es pot descarregar. Comproveu la connexió o utilitzeu un enllaç de vídeo nou.</string>
+    <string name="collection_title" formatted="false">La teva col·lecció</string>
+    <string name="collection_subtitle" formatted="false">Vídeos desats, a punt quan siguis.</string>
+    <string name="empty_downloads" formatted="false">El teu proper favorit pertany aquí.</string>
+    <string name="empty_downloads_body" formatted="false">Trobeu un vídeo a Navega o enganxeu un enllaç de vídeo directe per començar la vostra col·lecció.</string>
+    <string name="pending" formatted="false">En cua</string>
+    <string name="running" formatted="false">Descàrrega</string>
+    <string name="paused" formatted="false">S\&apos;està esperant la xarxa o torna-ho a provar</string>
+    <string name="complete" formatted="false">Completa</string>
+    <string name="failed" formatted="false">Ha fallat</string>
+    <string name="missing" formatted="false">Fitxer no disponible</string>
+    <string name="play" formatted="false">Jugar</string>
+    <string name="share" formatted="false">Comparteix</string>
+    <string name="retry" formatted="false">Torna-ho a provar</string>
+    <string name="delete_download" formatted="false">Vols suprimir la baixada i el seu fitxer?</string>
+    <string name="no_player" formatted="false">No hi ha cap aplicació compatible disponible per obrir aquest fitxer.</string>
+    <string name="guide_title" formatted="false">Del descobriment a la descàrrega.</string>
+    <string name="guide_subtitle" formatted="false">Una guia senzilla per guardar els vídeos que t\&apos;agraden.</string>
+    <string name="step_one_title" formatted="false">Troba el teu vídeo</string>
+    <string name="step_one_body" formatted="false">Obriu Navega. Cerqueu o introduïu una adreça de lloc web. També podeu compartir un enllaç de vídeo des d\&apos;una altra aplicació.</string>
+    <string name="step_two_title" formatted="false">Descobriu la font</string>
+    <string name="step_two_body" formatted="false">Reprodueix un vídeo i després toca Cerca vídeos. Trieu un fitxer detectat o enganxeu un enllaç de vídeo HTTPS directe.</string>
+    <string name="step_three_title" formatted="false">Fes-ho teu</string>
+    <string name="step_three_body" formatted="false">Trieu un nom de fitxer, confirmeu el vostre permís per desar el vídeo i toqueu Descarrega. Android continua la descàrrega en segon pla.</string>
+    <string name="step_four_title" formatted="false">Gaudeix de la teva col·lecció</string>
+    <string name="step_four_body" formatted="false">Obriu Baixades per comprovar el progrés. Reprodueix o comparteix vídeos completats. Torneu a provar les baixades fallides amb un enllaç nou quan sigui necessari.</string>
+    <string name="try_now" formatted="false">Prova-ho ara</string>
+    <string name="preferences" formatted="false">Fes-ho teu.</string>
+    <string name="preferences_subtitle" formatted="false">Uns quants controls atents per a la vostra navegació diària.</string>
+    <string name="dns_title" formatted="false">VPN / DNS privat</string>
+    <string name="dns_explanation" formatted="false">El DNS privat xifra les consultes de DNS. No amaga la vostra adreça IP ni crea un túnel VPN. Android requereix que canvieu aquesta configuració manualment.</string>
+    <string name="connected" formatted="false">Connectat</string>
+    <string name="unconnected" formatted="false">Sense connexió</string>
+    <string name="connect" formatted="false">Connecta\&apos;t</string>
+    <string name="disconnect" formatted="false">Desconnecta</string>
+    <string name="dns_instructions" formatted="false">Seleccioneu el nom d\&apos;amfitrió del proveïdor de DNS privat, enganxeu dns.adguard-dns.com i deseu. Per desconnectar, seleccioneu Automàtic o Desactivat a la mateixa configuració del sistema.</string>
+    <string name="copy_hostname" formatted="false">Copia el nom d\&apos;amfitrió</string>
+    <string name="copied" formatted="false">S\&apos;ha copiat al porta-retalls</string>
+    <string name="open_network_settings" formatted="false">Obriu la configuració de la xarxa</string>
+    <string name="language" formatted="false">Idioma de l\&apos;aplicació</string>
+    <string name="system_language" formatted="false">Seguiu l\&apos;idioma del dispositiu</string>
+    <string name="search_language" formatted="false">Busca un idioma</string>
+    <string name="language_note" formatted="false">Les traduccions s\&apos;inclouen fora de línia. Els idiomes dels dispositius no llistats utilitzen l\&apos;anglès. Les traduccions automàtices poden necessitar una revisió regional.</string>
+    <string name="search_engine" formatted="false">Motor de cerca</string>
+    <string name="wifi_only" formatted="false">Baixa només amb Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Les baixades noves esperen fins que la Wi-Fi estigui disponible.</string>
+    <string name="javascript" formatted="false">JavaScript del lloc web</string>
+    <string name="javascript_body" formatted="false">Requerit per molts llocs web i descobriment de vídeos HTML5.</string>
+    <string name="privacy" formatted="false">Privadesa</string>
+    <string name="clear_browser" formatted="false">Esborra les dades de navegació</string>
+    <string name="clear_browser_confirm" formatted="false">Vols suprimir les galetes, la memòria cau del navegador, l\&apos;historial i l\&apos;emmagatzematge del lloc web?</string>
+    <string name="privacy_body" formatted="false">No hi ha anuncis, anàlisis ni comptes de desenvolupadors. Els llocs web, els motors de cerca, els proveïdors de DNS i els servidors de descàrregues reben les sol·licituds que feu. L\&apos;historial de baixades i les adreces d\&apos;interès es mantenen en aquest dispositiu.</string>
+    <string name="terms" formatted="false">Utilitzar de manera responsable</string>
+    <string name="terms_body" formatted="false">Deseu només els vídeos que teniu o teniu permís per baixar-los. Respecteu els drets d\&apos;autor i els termes del lloc web. Aquesta aplicació no pot obviar les restriccions de DRM, murs de pagament o descàrregues de plataforma.</string>
+    <string name="about" formatted="false">Sobre</string>
+    <string name="version" formatted="false">Versió</string>
+    <string name="paid_app" formatted="false">Una compra. Sense anuncis. Sense subscripció.</string>
+    <string name="welcome_title" formatted="false">Conserveu allò que us inspira.</string>
+    <string name="welcome_body" formatted="false">Navega, descobreix i desa vídeos permesos en un sol lloc. Llegiu la guia il·lustrada per començar.</string>
+    <string name="start_browsing" formatted="false">Comença a navegar</string>
+    <string name="read_guide" formatted="false">Llegeix la guia</string>
+    <string name="browser_error" formatted="false">Aquesta pàgina no s\&apos;ha pogut carregar. Comproveu l\&apos;adreça i la connexió i, a continuació, torneu a carregar.</string>
+    <string name="secure_only" formatted="false">Aquesta aplicació utilitza connexions HTTPS. Proveu la versió segura d\&apos;aquest lloc web.</string>
+    <string name="external_link" formatted="false">Vols obrir aquest enllaç en una altra aplicació?</string>
+    <string name="open" formatted="false">Obert</string>
+    <string name="refresh" formatted="false">Actualitza</string>
+    <string name="accessibility_tutorial" formatted="false">Il·lustració per a aquest pas del tutorial</string>
+    <string name="download_reason" formatted="false">Codi d\&apos;error de descàrrega d\&apos;Android</string>
+    <string name="queue_full" formatted="false">L\&apos;historial de descàrregues està ple. Elimineu primer una entrada antiga.</string>
+    <string name="browser_tabs" formatted="false">Pestanyes del navegador</string>
+    <string name="tabs_subtitle" formatted="false">Manteniu els llocs web oberts i canvieu entre ells.</string>
+    <string name="new_tab" formatted="false">Pestanya nova</string>
+    <string name="close_tab" formatted="false">Tanca la pestanya</string>
+    <string name="active_tab" formatted="false">Pestanya activa</string>
+    <string name="tab_limit" formatted="false">Podeu obrir fins a 8 pestanyes. Tanqueu una pestanya per afegir-ne una altra.</string>
+    <string name="history" formatted="false">Història</string>
+    <string name="history_subtitle" formatted="false">Els llocs web visitats només es guarden en aquest dispositiu.</string>
+    <string name="empty_history" formatted="false">El vostre historial de navegació apareixerà aquí.</string>
+    <string name="clear_history" formatted="false">Esborra l\&apos;historial</string>
+    <string name="clear_history_confirm" formatted="false">Vols suprimir tot l\&apos;historial de navegació d\&apos;aquest dispositiu?</string>
+    <string name="open_new_tab" formatted="false">Obre en una pestanya nova</string>
+    <string name="browser_menu" formatted="false">Menú del navegador</string>
+    <string name="shortcut_note" formatted="false">Les dreceres del lloc web s\&apos;obren al navegador. La disponibilitat de descàrregues depèn del lloc web.</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Blaai deur</string>
+    <string name="downloads" formatted="false">Aflaaie</string>
+    <string name="guide" formatted="false">Gids</string>
+    <string name="settings" formatted="false">Instellings</string>
+    <string name="home_title" formatted="false">Jou video\&apos;s. Jou versameling.</string>
+    <string name="home_subtitle" formatted="false">Vind iets wat die moeite werd is om te hou.</string>
+    <string name="search_hint" formatted="false">Soek of voer \&apos;n webwerf in</string>
+    <string name="go" formatted="false">Gaan</string>
+    <string name="paste_link" formatted="false">Plak video skakel</string>
+    <string name="direct_link" formatted="false">Direkte video skakel</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Laai af</string>
+    <string name="detect" formatted="false">Soek video\&apos;s</string>
+    <string name="detected" formatted="false">Video\&apos;s op hierdie bladsy</string>
+    <string name="no_media" formatted="false">Geen aflaaibare video gevind nie. Begin \&apos;n video speel en probeer dan weer. Beskermde strome en ingebedde rame is dalk nie beskikbaar nie.</string>
+    <string name="safe_note" formatted="false">Laai slegs video\&apos;s af wat jy besit of toestemming het om te stoor. Beskermde strome en YouTube-aflaaie is nie beskikbaar nie.</string>
+    <string name="quick_start" formatted="false">BEGIN HIER</string>
+    <string name="quick_browse" formatted="false">Verken die web</string>
+    <string name="quick_browse_body" formatted="false">Soek met jou voorkeurenjin in die ingeboude blaaier.</string>
+    <string name="quick_download" formatted="false">Stoor \&apos;n video</string>
+    <string name="quick_download_body" formatted="false">Plak \&apos;n direkte HTTPS-videoskakel of soek \&apos;n video op \&apos;n bladsy.</string>
+    <string name="quick_guide" formatted="false">Bietjie leiding</string>
+    <string name="quick_guide_body" formatted="false">Vier geïllustreerde stappe van ontdekking tot jou versameling.</string>
+    <string name="back" formatted="false">Terug</string>
+    <string name="forward" formatted="false">Vorentoe</string>
+    <string name="reload" formatted="false">Herlaai</string>
+    <string name="home" formatted="false">Tuis</string>
+    <string name="bookmark" formatted="false">Boekmerk</string>
+    <string name="bookmarks" formatted="false">Boekmerke</string>
+    <string name="empty_bookmarks" formatted="false">Gestoorde webwerwe sal hier verskyn.</string>
+    <string name="saved" formatted="false">Gestoor</string>
+    <string name="remove" formatted="false">Verwyder</string>
+    <string name="cancel" formatted="false">Kanselleer</string>
+    <string name="close" formatted="false">Maak toe</string>
+    <string name="confirm_download" formatted="false">Stoor hierdie video?</string>
+    <string name="filename" formatted="false">Lêernaam</string>
+    <string name="download_location" formatted="false">Gestoor in Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Ek besit hierdie video of het toestemming om dit af te laai.</string>
+    <string name="permission_required" formatted="false">Bevestig dat jy toestemming het om hierdie video te stoor.</string>
+    <string name="invalid_url" formatted="false">Voer \&apos;n geldige HTTPS-videoskakel in.</string>
+    <string name="unsupported" formatted="false">Hierdie skakel is nie \&apos;n aflaaibare video nie. DRM, regstreekse strome, snitlyste en YouTube-aflaaie word nie ondersteun nie.</string>
+    <string name="queued" formatted="false">Aflaai is by die tou gevoeg</string>
+    <string name="download_error" formatted="false">Kan nie aflaai nie. Gaan die verbinding na of gebruik \&apos;n nuwe videoskakel.</string>
+    <string name="collection_title" formatted="false">Jou versameling</string>
+    <string name="collection_subtitle" formatted="false">Gestoorde video\&apos;s, gereed wanneer jy is.</string>
+    <string name="empty_downloads" formatted="false">Jou volgende gunsteling hoort hier.</string>
+    <string name="empty_downloads_body" formatted="false">Soek \&apos;n video in Blaai deur of plak \&apos;n direkte videoskakel om jou versameling te begin.</string>
+    <string name="pending" formatted="false">In die ry</string>
+    <string name="running" formatted="false">Laai tans af</string>
+    <string name="paused" formatted="false">Wag tans vir netwerk of probeer weer</string>
+    <string name="complete" formatted="false">Voltooi</string>
+    <string name="failed" formatted="false">Misluk</string>
+    <string name="missing" formatted="false">Lêer nie beskikbaar nie</string>
+    <string name="play" formatted="false">Speel</string>
+    <string name="share" formatted="false">Deel</string>
+    <string name="retry" formatted="false">Probeer weer</string>
+    <string name="delete_download" formatted="false">Verwyder aflaai en sy lêer?</string>
+    <string name="no_player" formatted="false">Geen versoenbare toepassing is beskikbaar om hierdie lêer oop te maak nie.</string>
+    <string name="guide_title" formatted="false">Van ontdekking tot aflaai.</string>
+    <string name="guide_subtitle" formatted="false">\&apos;n Eenvoudige gids om die video\&apos;s waarvan jy hou, te hou.</string>
+    <string name="step_one_title" formatted="false">Vind jou video</string>
+    <string name="step_one_body" formatted="false">Maak Blaai oop. Soek of voer \&apos;n webwerfadres in. Jy kan ook \&apos;n videoskakel vanaf \&apos;n ander toepassing deel.</string>
+    <string name="step_two_title" formatted="false">Ontdek die bron</string>
+    <string name="step_two_body" formatted="false">Speel \&apos;n video en tik dan Soek video\&apos;s. Kies \&apos;n bespeurde lêer, of plak \&apos;n direkte HTTPS-videoskakel.</string>
+    <string name="step_three_title" formatted="false">Maak dit joune</string>
+    <string name="step_three_body" formatted="false">Kies \&apos;n lêernaam, bevestig jou toestemming om die video te stoor en tik Laai af. Android gaan voort met die aflaai in die agtergrond.</string>
+    <string name="step_four_title" formatted="false">Geniet jou versameling</string>
+    <string name="step_four_body" formatted="false">Maak aflaaie oop om vordering na te gaan. Speel of deel voltooide video\&apos;s. Herprobeer mislukte aflaaie met \&apos;n nuwe skakel wanneer nodig.</string>
+    <string name="try_now" formatted="false">Probeer dit nou</string>
+    <string name="preferences" formatted="false">Maak dit jou eie.</string>
+    <string name="preferences_subtitle" formatted="false">\&apos;n Paar deurdagte kontroles vir jou daaglikse blaai.</string>
+    <string name="dns_title" formatted="false">VPN / Privaat DNS</string>
+    <string name="dns_explanation" formatted="false">Privaat DNS enkripteer DNS-navrae. Dit verberg nie u IP-adres of skep nie \&apos;n VPN-tonnel nie. Android vereis dat jy hierdie instelling handmatig verander.</string>
+    <string name="connected" formatted="false">Gekoppel</string>
+    <string name="unconnected" formatted="false">Ongekoppel</string>
+    <string name="connect" formatted="false">Koppel</string>
+    <string name="disconnect" formatted="false">Ontkoppel</string>
+    <string name="dns_instructions" formatted="false">Kies Privaat DNS-verskaffer gasheernaam, plak dns.adguard-dns.com, en stoor. Om te ontkoppel, kies Outomaties of Af in dieselfde stelselinstelling.</string>
+    <string name="copy_hostname" formatted="false">Kopieer gasheernaam</string>
+    <string name="copied" formatted="false">Gekopieer na knipbord</string>
+    <string name="open_network_settings" formatted="false">Maak netwerkinstellings oop</string>
+    <string name="language" formatted="false">Toepassingstaal</string>
+    <string name="system_language" formatted="false">Volg toesteltaal</string>
+    <string name="search_language" formatted="false">Vind \&apos;n taal</string>
+    <string name="language_note" formatted="false">Vertalings is vanlyn ingesluit. Ongelyste toesteltale gebruik Engels. Masjienvertalings benodig dalk streekshersiening.</string>
+    <string name="search_engine" formatted="false">Soekenjin</string>
+    <string name="wifi_only" formatted="false">Laai slegs op Wi-Fi af</string>
+    <string name="wifi_body" formatted="false">Nuwe aflaaie wag totdat Wi-Fi beskikbaar is.</string>
+    <string name="javascript" formatted="false">Webwerf JavaScript</string>
+    <string name="javascript_body" formatted="false">Vereis deur baie webwerwe en HTML5-video-ontdekking.</string>
+    <string name="privacy" formatted="false">Privaatheid</string>
+    <string name="clear_browser" formatted="false">Vee blaaierdata uit</string>
+    <string name="clear_browser_confirm" formatted="false">Vee koekies, blaaierkas, geskiedenis en webwerfberging uit?</string>
+    <string name="privacy_body" formatted="false">Geen advertensies, ontledings of ontwikkelaarrekeninge nie. Webwerwe, soekenjins, DNS-verskaffers en aflaaibedieners ontvang die versoeke wat jy rig. Aflaaigeskiedenis en boekmerke bly op hierdie toestel.</string>
+    <string name="terms" formatted="false">Gebruik verantwoordelik</string>
+    <string name="terms_body" formatted="false">Stoor slegs video\&apos;s wat jy besit of wat toegelaat word om af te laai. Respekteer kopiereg en webwerfbepalings. Hierdie toepassing kan nie DRM-, betaalmure- of platformaflaaibeperkings omseil nie.</string>
+    <string name="about" formatted="false">Oor</string>
+    <string name="version" formatted="false">Weergawe</string>
+    <string name="paid_app" formatted="false">Een aankoop. Geen advertensies nie. Geen intekening nie.</string>
+    <string name="welcome_title" formatted="false">Behou wat jou inspireer.</string>
+    <string name="welcome_body" formatted="false">Blaai deur, ontdek en stoor toegelate video\&apos;s op een plek. Lees die geïllustreerde gids om te begin.</string>
+    <string name="start_browsing" formatted="false">Begin blaai</string>
+    <string name="read_guide" formatted="false">Lees die gids</string>
+    <string name="browser_error" formatted="false">Hierdie bladsy kon nie gelaai word nie. Gaan die adres en verbinding na, en herlaai dan.</string>
+    <string name="secure_only" formatted="false">Hierdie toepassing gebruik HTTPS-verbindings. Probeer die veilige weergawe van hierdie webwerf.</string>
+    <string name="external_link" formatted="false">Maak hierdie skakel in \&apos;n ander toepassing oop?</string>
+    <string name="open" formatted="false">Maak oop</string>
+    <string name="refresh" formatted="false">Verfris</string>
+    <string name="accessibility_tutorial" formatted="false">Illustrasie vir hierdie tutoriaalstap</string>
+    <string name="download_reason" formatted="false">Android aflaai foutkode</string>
+    <string name="queue_full" formatted="false">Die aflaaigeskiedenis is vol. Verwyder eers \&apos;n ouer inskrywing.</string>
+    <string name="browser_tabs" formatted="false">Blaaier-oortjies</string>
+    <string name="tabs_subtitle" formatted="false">Hou webwerwe oop en wissel tussen hulle.</string>
+    <string name="new_tab" formatted="false">Nuwe oortjie</string>
+    <string name="close_tab" formatted="false">Maak oortjie toe</string>
+    <string name="active_tab" formatted="false">Aktiewe oortjie</string>
+    <string name="tab_limit" formatted="false">Jy kan tot 8 oortjies oopmaak. Maak \&apos;n oortjie toe om nog een by te voeg.</string>
+    <string name="history" formatted="false">Geskiedenis</string>
+    <string name="history_subtitle" formatted="false">Besoekte webwerwe word slegs op hierdie toestel gestoor.</string>
+    <string name="empty_history" formatted="false">Jou blaaigeskiedenis sal hier verskyn.</string>
+    <string name="clear_history" formatted="false">Vee geskiedenis uit</string>
+    <string name="clear_history_confirm" formatted="false">Vee alle blaaigeskiedenis van hierdie toestel af uit?</string>
+    <string name="open_new_tab" formatted="false">Maak oop in nuwe oortjie</string>
+    <string name="browser_menu" formatted="false">Blaaier-kieslys</string>
+    <string name="shortcut_note" formatted="false">Webwerfkortpaaie word in die blaaier oopgemaak. Die beskikbaarheid van aflaai hang af van die webwerf.</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Sakatulani</string>
+    <string name="downloads" formatted="false">Zotsitsa</string>
+    <string name="guide" formatted="false">Wotsogolera</string>
+    <string name="settings" formatted="false">Zokonda</string>
+    <string name="home_title" formatted="false">Mavidiyo anu. Zosonkhanitsa zanu.</string>
+    <string name="home_subtitle" formatted="false">Pezani china chake choyenera kusunga.</string>
+    <string name="search_hint" formatted="false">Sakani kapena lowetsani tsamba lawebusayiti</string>
+    <string name="go" formatted="false">Pitani</string>
+    <string name="paste_link" formatted="false">Matani ulalo wamakanema</string>
+    <string name="direct_link" formatted="false">Direct kanema ulalo</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Tsitsani</string>
+    <string name="detect" formatted="false">Pezani makanema</string>
+    <string name="detected" formatted="false">Makanema patsamba lino</string>
+    <string name="no_media" formatted="false">Palibe vidiyo yotsitsa yomwe yapezeka. Yambani kusewera kanema, kenako yesaninso. Mitsinje yotetezedwa ndi mafelemu ophatikizidwa mwina sangapezeke.</string>
+    <string name="safe_note" formatted="false">Koperani makanema omwe muli nawo okha kapena omwe muli ndi chilolezo chowasunga. Makanema otetezedwa komanso kutsitsa pa YouTube palibe.</string>
+    <string name="quick_start" formatted="false">YAMBANI APA</string>
+    <string name="quick_browse" formatted="false">Onani pa intaneti</string>
+    <string name="quick_browse_body" formatted="false">Sakani ndi injini yomwe mumakonda mumsakatuli womangidwa.</string>
+    <string name="quick_download" formatted="false">Sungani kanema</string>
+    <string name="quick_download_body" formatted="false">Matani ulalo wachindunji wa kanema wa HTTPS kapena pezani kanema patsamba.</string>
+    <string name="quick_guide" formatted="false">Malangizo pang\&apos;ono</string>
+    <string name="quick_guide_body" formatted="false">Masitepe anayi ojambulidwa kuchokera pakutulukira mpaka zomwe mwasonkhanitsa.</string>
+    <string name="back" formatted="false">Kubwerera</string>
+    <string name="forward" formatted="false">Patsogolo</string>
+    <string name="reload" formatted="false">Kwezaninso</string>
+    <string name="home" formatted="false">Kunyumba</string>
+    <string name="bookmark" formatted="false">Chizindikiro</string>
+    <string name="bookmarks" formatted="false">Zosungira</string>
+    <string name="empty_bookmarks" formatted="false">Mawebusayiti osungidwa awoneka apa.</string>
+    <string name="saved" formatted="false">Zosungidwa</string>
+    <string name="remove" formatted="false">Chotsani</string>
+    <string name="cancel" formatted="false">Letsani</string>
+    <string name="close" formatted="false">Tsekani</string>
+    <string name="confirm_download" formatted="false">Sungani kanemayu?</string>
+    <string name="filename" formatted="false">Dzina lafayilo</string>
+    <string name="download_location" formatted="false">Zosungidwa mu Kutsitsa / Kanema Wotsitsa Makanema</string>
+    <string name="permission_confirm" formatted="false">Ndili ndi vidiyoyi kapena ndili ndi chilolezo chotsitsa.</string>
+    <string name="permission_required" formatted="false">Tsimikizirani kuti muli ndi chilolezo chosungira vidiyoyi.</string>
+    <string name="invalid_url" formatted="false">Lowetsani ulalo wovomerezeka wamavidiyo a HTTPS.</string>
+    <string name="unsupported" formatted="false">Ulalowu si kanema wotsitsa. DRM, ma streams, playlists, ndi kutsitsa pa YouTube sizothandiza.</string>
+    <string name="queued" formatted="false">Kutsitsa kwawonjezedwa pamzere</string>
+    <string name="download_error" formatted="false">Takanika kutsitsa. Onani kulumikizana kapena gwiritsani ntchito ulalo wamakanema atsopano.</string>
+    <string name="collection_title" formatted="false">Zosonkhanitsa zanu</string>
+    <string name="collection_subtitle" formatted="false">Makanema osungidwa, okonzeka mukakhala.</string>
+    <string name="empty_downloads" formatted="false">Chotsatira chanu chotsatira chili pano.</string>
+    <string name="empty_downloads_body" formatted="false">Pezani kanema mu Sakatulani kapena matani ulalo wachindunji wa kanema kuti muyambitse kusonkhanitsa kwanu.</string>
+    <string name="pending" formatted="false">Ali pamzere</string>
+    <string name="running" formatted="false">Kutsitsa</string>
+    <string name="paused" formatted="false">Kudikirira netiweki kapena yesaninso</string>
+    <string name="complete" formatted="false">Malizitsani</string>
+    <string name="failed" formatted="false">Zalephera</string>
+    <string name="missing" formatted="false">Fayilo palibe</string>
+    <string name="play" formatted="false">Sewerani</string>
+    <string name="share" formatted="false">Gawani</string>
+    <string name="retry" formatted="false">Yesaninso</string>
+    <string name="delete_download" formatted="false">Chotsani kutsitsa ndi fayilo yake?</string>
+    <string name="no_player" formatted="false">Palibe pulogalamu yomwe ingatsegule fayiloyi.</string>
+    <string name="guide_title" formatted="false">Kuchokera pakupeza mpaka kutsitsa.</string>
+    <string name="guide_subtitle" formatted="false">Kalozera wosavuta wosunga makanema omwe mumakonda.</string>
+    <string name="step_one_title" formatted="false">Pezani kanema wanu</string>
+    <string name="step_one_body" formatted="false">Tsegulani Sakatulani. Sakani kapena lowetsani adilesi ya webusayiti. Mutha kugawananso ulalo wamakanema kuchokera ku pulogalamu ina.</string>
+    <string name="step_two_title" formatted="false">Dziwani komwe kumachokera</string>
+    <string name="step_two_body" formatted="false">Onerani kanema, kenako dinani Pezani mavidiyo. Sankhani fayilo yomwe yapezeka, kapena matani ulalo wachindunji wa kanema wa HTTPS.</string>
+    <string name="step_three_title" formatted="false">Pangani kukhala chanu</string>
+    <string name="step_three_body" formatted="false">Sankhani dzina lafayilo, tsimikizirani chilolezo chanu kuti musunge kanemayo, ndikudina Tsitsani. Android ikupitiriza kutsitsa kumbuyo.</string>
+    <string name="step_four_title" formatted="false">Sangalalani ndi zomwe mwasonkhanitsa</string>
+    <string name="step_four_body" formatted="false">Tsegulani Zotsitsa kuti muwone momwe zikuyendera. Sewerani kapena gawani makanema omalizidwa. Yesaninso zotsitsa zomwe zalephera ndi ulalo watsopano pakafunika.</string>
+    <string name="try_now" formatted="false">Yesani tsopano</string>
+    <string name="preferences" formatted="false">Pangani kukhala kwanu.</string>
+    <string name="preferences_subtitle" formatted="false">Kuwongolera pang\&apos;ono kwakusakatula kwanu kwatsiku ndi tsiku.</string>
+    <string name="dns_title" formatted="false">VPN / Private DNS</string>
+    <string name="dns_explanation" formatted="false">Private DNS imabisa mafunso a DNS. Simabisa adilesi yanu ya IP kapena kupanga njira ya VPN. Android ikufuna kuti musinthe izi pamanja.</string>
+    <string name="connected" formatted="false">Zolumikizidwa</string>
+    <string name="unconnected" formatted="false">Osalumikizidwa</string>
+    <string name="connect" formatted="false">Lumikizani</string>
+    <string name="disconnect" formatted="false">Lumikizani</string>
+    <string name="dns_instructions" formatted="false">Sankhani Private DNS hostname, paste dns.adguard-dns.com, ndikusunga. Kuti mutsegule, sankhani Automatic kapena Off mu dongosolo lomwelo.</string>
+    <string name="copy_hostname" formatted="false">Koperani dzina la alendo</string>
+    <string name="copied" formatted="false">Akopera ku bolodi lojambula</string>
+    <string name="open_network_settings" formatted="false">Tsegulani zokonda pa netiweki</string>
+    <string name="language" formatted="false">Chilankhulo cha pulogalamu</string>
+    <string name="system_language" formatted="false">Tsatirani chilankhulo cha chipangizocho</string>
+    <string name="search_language" formatted="false">Pezani chinenero</string>
+    <string name="language_note" formatted="false">Zomasulira zikuphatikizidwa popanda intaneti. Zilankhulo zomwe sizinatchulidwe pazida zimagwiritsa ntchito Chingerezi. Zomasulira zamakina zingafunike kuunikanso dera.</string>
+    <string name="search_engine" formatted="false">Search engine</string>
+    <string name="wifi_only" formatted="false">Tsitsani pa Wi-Fi kokha</string>
+    <string name="wifi_body" formatted="false">Kutsitsa kwatsopano kumadikirira mpaka Wi-Fi ipezeke.</string>
+    <string name="javascript" formatted="false">Webusaiti ya JavaScript</string>
+    <string name="javascript_body" formatted="false">Zofunikira ndi mawebusayiti ambiri komanso kupezeka kwamavidiyo a HTML5.</string>
+    <string name="privacy" formatted="false">Zazinsinsi</string>
+    <string name="clear_browser" formatted="false">Chotsani kusakatula kwanu</string>
+    <string name="clear_browser_confirm" formatted="false">Chotsani makeke, kache ya msakatuli, mbiri yakale, ndi kusunga tsamba?</string>
+    <string name="privacy_body" formatted="false">Palibe zotsatsa, ma analytics, kapena maakaunti opanga mapulogalamu. Mawebusayiti, makina osakira, opereka ma DNS, ndi maseva otsitsa amalandila zomwe mumapanga. Mbiri yakale ndi ma bookmark azikhala pachidachi.</string>
+    <string name="terms" formatted="false">Gwiritsani ntchito moyenera</string>
+    <string name="terms_body" formatted="false">Sungani makanema okhawo omwe muli nawo kapena omwe amaloledwa kutsitsa. Lemekezani kukopera ndi mawu awebusayiti. Pulogalamuyi siyingadutse DRM, ma paywall, kapena zoletsa zotsitsa papulatifomu.</string>
+    <string name="about" formatted="false">Za</string>
+    <string name="version" formatted="false">Baibulo</string>
+    <string name="paid_app" formatted="false">Kugula kumodzi. Palibe zotsatsa. Palibe zolembetsa.</string>
+    <string name="welcome_title" formatted="false">Sungani zomwe zimakulimbikitsani.</string>
+    <string name="welcome_body" formatted="false">Sakatulani, pezani, ndikusunga makanema ololedwa pamalo amodzi. Werengani bukhuli kuti muyambe.</string>
+    <string name="start_browsing" formatted="false">Yambani kusakatula</string>
+    <string name="read_guide" formatted="false">Werengani kalozera</string>
+    <string name="browser_error" formatted="false">Tsambali silinathe kukwezedwa. Yang\&apos;anani adilesi ndi kulumikizana, ndikutsegulanso.</string>
+    <string name="secure_only" formatted="false">Pulogalamuyi imagwiritsa ntchito malumikizidwe a HTTPS. Yesani mtundu wotetezedwa watsambali.</string>
+    <string name="external_link" formatted="false">Tsegulani ulalowu mu pulogalamu ina?</string>
+    <string name="open" formatted="false">Tsegulani</string>
+    <string name="refresh" formatted="false">Tsitsaninso</string>
+    <string name="accessibility_tutorial" formatted="false">Chithunzi cha sitepe ya phunziroli</string>
+    <string name="download_reason" formatted="false">khodi yolakwika yotsitsa pa Android</string>
+    <string name="queue_full" formatted="false">Mbiri yotsitsa ili yodzaza. Chotsani zolemba zakale kaye.</string>
+    <string name="browser_tabs" formatted="false">Browser tabu</string>
+    <string name="tabs_subtitle" formatted="false">Sungani masamba otseguka ndikusintha pakati pawo.</string>
+    <string name="new_tab" formatted="false">Tabu yatsopano</string>
+    <string name="close_tab" formatted="false">Tsekani tabu</string>
+    <string name="active_tab" formatted="false">Tabu yogwira</string>
+    <string name="tab_limit" formatted="false">Mutha kutsegula mpaka ma tabo 8. Tsekani tabu kuti muwonjezere ina.</string>
+    <string name="history" formatted="false">Mbiri</string>
+    <string name="history_subtitle" formatted="false">Mawebusayiti omwe adawonedwa amasungidwa pachidachi chokha.</string>
+    <string name="empty_history" formatted="false">Mbiri yanu yosakatula iwoneka apa.</string>
+    <string name="clear_history" formatted="false">Chotsani mbiri</string>
+    <string name="clear_history_confirm" formatted="false">Chotsani mbiri yonse yakusakatula pachidachi?</string>
+    <string name="open_new_tab" formatted="false">Tsegulani mu tabu yatsopano</string>
+    <string name="browser_menu" formatted="false">Msakatuli menyu</string>
+    <string name="shortcut_note" formatted="false">Njira zazifupi zapawebusayiti zimatsegulidwa mu msakatuli. Kutsitsa kumatengera tsambalo.</string>
+</resources>

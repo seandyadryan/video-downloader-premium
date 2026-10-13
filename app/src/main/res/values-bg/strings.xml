@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ПРЕМИУМ</string>
+    <string name="browse" formatted="false">Прегледайте</string>
+    <string name="downloads" formatted="false">Изтегляния</string>
+    <string name="guide" formatted="false">Ръководство</string>
+    <string name="settings" formatted="false">Настройки</string>
+    <string name="home_title" formatted="false">Вашите видеоклипове. Вашата колекция.</string>
+    <string name="home_subtitle" formatted="false">Намерете нещо, което си струва да запазите.</string>
+    <string name="search_hint" formatted="false">Търсете или въведете уебсайт</string>
+    <string name="go" formatted="false">върви</string>
+    <string name="paste_link" formatted="false">Поставете връзка към видео</string>
+    <string name="direct_link" formatted="false">Директна видео връзка</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Изтегляне</string>
+    <string name="detect" formatted="false">Намерете видеоклипове</string>
+    <string name="detected" formatted="false">Видеоклипове на тази страница</string>
+    <string name="no_media" formatted="false">Няма намерено видео за изтегляне. Започнете да възпроизвеждате видео, след което опитайте отново. Защитените потоци и вградените кадри може да не са налични.</string>
+    <string name="safe_note" formatted="false">Изтегляйте само видеоклипове, които притежавате или имате разрешение за запазване. Защитените потоци и изтеглянията от YouTube не са достъпни.</string>
+    <string name="quick_start" formatted="false">ЗАПОЧНЕТЕ ТУК</string>
+    <string name="quick_browse" formatted="false">Разгледайте мрежата</string>
+    <string name="quick_browse_body" formatted="false">Търсете с предпочитаната от вас машина във вградения браузър.</string>
+    <string name="quick_download" formatted="false">Запазете видеоклип</string>
+    <string name="quick_download_body" formatted="false">Поставете директна HTTPS видео връзка или намерете видеоклип на страница.</string>
+    <string name="quick_guide" formatted="false">Малко напътствие</string>
+    <string name="quick_guide_body" formatted="false">Четири илюстрирани стъпки от откриването до вашата колекция.</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="forward" formatted="false">Напред</string>
+    <string name="reload" formatted="false">Презареди</string>
+    <string name="home" formatted="false">Начало</string>
+    <string name="bookmark" formatted="false">Отметка</string>
+    <string name="bookmarks" formatted="false">Отметки</string>
+    <string name="empty_bookmarks" formatted="false">Запазените уебсайтове ще се появят тук.</string>
+    <string name="saved" formatted="false">Запазено</string>
+    <string name="remove" formatted="false">Премахнете</string>
+    <string name="cancel" formatted="false">Отказ</string>
+    <string name="close" formatted="false">затвори</string>
+    <string name="confirm_download" formatted="false">Запазване на това видео?</string>
+    <string name="filename" formatted="false">Име на файла</string>
+    <string name="download_location" formatted="false">Запазено в Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Аз притежавам този видеоклип или имам разрешение да го изтегля.</string>
+    <string name="permission_required" formatted="false">Потвърдете, че имате разрешение да запазите този видеоклип.</string>
+    <string name="invalid_url" formatted="false">Въведете валидна HTTPS видео връзка.</string>
+    <string name="unsupported" formatted="false">Тази връзка не е видеоклип за изтегляне. DRM, потоци на живо, плейлисти и изтегляния от YouTube не се поддържат.</string>
+    <string name="queued" formatted="false">Изтеглянето е добавено към опашката</string>
+    <string name="download_error" formatted="false">Не може да се изтегли. Проверете връзката или използвайте нова видео връзка.</string>
+    <string name="collection_title" formatted="false">Вашата колекция</string>
+    <string name="collection_subtitle" formatted="false">Запазени видеоклипове, готови, когато сте.</string>
+    <string name="empty_downloads" formatted="false">Следващият ви фаворит принадлежи тук.</string>
+    <string name="empty_downloads_body" formatted="false">Намерете видеоклип в Преглед или поставете директна видео връзка, за да започнете колекцията си.</string>
+    <string name="pending" formatted="false">На опашка</string>
+    <string name="running" formatted="false">Изтегля се</string>
+    <string name="paused" formatted="false">Изчакване на мрежа или опитайте отново</string>
+    <string name="complete" formatted="false">Завършен</string>
+    <string name="failed" formatted="false">Неуспешно</string>
+    <string name="missing" formatted="false">Файлът е недостъпен</string>
+    <string name="play" formatted="false">Играйте</string>
+    <string name="share" formatted="false">Споделете</string>
+    <string name="retry" formatted="false">Опитайте отново</string>
+    <string name="delete_download" formatted="false">Премахване на изтеглянето и неговия файл?</string>
+    <string name="no_player" formatted="false">Няма налично съвместимо приложение за отваряне на този файл.</string>
+    <string name="guide_title" formatted="false">От откриването до изтеглянето.</string>
+    <string name="guide_subtitle" formatted="false">Лесно ръководство за запазване на видеоклиповете, които обичате.</string>
+    <string name="step_one_title" formatted="false">Намерете вашето видео</string>
+    <string name="step_one_body" formatted="false">Отворете Преглед. Потърсете или въведете адрес на уебсайт. Можете също да споделите връзка към видеоклип от друго приложение.</string>
+    <string name="step_two_title" formatted="false">Открийте източника</string>
+    <string name="step_two_body" formatted="false">Пуснете видеоклип, след което докоснете Намиране на видеоклипове. Изберете открит файл или поставете директна HTTPS видео връзка.</string>
+    <string name="step_three_title" formatted="false">Направи го твое</string>
+    <string name="step_three_body" formatted="false">Изберете име на файл, потвърдете разрешението си да запазите видеоклипа и докоснете Изтегляне. Android продължава изтеглянето във фонов режим.</string>
+    <string name="step_four_title" formatted="false">Насладете се на вашата колекция</string>
+    <string name="step_four_body" formatted="false">Отворете Изтеглянията, за да проверите напредъка. Пускайте или споделяйте завършени видеоклипове. Опитайте отново неуспешни изтегляния с нова връзка, когато е необходимо.</string>
+    <string name="try_now" formatted="false">Опитайте сега</string>
+    <string name="preferences" formatted="false">Направете го свой собствен.</string>
+    <string name="preferences_subtitle" formatted="false">Няколко обмислени контроли за ежедневното ви сърфиране.</string>
+    <string name="dns_title" formatted="false">VPN / частен DNS</string>
+    <string name="dns_explanation" formatted="false">Частният DNS криптира DNS заявките. Той не скрива вашия IP адрес или създава VPN тунел. Android изисква да промените тази настройка ръчно.</string>
+    <string name="connected" formatted="false">Свързан</string>
+    <string name="unconnected" formatted="false">Без връзка</string>
+    <string name="connect" formatted="false">Свържете се</string>
+    <string name="disconnect" formatted="false">Прекъснете връзката</string>
+    <string name="dns_instructions" formatted="false">Изберете име на хост на частен DNS доставчик, поставете dns.adguard-dns.com и запазете. За да прекъснете връзката, изберете Автоматично или Изключено в същата системна настройка.</string>
+    <string name="copy_hostname" formatted="false">Копирайте името на хоста</string>
+    <string name="copied" formatted="false">Копирано в клипборда</string>
+    <string name="open_network_settings" formatted="false">Отворете мрежовите настройки</string>
+    <string name="language" formatted="false">Език на приложението</string>
+    <string name="system_language" formatted="false">Следвайте езика на устройството</string>
+    <string name="search_language" formatted="false">Намерете език</string>
+    <string name="language_note" formatted="false">Преводите са включени офлайн. Непосочените езици на устройството използват английски. Машинните преводи може да се нуждаят от регионален преглед.</string>
+    <string name="search_engine" formatted="false">Търсачка</string>
+    <string name="wifi_only" formatted="false">Изтегляне само през Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Новите изтегляния изчакват, докато Wi-Fi е наличен.</string>
+    <string name="javascript" formatted="false">JavaScript на уебсайта</string>
+    <string name="javascript_body" formatted="false">Изисква се от много уебсайтове и откриване на HTML5 видео.</string>
+    <string name="privacy" formatted="false">Поверителност</string>
+    <string name="clear_browser" formatted="false">Изчистване на данните за сърфирането</string>
+    <string name="clear_browser_confirm" formatted="false">Изтриване на бисквитките, кеша на браузъра, хронологията и хранилището на уебсайта?</string>
+    <string name="privacy_body" formatted="false">Без реклами, анализи или акаунти на разработчици. Уебсайтовете, търсачките, DNS доставчиците и сървърите за изтегляне получават заявките, които правите. Историята на изтеглянията и отметките остават на това устройство.</string>
+    <string name="terms" formatted="false">Използвайте отговорно</string>
+    <string name="terms_body" formatted="false">Запазвайте само видеоклипове, които притежавате или имате разрешение за изтегляне. Спазвайте авторските права и условията на уебсайта. Това приложение не може да заобиколи DRM, платени стени или ограничения за изтегляне на платформа.</string>
+    <string name="about" formatted="false">За</string>
+    <string name="version" formatted="false">Версия</string>
+    <string name="paid_app" formatted="false">Една покупка. Без реклами. Без абонамент.</string>
+    <string name="welcome_title" formatted="false">Запазете това, което ви вдъхновява.</string>
+    <string name="welcome_body" formatted="false">Преглеждайте, откривайте и запазвайте разрешените видеоклипове на едно място. Прочетете илюстрираното ръководство, за да започнете.</string>
+    <string name="start_browsing" formatted="false">Започнете да разглеждате</string>
+    <string name="read_guide" formatted="false">Прочетете ръководството</string>
+    <string name="browser_error" formatted="false">Тази страница не можа да бъде заредена. Проверете адреса и връзката, след което презаредете.</string>
+    <string name="secure_only" formatted="false">Това приложение използва HTTPS връзки. Опитайте защитената версия на този уебсайт.</string>
+    <string name="external_link" formatted="false">Отваряне на тази връзка в друго приложение?</string>
+    <string name="open" formatted="false">отворено</string>
+    <string name="refresh" formatted="false">Опресняване</string>
+    <string name="accessibility_tutorial" formatted="false">Илюстрация за тази стъпка от урока</string>
+    <string name="download_reason" formatted="false">Код за грешка при изтегляне на Android</string>
+    <string name="queue_full" formatted="false">Хронологията на изтеглянията е пълна. Първо премахнете по-стар запис.</string>
+    <string name="browser_tabs" formatted="false">Раздели на браузъра</string>
+    <string name="tabs_subtitle" formatted="false">Дръжте уебсайтовете отворени и превключвайте между тях.</string>
+    <string name="new_tab" formatted="false">Нов раздел</string>
+    <string name="close_tab" formatted="false">Затваряне на раздела</string>
+    <string name="active_tab" formatted="false">Активен раздел</string>
+    <string name="tab_limit" formatted="false">Можете да отворите до 8 раздела. Затворете раздел, за да добавите друг.</string>
+    <string name="history" formatted="false">История</string>
+    <string name="history_subtitle" formatted="false">Посетените уебсайтове се запазват само на това устройство.</string>
+    <string name="empty_history" formatted="false">Вашата хронология на сърфиране ще се покаже тук.</string>
+    <string name="clear_history" formatted="false">Изчистване на историята</string>
+    <string name="clear_history_confirm" formatted="false">Да се изтрие ли цялата история на сърфиране от това устройство?</string>
+    <string name="open_new_tab" formatted="false">Отворете в нов раздел</string>
+    <string name="browser_menu" formatted="false">Меню на браузъра</string>
+    <string name="shortcut_note" formatted="false">Преките пътища към уебсайтове се отварят в браузъра. Наличността на изтегляне зависи от уебсайта.</string>
+</resources>

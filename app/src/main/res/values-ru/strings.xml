@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ПРЕМИУМ</string>
+    <string name="browse" formatted="false">Обзор</string>
+    <string name="downloads" formatted="false">Загрузки</string>
+    <string name="guide" formatted="false">Руководство</string>
+    <string name="settings" formatted="false">Настройки</string>
+    <string name="home_title" formatted="false">Ваши видео. Ваша коллекция.</string>
+    <string name="home_subtitle" formatted="false">Найдите что-то, что стоит сохранить.</string>
+    <string name="search_hint" formatted="false">Найдите или введите веб-сайт</string>
+    <string name="go" formatted="false">Иди</string>
+    <string name="paste_link" formatted="false">Вставить ссылку на видео</string>
+    <string name="direct_link" formatted="false">Прямая ссылка на видео</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Скачать</string>
+    <string name="detect" formatted="false">Найти видео</string>
+    <string name="detected" formatted="false">Видео на этой странице</string>
+    <string name="no_media" formatted="false">Видео для скачивания не найдено. Начните воспроизведение видео и повторите попытку. Защищенные потоки и встроенные кадры могут быть недоступны.</string>
+    <string name="safe_note" formatted="false">Скачивайте только те видео, которыми вы владеете или имеете разрешение на сохранение. Защищенные потоки и загрузки YouTube недоступны.</string>
+    <string name="quick_start" formatted="false">НАЧНИТЕ ЗДЕСЬ</string>
+    <string name="quick_browse" formatted="false">Исследуйте Интернет</string>
+    <string name="quick_browse_body" formatted="false">Ищите с помощью предпочитаемой вами системы во встроенном браузере.</string>
+    <string name="quick_download" formatted="false">Сохранить видео</string>
+    <string name="quick_download_body" formatted="false">Вставьте прямую ссылку на видео HTTPS или найдите видео на странице.</string>
+    <string name="quick_guide" formatted="false">Небольшое руководство</string>
+    <string name="quick_guide_body" formatted="false">Четыре иллюстрированных шага от открытия до вашей коллекции.</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="forward" formatted="false">Вперед</string>
+    <string name="reload" formatted="false">Перезагрузить</string>
+    <string name="home" formatted="false">Главная</string>
+    <string name="bookmark" formatted="false">Закладка</string>
+    <string name="bookmarks" formatted="false">Закладки</string>
+    <string name="empty_bookmarks" formatted="false">Здесь появятся сохраненные веб-сайты.</string>
+    <string name="saved" formatted="false">Сохранено</string>
+    <string name="remove" formatted="false">Удалить</string>
+    <string name="cancel" formatted="false">Отмена</string>
+    <string name="close" formatted="false">Закрыть</string>
+    <string name="confirm_download" formatted="false">Сохранить это видео?</string>
+    <string name="filename" formatted="false">Имя файла</string>
+    <string name="download_location" formatted="false">Сохранено в разделе «Загрузки» / Video Downloader Premium.</string>
+    <string name="permission_confirm" formatted="false">Я являюсь владельцем этого видео или имею разрешение на его скачивание.</string>
+    <string name="permission_required" formatted="false">Подтвердите, что у вас есть разрешение на сохранение этого видео.</string>
+    <string name="invalid_url" formatted="false">Введите действительную ссылку на видео HTTPS.</string>
+    <string name="unsupported" formatted="false">Эта ссылка не является видео для скачивания. DRM, прямые трансляции, плейлисты и загрузки YouTube не поддерживаются.</string>
+    <string name="queued" formatted="false">Загрузка добавлена в очередь</string>
+    <string name="download_error" formatted="false">Невозможно скачать. Проверьте соединение или используйте свежую ссылку на видео.</string>
+    <string name="collection_title" formatted="false">Ваша коллекция</string>
+    <string name="collection_subtitle" formatted="false">Сохраненные видео будут готовы, когда вы будете готовы.</string>
+    <string name="empty_downloads" formatted="false">Ваш следующий фаворит принадлежит здесь.</string>
+    <string name="empty_downloads_body" formatted="false">Найдите видео в разделе «Обзор» или вставьте прямую ссылку на видео, чтобы начать свою коллекцию.</string>
+    <string name="pending" formatted="false">В очереди</string>
+    <string name="running" formatted="false">Загрузка</string>
+    <string name="paused" formatted="false">Ожидание сети или повторите попытку.</string>
+    <string name="complete" formatted="false">Завершить</string>
+    <string name="failed" formatted="false">Не удалось</string>
+    <string name="missing" formatted="false">Файл недоступен</string>
+    <string name="play" formatted="false">Играть</string>
+    <string name="share" formatted="false">Поделиться</string>
+    <string name="retry" formatted="false">Повторить попытку</string>
+    <string name="delete_download" formatted="false">Удалить загрузку и ее файл?</string>
+    <string name="no_player" formatted="false">Не существует совместимого приложения для открытия этого файла.</string>
+    <string name="guide_title" formatted="false">От открытия до загрузки.</string>
+    <string name="guide_subtitle" formatted="false">Простое руководство по сохранению любимых видео.</string>
+    <string name="step_one_title" formatted="false">Найдите свое видео</string>
+    <string name="step_one_body" formatted="false">Откройте Обзор. Найдите или введите адрес веб-сайта. Вы также можете поделиться ссылкой на видео из другого приложения.</string>
+    <string name="step_two_title" formatted="false">Откройте для себя источник</string>
+    <string name="step_two_body" formatted="false">Воспроизведите видео, затем нажмите «Найти видео». Выберите обнаруженный файл или вставьте прямую ссылку на видео HTTPS.</string>
+    <string name="step_three_title" formatted="false">Сделайте это своим</string>
+    <string name="step_three_body" formatted="false">Выберите имя файла, подтвердите свое разрешение на сохранение видео и нажмите «Загрузить». Android продолжает загрузку в фоновом режиме.</string>
+    <string name="step_four_title" formatted="false">Наслаждайтесь своей коллекцией</string>
+    <string name="step_four_body" formatted="false">Откройте «Загрузки», чтобы проверить прогресс. Воспроизведите или поделитесь готовыми видеороликами. При необходимости повторите неудачную загрузку, используя новую ссылку.</string>
+    <string name="try_now" formatted="false">Попробуйте сейчас</string>
+    <string name="preferences" formatted="false">Сделайте это своим собственным.</string>
+    <string name="preferences_subtitle" formatted="false">Несколько продуманных элементов управления для повседневного просмотра.</string>
+    <string name="dns_title" formatted="false">VPN / Частный DNS</string>
+    <string name="dns_explanation" formatted="false">Частный DNS шифрует DNS-запросы. Он не скрывает ваш IP-адрес и не создает VPN-туннель. Android требует, чтобы вы изменили этот параметр вручную.</string>
+    <string name="connected" formatted="false">Подключено</string>
+    <string name="unconnected" formatted="false">Неподключено</string>
+    <string name="connect" formatted="false">Подключиться</string>
+    <string name="disconnect" formatted="false">Отключить</string>
+    <string name="dns_instructions" formatted="false">Выберите имя хоста частного DNS-провайдера, вставьте dns.adguard-dns.com и сохраните. Чтобы отключиться, выберите «Автоматически» или «Выкл.» в тех же настройках системы.</string>
+    <string name="copy_hostname" formatted="false">Скопировать имя хоста</string>
+    <string name="copied" formatted="false">Скопировано в буфер обмена</string>
+    <string name="open_network_settings" formatted="false">Открыть настройки сети</string>
+    <string name="language" formatted="false">Язык приложения</string>
+    <string name="system_language" formatted="false">Следуйте языку устройства</string>
+    <string name="search_language" formatted="false">Найти язык</string>
+    <string name="language_note" formatted="false">Переводы включены в автономном режиме. Языки устройств, не указанные в списке, используют английский. Машинные переводы могут нуждаться в региональной проверке.</string>
+    <string name="search_engine" formatted="false">Поисковая система</string>
+    <string name="wifi_only" formatted="false">Загрузка только через Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Новые загрузки ждут, пока не станет доступен Wi-Fi.</string>
+    <string name="javascript" formatted="false">JavaScript для веб-сайта</string>
+    <string name="javascript_body" formatted="false">Требуется для многих веб-сайтов и обнаружения видео HTML5.</string>
+    <string name="privacy" formatted="false">Конфиденциальность</string>
+    <string name="clear_browser" formatted="false">Очистить данные просмотра</string>
+    <string name="clear_browser_confirm" formatted="false">Удалить файлы cookie, кеш браузера, историю и хранилище веб-сайта?</string>
+    <string name="privacy_body" formatted="false">Никакой рекламы, аналитики или учетных записей разработчиков. Веб-сайты, поисковые системы, DNS-провайдеры и серверы загрузки получают ваши запросы. История загрузок и закладки остаются на этом устройстве.</string>
+    <string name="terms" formatted="false">Используйте ответственно</string>
+    <string name="terms_body" formatted="false">Сохраняйте только видео, которыми вы владеете или которые разрешено загружать. Соблюдайте авторские права и условия сайта. Это приложение не может обойти DRM, платный доступ или ограничения на загрузку платформы.</string>
+    <string name="about" formatted="false">О</string>
+    <string name="version" formatted="false">Версия</string>
+    <string name="paid_app" formatted="false">Одна покупка. Никакой рекламы. Нет подписки.</string>
+    <string name="welcome_title" formatted="false">Сохраняйте то, что вас вдохновляет.</string>
+    <string name="welcome_body" formatted="false">Просматривайте, находите и сохраняйте разрешенные видео в одном месте. Для начала прочтите иллюстрированное руководство.</string>
+    <string name="start_browsing" formatted="false">Начать просмотр</string>
+    <string name="read_guide" formatted="false">Прочитать руководство</string>
+    <string name="browser_error" formatted="false">Не удалось загрузить эту страницу. Проверьте адрес и соединение, затем перезагрузите.</string>
+    <string name="secure_only" formatted="false">Это приложение использует соединения HTTPS. Попробуйте безопасную версию этого сайта.</string>
+    <string name="external_link" formatted="false">Открыть эту ссылку в другом приложении?</string>
+    <string name="open" formatted="false">Открыть</string>
+    <string name="refresh" formatted="false">Обновить</string>
+    <string name="accessibility_tutorial" formatted="false">Иллюстрация к этому шагу руководства</string>
+    <string name="download_reason" formatted="false">Код ошибки загрузки Android</string>
+    <string name="queue_full" formatted="false">История загрузок заполнена. Сначала удалите старую запись.</string>
+    <string name="browser_tabs" formatted="false">Вкладки браузера</string>
+    <string name="tabs_subtitle" formatted="false">Держите веб-сайты открытыми и переключайтесь между ними.</string>
+    <string name="new_tab" formatted="false">Новая вкладка</string>
+    <string name="close_tab" formatted="false">Закрыть вкладку</string>
+    <string name="active_tab" formatted="false">Активная вкладка</string>
+    <string name="tab_limit" formatted="false">Вы можете открыть до 8 вкладок. Закройте вкладку, чтобы добавить другую.</string>
+    <string name="history" formatted="false">История</string>
+    <string name="history_subtitle" formatted="false">Посещенные сайты сохраняются только на этом устройстве.</string>
+    <string name="empty_history" formatted="false">Здесь появится ваша история посещений.</string>
+    <string name="clear_history" formatted="false">Очистить историю</string>
+    <string name="clear_history_confirm" formatted="false">Удалить всю историю просмотров с этого устройства?</string>
+    <string name="open_new_tab" formatted="false">Открыть в новой вкладке</string>
+    <string name="browser_menu" formatted="false">Меню браузера</string>
+    <string name="shortcut_note" formatted="false">Ярлыки веб-сайтов открываются в браузере. Доступность загрузки зависит от веб-сайта.</string>
+</resources>

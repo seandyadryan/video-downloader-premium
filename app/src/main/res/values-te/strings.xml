@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ప్రీమియం</string>
+    <string name="browse" formatted="false">బ్రౌజ్ చేయండి</string>
+    <string name="downloads" formatted="false">డౌన్‌లోడ్‌లు</string>
+    <string name="guide" formatted="false">గైడ్</string>
+    <string name="settings" formatted="false">సెట్టింగ్‌లు</string>
+    <string name="home_title" formatted="false">మీ వీడియోలు. మీ సేకరణ.</string>
+    <string name="home_subtitle" formatted="false">ఉంచడానికి విలువైనదాన్ని కనుగొనండి.</string>
+    <string name="search_hint" formatted="false">వెబ్‌సైట్‌ను శోధించండి లేదా నమోదు చేయండి</string>
+    <string name="go" formatted="false">వెళ్ళు</string>
+    <string name="paste_link" formatted="false">వీడియో లింక్‌ని అతికించండి</string>
+    <string name="direct_link" formatted="false">ప్రత్యక్ష వీడియో లింక్</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">డౌన్‌లోడ్ చేయండి</string>
+    <string name="detect" formatted="false">వీడియోలను కనుగొనండి</string>
+    <string name="detected" formatted="false">ఈ పేజీలోని వీడియోలు</string>
+    <string name="no_media" formatted="false">డౌన్‌లోడ్ చేయదగిన వీడియో ఏదీ కనుగొనబడలేదు. వీడియోను ప్లే చేయడం ప్రారంభించి, ఆపై మళ్లీ ప్రయత్నించండి. రక్షిత స్ట్రీమ్‌లు మరియు ఎంబెడెడ్ ఫ్రేమ్‌లు అందుబాటులో ఉండకపోవచ్చు.</string>
+    <string name="safe_note" formatted="false">మీకు స్వంతమైన లేదా సేవ్ చేయడానికి అనుమతి ఉన్న వీడియోలను మాత్రమే డౌన్‌లోడ్ చేయండి. రక్షిత స్ట్రీమ్‌లు మరియు YouTube డౌన్‌లోడ్‌లు అందుబాటులో లేవు.</string>
+    <string name="quick_start" formatted="false">ఇక్కడ ప్రారంభించండి</string>
+    <string name="quick_browse" formatted="false">వెబ్‌ని అన్వేషించండి</string>
+    <string name="quick_browse_body" formatted="false">అంతర్నిర్మిత బ్రౌజర్‌లో మీకు నచ్చిన ఇంజిన్‌తో శోధించండి.</string>
+    <string name="quick_download" formatted="false">వీడియోను సేవ్ చేయండి</string>
+    <string name="quick_download_body" formatted="false">ప్రత్యక్ష HTTPS వీడియో లింక్‌ను అతికించండి లేదా పేజీలో వీడియోని కనుగొనండి.</string>
+    <string name="quick_guide" formatted="false">ఒక చిన్న మార్గదర్శకత్వం</string>
+    <string name="quick_guide_body" formatted="false">ఆవిష్కరణ నుండి మీ సేకరణకు నాలుగు ఇలస్ట్రేటెడ్ దశలు.</string>
+    <string name="back" formatted="false">వెనుకకు</string>
+    <string name="forward" formatted="false">ముందుకు</string>
+    <string name="reload" formatted="false">మళ్లీ లోడ్ చేయండి</string>
+    <string name="home" formatted="false">హోమ్</string>
+    <string name="bookmark" formatted="false">బుక్‌మార్క్</string>
+    <string name="bookmarks" formatted="false">బుక్‌మార్క్‌లు</string>
+    <string name="empty_bookmarks" formatted="false">సేవ్ చేసిన వెబ్‌సైట్‌లు ఇక్కడ కనిపిస్తాయి.</string>
+    <string name="saved" formatted="false">సేవ్ చేయబడింది</string>
+    <string name="remove" formatted="false">తొలగించు</string>
+    <string name="cancel" formatted="false">రద్దు చేయి</string>
+    <string name="close" formatted="false">మూసివేయి</string>
+    <string name="confirm_download" formatted="false">ఈ వీడియోను సేవ్ చేయాలా?</string>
+    <string name="filename" formatted="false">ఫైల్ పేరు</string>
+    <string name="download_location" formatted="false">డౌన్‌లోడ్‌లు / వీడియో డౌన్‌లోడ్ ప్రీమియంలో సేవ్ చేయబడింది</string>
+    <string name="permission_confirm" formatted="false">ఈ వీడియో నా స్వంతం లేదా దీన్ని డౌన్‌లోడ్ చేయడానికి నాకు అనుమతి ఉంది.</string>
+    <string name="permission_required" formatted="false">ఈ వీడియోను సేవ్ చేయడానికి మీకు అనుమతి ఉందని నిర్ధారించండి.</string>
+    <string name="invalid_url" formatted="false">చెల్లుబాటు అయ్యే HTTPS వీడియో లింక్‌ని నమోదు చేయండి.</string>
+    <string name="unsupported" formatted="false">ఈ లింక్ డౌన్‌లోడ్ చేయదగిన వీడియో కాదు. DRM, ప్రత్యక్ష ప్రసారాలు, ప్లేజాబితాలు మరియు YouTube డౌన్‌లోడ్‌లకు మద్దతు లేదు.</string>
+    <string name="queued" formatted="false">డౌన్‌లోడ్ క్యూలో జోడించబడింది</string>
+    <string name="download_error" formatted="false">డౌన్‌లోడ్ చేయడం సాధ్యపడలేదు. కనెక్షన్‌ని తనిఖీ చేయండి లేదా తాజా వీడియో లింక్‌ని ఉపయోగించండి.</string>
+    <string name="collection_title" formatted="false">మీ సేకరణ</string>
+    <string name="collection_subtitle" formatted="false">సేవ్ చేయబడిన వీడియోలు, మీరు సిద్ధంగా ఉన్నప్పుడు.</string>
+    <string name="empty_downloads" formatted="false">మీ తదుపరి ఇష్టమైనది ఇక్కడ ఉంది.</string>
+    <string name="empty_downloads_body" formatted="false">మీ సేకరణను ప్రారంభించడానికి బ్రౌజ్ లేదా డైరెక్ట్ వీడియో లింక్‌ను అతికించడంలో వీడియోని కనుగొనండి.</string>
+    <string name="pending" formatted="false">క్యూ కట్టారు</string>
+    <string name="running" formatted="false">డౌన్‌లోడ్ చేస్తోంది</string>
+    <string name="paused" formatted="false">నెట్‌వర్క్ కోసం వేచి ఉంది లేదా మళ్లీ ప్రయత్నించండి</string>
+    <string name="complete" formatted="false">పూర్తి</string>
+    <string name="failed" formatted="false">విఫలమైంది</string>
+    <string name="missing" formatted="false">ఫైల్ అందుబాటులో లేదు</string>
+    <string name="play" formatted="false">ఆడండి</string>
+    <string name="share" formatted="false">షేర్ చేయండి</string>
+    <string name="retry" formatted="false">మళ్లీ ప్రయత్నించండి</string>
+    <string name="delete_download" formatted="false">డౌన్‌లోడ్ మరియు దాని ఫైల్‌ని తీసివేయాలా?</string>
+    <string name="no_player" formatted="false">ఈ ఫైల్‌ను తెరవడానికి అనుకూల యాప్ ఏదీ అందుబాటులో లేదు.</string>
+    <string name="guide_title" formatted="false">ఆవిష్కరణ నుండి డౌన్‌లోడ్ వరకు.</string>
+    <string name="guide_subtitle" formatted="false">మీరు ఇష్టపడే వీడియోలను ఉంచడానికి ఒక సాధారణ గైడ్.</string>
+    <string name="step_one_title" formatted="false">మీ వీడియోను కనుగొనండి</string>
+    <string name="step_one_body" formatted="false">బ్రౌజ్ తెరవండి. వెబ్‌సైట్ చిరునామాను శోధించండి లేదా నమోదు చేయండి. మీరు మరొక యాప్ నుండి వీడియో లింక్‌ను కూడా షేర్ చేయవచ్చు.</string>
+    <string name="step_two_title" formatted="false">మూలాన్ని కనుగొనండి</string>
+    <string name="step_two_body" formatted="false">వీడియోను ప్లే చేసి, ఆపై వీడియోలను కనుగొను నొక్కండి. గుర్తించబడిన ఫైల్‌ను ఎంచుకోండి లేదా నేరుగా HTTPS వీడియో లింక్‌ను అతికించండి.</string>
+    <string name="step_three_title" formatted="false">దీన్ని మీ స్వంతం చేసుకోండి</string>
+    <string name="step_three_body" formatted="false">ఫైల్ పేరును ఎంచుకోండి, వీడియోను సేవ్ చేయడానికి మీ అనుమతిని నిర్ధారించండి మరియు డౌన్‌లోడ్ నొక్కండి. Android నేపథ్యంలో డౌన్‌లోడ్‌ను కొనసాగిస్తుంది.</string>
+    <string name="step_four_title" formatted="false">మీ సేకరణను ఆస్వాదించండి</string>
+    <string name="step_four_body" formatted="false">పురోగతిని తనిఖీ చేయడానికి డౌన్‌లోడ్‌లను తెరవండి. పూర్తయిన వీడియోలను ప్లే చేయండి లేదా షేర్ చేయండి. అవసరమైనప్పుడు తాజా లింక్‌తో విఫలమైన డౌన్‌లోడ్‌లను మళ్లీ ప్రయత్నించండి.</string>
+    <string name="try_now" formatted="false">ఇప్పుడే ప్రయత్నించండి</string>
+    <string name="preferences" formatted="false">దీన్ని మీ స్వంతం చేసుకోండి.</string>
+    <string name="preferences_subtitle" formatted="false">మీ రోజువారీ బ్రౌజింగ్ కోసం కొన్ని ఆలోచనాత్మక నియంత్రణలు.</string>
+    <string name="dns_title" formatted="false">VPN / ప్రైవేట్ DNS</string>
+    <string name="dns_explanation" formatted="false">ప్రైవేట్ DNS DNS ప్రశ్నలను గుప్తీకరిస్తుంది. ఇది మీ IP చిరునామాను దాచదు లేదా VPN టన్నెల్‌ని సృష్టించదు. మీరు ఈ సెట్టింగ్‌ని మాన్యువల్‌గా మార్చడం Androidకి అవసరం.</string>
+    <string name="connected" formatted="false">కనెక్ట్ చేయబడింది</string>
+    <string name="unconnected" formatted="false">అన్‌కనెక్ట్ చేయబడింది</string>
+    <string name="connect" formatted="false">కనెక్ట్ చేయండి</string>
+    <string name="disconnect" formatted="false">డిస్‌కనెక్ట్ చేయండి</string>
+    <string name="dns_instructions" formatted="false">ప్రైవేట్ DNS ప్రొవైడర్ హోస్ట్ పేరును ఎంచుకుని, dns.adguard-dns.comని అతికించి, సేవ్ చేయండి. డిస్‌కనెక్ట్ చేయడానికి, అదే సిస్టమ్ సెట్టింగ్‌లో ఆటోమేటిక్ లేదా ఆఫ్‌ని ఎంచుకోండి.</string>
+    <string name="copy_hostname" formatted="false">హోస్ట్ పేరుని కాపీ చేయండి</string>
+    <string name="copied" formatted="false">క్లిప్‌బోర్డ్‌కి కాపీ చేయబడింది</string>
+    <string name="open_network_settings" formatted="false">నెట్‌వర్క్ సెట్టింగ్‌లను తెరవండి</string>
+    <string name="language" formatted="false">యాప్ భాష</string>
+    <string name="system_language" formatted="false">పరికర భాషను అనుసరించండి</string>
+    <string name="search_language" formatted="false">ఒక భాషను కనుగొనండి</string>
+    <string name="language_note" formatted="false">అనువాదాలు ఆఫ్‌లైన్‌లో చేర్చబడ్డాయి. జాబితా చేయని పరికర భాషలు ఆంగ్లాన్ని ఉపయోగిస్తాయి. యంత్ర అనువాదాలకు ప్రాంతీయ సమీక్ష అవసరం కావచ్చు.</string>
+    <string name="search_engine" formatted="false">శోధన ఇంజిన్</string>
+    <string name="wifi_only" formatted="false">Wi-Fiలో మాత్రమే డౌన్‌లోడ్ చేయండి</string>
+    <string name="wifi_body" formatted="false">Wi-Fi అందుబాటులోకి వచ్చే వరకు కొత్త డౌన్‌లోడ్‌లు వేచి ఉన్నాయి.</string>
+    <string name="javascript" formatted="false">వెబ్‌సైట్ జావాస్క్రిప్ట్</string>
+    <string name="javascript_body" formatted="false">అనేక వెబ్‌సైట్‌లు మరియు HTML5 వీడియో ఆవిష్కరణకు అవసరం.</string>
+    <string name="privacy" formatted="false">గోప్యత</string>
+    <string name="clear_browser" formatted="false">బ్రౌజింగ్ డేటాను క్లియర్ చేయండి</string>
+    <string name="clear_browser_confirm" formatted="false">కుక్కీలు, బ్రౌజర్ కాష్, చరిత్ర మరియు వెబ్‌సైట్ నిల్వను తొలగించాలా?</string>
+    <string name="privacy_body" formatted="false">ప్రకటనలు, విశ్లేషణలు లేదా డెవలపర్ ఖాతాలు లేవు. వెబ్‌సైట్‌లు, సెర్చ్ ఇంజన్‌లు, DNS ప్రొవైడర్‌లు మరియు డౌన్‌లోడ్ సర్వర్‌లు మీరు చేసిన అభ్యర్థనలను స్వీకరిస్తాయి. డౌన్‌లోడ్ చరిత్ర మరియు బుక్‌మార్క్‌లు ఈ పరికరంలో ఉంటాయి.</string>
+    <string name="terms" formatted="false">బాధ్యతాయుతంగా ఉపయోగించండి</string>
+    <string name="terms_body" formatted="false">మీకు స్వంతమైన లేదా డౌన్‌లోడ్ చేసుకోవడానికి అనుమతించబడిన వీడియోలను మాత్రమే సేవ్ చేయండి. కాపీరైట్ మరియు వెబ్‌సైట్ నిబంధనలను గౌరవించండి. ఈ యాప్ DRM, పేవాల్‌లు లేదా ప్లాట్‌ఫారమ్ డౌన్‌లోడ్ పరిమితులను దాటవేయదు.</string>
+    <string name="about" formatted="false">గురించి</string>
+    <string name="version" formatted="false">వెర్షన్</string>
+    <string name="paid_app" formatted="false">ఒక కొనుగోలు. ప్రకటనలు లేవు. చందా లేదు.</string>
+    <string name="welcome_title" formatted="false">మీకు స్ఫూర్తినిచ్చే వాటిని ఉంచండి.</string>
+    <string name="welcome_body" formatted="false">అనుమతించబడిన వీడియోలను ఒకే చోట బ్రౌజ్ చేయండి, కనుగొనండి మరియు సేవ్ చేయండి. ప్రారంభించడానికి ఇలస్ట్రేటెడ్ గైడ్‌ని చదవండి.</string>
+    <string name="start_browsing" formatted="false">బ్రౌజింగ్ ప్రారంభించండి</string>
+    <string name="read_guide" formatted="false">గైడ్ చదవండి</string>
+    <string name="browser_error" formatted="false">ఈ పేజీని లోడ్ చేయడం సాధ్యపడలేదు. చిరునామా మరియు కనెక్షన్‌ని తనిఖీ చేసి, ఆపై మళ్లీ లోడ్ చేయండి.</string>
+    <string name="secure_only" formatted="false">ఈ యాప్ HTTPS కనెక్షన్‌లను ఉపయోగిస్తుంది. ఈ వెబ్‌సైట్ యొక్క సురక్షిత సంస్కరణను ప్రయత్నించండి.</string>
+    <string name="external_link" formatted="false">ఈ లింక్‌ని మరొక యాప్‌లో తెరవాలా?</string>
+    <string name="open" formatted="false">తెరవండి</string>
+    <string name="refresh" formatted="false">రిఫ్రెష్ చేయండి</string>
+    <string name="accessibility_tutorial" formatted="false">ఈ ట్యుటోరియల్ దశకు ఉదాహరణ</string>
+    <string name="download_reason" formatted="false">ఆండ్రాయిడ్ డౌన్‌లోడ్ ఎర్రర్ కోడ్</string>
+    <string name="queue_full" formatted="false">డౌన్‌లోడ్ చరిత్ర నిండింది. ముందుగా పాత ఎంట్రీని తీసివేయండి.</string>
+    <string name="browser_tabs" formatted="false">బ్రౌజర్ ట్యాబ్‌లు</string>
+    <string name="tabs_subtitle" formatted="false">వెబ్‌సైట్‌లను తెరిచి ఉంచండి మరియు వాటి మధ్య మారండి.</string>
+    <string name="new_tab" formatted="false">కొత్త ట్యాబ్</string>
+    <string name="close_tab" formatted="false">ట్యాబ్‌ను మూసివేయండి</string>
+    <string name="active_tab" formatted="false">సక్రియ ట్యాబ్</string>
+    <string name="tab_limit" formatted="false">మీరు 8 ట్యాబ్‌ల వరకు తెరవవచ్చు. మరొకదాన్ని జోడించడానికి ట్యాబ్‌ను మూసివేయండి.</string>
+    <string name="history" formatted="false">చరిత్ర</string>
+    <string name="history_subtitle" formatted="false">సందర్శించిన వెబ్‌సైట్‌లు ఈ పరికరంలో మాత్రమే సేవ్ చేయబడతాయి.</string>
+    <string name="empty_history" formatted="false">మీ బ్రౌజింగ్ చరిత్ర ఇక్కడ కనిపిస్తుంది.</string>
+    <string name="clear_history" formatted="false">చరిత్రను క్లియర్ చేయండి</string>
+    <string name="clear_history_confirm" formatted="false">ఈ పరికరం నుండి మొత్తం బ్రౌజింగ్ చరిత్రను తొలగించాలా?</string>
+    <string name="open_new_tab" formatted="false">కొత్త ట్యాబ్‌లో తెరవండి</string>
+    <string name="browser_menu" formatted="false">బ్రౌజర్ మెను</string>
+    <string name="shortcut_note" formatted="false">వెబ్‌సైట్ షార్ట్‌కట్‌లు బ్రౌజర్‌లో తెరవబడతాయి. డౌన్‌లోడ్ లభ్యత వెబ్‌సైట్‌పై ఆధారపడి ఉంటుంది.</string>
+</resources>

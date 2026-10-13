@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ՊՐԵՄԻՈՒՄ</string>
+    <string name="browse" formatted="false">Թերթիր</string>
+    <string name="downloads" formatted="false">Ներբեռնումներ</string>
+    <string name="guide" formatted="false">Ուղեցույց</string>
+    <string name="settings" formatted="false">Կարգավորումներ</string>
+    <string name="home_title" formatted="false">Ձեր տեսանյութերը. Ձեր հավաքածուն:</string>
+    <string name="home_subtitle" formatted="false">Գտեք ինչ-որ բան, որն արժե պահել:</string>
+    <string name="search_hint" formatted="false">Որոնեք կամ մուտքագրեք կայք</string>
+    <string name="go" formatted="false">Գնա</string>
+    <string name="paste_link" formatted="false">Տեղադրեք տեսանյութի հղումը</string>
+    <string name="direct_link" formatted="false">Ուղիղ վիդեո հղում</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Բեռնել</string>
+    <string name="detect" formatted="false">Գտեք տեսանյութեր</string>
+    <string name="detected" formatted="false">Տեսանյութերն այս էջում</string>
+    <string name="no_media" formatted="false">Ներբեռնվող տեսանյութ չի գտնվել: Սկսեք նվագարկել տեսանյութը, այնուհետև նորից փորձեք: Պաշտպանված հոսքերը և ներկառուցված շրջանակները կարող են անհասանելի լինել:</string>
+    <string name="safe_note" formatted="false">Ներբեռնեք միայն ձեզ պատկանող կամ պահպանելու թույլտվություն ունեցող տեսանյութեր: Պաշտպանված հոսքերը և YouTube-ի ներբեռնումները անհասանելի են:</string>
+    <string name="quick_start" formatted="false">ՍԿՍԵԼ ԱՅՍՏԵՂ</string>
+    <string name="quick_browse" formatted="false">Ուսումնասիրեք համացանցը</string>
+    <string name="quick_browse_body" formatted="false">Որոնեք ձեր նախընտրած շարժիչով ներկառուցված բրաուզերում:</string>
+    <string name="quick_download" formatted="false">Պահպանեք տեսանյութ</string>
+    <string name="quick_download_body" formatted="false">Տեղադրեք ուղիղ HTTPS վիդեո հղում կամ գտեք տեսանյութ էջի վրա:</string>
+    <string name="quick_guide" formatted="false">Մի փոքր ուղեցույց</string>
+    <string name="quick_guide_body" formatted="false">Չորս պատկերազարդ քայլ՝ հայտնաբերումից մինչև ձեր հավաքածուն:</string>
+    <string name="back" formatted="false">Ետ</string>
+    <string name="forward" formatted="false">Առաջ</string>
+    <string name="reload" formatted="false">Վերբեռնել</string>
+    <string name="home" formatted="false">Տուն</string>
+    <string name="bookmark" formatted="false">Էջանիշ</string>
+    <string name="bookmarks" formatted="false">Էջանիշեր</string>
+    <string name="empty_bookmarks" formatted="false">Պահված կայքերը կհայտնվեն այստեղ:</string>
+    <string name="saved" formatted="false">Պահպանված է</string>
+    <string name="remove" formatted="false">Հեռացնել</string>
+    <string name="cancel" formatted="false">Չեղարկել</string>
+    <string name="close" formatted="false">Փակել</string>
+    <string name="confirm_download" formatted="false">Պահե՞լ այս տեսանյութը:</string>
+    <string name="filename" formatted="false">Ֆայլի անունը</string>
+    <string name="download_location" formatted="false">Պահված է Ներբեռնումներ / Video Downloader Premium-ում</string>
+    <string name="permission_confirm" formatted="false">Ես այս տեսանյութի սեփականատերն եմ կամ այն ներբեռնելու թույլտվություն ունեմ:</string>
+    <string name="permission_required" formatted="false">Հաստատեք, որ այս տեսանյութը պահելու թույլտվություն ունեք:</string>
+    <string name="invalid_url" formatted="false">Մուտքագրեք վավեր HTTPS տեսանյութի հղում:</string>
+    <string name="unsupported" formatted="false">Այս հղումը ներբեռնվող տեսանյութ չէ: DRM-ը, ուղիղ հեռարձակումները, երգացանկերը և YouTube-ի ներբեռնումները չեն աջակցվում:</string>
+    <string name="queued" formatted="false">Ներբեռնումն ավելացվել է հերթում</string>
+    <string name="download_error" formatted="false">Հնարավոր չէ ներբեռնել: Ստուգեք կապը կամ օգտագործեք թարմ տեսանյութի հղում:</string>
+    <string name="collection_title" formatted="false">Ձեր հավաքածուն</string>
+    <string name="collection_subtitle" formatted="false">Պահված տեսանյութեր, երբ պատրաստ լինենք:</string>
+    <string name="empty_downloads" formatted="false">Ձեր հաջորդ սիրելին այստեղ է:</string>
+    <string name="empty_downloads_body" formatted="false">Գտեք տեսանյութ «Browse»-ում կամ տեղադրեք ուղիղ վիդեո հղում՝ ձեր հավաքածուն սկսելու համար:</string>
+    <string name="pending" formatted="false">Հերթագրված</string>
+    <string name="running" formatted="false">Ներբեռնում</string>
+    <string name="paused" formatted="false">Սպասում է ցանցին կամ նորից փորձեք</string>
+    <string name="complete" formatted="false">Ամբողջական</string>
+    <string name="failed" formatted="false">Չհաջողվեց</string>
+    <string name="missing" formatted="false">Ֆայլն անհասանելի է</string>
+    <string name="play" formatted="false">Խաղալ</string>
+    <string name="share" formatted="false">Կիսվել</string>
+    <string name="retry" formatted="false">Կրկին փորձեք</string>
+    <string name="delete_download" formatted="false">Հեռացնե՞լ ներբեռնումը և դրա ֆայլը:</string>
+    <string name="no_player" formatted="false">Այս ֆայլը բացելու համար համատեղելի հավելված չկա:</string>
+    <string name="guide_title" formatted="false">Բացահայտումից մինչև ներբեռնում.</string>
+    <string name="guide_subtitle" formatted="false">Ձեր սիրած տեսանյութերը պահելու պարզ ուղեցույց:</string>
+    <string name="step_one_title" formatted="false">Գտեք ձեր տեսանյութը</string>
+    <string name="step_one_body" formatted="false">Բացեք Թերթել: Որոնեք կամ մուտքագրեք կայքի հասցեն: Կարող եք նաև կիսվել տեսանյութի հղումով մեկ այլ հավելվածից:</string>
+    <string name="step_two_title" formatted="false">Բացահայտեք աղբյուրը</string>
+    <string name="step_two_body" formatted="false">Նվագարկեք տեսանյութ, ապա հպեք Գտնել տեսանյութեր: Ընտրեք հայտնաբերված ֆայլը կամ տեղադրեք ուղիղ HTTPS վիդեո հղում:</string>
+    <string name="step_three_title" formatted="false">Դարձրեք այն ձերը</string>
+    <string name="step_three_body" formatted="false">Ընտրեք ֆայլի անուն, հաստատեք տեսանյութը պահելու ձեր թույլտվությունը և կտտացրեք Ներբեռնում: Android-ը շարունակում է ներբեռնումը հետին պլանում:</string>
+    <string name="step_four_title" formatted="false">Վայելեք ձեր հավաքածուն</string>
+    <string name="step_four_body" formatted="false">Բացեք Ներբեռնումները՝ առաջընթացը ստուգելու համար: Նվագարկեք կամ կիսվեք ավարտված տեսանյութերով: Նորից փորձեք ձախողված ներբեռնումները՝ անհրաժեշտության դեպքում թարմ հղումով:</string>
+    <string name="try_now" formatted="false">Փորձեք հիմա</string>
+    <string name="preferences" formatted="false">Դարձրեք այն ձեր սեփականը:</string>
+    <string name="preferences_subtitle" formatted="false">Մի քանի խոհուն հսկողություն ձեր ամենօրյա զննարկման համար:</string>
+    <string name="dns_title" formatted="false">VPN / Անձնական DNS</string>
+    <string name="dns_explanation" formatted="false">Մասնավոր DNS-ը կոդավորում է DNS հարցումները: Այն չի թաքցնում ձեր IP հասցեն կամ չի ստեղծում VPN թունել: Android-ը պահանջում է, որ դուք ձեռքով փոխեք այս կարգավորումը:</string>
+    <string name="connected" formatted="false">Միացված է</string>
+    <string name="unconnected" formatted="false">Անկապված</string>
+    <string name="connect" formatted="false">Միացնել</string>
+    <string name="disconnect" formatted="false">Անջատել</string>
+    <string name="dns_instructions" formatted="false">Ընտրեք Անձնական DNS մատակարարի հոսթի անունը, տեղադրեք dns.adguard-dns.com և պահեք: Անջատելու համար նույն համակարգի կարգավորումից ընտրեք Ավտոմատ կամ Անջատված:</string>
+    <string name="copy_hostname" formatted="false">Պատճենել հյուրընկալողի անունը</string>
+    <string name="copied" formatted="false">Պատճենվել է սեղմատախտակում</string>
+    <string name="open_network_settings" formatted="false">Բացեք ցանցի կարգավորումները</string>
+    <string name="language" formatted="false">Հավելվածի լեզուն</string>
+    <string name="system_language" formatted="false">Հետևեք սարքի լեզվին</string>
+    <string name="search_language" formatted="false">Գտեք լեզու</string>
+    <string name="language_note" formatted="false">Թարգմանությունները ներառված են անցանց: Սարքի չցուցակված լեզուներն օգտագործում են անգլերեն: Մեքենայական թարգմանությունները կարող են տարածաշրջանային վերանայման կարիք ունենալ:</string>
+    <string name="search_engine" formatted="false">Որոնման համակարգ</string>
+    <string name="wifi_only" formatted="false">Ներբեռնեք միայն Wi-Fi-ով</string>
+    <string name="wifi_body" formatted="false">Նոր ներբեռնումները սպասում են, մինչև Wi-Fi-ը հասանելի լինի:</string>
+    <string name="javascript" formatted="false">Կայք JavaScript</string>
+    <string name="javascript_body" formatted="false">Պահանջվում է բազմաթիվ կայքերի և HTML5 տեսանյութերի հայտնաբերման համար:</string>
+    <string name="privacy" formatted="false">Գաղտնիություն</string>
+    <string name="clear_browser" formatted="false">Մաքրել զննարկման տվյալները</string>
+    <string name="clear_browser_confirm" formatted="false">Ջնջե՞լ թխուկները, դիտարկիչի քեշը, պատմությունը և վեբկայքի պահեստը:</string>
+    <string name="privacy_body" formatted="false">Ոչ մի գովազդ, վերլուծություն կամ մշակողի հաշիվներ: Կայքերը, որոնման համակարգերը, DNS մատակարարները և ներբեռնման սերվերները ստանում են ձեր կատարած հարցումները: Ներբեռնումների պատմությունը և էջանիշները մնում են այս սարքում:</string>
+    <string name="terms" formatted="false">Օգտագործեք պատասխանատու կերպով</string>
+    <string name="terms_body" formatted="false">Պահպանեք միայն այն տեսանյութերը, որոնց պատկանում եք կամ թույլատրված եք ներբեռնել: Հարգեք հեղինակային իրավունքը և կայքի պայմանները: Այս հավելվածը չի կարող շրջանցել DRM-ի, վճարային պատերի կամ հարթակի ներբեռնման սահմանափակումները:</string>
+    <string name="about" formatted="false">Մոտ</string>
+    <string name="version" formatted="false">Տարբերակ</string>
+    <string name="paid_app" formatted="false">Մեկ գնում. Ոչ մի գովազդ: Բաժանորդագրություն չկա:</string>
+    <string name="welcome_title" formatted="false">Պահպանեք այն, ինչ ձեզ ոգեշնչում է:</string>
+    <string name="welcome_body" formatted="false">Զննեք, հայտնաբերեք և պահպանեք թույլատրված տեսանյութերը մեկ տեղում: Սկսելու համար կարդացեք նկարազարդ ուղեցույցը:</string>
+    <string name="start_browsing" formatted="false">Սկսեք զննարկել</string>
+    <string name="read_guide" formatted="false">Կարդացեք ուղեցույցը</string>
+    <string name="browser_error" formatted="false">Այս էջը չհաջողվեց բեռնել: Ստուգեք հասցեն և կապը, ապա վերաբեռնեք:</string>
+    <string name="secure_only" formatted="false">Այս հավելվածն օգտագործում է HTTPS կապեր: Փորձեք այս կայքի անվտանգ տարբերակը:</string>
+    <string name="external_link" formatted="false">Բացե՞լ այս հղումը մեկ այլ հավելվածում:</string>
+    <string name="open" formatted="false">Բաց</string>
+    <string name="refresh" formatted="false">Թարմացնել</string>
+    <string name="accessibility_tutorial" formatted="false">Այս ձեռնարկի քայլի նկարազարդումը</string>
+    <string name="download_reason" formatted="false">Android ներբեռնման սխալի կոդը</string>
+    <string name="queue_full" formatted="false">Ներբեռնման պատմությունը լի է: Հեռացրեք ավելի հին գրառումը:</string>
+    <string name="browser_tabs" formatted="false">Բրաուզերի ներդիրները</string>
+    <string name="tabs_subtitle" formatted="false">Բաց պահեք կայքերը և անցեք դրանց միջև:</string>
+    <string name="new_tab" formatted="false">Նոր ներդիր</string>
+    <string name="close_tab" formatted="false">Փակել ներդիրը</string>
+    <string name="active_tab" formatted="false">Ակտիվ ներդիր</string>
+    <string name="tab_limit" formatted="false">Դուք կարող եք բացել մինչև 8 ներդիր: Փակեք ներդիրը՝ մյուսն ավելացնելու համար:</string>
+    <string name="history" formatted="false">Պատմություն</string>
+    <string name="history_subtitle" formatted="false">Այցելած կայքերը պահվում են միայն այս սարքում:</string>
+    <string name="empty_history" formatted="false">Ձեր զննարկման պատմությունը կհայտնվի այստեղ:</string>
+    <string name="clear_history" formatted="false">Մաքրել պատմությունը</string>
+    <string name="clear_history_confirm" formatted="false">Ջնջե՞լ զննումների ամբողջ պատմությունն այս սարքից:</string>
+    <string name="open_new_tab" formatted="false">Բացեք նոր ներդիրում</string>
+    <string name="browser_menu" formatted="false">Բրաուզերի մենյու</string>
+    <string name="shortcut_note" formatted="false">Կայքի դյուրանցումները բացվում են դիտարկիչում: Ներբեռնման հասանելիությունը կախված է կայքից:</string>
+</resources>

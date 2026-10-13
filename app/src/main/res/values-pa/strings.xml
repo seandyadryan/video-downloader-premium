@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ਪ੍ਰੀਮੀਅਮ</string>
+    <string name="browse" formatted="false">ਬ੍ਰਾਊਜ਼ ਕਰੋ</string>
+    <string name="downloads" formatted="false">ਡਾਊਨਲੋਡ</string>
+    <string name="guide" formatted="false">ਗਾਈਡ</string>
+    <string name="settings" formatted="false">ਸੈਟਿੰਗਾਂ</string>
+    <string name="home_title" formatted="false">ਤੁਹਾਡੇ ਵੀਡੀਓ। ਤੁਹਾਡਾ ਸੰਗ੍ਰਹਿ।</string>
+    <string name="home_subtitle" formatted="false">ਰੱਖਣ ਯੋਗ ਚੀਜ਼ ਲੱਭੋ.</string>
+    <string name="search_hint" formatted="false">ਇੱਕ ਵੈਬਸਾਈਟ ਖੋਜੋ ਜਾਂ ਦਾਖਲ ਕਰੋ</string>
+    <string name="go" formatted="false">ਜਾਓ</string>
+    <string name="paste_link" formatted="false">ਵੀਡੀਓ ਲਿੰਕ ਪੇਸਟ ਕਰੋ</string>
+    <string name="direct_link" formatted="false">ਸਿੱਧਾ ਵੀਡੀਓ ਲਿੰਕ</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="detect" formatted="false">ਵੀਡੀਓ ਲੱਭੋ</string>
+    <string name="detected" formatted="false">ਇਸ ਪੰਨੇ \&apos;ਤੇ ਵੀਡੀਓ</string>
+    <string name="no_media" formatted="false">ਕੋਈ ਡਾਊਨਲੋਡ ਕਰਨ ਯੋਗ ਵੀਡੀਓ ਨਹੀਂ ਮਿਲਿਆ। ਇੱਕ ਵੀਡੀਓ ਚਲਾਉਣਾ ਸ਼ੁਰੂ ਕਰੋ, ਫਿਰ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ। ਸੁਰੱਖਿਅਤ ਸਟ੍ਰੀਮ ਅਤੇ ਏਮਬੈਡਡ ਫਰੇਮ ਅਣਉਪਲਬਧ ਹੋ ਸਕਦੇ ਹਨ।</string>
+    <string name="safe_note" formatted="false">ਸਿਰਫ਼ ਉਹਨਾਂ ਵੀਡੀਓਜ਼ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ ਜੋ ਤੁਹਾਡੇ ਕੋਲ ਹਨ ਜਾਂ ਤੁਹਾਡੇ ਕੋਲ ਰੱਖਿਅਤ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ। ਸੁਰੱਖਿਅਤ ਸਟ੍ਰੀਮਾਂ ਅਤੇ YouTube ਡਾਊਨਲੋਡ ਉਪਲਬਧ ਨਹੀਂ ਹਨ।</string>
+    <string name="quick_start" formatted="false">ਇੱਥੇ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="quick_browse" formatted="false">ਵੈੱਬ ਦੀ ਪੜਚੋਲ ਕਰੋ</string>
+    <string name="quick_browse_body" formatted="false">ਬਿਲਟ-ਇਨ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਆਪਣੇ ਪਸੰਦੀਦਾ ਇੰਜਣ ਨਾਲ ਖੋਜ ਕਰੋ।</string>
+    <string name="quick_download" formatted="false">ਇੱਕ ਵੀਡੀਓ ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+    <string name="quick_download_body" formatted="false">ਇੱਕ ਸਿੱਧਾ HTTPS ਵੀਡੀਓ ਲਿੰਕ ਪੇਸਟ ਕਰੋ ਜਾਂ ਇੱਕ ਪੰਨੇ \&apos;ਤੇ ਇੱਕ ਵੀਡੀਓ ਲੱਭੋ।</string>
+    <string name="quick_guide" formatted="false">ਇੱਕ ਛੋਟਾ ਜਿਹਾ ਮਾਰਗਦਰਸ਼ਨ</string>
+    <string name="quick_guide_body" formatted="false">ਖੋਜ ਤੋਂ ਤੁਹਾਡੇ ਸੰਗ੍ਰਹਿ ਤੱਕ ਚਾਰ ਸਚਿੱਤਰ ਕਦਮ।</string>
+    <string name="back" formatted="false">ਪਿੱਛੇ</string>
+    <string name="forward" formatted="false">ਅੱਗੇ</string>
+    <string name="reload" formatted="false">ਰੀਲੋਡ ਕਰੋ</string>
+    <string name="home" formatted="false">ਘਰ</string>
+    <string name="bookmark" formatted="false">ਬੁੱਕਮਾਰਕ</string>
+    <string name="bookmarks" formatted="false">ਬੁੱਕਮਾਰਕਸ</string>
+    <string name="empty_bookmarks" formatted="false">ਸੁਰੱਖਿਅਤ ਕੀਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਇੱਥੇ ਦਿਖਾਈ ਦੇਣਗੀਆਂ।</string>
+    <string name="saved" formatted="false">ਸੰਭਾਲਿਆ</string>
+    <string name="remove" formatted="false">ਹਟਾਓ</string>
+    <string name="cancel" formatted="false">ਰੱਦ ਕਰੋ</string>
+    <string name="close" formatted="false">ਬੰਦ ਕਰੋ</string>
+    <string name="confirm_download" formatted="false">ਕੀ ਇਸ ਵੀਡੀਓ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨਾ ਹੈ?</string>
+    <string name="filename" formatted="false">ਫਾਈਲ ਦਾ ਨਾਮ</string>
+    <string name="download_location" formatted="false">ਡਾਊਨਲੋਡਸ / ਵੀਡੀਓ ਡਾਊਨਲੋਡਰ ਪ੍ਰੀਮੀਅਮ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ</string>
+    <string name="permission_confirm" formatted="false">ਮੇਰੇ ਕੋਲ ਇਹ ਵੀਡੀਓ ਹੈ ਜਾਂ ਮੇਰੇ ਕੋਲ ਇਸਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ।</string>
+    <string name="permission_required" formatted="false">ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਹਾਨੂੰ ਇਸ ਵੀਡੀਓ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ।</string>
+    <string name="invalid_url" formatted="false">ਇੱਕ ਵੈਧ HTTPS ਵੀਡੀਓ ਲਿੰਕ ਦਾਖਲ ਕਰੋ।</string>
+    <string name="unsupported" formatted="false">ਇਹ ਲਿੰਕ ਡਾਊਨਲੋਡ ਕਰਨ ਯੋਗ ਵੀਡੀਓ ਨਹੀਂ ਹੈ। DRM, ਲਾਈਵ ਸਟ੍ਰੀਮਾਂ, ਪਲੇਲਿਸਟਸ, ਅਤੇ YouTube ਡਾਊਨਲੋਡ ਅਸਮਰਥਿਤ ਹਨ।</string>
+    <string name="queued" formatted="false">ਡਾਊਨਲੋਡ ਨੂੰ ਕਤਾਰ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ</string>
+    <string name="download_error" formatted="false">ਡਾਊਨਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ। ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਜਾਂ ਇੱਕ ਤਾਜ਼ਾ ਵੀਡੀਓ ਲਿੰਕ ਵਰਤੋ।</string>
+    <string name="collection_title" formatted="false">ਤੁਹਾਡਾ ਸੰਗ੍ਰਹਿ</string>
+    <string name="collection_subtitle" formatted="false">ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਵੀਡੀਓ, ਤੁਹਾਡੇ ਹੋਣ \&apos;ਤੇ ਤਿਆਰ।</string>
+    <string name="empty_downloads" formatted="false">ਤੁਹਾਡਾ ਅਗਲਾ ਮਨਪਸੰਦ ਇੱਥੇ ਹੈ।</string>
+    <string name="empty_downloads_body" formatted="false">ਬ੍ਰਾਊਜ਼ ਵਿੱਚ ਇੱਕ ਵੀਡੀਓ ਲੱਭੋ ਜਾਂ ਆਪਣਾ ਸੰਗ੍ਰਹਿ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਇੱਕ ਸਿੱਧਾ ਵੀਡੀਓ ਲਿੰਕ ਪੇਸਟ ਕਰੋ।</string>
+    <string name="pending" formatted="false">ਕਤਾਰਬੱਧ</string>
+    <string name="running" formatted="false">ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</string>
+    <string name="paused" formatted="false">ਨੈੱਟਵਰਕ ਜਾਂ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਦੀ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="complete" formatted="false">ਸੰਪੂਰਨ</string>
+    <string name="failed" formatted="false">ਅਸਫਲ ਰਿਹਾ</string>
+    <string name="missing" formatted="false">ਫ਼ਾਈਲ ਉਪਲਬਧ ਨਹੀਂ ਹੈ</string>
+    <string name="play" formatted="false">ਖੇਡੋ</string>
+    <string name="share" formatted="false">ਸ਼ੇਅਰ ਕਰੋ</string>
+    <string name="retry" formatted="false">ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="delete_download" formatted="false">ਕੀ ਡਾਊਨਲੋਡ ਅਤੇ ਇਸਦੀ ਫਾਈਲ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?</string>
+    <string name="no_player" formatted="false">ਇਸ ਫ਼ਾਈਲ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਕੋਈ ਅਨੁਕੂਲ ਐਪ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।</string>
+    <string name="guide_title" formatted="false">ਖੋਜ ਤੋਂ ਡਾਊਨਲੋਡ ਤੱਕ।</string>
+    <string name="guide_subtitle" formatted="false">ਤੁਹਾਡੇ ਪਸੰਦੀਦਾ ਵੀਡੀਓਜ਼ ਨੂੰ ਰੱਖਣ ਲਈ ਇੱਕ ਸਧਾਰਨ ਗਾਈਡ।</string>
+    <string name="step_one_title" formatted="false">ਆਪਣਾ ਵੀਡੀਓ ਲੱਭੋ</string>
+    <string name="step_one_body" formatted="false">ਬ੍ਰਾਊਜ਼ ਖੋਲ੍ਹੋ। ਖੋਜੋ ਜਾਂ ਵੈੱਬਸਾਈਟ ਦਾ ਪਤਾ ਦਾਖਲ ਕਰੋ। ਤੁਸੀਂ ਕਿਸੇ ਹੋਰ ਐਪ ਤੋਂ ਵੀਡੀਓ ਲਿੰਕ ਵੀ ਸਾਂਝਾ ਕਰ ਸਕਦੇ ਹੋ।</string>
+    <string name="step_two_title" formatted="false">ਸਰੋਤ ਖੋਜੋ</string>
+    <string name="step_two_body" formatted="false">ਵੀਡੀਓ ਚਲਾਓ, ਫਿਰ ਵੀਡੀਓ ਲੱਭੋ \&apos;ਤੇ ਟੈਪ ਕਰੋ। ਇੱਕ ਖੋਜੀ ਫਾਈਲ ਚੁਣੋ, ਜਾਂ ਇੱਕ ਸਿੱਧਾ HTTPS ਵੀਡੀਓ ਲਿੰਕ ਪੇਸਟ ਕਰੋ।</string>
+    <string name="step_three_title" formatted="false">ਇਸਨੂੰ ਆਪਣਾ ਬਣਾਓ</string>
+    <string name="step_three_body" formatted="false">ਇੱਕ ਫ਼ਾਈਲ ਦਾ ਨਾਮ ਚੁਣੋ, ਵੀਡੀਓ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਆਪਣੀ ਇਜਾਜ਼ਤ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ, ਅਤੇ ਡਾਊਨਲੋਡ \&apos;ਤੇ ਟੈਪ ਕਰੋ। ਐਂਡਰਾਇਡ ਬੈਕਗ੍ਰਾਉਂਡ ਵਿੱਚ ਡਾਉਨਲੋਡ ਜਾਰੀ ਰੱਖਦਾ ਹੈ।</string>
+    <string name="step_four_title" formatted="false">ਆਪਣੇ ਸੰਗ੍ਰਹਿ ਦਾ ਆਨੰਦ ਮਾਣੋ</string>
+    <string name="step_four_body" formatted="false">ਪ੍ਰਗਤੀ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਡਾਊਨਲੋਡ ਖੋਲ੍ਹੋ। ਮੁਕੰਮਲ ਹੋਏ ਵੀਡੀਓ ਚਲਾਓ ਜਾਂ ਸਾਂਝਾ ਕਰੋ। ਲੋੜ ਪੈਣ \&apos;ਤੇ ਇੱਕ ਤਾਜ਼ਾ ਲਿੰਕ ਨਾਲ ਅਸਫਲ ਡਾਉਨਲੋਡਸ ਦੀ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="try_now" formatted="false">ਹੁਣੇ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="preferences" formatted="false">ਇਸਨੂੰ ਆਪਣਾ ਬਣਾਓ।</string>
+    <string name="preferences_subtitle" formatted="false">ਤੁਹਾਡੀ ਰੋਜ਼ਾਨਾ ਬ੍ਰਾਊਜ਼ਿੰਗ ਲਈ ਕੁਝ ਵਿਚਾਰਸ਼ੀਲ ਨਿਯੰਤਰਣ।</string>
+    <string name="dns_title" formatted="false">VPN / ਪ੍ਰਾਈਵੇਟ DNS</string>
+    <string name="dns_explanation" formatted="false">ਪ੍ਰਾਈਵੇਟ DNS ਇਨਕ੍ਰਿਪਟ DNS ਪੁੱਛਗਿੱਛਾਂ। ਇਹ ਤੁਹਾਡੇ IP ਪਤੇ ਨੂੰ ਲੁਕਾਉਂਦਾ ਨਹੀਂ ਹੈ ਜਾਂ VPN ਸੁਰੰਗ ਨਹੀਂ ਬਣਾਉਂਦਾ ਹੈ। Android ਲਈ ਤੁਹਾਨੂੰ ਇਸ ਸੈਟਿੰਗ ਨੂੰ ਹੱਥੀਂ ਬਦਲਣ ਦੀ ਲੋੜ ਹੈ।</string>
+    <string name="connected" formatted="false">ਜੁੜਿਆ</string>
+    <string name="unconnected" formatted="false">ਅਸੰਬੰਧਿਤ</string>
+    <string name="connect" formatted="false">ਜੁੜੋ</string>
+    <string name="disconnect" formatted="false">ਡਿਸਕਨੈਕਟ ਕਰੋ</string>
+    <string name="dns_instructions" formatted="false">ਪ੍ਰਾਈਵੇਟ DNS ਪ੍ਰਦਾਤਾ ਹੋਸਟਨਾਮ ਚੁਣੋ, dns.adguard-dns.com ਪੇਸਟ ਕਰੋ, ਅਤੇ ਸੇਵ ਕਰੋ। ਡਿਸਕਨੈਕਟ ਕਰਨ ਲਈ, ਉਸੇ ਸਿਸਟਮ ਸੈਟਿੰਗ ਵਿੱਚ ਆਟੋਮੈਟਿਕ ਜਾਂ ਬੰਦ ਚੁਣੋ।</string>
+    <string name="copy_hostname" formatted="false">ਹੋਸਟਨਾਮ ਕਾਪੀ ਕਰੋ</string>
+    <string name="copied" formatted="false">ਕਲਿੱਪਬੋਰਡ \&apos;ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
+    <string name="open_network_settings" formatted="false">ਨੈੱਟਵਰਕ ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ</string>
+    <string name="language" formatted="false">ਐਪ ਭਾਸ਼ਾ</string>
+    <string name="system_language" formatted="false">ਡਿਵਾਈਸ ਭਾਸ਼ਾ ਦਾ ਪਾਲਣ ਕਰੋ</string>
+    <string name="search_language" formatted="false">ਇੱਕ ਭਾਸ਼ਾ ਲੱਭੋ</string>
+    <string name="language_note" formatted="false">ਅਨੁਵਾਦ ਔਫਲਾਈਨ ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ ਹਨ। ਗੈਰ-ਸੂਚੀਬੱਧ ਡੀਵਾਈਸ ਭਾਸ਼ਾਵਾਂ ਅੰਗਰੇਜ਼ੀ ਦੀ ਵਰਤੋਂ ਕਰਦੀਆਂ ਹਨ। ਮਸ਼ੀਨ ਅਨੁਵਾਦਾਂ ਲਈ ਖੇਤਰੀ ਸਮੀਖਿਆ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।</string>
+    <string name="search_engine" formatted="false">ਖੋਜ ਇੰਜਣ</string>
+    <string name="wifi_only" formatted="false">ਸਿਰਫ਼ ਵਾਈ-ਫਾਈ \&apos;ਤੇ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="wifi_body" formatted="false">ਨਵੇਂ ਡਾਊਨਲੋਡ ਵਾਈ-ਫਾਈ ਉਪਲਬਧ ਹੋਣ ਤੱਕ ਉਡੀਕ ਕਰਦੇ ਹਨ।</string>
+    <string name="javascript" formatted="false">ਵੈੱਬਸਾਈਟ JavaScript</string>
+    <string name="javascript_body" formatted="false">ਬਹੁਤ ਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਅਤੇ HTML5 ਵੀਡੀਓ ਖੋਜਾਂ ਦੁਆਰਾ ਲੋੜੀਂਦਾ ਹੈ।</string>
+    <string name="privacy" formatted="false">ਗੋਪਨੀਯਤਾ</string>
+    <string name="clear_browser" formatted="false">ਬ੍ਰਾਊਜ਼ਿੰਗ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="clear_browser_confirm" formatted="false">ਕੀ ਕੂਕੀਜ਼, ਬ੍ਰਾਊਜ਼ਰ ਕੈਸ਼, ਇਤਿਹਾਸ ਅਤੇ ਵੈੱਬਸਾਈਟ ਸਟੋਰੇਜ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?</string>
+    <string name="privacy_body" formatted="false">ਕੋਈ ਵਿਗਿਆਪਨ, ਵਿਸ਼ਲੇਸ਼ਣ, ਜਾਂ ਵਿਕਾਸਕਾਰ ਖਾਤੇ ਨਹੀਂ ਹਨ। ਵੈੱਬਸਾਈਟਾਂ, ਖੋਜ ਇੰਜਣ, DNS ਪ੍ਰਦਾਤਾ, ਅਤੇ ਡਾਊਨਲੋਡ ਸਰਵਰ ਤੁਹਾਡੇ ਦੁਆਰਾ ਕੀਤੀਆਂ ਗਈਆਂ ਬੇਨਤੀਆਂ ਪ੍ਰਾਪਤ ਕਰਦੇ ਹਨ। ਡਾਊਨਲੋਡ ਇਤਿਹਾਸ ਅਤੇ ਬੁੱਕਮਾਰਕ ਇਸ ਡਿਵਾਈਸ \&apos;ਤੇ ਰਹਿੰਦੇ ਹਨ।</string>
+    <string name="terms" formatted="false">ਜ਼ਿੰਮੇਵਾਰੀ ਨਾਲ ਵਰਤੋ</string>
+    <string name="terms_body" formatted="false">ਸਿਰਫ਼ ਉਹਨਾਂ ਵੀਡੀਓਜ਼ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ ਜੋ ਤੁਹਾਡੇ ਮਾਲਕ ਹਨ ਜਾਂ ਜਿਨ੍ਹਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ। ਕਾਪੀਰਾਈਟ ਅਤੇ ਵੈੱਬਸਾਈਟ ਦੀਆਂ ਸ਼ਰਤਾਂ ਦਾ ਆਦਰ ਕਰੋ। ਇਹ ਐਪ DRM, ਪੇਵਾਲਾਂ, ਜਾਂ ਪਲੇਟਫਾਰਮ ਡਾਊਨਲੋਡ ਪਾਬੰਦੀਆਂ ਨੂੰ ਬਾਈਪਾਸ ਨਹੀਂ ਕਰ ਸਕਦੀ।</string>
+    <string name="about" formatted="false">ਬਾਰੇ</string>
+    <string name="version" formatted="false">ਸੰਸਕਰਣ</string>
+    <string name="paid_app" formatted="false">ਇੱਕ ਖਰੀਦ. ਕੋਈ ਵਿਗਿਆਪਨ ਨਹੀਂ। ਕੋਈ ਗਾਹਕੀ ਨਹੀਂ।</string>
+    <string name="welcome_title" formatted="false">ਉਹ ਰੱਖੋ ਜੋ ਤੁਹਾਨੂੰ ਪ੍ਰੇਰਿਤ ਕਰਦਾ ਹੈ.</string>
+    <string name="welcome_body" formatted="false">ਇੱਕ ਥਾਂ \&apos;ਤੇ ਅਨੁਮਤੀ ਵਾਲੇ ਵੀਡੀਓ ਬ੍ਰਾਊਜ਼ ਕਰੋ, ਖੋਜੋ ਅਤੇ ਸੁਰੱਖਿਅਤ ਕਰੋ। ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਚਿੱਤਰਿਤ ਗਾਈਡ ਪੜ੍ਹੋ।</string>
+    <string name="start_browsing" formatted="false">ਬ੍ਰਾਊਜ਼ਿੰਗ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="read_guide" formatted="false">ਗਾਈਡ ਪੜ੍ਹੋ</string>
+    <string name="browser_error" formatted="false">ਇਹ ਪੰਨਾ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਪਤਾ ਅਤੇ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ, ਫਿਰ ਰੀਲੋਡ ਕਰੋ।</string>
+    <string name="secure_only" formatted="false">ਇਹ ਐਪ HTTPS ਕਨੈਕਸ਼ਨਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ। ਇਸ ਵੈੱਬਸਾਈਟ ਦੇ ਸੁਰੱਖਿਅਤ ਸੰਸਕਰਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="external_link" formatted="false">ਕੀ ਇਸ ਲਿੰਕ ਨੂੰ ਕਿਸੇ ਹੋਰ ਐਪ ਵਿੱਚ ਖੋਲ੍ਹਣਾ ਹੈ?</string>
+    <string name="open" formatted="false">ਖੋਲ੍ਹੋ</string>
+    <string name="refresh" formatted="false">ਤਾਜ਼ਾ ਕਰੋ</string>
+    <string name="accessibility_tutorial" formatted="false">ਇਸ ਟਿਊਟੋਰਿਅਲ ਪਗ ਲਈ ਉਦਾਹਰਣ</string>
+    <string name="download_reason" formatted="false">Android ਡਾਊਨਲੋਡ ਗਲਤੀ ਕੋਡ</string>
+    <string name="queue_full" formatted="false">ਡਾਊਨਲੋਡ ਇਤਿਹਾਸ ਭਰਿਆ ਹੋਇਆ ਹੈ। ਪਹਿਲਾਂ ਇੱਕ ਪੁਰਾਣੀ ਐਂਟਰੀ ਹਟਾਓ।</string>
+    <string name="browser_tabs" formatted="false">ਬ੍ਰਾਊਜ਼ਰ ਟੈਬਾਂ</string>
+    <string name="tabs_subtitle" formatted="false">ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਖੁੱਲ੍ਹਾ ਰੱਖੋ ਅਤੇ ਉਹਨਾਂ ਵਿਚਕਾਰ ਸਵਿਚ ਕਰੋ।</string>
+    <string name="new_tab" formatted="false">ਨਵੀਂ ਟੈਬ</string>
+    <string name="close_tab" formatted="false">ਟੈਬ ਬੰਦ ਕਰੋ</string>
+    <string name="active_tab" formatted="false">ਕਿਰਿਆਸ਼ੀਲ ਟੈਬ</string>
+    <string name="tab_limit" formatted="false">ਤੁਸੀਂ 8 ਟੈਬਾਂ ਤੱਕ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ। ਕੋਈ ਹੋਰ ਜੋੜਨ ਲਈ ਇੱਕ ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ।</string>
+    <string name="history" formatted="false">ਇਤਿਹਾਸ</string>
+    <string name="history_subtitle" formatted="false">ਵਿਜ਼ਿਟ ਕੀਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਸਿਰਫ਼ ਇਸ ਡੀਵਾਈਸ \&apos;ਤੇ ਰੱਖਿਅਤ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ।</string>
+    <string name="empty_history" formatted="false">ਤੁਹਾਡਾ ਬ੍ਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਇੱਥੇ ਦਿਖਾਈ ਦੇਵੇਗਾ।</string>
+    <string name="clear_history" formatted="false">ਇਤਿਹਾਸ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="clear_history_confirm" formatted="false">ਕੀ ਇਸ ਡੀਵਾਈਸ ਤੋਂ ਸਾਰਾ ਬ੍ਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਮਿਟਾਉਣਾ ਹੈ?</string>
+    <string name="open_new_tab" formatted="false">ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ</string>
+    <string name="browser_menu" formatted="false">ਬ੍ਰਾਊਜ਼ਰ ਮੀਨੂ</string>
+    <string name="shortcut_note" formatted="false">ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਵੈੱਬਸਾਈਟ ਸ਼ਾਰਟਕੱਟ ਖੁੱਲ੍ਹਦੇ ਹਨ। ਡਾਊਨਲੋਡ ਦੀ ਉਪਲਬਧਤਾ ਵੈੱਬਸਾਈਟ \&apos;ਤੇ ਨਿਰਭਰ ਕਰਦੀ ਹੈ।</string>
+</resources>

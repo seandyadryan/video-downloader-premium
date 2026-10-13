@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Sfoglia</string>
+    <string name="downloads" formatted="false">Downloads</string>
+    <string name="guide" formatted="false">Guida</string>
+    <string name="settings" formatted="false">Settings</string>
+    <string name="home_title" formatted="false">I vostri video. A vostra cullezzione.</string>
+    <string name="home_subtitle" formatted="false">Truvate qualcosa chì vale a pena mantene.</string>
+    <string name="search_hint" formatted="false">Cerca o entre in un situ web</string>
+    <string name="go" formatted="false">Vai</string>
+    <string name="paste_link" formatted="false">Incolla u ligame di u video</string>
+    <string name="direct_link" formatted="false">Link video direttu</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Scaricate</string>
+    <string name="detect" formatted="false">Truvà video</string>
+    <string name="detected" formatted="false">Videos nantu à sta pagina</string>
+    <string name="no_media" formatted="false">Nisun video scaricabile trovu. Cumincià à ghjucà un video, poi pruvate di novu. I flussi protetti è i frames incrustati ponu esse indisponibili.</string>
+    <string name="safe_note" formatted="false">Scaricate solu i video chì avete o avete permessu di salvà. I flussi protetti è i download di YouTube ùn sò micca dispunibili.</string>
+    <string name="quick_start" formatted="false">INIZIATE QUI</string>
+    <string name="quick_browse" formatted="false">Esplora u web</string>
+    <string name="quick_browse_body" formatted="false">Ricerca cù u vostru mutore preferitu in u navigatore integratu.</string>
+    <string name="quick_download" formatted="false">Salvà un video</string>
+    <string name="quick_download_body" formatted="false">Incolla un ligame di video HTTPS direttu o truvate un video in una pagina.</string>
+    <string name="quick_guide" formatted="false">Un pocu di guida</string>
+    <string name="quick_guide_body" formatted="false">Quattru passi illustrati da a scuperta à a vostra cullezzione.</string>
+    <string name="back" formatted="false">Torna</string>
+    <string name="forward" formatted="false">Avanti</string>
+    <string name="reload" formatted="false">Ricaricate</string>
+    <string name="home" formatted="false">A casa</string>
+    <string name="bookmark" formatted="false">Marcatu</string>
+    <string name="bookmarks" formatted="false">Segnalibri</string>
+    <string name="empty_bookmarks" formatted="false">I siti web salvati appariscenu quì.</string>
+    <string name="saved" formatted="false">Salvatu</string>
+    <string name="remove" formatted="false">Eliminate</string>
+    <string name="cancel" formatted="false">Cancella</string>
+    <string name="close" formatted="false">Chiudi</string>
+    <string name="confirm_download" formatted="false">Salvà stu video?</string>
+    <string name="filename" formatted="false">Nome di u schedariu</string>
+    <string name="download_location" formatted="false">Salvatu in Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Possu stu video o aghju permessu di scaricà lu.</string>
+    <string name="permission_required" formatted="false">Confirmate chì avete permessu di salvà stu video.</string>
+    <string name="invalid_url" formatted="false">Inserite un ligame video HTTPS validu.</string>
+    <string name="unsupported" formatted="false">Stu ligame ùn hè micca un video scaricabile. DRM, live streams, playlists, è download YouTube ùn sò micca supportati.</string>
+    <string name="queued" formatted="false">Scaricamentu aghjuntu à a fila</string>
+    <string name="download_error" formatted="false">Impossibile di scaricà. Verificate a cunnessione o utilizate un ligame video novu.</string>
+    <string name="collection_title" formatted="false">A vostra cullezzione</string>
+    <string name="collection_subtitle" formatted="false">I video salvati, pronti quandu site.</string>
+    <string name="empty_downloads" formatted="false">U vostru prossimu preferitu appartene quì.</string>
+    <string name="empty_downloads_body" formatted="false">Truvate un video in Sfoglia o incollà un ligame video direttu per inizià a vostra cullezzione.</string>
+    <string name="pending" formatted="false">In fila</string>
+    <string name="running" formatted="false">Scaricamentu</string>
+    <string name="paused" formatted="false">Aspittendu a rete o riprova</string>
+    <string name="complete" formatted="false">Cumpleta</string>
+    <string name="failed" formatted="false">Fiascatu</string>
+    <string name="missing" formatted="false">U schedariu ùn hè micca dispunibule</string>
+    <string name="play" formatted="false">Ghjucà</string>
+    <string name="share" formatted="false">sparte</string>
+    <string name="retry" formatted="false">Riprova</string>
+    <string name="delete_download" formatted="false">Eliminate u scaricamentu è u so schedariu?</string>
+    <string name="no_player" formatted="false">Nisuna app cumpatibile hè dispunibule per apre stu schedariu.</string>
+    <string name="guide_title" formatted="false">Da a scuperta à scaricà.</string>
+    <string name="guide_subtitle" formatted="false">Una guida simplice per mantene i video chì ti piace.</string>
+    <string name="step_one_title" formatted="false">Truvate u vostru video</string>
+    <string name="step_one_body" formatted="false">Aprite Browse. Cerca o inserisci un indirizzu di u situ web. Pudete ancu sparte un ligame video da una altra app.</string>
+    <string name="step_two_title" formatted="false">Scopre a fonte</string>
+    <string name="step_two_body" formatted="false">Riproduce un video, poi tocca Truvà video. Sceglite un schedariu rilevatu, o incollà un ligame video HTTPS direttu.</string>
+    <string name="step_three_title" formatted="false">Fate u vostru</string>
+    <string name="step_three_body" formatted="false">Sceglite un nome di fugliale, cunfirmà u vostru permessu per salvà u video, è toccu Scaricate. Android cuntinueghja a scaricamentu in fondo.</string>
+    <string name="step_four_title" formatted="false">Prufittate a vostra cullezzione</string>
+    <string name="step_four_body" formatted="false">Open Downloads per verificà u prugressu. Ghjucà o sparte i video cumpletati. Riprova i scaricamenti falluti cù un ligame novu quandu hè necessariu.</string>
+    <string name="try_now" formatted="false">Pruvate avà</string>
+    <string name="preferences" formatted="false">Fate u vostru propiu.</string>
+    <string name="preferences_subtitle" formatted="false">Uni pochi cuntrolli pensati per a vostra navigazione di ogni ghjornu.</string>
+    <string name="dns_title" formatted="false">VPN / DNS privatu</string>
+    <string name="dns_explanation" formatted="false">U DNS privatu cripta e dumande DNS. Ùn oculta micca u vostru indirizzu IP o crea un tunnel VPN. Android richiede di cambià sta paràmetra manualmente.</string>
+    <string name="connected" formatted="false">Cunnessu</string>
+    <string name="unconnected" formatted="false">Unconnected</string>
+    <string name="connect" formatted="false">Cunnette</string>
+    <string name="disconnect" formatted="false">Disconnect</string>
+    <string name="dns_instructions" formatted="false">Selezziunate u nome d\&apos;ospite di u fornitore di DNS privatu, incolla dns.adguard-dns.com è salvà. Per disconnect, selezziunate Automatico o Off in u stessu paràmetru di u sistema.</string>
+    <string name="copy_hostname" formatted="false">Copia u nome d\&apos;ospitu</string>
+    <string name="copied" formatted="false">Copiatu in u clipboard</string>
+    <string name="open_network_settings" formatted="false">Aprite i paràmetri di a rete</string>
+    <string name="language" formatted="false">Lingua di l\&apos;app</string>
+    <string name="system_language" formatted="false">Segui a lingua di u dispusitivu</string>
+    <string name="search_language" formatted="false">Truvate una lingua</string>
+    <string name="language_note" formatted="false">E traduzioni sò incluse offline. Lingue di u dispositivu unlisted utilizanu l\&apos;inglese. E traduzzioni automatiche ponu avè bisognu di rivisione regiunale.</string>
+    <string name="search_engine" formatted="false">U mutore di ricerca</string>
+    <string name="wifi_only" formatted="false">Scaricate solu in Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Nuvelle scaricamenti aspettate finu à chì u Wi-Fi hè dispunibule.</string>
+    <string name="javascript" formatted="false">JavaScript di u situ web</string>
+    <string name="javascript_body" formatted="false">Hè necessariu da parechji siti web è scuperta video HTML5.</string>
+    <string name="privacy" formatted="false">Privacy</string>
+    <string name="clear_browser" formatted="false">Cancella i dati di navigazione</string>
+    <string name="clear_browser_confirm" formatted="false">Eliminate i cookies, a cache di u navigatore, a storia è u almacenamentu di u situ web?</string>
+    <string name="privacy_body" formatted="false">Nisun annunziu, analisi, o cunti di sviluppatore. I siti web, i mutori di ricerca, i fornituri di DNS è i servitori di scaricamentu ricevenu e dumande chì fate. Scaricate a storia è i marcati stanu nantu à stu dispusitivu.</string>
+    <string name="terms" formatted="false">Aduprate in modu rispunsevule</string>
+    <string name="terms_body" formatted="false">Salvate solu i video chì avete o avete permessu di scaricà. Rispettate u copyright è i termini di u situ web. Questa app ùn pò micca bypassà DRM, paywalls, o restrizioni di scaricamentu di a piattaforma.</string>
+    <string name="about" formatted="false">À propositu</string>
+    <string name="version" formatted="false">Versione</string>
+    <string name="paid_app" formatted="false">Una compra. Nisun annunziu. Nisun abbonamentu.</string>
+    <string name="welcome_title" formatted="false">Mantene ciò chì vi inspira.</string>
+    <string name="welcome_body" formatted="false">Sfoglia, scopre è salvà i video permessi in un locu. Leghjite a guida illustrata per cumincià.</string>
+    <string name="start_browsing" formatted="false">Cumincià a navigazione</string>
+    <string name="read_guide" formatted="false">Leghjite a guida</string>
+    <string name="browser_error" formatted="false">Sta pagina ùn pudia esse caricata. Verificate l\&apos;indirizzu è a cunnessione, poi ricaricà.</string>
+    <string name="secure_only" formatted="false">Questa app usa cunnessione HTTPS. Pruvate a versione sicura di stu situ web.</string>
+    <string name="external_link" formatted="false">Apri stu ligame in un\&apos;altra app?</string>
+    <string name="open" formatted="false">Apertu</string>
+    <string name="refresh" formatted="false">Refresh</string>
+    <string name="accessibility_tutorial" formatted="false">Illustrazione per stu passu tutoriale</string>
+    <string name="download_reason" formatted="false">Codice di errore di scaricamentu di Android</string>
+    <string name="queue_full" formatted="false">A storia di scaricamentu hè piena. Eliminate prima una entrata più vechja.</string>
+    <string name="browser_tabs" formatted="false">Tabulazioni di u navigatore</string>
+    <string name="tabs_subtitle" formatted="false">Mantene i siti web aperti è cambia trà elli.</string>
+    <string name="new_tab" formatted="false">Tabulazione nova</string>
+    <string name="close_tab" formatted="false">Chiudi tab</string>
+    <string name="active_tab" formatted="false">Tabulazione attiva</string>
+    <string name="tab_limit" formatted="false">Pudete apre sin\&apos;à 8 tabulazioni. Chiudi una tabulazione per aghjunghje un altru.</string>
+    <string name="history" formatted="false">Storia</string>
+    <string name="history_subtitle" formatted="false">I siti web visitati sò salvati solu nantu à stu dispusitivu.</string>
+    <string name="empty_history" formatted="false">A vostra storia di navigazione apparirà quì.</string>
+    <string name="clear_history" formatted="false">Storia chjaru</string>
+    <string name="clear_history_confirm" formatted="false">Eliminate tutta a storia di navigazione da stu dispusitivu?</string>
+    <string name="open_new_tab" formatted="false">Apertura in una nova tabulazione</string>
+    <string name="browser_menu" formatted="false">Menu di u navigatore</string>
+    <string name="shortcut_note" formatted="false">I shortcuts di u situ web aperti in u navigatore. A dispunibilità di scaricamentu dipende da u situ web.</string>
+</resources>

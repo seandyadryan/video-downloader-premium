@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PHEM</string>
+    <string name="browse" formatted="false">Saib</string>
+    <string name="downloads" formatted="false">Downloads</string>
+    <string name="guide" formatted="false">Qhia</string>
+    <string name="settings" formatted="false">Chaw</string>
+    <string name="home_title" formatted="false">Koj cov yeeb yaj kiab. Koj sau.</string>
+    <string name="home_subtitle" formatted="false">Nrhiav tej yam tsim nyog khaws cia.</string>
+    <string name="search_hint" formatted="false">Nrhiav lossis nkag mus rau hauv lub vev xaib</string>
+    <string name="go" formatted="false">Mus</string>
+    <string name="paste_link" formatted="false">Paste video link</string>
+    <string name="direct_link" formatted="false">Direct video link</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Download tau</string>
+    <string name="detect" formatted="false">Nrhiav cov yeeb yaj duab</string>
+    <string name="detected" formatted="false">Cov yeeb yaj kiab ntawm nplooj ntawv no</string>
+    <string name="no_media" formatted="false">Tsis pom video downloadable. Pib ua si video, ces sim dua. Kev tiv thaiv kwj thiab cov thav duab embedded tej zaum yuav tsis muaj.</string>
+    <string name="safe_note" formatted="false">Tsuas yog rub tawm cov yeeb yaj kiab uas koj muaj lossis muaj kev tso cai los cawm. Kev tiv thaiv kwj thiab YouTube downloads tsis muaj.</string>
+    <string name="quick_start" formatted="false">Pib ntawm no</string>
+    <string name="quick_browse" formatted="false">Tshawb lub vev xaib</string>
+    <string name="quick_browse_body" formatted="false">Nrhiav nrog koj lub cav uas koj nyiam hauv qhov browser built-in.</string>
+    <string name="quick_download" formatted="false">Txuag video</string>
+    <string name="quick_download_body" formatted="false">Muab tshuaj txhuam ncaj qha HTTPS video txuas lossis nrhiav cov vis dis aus ntawm nplooj ntawv.</string>
+    <string name="quick_guide" formatted="false">Kev taw qhia me ntsis</string>
+    <string name="quick_guide_body" formatted="false">Plaub kauj ruam piav qhia los ntawm kev tshawb pom mus rau koj cov khoom sau.</string>
+    <string name="back" formatted="false">Rov qab</string>
+    <string name="forward" formatted="false">Tom ntej</string>
+    <string name="reload" formatted="false">Rov qab</string>
+    <string name="home" formatted="false">Tsev</string>
+    <string name="bookmark" formatted="false">Bookmark</string>
+    <string name="bookmarks" formatted="false">Bookmarks</string>
+    <string name="empty_bookmarks" formatted="false">Txuag cov vev xaib yuav tshwm sim ntawm no.</string>
+    <string name="saved" formatted="false">Txuag</string>
+    <string name="remove" formatted="false">Tshem tawm</string>
+    <string name="cancel" formatted="false">Tso tseg</string>
+    <string name="close" formatted="false">Kaw</string>
+    <string name="confirm_download" formatted="false">Txuag qhov video no?</string>
+    <string name="filename" formatted="false">Cov ntaub ntawv npe</string>
+    <string name="download_location" formatted="false">Txuag hauv Downloads / Video Downloader hwm</string>
+    <string name="permission_confirm" formatted="false">Kuv yog tus tswv daim video no los yog tso cai mus download tau.</string>
+    <string name="permission_required" formatted="false">Paub meej tias koj muaj kev tso cai los khaws cov yeeb yaj kiab no.</string>
+    <string name="invalid_url" formatted="false">Nkag mus rau HTTPS video txuas siv tau.</string>
+    <string name="unsupported" formatted="false">Qhov link no tsis yog downloadable video. DRM, nyob kwj, playlists, thiab YouTube downloads yog unsupported.</string>
+    <string name="queued" formatted="false">Download tau ntxiv rau kab</string>
+    <string name="download_error" formatted="false">Download tsis tau. Txheeb xyuas qhov txuas lossis siv qhov txuas tshiab video.</string>
+    <string name="collection_title" formatted="false">Koj sau</string>
+    <string name="collection_subtitle" formatted="false">Khaws cov yeeb yaj kiab, npaj txhij thaum koj nyob.</string>
+    <string name="empty_downloads" formatted="false">Koj nyiam tom ntej no nyob ntawm no.</string>
+    <string name="empty_downloads_body" formatted="false">Nrhiav ib daim vis dis aus hauv Xauj lossis muab tshuaj txhuam cov yeeb yaj kiab ncaj qha los pib koj cov khoom sau.</string>
+    <string name="pending" formatted="false">Nquag</string>
+    <string name="running" formatted="false">Downloading</string>
+    <string name="paused" formatted="false">Tos rau lub network lossis rov sim dua</string>
+    <string name="complete" formatted="false">Ua kom tiav</string>
+    <string name="failed" formatted="false">Ua tsis tiav</string>
+    <string name="missing" formatted="false">Cov ntaub ntawv tsis muaj</string>
+    <string name="play" formatted="false">Ua si</string>
+    <string name="share" formatted="false">Qhia</string>
+    <string name="retry" formatted="false">Rov sim dua</string>
+    <string name="delete_download" formatted="false">Tshem tawm download thiab nws cov ntaub ntawv?</string>
+    <string name="no_player" formatted="false">Tsis muaj app siv tau los qhib cov ntaub ntawv no.</string>
+    <string name="guide_title" formatted="false">Los ntawm discovery mus download tau.</string>
+    <string name="guide_subtitle" formatted="false">Daim ntawv qhia yooj yim kom khaws cov yeeb yaj kiab uas koj nyiam.</string>
+    <string name="step_one_title" formatted="false">Nrhiav koj li video</string>
+    <string name="step_one_body" formatted="false">Qhib Saib. Nrhiav lossis nkag mus rau qhov chaw nyob hauv lub vev xaib. Koj tseem tuaj yeem faib qhov txuas video los ntawm lwm lub app.</string>
+    <string name="step_two_title" formatted="false">Tshawb nrhiav qhov chaw</string>
+    <string name="step_two_body" formatted="false">Ua yeeb yaj kiab, tom qab ntawd coj mus rhaub Nrhiav cov yeeb yaj kiab. Xaiv cov ntaub ntawv kuaj pom, lossis muab tshuaj txhuam ncaj qha HTTPS video txuas.</string>
+    <string name="step_three_title" formatted="false">Ua koj li</string>
+    <string name="step_three_body" formatted="false">Xaiv ib lub npe cov ntaub ntawv, paub meej tias koj tso cai rau txuag cov yees duab, thiab coj mus rhaub Download. Android txuas ntxiv rub tawm hauv keeb kwm yav dhau.</string>
+    <string name="step_four_title" formatted="false">Txaus siab rau koj cov khoom sau</string>
+    <string name="step_four_body" formatted="false">Qhib Downloads txhawm rau txheeb xyuas qhov ua tiav. Ua si lossis faib cov yeeb yaj kiab ua tiav. Rov sim ua tsis tiav downloads nrog qhov txuas tshiab thaum xav tau.</string>
+    <string name="try_now" formatted="false">Sim tam sim no</string>
+    <string name="preferences" formatted="false">Ua koj tus kheej.</string>
+    <string name="preferences_subtitle" formatted="false">Ob peb lub tswv yim tswj hwm rau koj qhov kev tshawb nrhiav txhua hnub.</string>
+    <string name="dns_title" formatted="false">VPN / Private DNS</string>
+    <string name="dns_explanation" formatted="false">Private DNS encrypts DNS queries. Nws tsis zais koj tus IP chaw nyob lossis tsim lub qhov VPN. Android xav kom koj hloov qhov chaw no manually.</string>
+    <string name="connected" formatted="false">Txuas nrog</string>
+    <string name="unconnected" formatted="false">Tsis txuas</string>
+    <string name="connect" formatted="false">Txuas</string>
+    <string name="disconnect" formatted="false">Txiav tawm</string>
+    <string name="dns_instructions" formatted="false">Xaiv Private DNS hostname, muab tshuaj txhuam dns.adguard-dns.com, thiab txuag. Txhawm rau txiav, xaiv Automatic lossis Off hauv tib qhov system teeb tsa.</string>
+    <string name="copy_hostname" formatted="false">Copy hostname</string>
+    <string name="copied" formatted="false">Luam rau daim ntawv teev cia</string>
+    <string name="open_network_settings" formatted="false">Qhib kev teeb tsa network</string>
+    <string name="language" formatted="false">App lus</string>
+    <string name="system_language" formatted="false">Ua raws li hom lus</string>
+    <string name="search_language" formatted="false">Nrhiav ib hom lus</string>
+    <string name="language_note" formatted="false">Kev txhais lus suav nrog offline. Cov khoom siv tsis tau teev npe siv lus Askiv. Lub tshuab txhais lus yuav xav tau kev tshuaj xyuas hauv cheeb tsam.</string>
+    <string name="search_engine" formatted="false">Tshawb nrhiav cav</string>
+    <string name="wifi_only" formatted="false">Download tau ntawm Wi-Fi nkaus xwb</string>
+    <string name="wifi_body" formatted="false">Cov downloads tshiab tos kom txog thaum Wi-Fi muaj.</string>
+    <string name="javascript" formatted="false">Lub Vev Xaib JavaScript</string>
+    <string name="javascript_body" formatted="false">Yuav tsum tau los ntawm ntau lub vev xaib thiab HTML5 video nrhiav pom.</string>
+    <string name="privacy" formatted="false">Tsis pub twg paub</string>
+    <string name="clear_browser" formatted="false">Clear browsing cov ntaub ntawv</string>
+    <string name="clear_browser_confirm" formatted="false">Rho tawm cov ncuav qab zib, browser cache, keeb kwm, thiab lub vev xaib cia?</string>
+    <string name="privacy_body" formatted="false">Tsis muaj kev tshaj tawm, kev tshuaj ntsuam xyuas, lossis tus tsim tawm nyiaj. Cov vev xaib, tshawb nrhiav cav, DNS chaw muab kev pabcuam, thiab rub tawm cov servers tau txais cov lus thov koj ua. Download tau keeb kwm thiab bookmarks nyob hauv lub cuab yeej no.</string>
+    <string name="terms" formatted="false">Siv lub luag haujlwm</string>
+    <string name="terms_body" formatted="false">Txuag tsuas yog cov yeeb yaj kiab uas koj muaj lossis tso cai rub tawm. Ua raws li kev cai lij choj thiab cov ntsiab lus ntawm lub vev xaib. Cov app no ​​tsis tuaj yeem hla DRM, paywalls, lossis platform rub tawm txwv.</string>
+    <string name="about" formatted="false">Txog</string>
+    <string name="version" formatted="false">Version</string>
+    <string name="paid_app" formatted="false">Ib qho kev yuav khoom. Tsis muaj kev tshaj tawm. Tsis muaj npe.</string>
+    <string name="welcome_title" formatted="false">Khaws qhov uas txhawb koj.</string>
+    <string name="welcome_body" formatted="false">Xauj, nrhiav, thiab khaws cov yeeb yaj kiab tso cai rau hauv ib qho chaw. Nyeem cov duab qhia kom pib.</string>
+    <string name="start_browsing" formatted="false">Pib tshawb nrhiav</string>
+    <string name="read_guide" formatted="false">Nyeem cov lus qhia</string>
+    <string name="browser_error" formatted="false">Nplooj ntawv no tsis tuaj yeem thauj khoom. Xyuas qhov chaw nyob thiab kev sib txuas, tom qab ntawd rov pib dua.</string>
+    <string name="secure_only" formatted="false">Cov app no ​​siv HTTPS kev sib txuas. Sim qhov ruaj ntseg version ntawm lub vev xaib no.</string>
+    <string name="external_link" formatted="false">Qhib qhov txuas no hauv lwm lub app?</string>
+    <string name="open" formatted="false">Qhib</string>
+    <string name="refresh" formatted="false">Hloov tshiab</string>
+    <string name="accessibility_tutorial" formatted="false">Piv txwv rau cov kauj ruam qhia no</string>
+    <string name="download_reason" formatted="false">Android download yuam kev code</string>
+    <string name="queue_full" formatted="false">Cov keeb kwm download tau puv. Tshem tawm qhov qub nkag ua ntej.</string>
+    <string name="browser_tabs" formatted="false">Browser tabs</string>
+    <string name="tabs_subtitle" formatted="false">Khaws cov vev xaib qhib thiab hloov ntawm lawv.</string>
+    <string name="new_tab" formatted="false">New tab</string>
+    <string name="close_tab" formatted="false">Kaw tab</string>
+    <string name="active_tab" formatted="false">Active tab</string>
+    <string name="tab_limit" formatted="false">Koj tuaj yeem qhib mus txog 8 tabs. Kaw ib lub tab ntxiv rau lwm tus.</string>
+    <string name="history" formatted="false">Keeb kwm</string>
+    <string name="history_subtitle" formatted="false">Mus saib lub vev xaib tsuas yog khaws cia rau ntawm lub cuab yeej no.</string>
+    <string name="empty_history" formatted="false">Koj qhov kev tshawb nrhiav keeb kwm yuav tshwm sim ntawm no.</string>
+    <string name="clear_history" formatted="false">Clear keeb kwm</string>
+    <string name="clear_history_confirm" formatted="false">Rho tawm txhua qhov kev tshawb nrhiav keeb kwm ntawm lub cuab yeej no?</string>
+    <string name="open_new_tab" formatted="false">Qhib hauv tab tshiab</string>
+    <string name="browser_menu" formatted="false">Browser menu</string>
+    <string name="shortcut_note" formatted="false">Lub vev xaib shortcuts qhib hauv browser. Download muaj nyob ntawm lub vev xaib.</string>
+</resources>

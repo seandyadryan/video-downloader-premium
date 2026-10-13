@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">CAO CẤP</string>
+    <string name="browse" formatted="false">Duyệt qua</string>
+    <string name="downloads" formatted="false">Tải xuống</string>
+    <string name="guide" formatted="false">hướng dẫn</string>
+    <string name="settings" formatted="false">Cài đặt</string>
+    <string name="home_title" formatted="false">Video của bạn. Bộ sưu tập của bạn.</string>
+    <string name="home_subtitle" formatted="false">Tìm thứ gì đó đáng lưu giữ.</string>
+    <string name="search_hint" formatted="false">Tìm kiếm hoặc nhập một trang web</string>
+    <string name="go" formatted="false">Đi</string>
+    <string name="paste_link" formatted="false">Dán liên kết video</string>
+    <string name="direct_link" formatted="false">Liên kết video trực tiếp</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Tải xuống</string>
+    <string name="detect" formatted="false">Tìm video</string>
+    <string name="detected" formatted="false">Video trên trang này</string>
+    <string name="no_media" formatted="false">Không tìm thấy video có thể tải xuống. Bắt đầu phát video rồi thử lại. Các luồng được bảo vệ và khung nhúng có thể không khả dụng.</string>
+    <string name="safe_note" formatted="false">Chỉ tải xuống video bạn sở hữu hoặc có quyền lưu. Các luồng được bảo vệ và tải xuống YouTube không khả dụng.</string>
+    <string name="quick_start" formatted="false">BẮT ĐẦU TẠI ĐÂY</string>
+    <string name="quick_browse" formatted="false">Khám phá trang web</string>
+    <string name="quick_browse_body" formatted="false">Tìm kiếm bằng công cụ ưa thích của bạn trong trình duyệt tích hợp.</string>
+    <string name="quick_download" formatted="false">Lưu video</string>
+    <string name="quick_download_body" formatted="false">Dán liên kết video HTTPS trực tiếp hoặc tìm video trên một trang.</string>
+    <string name="quick_guide" formatted="false">Một chút hướng dẫn</string>
+    <string name="quick_guide_body" formatted="false">Bốn bước minh họa từ khám phá đến bộ sưu tập của bạn.</string>
+    <string name="back" formatted="false">Quay lại</string>
+    <string name="forward" formatted="false">Chuyển tiếp</string>
+    <string name="reload" formatted="false">Tải lại</string>
+    <string name="home" formatted="false">Trang chủ</string>
+    <string name="bookmark" formatted="false">Đánh dấu</string>
+    <string name="bookmarks" formatted="false">Dấu trang</string>
+    <string name="empty_bookmarks" formatted="false">Các trang web đã lưu sẽ xuất hiện ở đây.</string>
+    <string name="saved" formatted="false">Đã lưu</string>
+    <string name="remove" formatted="false">Xóa</string>
+    <string name="cancel" formatted="false">Hủy bỏ</string>
+    <string name="close" formatted="false">Đóng</string>
+    <string name="confirm_download" formatted="false">Lưu video này?</string>
+    <string name="filename" formatted="false">Tên tập tin</string>
+    <string name="download_location" formatted="false">Đã lưu trong Tải xuống / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Tôi sở hữu video này hoặc được phép tải xuống.</string>
+    <string name="permission_required" formatted="false">Xác nhận rằng bạn có quyền lưu video này.</string>
+    <string name="invalid_url" formatted="false">Nhập liên kết video HTTPS hợp lệ.</string>
+    <string name="unsupported" formatted="false">Liên kết này không phải là một video có thể tải xuống. DRM, luồng trực tiếp, danh sách phát và nội dung tải xuống trên YouTube không được hỗ trợ.</string>
+    <string name="queued" formatted="false">Đã thêm tải xuống vào hàng đợi</string>
+    <string name="download_error" formatted="false">Không thể tải xuống. Kiểm tra kết nối hoặc sử dụng liên kết video mới.</string>
+    <string name="collection_title" formatted="false">Bộ sưu tập của bạn</string>
+    <string name="collection_subtitle" formatted="false">Các video đã lưu, sẵn sàng khi bạn cần.</string>
+    <string name="empty_downloads" formatted="false">Yêu thích tiếp theo của bạn thuộc về ở đây.</string>
+    <string name="empty_downloads_body" formatted="false">Tìm video trong Duyệt hoặc dán liên kết video trực tiếp để bắt đầu bộ sưu tập của bạn.</string>
+    <string name="pending" formatted="false">Đã xếp hàng</string>
+    <string name="running" formatted="false">Đang tải xuống</string>
+    <string name="paused" formatted="false">Đang chờ mạng hoặc thử lại</string>
+    <string name="complete" formatted="false">Hoàn thành</string>
+    <string name="failed" formatted="false">thất bại</string>
+    <string name="missing" formatted="false">Tệp không có sẵn</string>
+    <string name="play" formatted="false">Chơi</string>
+    <string name="share" formatted="false">Chia sẻ</string>
+    <string name="retry" formatted="false">Thử lại</string>
+    <string name="delete_download" formatted="false">Xóa nội dung tải xuống và tập tin của nó?</string>
+    <string name="no_player" formatted="false">Không có ứng dụng tương thích nào để mở tệp này.</string>
+    <string name="guide_title" formatted="false">Từ khám phá đến tải xuống.</string>
+    <string name="guide_subtitle" formatted="false">Hướng dẫn đơn giản để lưu giữ những video bạn yêu thích.</string>
+    <string name="step_one_title" formatted="false">Tìm video của bạn</string>
+    <string name="step_one_body" formatted="false">Mở Duyệt. Tìm kiếm hoặc nhập địa chỉ trang web. Bạn cũng có thể chia sẻ liên kết video từ một ứng dụng khác.</string>
+    <string name="step_two_title" formatted="false">Khám phá nguồn</string>
+    <string name="step_two_body" formatted="false">Phát video, sau đó chạm vào Tìm video. Chọn tệp được phát hiện hoặc dán liên kết video HTTPS trực tiếp.</string>
+    <string name="step_three_title" formatted="false">Biến nó thành của bạn</string>
+    <string name="step_three_body" formatted="false">Chọn tên tệp, xác nhận quyền lưu video của bạn và nhấn Tải xuống. Android tiếp tục tải xuống ở chế độ nền.</string>
+    <string name="step_four_title" formatted="false">Thưởng thức bộ sưu tập của bạn</string>
+    <string name="step_four_body" formatted="false">Mở Tải xuống để kiểm tra tiến trình. Phát hoặc chia sẻ video đã hoàn thành. Thử lại các lần tải xuống không thành công bằng liên kết mới khi cần.</string>
+    <string name="try_now" formatted="false">Hãy thử ngay bây giờ</string>
+    <string name="preferences" formatted="false">Hãy biến nó thành của riêng bạn.</string>
+    <string name="preferences_subtitle" formatted="false">Một vài điều khiển chu đáo cho việc duyệt web hàng ngày của bạn.</string>
+    <string name="dns_title" formatted="false">VPN / DNS riêng</string>
+    <string name="dns_explanation" formatted="false">DNS riêng mã hóa các truy vấn DNS. Nó không ẩn địa chỉ IP của bạn hoặc tạo đường hầm VPN. Android yêu cầu bạn thay đổi cài đặt này theo cách thủ công.</string>
+    <string name="connected" formatted="false">Đã kết nối</string>
+    <string name="unconnected" formatted="false">Chưa kết nối</string>
+    <string name="connect" formatted="false">Kết nối</string>
+    <string name="disconnect" formatted="false">Ngắt kết nối</string>
+    <string name="dns_instructions" formatted="false">Chọn tên máy chủ của nhà cung cấp DNS riêng, dán dns.adguard-dns.com và lưu. Để ngắt kết nối, chọn Tự động hoặc Tắt trong cùng cài đặt hệ thống.</string>
+    <string name="copy_hostname" formatted="false">Sao chép tên máy chủ</string>
+    <string name="copied" formatted="false">Đã sao chép vào bảng nhớ tạm</string>
+    <string name="open_network_settings" formatted="false">Mở cài đặt mạng</string>
+    <string name="language" formatted="false">Ngôn ngữ ứng dụng</string>
+    <string name="system_language" formatted="false">Theo dõi ngôn ngữ thiết bị</string>
+    <string name="search_language" formatted="false">Tìm một ngôn ngữ</string>
+    <string name="language_note" formatted="false">Bản dịch được bao gồm ngoại tuyến. Ngôn ngữ thiết bị không được liệt kê sử dụng tiếng Anh. Bản dịch máy có thể cần được xem xét theo khu vực.</string>
+    <string name="search_engine" formatted="false">Công cụ tìm kiếm</string>
+    <string name="wifi_only" formatted="false">Chỉ tải xuống trên Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Các bản tải xuống mới sẽ đợi cho đến khi có Wi-Fi.</string>
+    <string name="javascript" formatted="false">JavaScript trang web</string>
+    <string name="javascript_body" formatted="false">Được yêu cầu bởi nhiều trang web và khám phá video HTML5.</string>
+    <string name="privacy" formatted="false">Quyền riêng tư</string>
+    <string name="clear_browser" formatted="false">Xóa dữ liệu duyệt web</string>
+    <string name="clear_browser_confirm" formatted="false">Xóa cookie, bộ nhớ đệm của trình duyệt, lịch sử và bộ nhớ trang web?</string>
+    <string name="privacy_body" formatted="false">Không có quảng cáo, phân tích hoặc tài khoản nhà phát triển. Các trang web, công cụ tìm kiếm, nhà cung cấp DNS và máy chủ tải xuống sẽ nhận được yêu cầu của bạn. Lịch sử tải xuống và dấu trang vẫn còn trên thiết bị này.</string>
+    <string name="terms" formatted="false">Sử dụng có trách nhiệm</string>
+    <string name="terms_body" formatted="false">Chỉ lưu những video bạn sở hữu hoặc được phép tải xuống. Tôn trọng bản quyền và các điều khoản của trang web. Ứng dụng này không thể vượt qua các hạn chế về DRM, tường phí hoặc tải xuống nền tảng.</string>
+    <string name="about" formatted="false">Giới thiệu</string>
+    <string name="version" formatted="false">Phiên bản</string>
+    <string name="paid_app" formatted="false">Một lần mua hàng. Không có quảng cáo. Không có đăng ký.</string>
+    <string name="welcome_title" formatted="false">Giữ những gì truyền cảm hứng cho bạn.</string>
+    <string name="welcome_body" formatted="false">Duyệt, khám phá và lưu các video được phép ở một nơi. Đọc hướng dẫn minh họa để bắt đầu.</string>
+    <string name="start_browsing" formatted="false">Bắt đầu duyệt</string>
+    <string name="read_guide" formatted="false">Đọc hướng dẫn</string>
+    <string name="browser_error" formatted="false">Không thể tải trang này. Kiểm tra địa chỉ và kết nối, sau đó tải lại.</string>
+    <string name="secure_only" formatted="false">Ứng dụng này sử dụng kết nối HTTPS. Hãy thử phiên bản an toàn của trang web này.</string>
+    <string name="external_link" formatted="false">Mở liên kết này trong một ứng dụng khác?</string>
+    <string name="open" formatted="false">Mở</string>
+    <string name="refresh" formatted="false">Làm mới</string>
+    <string name="accessibility_tutorial" formatted="false">Minh họa cho bước hướng dẫn này</string>
+    <string name="download_reason" formatted="false">Mã lỗi tải xuống Android</string>
+    <string name="queue_full" formatted="false">Lịch sử tải xuống đã đầy. Trước tiên, hãy xóa mục cũ hơn.</string>
+    <string name="browser_tabs" formatted="false">Tab trình duyệt</string>
+    <string name="tabs_subtitle" formatted="false">Giữ các trang web mở và chuyển đổi giữa chúng.</string>
+    <string name="new_tab" formatted="false">Tab mới</string>
+    <string name="close_tab" formatted="false">Đóng tab</string>
+    <string name="active_tab" formatted="false">Tab hoạt động</string>
+    <string name="tab_limit" formatted="false">Bạn có thể mở tối đa 8 tab. Đóng một tab để thêm một tab khác.</string>
+    <string name="history" formatted="false">Lịch sử</string>
+    <string name="history_subtitle" formatted="false">Các trang web đã truy cập chỉ được lưu trên thiết bị này.</string>
+    <string name="empty_history" formatted="false">Lịch sử duyệt web của bạn sẽ xuất hiện ở đây.</string>
+    <string name="clear_history" formatted="false">Xóa lịch sử</string>
+    <string name="clear_history_confirm" formatted="false">Xóa tất cả lịch sử duyệt web khỏi thiết bị này?</string>
+    <string name="open_new_tab" formatted="false">Mở trong tab mới</string>
+    <string name="browser_menu" formatted="false">Trình đơn trình duyệt</string>
+    <string name="shortcut_note" formatted="false">Phím tắt trang web mở trong trình duyệt. Khả năng tải xuống tùy thuộc vào trang web.</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Arakatu</string>
+    <string name="downloads" formatted="false">Deskargak</string>
+    <string name="guide" formatted="false">Gida</string>
+    <string name="settings" formatted="false">Ezarpenak</string>
+    <string name="home_title" formatted="false">Zure bideoak. Zure bilduma.</string>
+    <string name="home_subtitle" formatted="false">Bilatu gordetzea merezi duen zerbait.</string>
+    <string name="search_hint" formatted="false">Bilatu edo sartu webgune bat</string>
+    <string name="go" formatted="false">Zoaz</string>
+    <string name="paste_link" formatted="false">Itsatsi bideoaren esteka</string>
+    <string name="direct_link" formatted="false">Bideoaren lotura zuzena</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Deskargatu</string>
+    <string name="detect" formatted="false">Bilatu bideoak</string>
+    <string name="detected" formatted="false">Orrialde honetako bideoak</string>
+    <string name="no_media" formatted="false">Ez da deskarga daitekeen bideorik aurkitu. Hasi bideo bat erreproduzitzen eta saiatu berriro. Baliteke korronte babestuak eta txertatutako fotogramak erabilgarri ez egotea.</string>
+    <string name="safe_note" formatted="false">Deskargatu zure jabetza edo gordetzeko baimena duzun bideoak soilik. Babestutako korronteak eta YouTube-ren deskargak ez daude erabilgarri.</string>
+    <string name="quick_start" formatted="false">HASI HEMEN</string>
+    <string name="quick_browse" formatted="false">Arakatu weba</string>
+    <string name="quick_browse_body" formatted="false">Bilatu zure hobetsitako motorra integratutako arakatzailean.</string>
+    <string name="quick_download" formatted="false">Gorde bideo bat</string>
+    <string name="quick_download_body" formatted="false">Itsatsi HTTPS bideo-esteka zuzena edo bilatu bideo bat orrialde batean.</string>
+    <string name="quick_guide" formatted="false">Orientazio txiki bat</string>
+    <string name="quick_guide_body" formatted="false">Aurkikuntzatik zure bildumara arte lau urrats ilustratuak.</string>
+    <string name="back" formatted="false">Itzuli</string>
+    <string name="forward" formatted="false">Aurrera</string>
+    <string name="reload" formatted="false">Berriz kargatu</string>
+    <string name="home" formatted="false">Hasiera</string>
+    <string name="bookmark" formatted="false">Laster-marka</string>
+    <string name="bookmarks" formatted="false">Laster-markak</string>
+    <string name="empty_bookmarks" formatted="false">Gordetako webguneak hemen agertuko dira.</string>
+    <string name="saved" formatted="false">Gorde</string>
+    <string name="remove" formatted="false">Kendu</string>
+    <string name="cancel" formatted="false">Utzi</string>
+    <string name="close" formatted="false">Itxi</string>
+    <string name="confirm_download" formatted="false">Bideo hau gorde nahi duzu?</string>
+    <string name="filename" formatted="false">Fitxategiaren izena</string>
+    <string name="download_location" formatted="false">Deskargak / Video Downloader Premium-en gordeta</string>
+    <string name="permission_confirm" formatted="false">Bideo honen jabea naiz edo deskargatzeko baimena dut.</string>
+    <string name="permission_required" formatted="false">Berretsi bideoa gordetzeko baimena duzula.</string>
+    <string name="invalid_url" formatted="false">Sartu baliozko HTTPS bideo-esteka.</string>
+    <string name="unsupported" formatted="false">Esteka hau ez da deskarga daitekeen bideo bat. DRM, zuzeneko igorpenak, erreprodukzio zerrendak eta YouTube deskargak ez dira onartzen.</string>
+    <string name="queued" formatted="false">Deskarga gehitu da ilaran</string>
+    <string name="download_error" formatted="false">Ezin da deskargatu. Egiaztatu konexioa edo erabili bideo-esteka berri bat.</string>
+    <string name="collection_title" formatted="false">Zure bilduma</string>
+    <string name="collection_subtitle" formatted="false">Gordetako bideoak, prest zaudenean.</string>
+    <string name="empty_downloads" formatted="false">Zure hurrengo gogokoena hemen dago.</string>
+    <string name="empty_downloads_body" formatted="false">Bilatu bideo bat Arakatu atalean edo itsatsi zuzeneko bideo-esteka bat zure bilduma hasteko.</string>
+    <string name="pending" formatted="false">Ilaran jarrita</string>
+    <string name="running" formatted="false">Deskargatzen</string>
+    <string name="paused" formatted="false">Sarearen zain edo berriro saiatu</string>
+    <string name="complete" formatted="false">Osatu</string>
+    <string name="failed" formatted="false">Huts egin du</string>
+    <string name="missing" formatted="false">Fitxategia ez dago erabilgarri</string>
+    <string name="play" formatted="false">Jolastu</string>
+    <string name="share" formatted="false">Partekatu</string>
+    <string name="retry" formatted="false">Saiatu berriro</string>
+    <string name="delete_download" formatted="false">Deskarga eta bere fitxategia kendu?</string>
+    <string name="no_player" formatted="false">Ez dago aplikazio bateragarririk fitxategi hau irekitzeko.</string>
+    <string name="guide_title" formatted="false">Aurkikuntzatik deskargara.</string>
+    <string name="guide_subtitle" formatted="false">Maite dituzun bideoak gordetzeko gida sinple bat.</string>
+    <string name="step_one_title" formatted="false">Aurkitu zure bideoa</string>
+    <string name="step_one_body" formatted="false">Ireki Arakatu. Bilatu edo sartu webgunearen helbidea. Beste aplikazio batetik bideo-esteka bat ere parteka dezakezu.</string>
+    <string name="step_two_title" formatted="false">Ezagutu iturria</string>
+    <string name="step_two_body" formatted="false">Erreproduzitu bideo bat eta, ondoren, sakatu Bilatu bideoak. Aukeratu hautemandako fitxategi bat edo itsatsi HTTPS bideo-esteka zuzena.</string>
+    <string name="step_three_title" formatted="false">Egin ezazu zurea</string>
+    <string name="step_three_body" formatted="false">Aukeratu fitxategi-izen bat, berretsi bideoa gordetzeko baimena eta sakatu Deskargatu. Android-ek atzeko planoan deskargatzen jarraitzen du.</string>
+    <string name="step_four_title" formatted="false">Gozatu zure bilduma</string>
+    <string name="step_four_body" formatted="false">Ireki Deskargak aurrerapena ikusteko. Erreproduzitu edo partekatu amaitutako bideoak. Saiatu berriro deskarga hutsekin esteka berri batekin, behar denean.</string>
+    <string name="try_now" formatted="false">Saiatu orain</string>
+    <string name="preferences" formatted="false">Egin ezazu zeurea.</string>
+    <string name="preferences_subtitle" formatted="false">Zure eguneroko nabigaziorako kontrol zehatz batzuk.</string>
+    <string name="dns_title" formatted="false">VPN / DNS pribatua</string>
+    <string name="dns_explanation" formatted="false">DNS pribatuak DNS kontsultak zifratzen ditu. Ez du zure IP helbidea ezkutatzen edo VPN tunel bat sortzen. Android-ek ezarpen hau eskuz aldatzea eskatzen du.</string>
+    <string name="connected" formatted="false">Konektatuta</string>
+    <string name="unconnected" formatted="false">Lotu gabe</string>
+    <string name="connect" formatted="false">Konektatu</string>
+    <string name="disconnect" formatted="false">Deskonektatu</string>
+    <string name="dns_instructions" formatted="false">Hautatu DNS hornitzaile pribatuaren ostalari-izena, itsatsi dns.adguard-dns.com eta gorde. Deskonektatzeko, hautatu Automatikoa edo Desaktibatuta sistemaren ezarpen berean.</string>
+    <string name="copy_hostname" formatted="false">Kopiatu ostalari-izena</string>
+    <string name="copied" formatted="false">Arbelean kopiatu da</string>
+    <string name="open_network_settings" formatted="false">Ireki sarearen ezarpenak</string>
+    <string name="language" formatted="false">Aplikazioaren hizkuntza</string>
+    <string name="system_language" formatted="false">Jarraitu gailuaren hizkuntza</string>
+    <string name="search_language" formatted="false">Bilatu hizkuntza bat</string>
+    <string name="language_note" formatted="false">Itzulpenak lineaz kanpo sartzen dira. Zerrendatu gabeko gailuen hizkuntzek ingelesa erabiltzen dute. Baliteke itzulpen automatikoak eskualdeko berrikuspena behar izatea.</string>
+    <string name="search_engine" formatted="false">Bilatzailea</string>
+    <string name="wifi_only" formatted="false">Deskargatu Wi-Fi bidez soilik</string>
+    <string name="wifi_body" formatted="false">Deskarga berriak Wi-Fi erabilgarri egon arte itxaron.</string>
+    <string name="javascript" formatted="false">Webgunea JavaScript</string>
+    <string name="javascript_body" formatted="false">Webgune askok eta HTML5 bideo aurkikuntzak eskatzen dute.</string>
+    <string name="privacy" formatted="false">Pribatutasuna</string>
+    <string name="clear_browser" formatted="false">Garbitu nabigazio-datuak</string>
+    <string name="clear_browser_confirm" formatted="false">Cookieak, arakatzailearen cachea, historia eta webgunearen biltegia ezabatu nahi dituzu?</string>
+    <string name="privacy_body" formatted="false">Ez dago iragarkirik, analisirik edo garatzaile-konturik. Webguneek, bilatzaileek, DNS hornitzaileek eta deskarga zerbitzariek jasotzen dituzte egiten dituzun eskaerak. Deskargaren historia eta laster-markak gailu honetan geratzen dira.</string>
+    <string name="terms" formatted="false">Erabili arduraz</string>
+    <string name="terms_body" formatted="false">Gorde zureak dituzun edo deskargatzeko baimena daukazun bideoak soilik. Errespetatu copyrighta eta webgunearen baldintzak. Aplikazio honek ezin ditu DRM, ordain-hormak edo plataforma deskargatzeko murrizketak gainditu.</string>
+    <string name="about" formatted="false">Buruz</string>
+    <string name="version" formatted="false">Bertsioa</string>
+    <string name="paid_app" formatted="false">Erosketa bakarra. Iragarkirik ez. Harpidetzarik ez.</string>
+    <string name="welcome_title" formatted="false">Mantendu inspiratzen zaituen hori.</string>
+    <string name="welcome_body" formatted="false">Arakatu, ezagutu eta gorde baimendutako bideoak leku bakarrean. Irakurri gida ilustratua hasteko.</string>
+    <string name="start_browsing" formatted="false">Hasi arakatzen</string>
+    <string name="read_guide" formatted="false">Irakurri gida</string>
+    <string name="browser_error" formatted="false">Ezin izan da orrialde hau kargatu. Egiaztatu helbidea eta konexioa, eta kargatu berriro.</string>
+    <string name="secure_only" formatted="false">Aplikazio honek HTTPS konexioak erabiltzen ditu. Probatu webgune honen bertsio segurua.</string>
+    <string name="external_link" formatted="false">Esteka hau beste aplikazio batean ireki nahi duzu?</string>
+    <string name="open" formatted="false">Ireki</string>
+    <string name="refresh" formatted="false">Freskatu</string>
+    <string name="accessibility_tutorial" formatted="false">Tutorial urrats honetarako ilustrazioa</string>
+    <string name="download_reason" formatted="false">Android deskargatzeko errore-kodea</string>
+    <string name="queue_full" formatted="false">Deskargaren historia beteta dago. Lehenik eta behin, kendu sarrera zaharrago bat.</string>
+    <string name="browser_tabs" formatted="false">Arakatzailearen fitxak</string>
+    <string name="tabs_subtitle" formatted="false">Mantendu webguneak irekita eta aldatu batetik bestera.</string>
+    <string name="new_tab" formatted="false">Fitxa berria</string>
+    <string name="close_tab" formatted="false">Itxi fitxa</string>
+    <string name="active_tab" formatted="false">Fitxa aktiboa</string>
+    <string name="tab_limit" formatted="false">Gehienez 8 fitxa ireki ditzakezu. Itxi fitxa bat beste bat gehitzeko.</string>
+    <string name="history" formatted="false">Historia</string>
+    <string name="history_subtitle" formatted="false">Bisitatutako webguneak gailu honetan soilik gordetzen dira.</string>
+    <string name="empty_history" formatted="false">Zure nabigazio-historia hemen agertuko da.</string>
+    <string name="clear_history" formatted="false">Garbitu historia</string>
+    <string name="clear_history_confirm" formatted="false">Gailu honetako arakatze-historia guztia ezabatu nahi duzu?</string>
+    <string name="open_new_tab" formatted="false">Ireki fitxa berri batean</string>
+    <string name="browser_menu" formatted="false">Nabigatzailearen menua</string>
+    <string name="shortcut_note" formatted="false">Webguneko lasterbideak arakatzailean irekitzen dira. Deskargaren erabilgarritasuna webgunearen araberakoa da.</string>
+</resources>

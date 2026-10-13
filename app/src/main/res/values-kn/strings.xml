@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ಪ್ರೀಮಿಯಂ</string>
+    <string name="browse" formatted="false">ಬ್ರೌಸ್ ಮಾಡಿ</string>
+    <string name="downloads" formatted="false">ಡೌನ್‌ಲೋಡ್‌ಗಳು</string>
+    <string name="guide" formatted="false">ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="settings" formatted="false">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="home_title" formatted="false">ನಿಮ್ಮ ವೀಡಿಯೊಗಳು. ನಿಮ್ಮ ಸಂಗ್ರಹಣೆ.</string>
+    <string name="home_subtitle" formatted="false">ಇರಿಸಿಕೊಳ್ಳಲು ಯೋಗ್ಯವಾದದ್ದನ್ನು ಹುಡುಕಿ.</string>
+    <string name="search_hint" formatted="false">ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ಹುಡುಕಿ ಅಥವಾ ನಮೂದಿಸಿ</string>
+    <string name="go" formatted="false">ಹೋಗು</string>
+    <string name="paste_link" formatted="false">ವೀಡಿಯೊ ಲಿಂಕ್ ಅನ್ನು ಅಂಟಿಸಿ</string>
+    <string name="direct_link" formatted="false">ನೇರ ವೀಡಿಯೊ ಲಿಂಕ್</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="detect" formatted="false">ವೀಡಿಯೊಗಳನ್ನು ಹುಡುಕಿ</string>
+    <string name="detected" formatted="false">ಈ ಪುಟದಲ್ಲಿ ವೀಡಿಯೊಗಳು</string>
+    <string name="no_media" formatted="false">ಯಾವುದೇ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದಾದ ವೀಡಿಯೊ ಕಂಡುಬಂದಿಲ್ಲ. ವೀಡಿಯೊವನ್ನು ಪ್ಲೇ ಮಾಡಲು ಪ್ರಾರಂಭಿಸಿ, ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ. ಸಂರಕ್ಷಿತ ಸ್ಟ್ರೀಮ್‌ಗಳು ಮತ್ತು ಎಂಬೆಡೆಡ್ ಫ್ರೇಮ್‌ಗಳು ಲಭ್ಯವಿಲ್ಲದಿರಬಹುದು.</string>
+    <string name="safe_note" formatted="false">ನೀವು ಹೊಂದಿರುವ ಅಥವಾ ಉಳಿಸಲು ಅನುಮತಿ ಹೊಂದಿರುವ ವೀಡಿಯೊಗಳನ್ನು ಮಾತ್ರ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ. ಸಂರಕ್ಷಿತ ಸ್ಟ್ರೀಮ್‌ಗಳು ಮತ್ತು YouTube ಡೌನ್‌ಲೋಡ್‌ಗಳು ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="quick_start" formatted="false">ಇಲ್ಲಿ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="quick_browse" formatted="false">ವೆಬ್ ಅನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+    <string name="quick_browse_body" formatted="false">ಅಂತರ್ನಿರ್ಮಿತ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಆದ್ಯತೆಯ ಎಂಜಿನ್‌ನೊಂದಿಗೆ ಹುಡುಕಿ.</string>
+    <string name="quick_download" formatted="false">ವೀಡಿಯೊವನ್ನು ಉಳಿಸಿ</string>
+    <string name="quick_download_body" formatted="false">ನೇರ HTTPS ವೀಡಿಯೊ ಲಿಂಕ್ ಅನ್ನು ಅಂಟಿಸಿ ಅಥವಾ ಪುಟದಲ್ಲಿ ವೀಡಿಯೊವನ್ನು ಹುಡುಕಿ.</string>
+    <string name="quick_guide" formatted="false">ಸ್ವಲ್ಪ ಮಾರ್ಗದರ್ಶನ</string>
+    <string name="quick_guide_body" formatted="false">ಅನ್ವೇಷಣೆಯಿಂದ ನಿಮ್ಮ ಸಂಗ್ರಹಕ್ಕೆ ನಾಲ್ಕು ಸಚಿತ್ರ ಹಂತಗಳು.</string>
+    <string name="back" formatted="false">ಹಿಂದೆ</string>
+    <string name="forward" formatted="false">ಮುಂದಕ್ಕೆ</string>
+    <string name="reload" formatted="false">ಮರುಲೋಡ್ ಮಾಡಿ</string>
+    <string name="home" formatted="false">ಮನೆ</string>
+    <string name="bookmark" formatted="false">ಬುಕ್ಮಾರ್ಕ್</string>
+    <string name="bookmarks" formatted="false">ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು</string>
+    <string name="empty_bookmarks" formatted="false">ಉಳಿಸಿದ ವೆಬ್‌ಸೈಟ್‌ಗಳು ಇಲ್ಲಿ ಗೋಚರಿಸುತ್ತವೆ.</string>
+    <string name="saved" formatted="false">ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="remove" formatted="false">ತೆಗೆದುಹಾಕಿ</string>
+    <string name="cancel" formatted="false">ರದ್ದುಮಾಡಿ</string>
+    <string name="close" formatted="false">ಮುಚ್ಚಿ</string>
+    <string name="confirm_download" formatted="false">ಈ ವೀಡಿಯೊವನ್ನು ಉಳಿಸುವುದೇ?</string>
+    <string name="filename" formatted="false">ಫೈಲ್ ಹೆಸರು</string>
+    <string name="download_location" formatted="false">ಡೌನ್‌ಲೋಡ್‌ಗಳು / ವೀಡಿಯೊ ಡೌನ್‌ಲೋಡರ್ ಪ್ರೀಮಿಯಂನಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="permission_confirm" formatted="false">ನಾನು ಈ ವೀಡಿಯೊವನ್ನು ಹೊಂದಿದ್ದೇನೆ ಅಥವಾ ಅದನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಅನುಮತಿಯನ್ನು ಹೊಂದಿದ್ದೇನೆ.</string>
+    <string name="permission_required" formatted="false">ಈ ವೀಡಿಯೊವನ್ನು ಉಳಿಸಲು ನೀವು ಅನುಮತಿಯನ್ನು ಹೊಂದಿದ್ದೀರಿ ಎಂಬುದನ್ನು ದೃಢೀಕರಿಸಿ.</string>
+    <string name="invalid_url" formatted="false">ಮಾನ್ಯವಾದ HTTPS ವೀಡಿಯೊ ಲಿಂಕ್ ಅನ್ನು ನಮೂದಿಸಿ.</string>
+    <string name="unsupported" formatted="false">ಈ ಲಿಂಕ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದಾದ ವೀಡಿಯೊ ಅಲ್ಲ. DRM, ಲೈವ್ ಸ್ಟ್ರೀಮ್‌ಗಳು, ಪ್ಲೇಪಟ್ಟಿಗಳು ಮತ್ತು YouTube ಡೌನ್‌ಲೋಡ್‌ಗಳು ಬೆಂಬಲಿತವಾಗಿಲ್ಲ.</string>
+    <string name="queued" formatted="false">ಡೌನ್‌ಲೋಡ್ ಅನ್ನು ಸರದಿಯಲ್ಲಿ ಸೇರಿಸಲಾಗಿದೆ</string>
+    <string name="download_error" formatted="false">ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ. ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ ಅಥವಾ ತಾಜಾ ವೀಡಿಯೊ ಲಿಂಕ್ ಬಳಸಿ.</string>
+    <string name="collection_title" formatted="false">ನಿಮ್ಮ ಸಂಗ್ರಹಣೆ</string>
+    <string name="collection_subtitle" formatted="false">ಉಳಿಸಿದ ವೀಡಿಯೊಗಳು, ನೀವು ಇರುವಾಗ ಸಿದ್ಧ.</string>
+    <string name="empty_downloads" formatted="false">ನಿಮ್ಮ ಮುಂದಿನ ಮೆಚ್ಚಿನವು ಇಲ್ಲಿ ಸೇರಿದೆ.</string>
+    <string name="empty_downloads_body" formatted="false">ನಿಮ್ಮ ಸಂಗ್ರಹಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು ನೇರ ವೀಡಿಯೊ ಲಿಂಕ್ ಅನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ ಅಥವಾ ಅಂಟಿಸಿದಲ್ಲಿ ವೀಡಿಯೊವನ್ನು ಹುಡುಕಿ.</string>
+    <string name="pending" formatted="false">ಸರದಿಯಲ್ಲಿ ನಿಂತಿದೆ</string>
+    <string name="running" formatted="false">ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="paused" formatted="false">ನೆಟ್‌ವರ್ಕ್‌ಗಾಗಿ ನಿರೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ ಅಥವಾ ಮರುಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="complete" formatted="false">ಸಂಪೂರ್ಣ</string>
+    <string name="failed" formatted="false">ವಿಫಲವಾಗಿದೆ</string>
+    <string name="missing" formatted="false">ಫೈಲ್ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="play" formatted="false">ಪ್ಲೇ ಮಾಡಿ</string>
+    <string name="share" formatted="false">ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="retry" formatted="false">ಮರುಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="delete_download" formatted="false">ಡೌನ್‌ಲೋಡ್ ಮತ್ತು ಅದರ ಫೈಲ್ ಅನ್ನು ತೆಗೆದುಹಾಕುವುದೇ?</string>
+    <string name="no_player" formatted="false">ಈ ಫೈಲ್ ತೆರೆಯಲು ಯಾವುದೇ ಹೊಂದಾಣಿಕೆಯ ಅಪ್ಲಿಕೇಶನ್ ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="guide_title" formatted="false">ಅನ್ವೇಷಣೆಯಿಂದ ಡೌನ್‌ಲೋಡ್‌ಗೆ.</string>
+    <string name="guide_subtitle" formatted="false">ನೀವು ಇಷ್ಟಪಡುವ ವೀಡಿಯೊಗಳನ್ನು ಇರಿಸಿಕೊಳ್ಳಲು ಸರಳ ಮಾರ್ಗದರ್ಶಿ.</string>
+    <string name="step_one_title" formatted="false">ನಿಮ್ಮ ವೀಡಿಯೊವನ್ನು ಹುಡುಕಿ</string>
+    <string name="step_one_body" formatted="false">ಬ್ರೌಸ್ ತೆರೆಯಿರಿ. ವೆಬ್‌ಸೈಟ್ ವಿಳಾಸವನ್ನು ಹುಡುಕಿ ಅಥವಾ ನಮೂದಿಸಿ. ನೀವು ಇನ್ನೊಂದು ಅಪ್ಲಿಕೇಶನ್‌ನಿಂದ ವೀಡಿಯೊ ಲಿಂಕ್ ಅನ್ನು ಸಹ ಹಂಚಿಕೊಳ್ಳಬಹುದು.</string>
+    <string name="step_two_title" formatted="false">ಮೂಲವನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+    <string name="step_two_body" formatted="false">ವೀಡಿಯೊವನ್ನು ಪ್ಲೇ ಮಾಡಿ, ನಂತರ ವೀಡಿಯೊಗಳನ್ನು ಹುಡುಕಿ ಟ್ಯಾಪ್ ಮಾಡಿ. ಪತ್ತೆಯಾದ ಫೈಲ್ ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ ಅಥವಾ ನೇರ HTTPS ವೀಡಿಯೊ ಲಿಂಕ್ ಅನ್ನು ಅಂಟಿಸಿ.</string>
+    <string name="step_three_title" formatted="false">ಅದನ್ನು ನಿಮ್ಮದಾಗಿಸಿಕೊಳ್ಳಿ</string>
+    <string name="step_three_body" formatted="false">ಫೈಲ್ ಹೆಸರನ್ನು ಆಯ್ಕೆಮಾಡಿ, ವೀಡಿಯೊವನ್ನು ಉಳಿಸಲು ನಿಮ್ಮ ಅನುಮತಿಯನ್ನು ದೃಢೀಕರಿಸಿ ಮತ್ತು ಡೌನ್‌ಲೋಡ್ ಟ್ಯಾಪ್ ಮಾಡಿ. Android ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಡೌನ್‌ಲೋಡ್ ಅನ್ನು ಮುಂದುವರಿಸುತ್ತದೆ.</string>
+    <string name="step_four_title" formatted="false">ನಿಮ್ಮ ಸಂಗ್ರಹವನ್ನು ಆನಂದಿಸಿ</string>
+    <string name="step_four_body" formatted="false">ಪ್ರಗತಿಯನ್ನು ಪರಿಶೀಲಿಸಲು ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ. ಪೂರ್ಣಗೊಂಡ ವೀಡಿಯೊಗಳನ್ನು ಪ್ಲೇ ಮಾಡಿ ಅಥವಾ ಹಂಚಿಕೊಳ್ಳಿ. ಅಗತ್ಯವಿದ್ದಾಗ ಹೊಸ ಲಿಂಕ್‌ನೊಂದಿಗೆ ವಿಫಲವಾದ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="try_now" formatted="false">ಈಗಲೇ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="preferences" formatted="false">ಅದನ್ನು ನಿಮ್ಮದಾಗಿಸಿಕೊಳ್ಳಿ.</string>
+    <string name="preferences_subtitle" formatted="false">ನಿಮ್ಮ ದೈನಂದಿನ ಬ್ರೌಸಿಂಗ್‌ಗಾಗಿ ಕೆಲವು ಚಿಂತನಶೀಲ ನಿಯಂತ್ರಣಗಳು.</string>
+    <string name="dns_title" formatted="false">VPN / ಖಾಸಗಿ DNS</string>
+    <string name="dns_explanation" formatted="false">ಖಾಸಗಿ DNS DNS ಪ್ರಶ್ನೆಗಳನ್ನು ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡುತ್ತದೆ. ಇದು ನಿಮ್ಮ IP ವಿಳಾಸವನ್ನು ಮರೆಮಾಡುವುದಿಲ್ಲ ಅಥವಾ VPN ಸುರಂಗವನ್ನು ರಚಿಸುವುದಿಲ್ಲ. Android ಗೆ ನೀವು ಈ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಬದಲಾಯಿಸುವ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="connected" formatted="false">ಸಂಪರ್ಕಗೊಂಡಿದೆ</string>
+    <string name="unconnected" formatted="false">ಸಂಪರ್ಕವಿಲ್ಲ</string>
+    <string name="connect" formatted="false">ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="disconnect" formatted="false">ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಿ</string>
+    <string name="dns_instructions" formatted="false">ಖಾಸಗಿ DNS ಪೂರೈಕೆದಾರರ ಹೋಸ್ಟ್ ಹೆಸರನ್ನು ಆಯ್ಕೆಮಾಡಿ, dns.adguard-dns.com ಅನ್ನು ಅಂಟಿಸಿ ಮತ್ತು ಉಳಿಸಿ. ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲು, ಅದೇ ಸಿಸ್ಟಮ್ ಸೆಟ್ಟಿಂಗ್‌ನಲ್ಲಿ ಸ್ವಯಂಚಾಲಿತ ಅಥವಾ ಆಫ್ ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="copy_hostname" formatted="false">ಹೋಸ್ಟ್ ಹೆಸರನ್ನು ನಕಲಿಸಿ</string>
+    <string name="copied" formatted="false">ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಲಾಗಿದೆ</string>
+    <string name="open_network_settings" formatted="false">ನೆಟ್ವರ್ಕ್ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ತೆರೆಯಿರಿ</string>
+    <string name="language" formatted="false">ಅಪ್ಲಿಕೇಶನ್ ಭಾಷೆ</string>
+    <string name="system_language" formatted="false">ಸಾಧನದ ಭಾಷೆಯನ್ನು ಅನುಸರಿಸಿ</string>
+    <string name="search_language" formatted="false">ಒಂದು ಭಾಷೆಯನ್ನು ಹುಡುಕಿ</string>
+    <string name="language_note" formatted="false">ಅನುವಾದಗಳನ್ನು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಸೇರಿಸಲಾಗಿದೆ. ಪಟ್ಟಿ ಮಾಡದ ಸಾಧನ ಭಾಷೆಗಳು ಇಂಗ್ಲಿಷ್ ಅನ್ನು ಬಳಸುತ್ತವೆ. ಯಂತ್ರ ಅನುವಾದಗಳಿಗೆ ಪ್ರಾದೇಶಿಕ ವಿಮರ್ಶೆಯ ಅಗತ್ಯವಿರಬಹುದು.</string>
+    <string name="search_engine" formatted="false">ಹುಡುಕಾಟ ಎಂಜಿನ್</string>
+    <string name="wifi_only" formatted="false">Wi-Fi ನಲ್ಲಿ ಮಾತ್ರ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="wifi_body" formatted="false">ಹೊಸ ಡೌನ್‌ಲೋಡ್‌ಗಳು ವೈ-ಫೈ ಲಭ್ಯವಾಗುವವರೆಗೆ ಕಾಯಿರಿ.</string>
+    <string name="javascript" formatted="false">ವೆಬ್‌ಸೈಟ್ ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್</string>
+    <string name="javascript_body" formatted="false">ಅನೇಕ ವೆಬ್‌ಸೈಟ್‌ಗಳು ಮತ್ತು HTML5 ವೀಡಿಯೊ ಅನ್ವೇಷಣೆಯಿಂದ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="privacy" formatted="false">ಗೌಪ್ಯತೆ</string>
+    <string name="clear_browser" formatted="false">ಬ್ರೌಸಿಂಗ್ ಡೇಟಾವನ್ನು ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="clear_browser_confirm" formatted="false">ಕುಕೀಗಳು, ಬ್ರೌಸರ್ ಸಂಗ್ರಹ, ಇತಿಹಾಸ ಮತ್ತು ವೆಬ್‌ಸೈಟ್ ಸಂಗ್ರಹಣೆಯನ್ನು ಅಳಿಸುವುದೇ?</string>
+    <string name="privacy_body" formatted="false">ಯಾವುದೇ ಜಾಹೀರಾತುಗಳು, ವಿಶ್ಲೇಷಣೆಗಳು ಅಥವಾ ಡೆವಲಪರ್ ಖಾತೆಗಳಿಲ್ಲ. ವೆಬ್‌ಸೈಟ್‌ಗಳು, ಸರ್ಚ್ ಇಂಜಿನ್‌ಗಳು, DNS ಪೂರೈಕೆದಾರರು ಮತ್ತು ಡೌನ್‌ಲೋಡ್ ಸರ್ವರ್‌ಗಳು ನೀವು ಮಾಡುವ ವಿನಂತಿಗಳನ್ನು ಸ್ವೀಕರಿಸುತ್ತವೆ. ಡೌನ್‌ಲೋಡ್ ಇತಿಹಾಸ ಮತ್ತು ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಈ ಸಾಧನದಲ್ಲಿ ಉಳಿಯುತ್ತವೆ.</string>
+    <string name="terms" formatted="false">ಜವಾಬ್ದಾರಿಯುತವಾಗಿ ಬಳಸಿ</string>
+    <string name="terms_body" formatted="false">ನೀವು ಹೊಂದಿರುವ ಅಥವಾ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಅನುಮತಿಸಲಾದ ವೀಡಿಯೊಗಳನ್ನು ಮಾತ್ರ ಉಳಿಸಿ. ಹಕ್ಕುಸ್ವಾಮ್ಯ ಮತ್ತು ವೆಬ್‌ಸೈಟ್ ನಿಯಮಗಳನ್ನು ಗೌರವಿಸಿ. ಈ ಅಪ್ಲಿಕೇಶನ್ DRM, ಪೇವಾಲ್‌ಗಳು ಅಥವಾ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಡೌನ್‌ಲೋಡ್ ನಿರ್ಬಂಧಗಳನ್ನು ಬೈಪಾಸ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="about" formatted="false">ಬಗ್ಗೆ</string>
+    <string name="version" formatted="false">ಆವೃತ್ತಿ</string>
+    <string name="paid_app" formatted="false">ಒಂದು ಖರೀದಿ. ಜಾಹೀರಾತುಗಳಿಲ್ಲ. ಚಂದಾದಾರಿಕೆ ಇಲ್ಲ.</string>
+    <string name="welcome_title" formatted="false">ನಿಮಗೆ ಸ್ಫೂರ್ತಿ ನೀಡುವುದನ್ನು ಇರಿಸಿಕೊಳ್ಳಿ.</string>
+    <string name="welcome_body" formatted="false">ಅನುಮತಿಸಲಾದ ವೀಡಿಯೊಗಳನ್ನು ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ಬ್ರೌಸ್ ಮಾಡಿ, ಅನ್ವೇಷಿಸಿ ಮತ್ತು ಉಳಿಸಿ. ಪ್ರಾರಂಭಿಸಲು ಸಚಿತ್ರ ಮಾರ್ಗದರ್ಶಿ ಓದಿ.</string>
+    <string name="start_browsing" formatted="false">ಬ್ರೌಸಿಂಗ್ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="read_guide" formatted="false">ಮಾರ್ಗದರ್ಶಿ ಓದಿ</string>
+    <string name="browser_error" formatted="false">ಈ ಪುಟವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ. ವಿಳಾಸ ಮತ್ತು ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ, ನಂತರ ಮರುಲೋಡ್ ಮಾಡಿ.</string>
+    <string name="secure_only" formatted="false">ಈ ಅಪ್ಲಿಕೇಶನ್ HTTPS ಸಂಪರ್ಕಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಈ ವೆಬ್‌ಸೈಟ್‌ನ ಸುರಕ್ಷಿತ ಆವೃತ್ತಿಯನ್ನು ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="external_link" formatted="false">ಈ ಲಿಂಕ್ ಅನ್ನು ಮತ್ತೊಂದು ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ತೆರೆಯುವುದೇ?</string>
+    <string name="open" formatted="false">ತೆರೆಯಿರಿ</string>
+    <string name="refresh" formatted="false">ರಿಫ್ರೆಶ್ ಮಾಡಿ</string>
+    <string name="accessibility_tutorial" formatted="false">ಈ ಟ್ಯುಟೋರಿಯಲ್ ಹಂತಕ್ಕೆ ವಿವರಣೆ</string>
+    <string name="download_reason" formatted="false">ಆಂಡ್ರಾಯ್ಡ್ ಡೌನ್‌ಲೋಡ್ ದೋಷ ಕೋಡ್</string>
+    <string name="queue_full" formatted="false">ಡೌನ್‌ಲೋಡ್ ಇತಿಹಾಸವು ತುಂಬಿದೆ. ಮೊದಲು ಹಳೆಯ ನಮೂದನ್ನು ತೆಗೆದುಹಾಕಿ.</string>
+    <string name="browser_tabs" formatted="false">ಬ್ರೌಸರ್ ಟ್ಯಾಬ್‌ಗಳು</string>
+    <string name="tabs_subtitle" formatted="false">ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ತೆರೆದಿಡಿ ಮತ್ತು ಅವುಗಳ ನಡುವೆ ಬದಲಿಸಿ.</string>
+    <string name="new_tab" formatted="false">ಹೊಸ ಟ್ಯಾಬ್</string>
+    <string name="close_tab" formatted="false">ಟ್ಯಾಬ್ ಮುಚ್ಚಿ</string>
+    <string name="active_tab" formatted="false">ಸಕ್ರಿಯ ಟ್ಯಾಬ್</string>
+    <string name="tab_limit" formatted="false">ನೀವು 8 ಟ್ಯಾಬ್‌ಗಳನ್ನು ತೆರೆಯಬಹುದು. ಇನ್ನೊಂದನ್ನು ಸೇರಿಸಲು ಟ್ಯಾಬ್ ಅನ್ನು ಮುಚ್ಚಿ.</string>
+    <string name="history" formatted="false">ಇತಿಹಾಸ</string>
+    <string name="history_subtitle" formatted="false">ಭೇಟಿ ನೀಡಿದ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಈ ಸಾಧನದಲ್ಲಿ ಮಾತ್ರ ಉಳಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="empty_history" formatted="false">ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಇತಿಹಾಸ ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತದೆ.</string>
+    <string name="clear_history" formatted="false">ಇತಿಹಾಸವನ್ನು ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="clear_history_confirm" formatted="false">ಈ ಸಾಧನದಿಂದ ಎಲ್ಲಾ ಬ್ರೌಸಿಂಗ್ ಇತಿಹಾಸವನ್ನು ಅಳಿಸುವುದೇ?</string>
+    <string name="open_new_tab" formatted="false">ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ</string>
+    <string name="browser_menu" formatted="false">ಬ್ರೌಸರ್ ಮೆನು</string>
+    <string name="shortcut_note" formatted="false">ವೆಬ್‌ಸೈಟ್ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು ಬ್ರೌಸರ್‌ನಲ್ಲಿ ತೆರೆದುಕೊಳ್ಳುತ್ತವೆ. ಡೌನ್‌ಲೋಡ್ ಲಭ್ಯತೆಯು ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ.</string>
+</resources>

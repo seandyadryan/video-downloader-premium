@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Browse</string>
+    <string name="downloads" formatted="false">Vadivelu Comedy Downloads</string>
+    <string name="guide" formatted="false">Guide</string>
+    <string name="settings" formatted="false">Settings</string>
+    <string name="home_title" formatted="false">Mavhidhiyo ako. Muunganidzwa wako.</string>
+    <string name="home_subtitle" formatted="false">Wana chinhu chakakosha kuchengeta.</string>
+    <string name="search_hint" formatted="false">Tsvaga kana kuisa webhusaiti</string>
+    <string name="go" formatted="false">Enda</string>
+    <string name="paste_link" formatted="false">Namira vhidhiyo link</string>
+    <string name="direct_link" formatted="false">Yakananga vhidhiyo link</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Download</string>
+    <string name="detect" formatted="false">Tsvaga mavhidhiyo</string>
+    <string name="detected" formatted="false">Mavhidhiyo ari papeji ino</string>
+    <string name="no_media" formatted="false">Hapana vhidhiyo inodhaunirodwa yawanikwa. Tanga kutamba vhidhiyo, woedza zvakare. Mafuremu akachengetedzwa uye mafuremu akaiswa anogona kunge asiri kuwanikwa.</string>
+    <string name="safe_note" formatted="false">Dhaunirodha mavhidhiyo aunayo chete kana kuti une mvumo yekuchengeta. Dziviriro dzakadzivirirwa uye zvekudhawunirodha paYouTube hazvipo.</string>
+    <string name="quick_start" formatted="false">TANGA APA</string>
+    <string name="quick_browse" formatted="false">Ongorora dandemutande</string>
+    <string name="quick_browse_body" formatted="false">Tsvaga neinjini yako yaunofarira mubrowser yakavakirwa-mukati.</string>
+    <string name="quick_download" formatted="false">Sevha vhidhiyo</string>
+    <string name="quick_download_body" formatted="false">Namata yakananga HTTPS vhidhiyo link kana tsvaga vhidhiyo pane peji.</string>
+    <string name="quick_guide" formatted="false">Nhungamiro shoma</string>
+    <string name="quick_guide_body" formatted="false">Matanho mana ane mifananidzo kubva pakuwanikwa kuenda kuunganidzwa wako.</string>
+    <string name="back" formatted="false">Back</string>
+    <string name="forward" formatted="false">Pamberi</string>
+    <string name="reload" formatted="false">Reload</string>
+    <string name="home" formatted="false">Kumba</string>
+    <string name="bookmark" formatted="false">Bookmark</string>
+    <string name="bookmarks" formatted="false">Bookmarks</string>
+    <string name="empty_bookmarks" formatted="false">Mawebhusaiti akachengetwa achaonekwa pano.</string>
+    <string name="saved" formatted="false">Saved</string>
+    <string name="remove" formatted="false">Bvisa</string>
+    <string name="cancel" formatted="false">Cancel</string>
+    <string name="close" formatted="false">Close</string>
+    <string name="confirm_download" formatted="false">Sevha vhidhiyo iyi?</string>
+    <string name="filename" formatted="false">Zita refaira</string>
+    <string name="download_location" formatted="false">Yakachengetwa muKudhawunirodha / Vhidhiyo Dhawunirodha Premium</string>
+    <string name="permission_confirm" formatted="false">Vhidhiyo iyi ndeyangu kana kuti ndine mvumo yekuidhaunirodha.</string>
+    <string name="permission_required" formatted="false">Simbisa kuti une mvumo yekuchengetedza vhidhiyo iyi.</string>
+    <string name="invalid_url" formatted="false">Isa chinongedzo chevhidhiyo cheHTTPS.</string>
+    <string name="unsupported" formatted="false">Iyi link haisi vhidhiyo inodhaunirodwa. DRM, nzizi dzepamoyo, playlists, uye YouTube downloads hazvitsigirwe.</string>
+    <string name="queued" formatted="false">Dhaunirodha yakawedzerwa pamutsetse</string>
+    <string name="download_error" formatted="false">Tatadza kudhaunirodha. Tarisa kubatana kana kushandisa nyowani vhidhiyo link.</string>
+    <string name="collection_title" formatted="false">Muunganidzwa wako</string>
+    <string name="collection_subtitle" formatted="false">Mavhidhiyo akachengetwa, akagadzirira kana wava.</string>
+    <string name="empty_downloads" formatted="false">Waunotevera waunofarira ndewepano.</string>
+    <string name="empty_downloads_body" formatted="false">Tsvaga vhidhiyo muBhurawuza kana namira yakananga vhidhiyo link kuti utange kuunganidza kwako.</string>
+    <string name="pending" formatted="false">Queued</string>
+    <string name="running" formatted="false">Downloading</string>
+    <string name="paused" formatted="false">Kumirira network kana kuedza zvakare</string>
+    <string name="complete" formatted="false">Complete</string>
+    <string name="failed" formatted="false">Akundikana</string>
+    <string name="missing" formatted="false">Faira harisipo</string>
+    <string name="play" formatted="false">Play</string>
+    <string name="share" formatted="false">Share</string>
+    <string name="retry" formatted="false">Edza zvakare</string>
+    <string name="delete_download" formatted="false">Bvisa kudhawunirodha uye faira rayo?</string>
+    <string name="no_player" formatted="false">Hapana app inofambirana iripo yekuvhura faira iri.</string>
+    <string name="guide_title" formatted="false">Kubva kuwanikwa kurodha.</string>
+    <string name="guide_subtitle" formatted="false">Gwaro riri nyore rekuchengeta mavhidhiyo aunoda.</string>
+    <string name="step_one_title" formatted="false">Tsvaga vhidhiyo yako</string>
+    <string name="step_one_body" formatted="false">Vhura Bhurawuza. Tsvaga kana kuisa kero yepawebhusaiti. Iwe unogona zvakare kugovera vhidhiyo link kubva kune imwe app.</string>
+    <string name="step_two_title" formatted="false">Ziva kwakabva</string>
+    <string name="step_two_body" formatted="false">Ridza vhidhiyo, wobva wabaya Tsvaga mavhidhiyo. Sarudza faira raonekwa, kana namira yakananga HTTPS vhidhiyo link.</string>
+    <string name="step_three_title" formatted="false">Iite yako</string>
+    <string name="step_three_body" formatted="false">Sarudza zita refaira, simbisa mvumo yako yekuchengetedza vhidhiyo, uye tinya Dhawunirodha. Android inoenderera mberi nekurodha kumashure.</string>
+    <string name="step_four_title" formatted="false">Nakidzwa nekuunganidza kwako</string>
+    <string name="step_four_body" formatted="false">Vhura Dhaunirodha kuti uone mafambiro. Tamba kana kugovera mavhidhiyo apera. Edzazve kudhaunirodha zvatadza nekubatanidza pazvinenge zvichidikanwa.</string>
+    <string name="try_now" formatted="false">Edza izvozvi</string>
+    <string name="preferences" formatted="false">Iite yako.</string>
+    <string name="preferences_subtitle" formatted="false">Zvidzoreso zvishoma zvine chekuita nekubhurawuza kwako kwemazuva ese.</string>
+    <string name="dns_title" formatted="false">VPN / Yakavanzika DNS</string>
+    <string name="dns_explanation" formatted="false">Yakavanzika DNS encrypts DNS mibvunzo. Izvo hazvivanze IP yako kero kana kugadzira VPN mugero. Android inoda kuti uchinje iyi marongero nemaoko.</string>
+    <string name="connected" formatted="false">Yakabatanidzwa</string>
+    <string name="unconnected" formatted="false">Unconnected</string>
+    <string name="connect" formatted="false">Connect</string>
+    <string name="disconnect" formatted="false">Dimbura</string>
+    <string name="dns_instructions" formatted="false">Sarudza Yakavanzika DNS mupi wezita rezita, isa dns.adguard-dns.com, uye chengeta. Kuti udzike, sarudza Automatic kana Off mune imwecheteyo sisitimu marongero.</string>
+    <string name="copy_hostname" formatted="false">Kopa zita remugamuchiri</string>
+    <string name="copied" formatted="false">Kopiwa kuclipboard</string>
+    <string name="open_network_settings" formatted="false">Vhura zvigadziriso zvenetiweki</string>
+    <string name="language" formatted="false">Mutauro weApp</string>
+    <string name="system_language" formatted="false">Tevera mutauro wemudziyo</string>
+    <string name="search_language" formatted="false">Tsvaga mutauro</string>
+    <string name="language_note" formatted="false">Shanduro dzinosanganisirwa pasina Indaneti. Mitauro yemidziyo isina kunyorwa inoshandisa Chirungu. Shanduro dzemuchina dzingada kuongororwa munharaunda.</string>
+    <string name="search_engine" formatted="false">Injini yekutsvaga</string>
+    <string name="wifi_only" formatted="false">Dhaunirodha paWi-Fi chete</string>
+    <string name="wifi_body" formatted="false">Kudhaunirodha kutsva kunomirira kusvika Wi-Fi yavepo.</string>
+    <string name="javascript" formatted="false">Webhusaiti JavaScript</string>
+    <string name="javascript_body" formatted="false">Inodiwa nemawebhusaiti akawanda uye HTML5 vhidhiyo kuwanikwa.</string>
+    <string name="privacy" formatted="false">Privacy</string>
+    <string name="clear_browser" formatted="false">Bvisa data rekubhurawuza</string>
+    <string name="clear_browser_confirm" formatted="false">Kudzima makuki, browser cache, nhoroondo, uye kuchengetedza webhusaiti?</string>
+    <string name="privacy_body" formatted="false">Hapana ads, analytics, kana maakaundi emugadziri. Mawebhusaiti, injini dzekutsvaga, vanopa DNS, uye maseva ekurodha anogashira zvikumbiro zvaunoita. Dhaunirodha nhoroondo uye mabhukumaki gara pamudziyo uyu.</string>
+    <string name="terms" formatted="false">Shandisa zvine musoro</string>
+    <string name="terms_body" formatted="false">Sevha mavhidhiyo ako chete kana anotenderwa kudhaunirodha. Remekedza copyright uye mazwi ewebhusaiti. Ichi chishandiso hachigone kupfuura DRM, paywall, kana kurodha pasi zvirambidzo.</string>
+    <string name="about" formatted="false">About</string>
+    <string name="version" formatted="false">Version</string>
+    <string name="paid_app" formatted="false">Imwe kutenga. Hapana ads. Hapana kubhadhara.</string>
+    <string name="welcome_title" formatted="false">Chengeta zvinokukurudzira.</string>
+    <string name="welcome_body" formatted="false">Bhurawuza, tsvaga, uye chengetedza mavhidhiyo anotenderwa munzvimbo imwechete. Verenga bhuku rine mifananidzo kuti utange.</string>
+    <string name="start_browsing" formatted="false">Tanga kubhurawuza</string>
+    <string name="read_guide" formatted="false">Verenga gwara</string>
+    <string name="browser_error" formatted="false">Peji rino harina kurodha. Tarisa kero uye kubatana, wozoisazve.</string>
+    <string name="secure_only" formatted="false">Ichi chishandiso chinoshandisa HTTPS kubatana. Edza shanduro yakachengeteka yewebhusaiti ino.</string>
+    <string name="external_link" formatted="false">Vhura iyi link mune imwe app?</string>
+    <string name="open" formatted="false">Vhura</string>
+    <string name="refresh" formatted="false">Refresh</string>
+    <string name="accessibility_tutorial" formatted="false">Mufananidzo wenhanho iyi yedzidziso</string>
+    <string name="download_reason" formatted="false">Android download error code</string>
+    <string name="queue_full" formatted="false">Nhoroondo yekudhawunirodha yakazara. Bvisa chinyorwa chekare kutanga.</string>
+    <string name="browser_tabs" formatted="false">Browser tabs</string>
+    <string name="tabs_subtitle" formatted="false">Chengetedza mawebhusaiti akavhurika uye chinja pakati pawo.</string>
+    <string name="new_tab" formatted="false">New tab</string>
+    <string name="close_tab" formatted="false">Vhara tab</string>
+    <string name="active_tab" formatted="false">Active tab</string>
+    <string name="tab_limit" formatted="false">Unogona kuvhura kusvika ku8 tabs. Vhara tab kuti uwedzere imwe.</string>
+    <string name="history" formatted="false">Nhoroondo</string>
+    <string name="history_subtitle" formatted="false">Mawebhusaiti akashanyirwa anochengetwa pamudziyo uyu chete.</string>
+    <string name="empty_history" formatted="false">Nhoroondo yako yekubhurawuza ichaonekwa pano.</string>
+    <string name="clear_history" formatted="false">Bvisa nhoroondo</string>
+    <string name="clear_history_confirm" formatted="false">Unodzima nhoroondo yese yekubhurawuza kubva muchishandiso ichi?</string>
+    <string name="open_new_tab" formatted="false">Vhura mune itsva tab</string>
+    <string name="browser_menu" formatted="false">Browser menyu</string>
+    <string name="shortcut_note" formatted="false">Mapfupi ewebhusaiti anovhurwa mubrowser. Dhaunirodha kuwanikwa kunoenderana nesaiti.</string>
+</resources>

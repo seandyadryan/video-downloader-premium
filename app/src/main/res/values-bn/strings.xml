@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">প্রিমিয়াম</string>
+    <string name="browse" formatted="false">ব্রাউজ করুন</string>
+    <string name="downloads" formatted="false">ডাউনলোড</string>
+    <string name="guide" formatted="false">গাইড</string>
+    <string name="settings" formatted="false">সেটিংস</string>
+    <string name="home_title" formatted="false">আপনার ভিডিও. আপনার সংগ্রহ.</string>
+    <string name="home_subtitle" formatted="false">রাখার যোগ্য কিছু খুঁজুন।</string>
+    <string name="search_hint" formatted="false">অনুসন্ধান করুন বা একটি ওয়েবসাইট লিখুন</string>
+    <string name="go" formatted="false">যাও</string>
+    <string name="paste_link" formatted="false">ভিডিও লিঙ্ক পেস্ট করুন</string>
+    <string name="direct_link" formatted="false">সরাসরি ভিডিও লিঙ্ক</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ডাউনলোড করুন</string>
+    <string name="detect" formatted="false">ভিডিও খুঁজুন</string>
+    <string name="detected" formatted="false">এই পৃষ্ঠায় ভিডিও</string>
+    <string name="no_media" formatted="false">কোনো ডাউনলোডযোগ্য ভিডিও পাওয়া যায়নি। একটি ভিডিও চালানো শুরু করুন, তারপর আবার চেষ্টা করুন৷ সুরক্ষিত স্ট্রীম এবং এমবেডেড ফ্রেমগুলি অনুপলব্ধ হতে পারে৷</string>
+    <string name="safe_note" formatted="false">শুধুমাত্র আপনার মালিকানাধীন ভিডিও ডাউনলোড করুন বা সংরক্ষণ করার অনুমতি আছে। সুরক্ষিত স্ট্রীম এবং YouTube ডাউনলোডগুলি অনুপলব্ধ৷</string>
+    <string name="quick_start" formatted="false">এখানে শুরু করুন</string>
+    <string name="quick_browse" formatted="false">ওয়েব অন্বেষণ</string>
+    <string name="quick_browse_body" formatted="false">বিল্ট-ইন ব্রাউজারে আপনার পছন্দের ইঞ্জিন দিয়ে অনুসন্ধান করুন।</string>
+    <string name="quick_download" formatted="false">একটি ভিডিও সংরক্ষণ করুন</string>
+    <string name="quick_download_body" formatted="false">একটি সরাসরি HTTPS ভিডিও লিঙ্ক আটকান বা একটি পৃষ্ঠায় একটি ভিডিও খুঁজুন।</string>
+    <string name="quick_guide" formatted="false">একটু নির্দেশনা</string>
+    <string name="quick_guide_body" formatted="false">আবিষ্কার থেকে আপনার সংগ্রহ পর্যন্ত চারটি সচিত্র ধাপ।</string>
+    <string name="back" formatted="false">ফিরে</string>
+    <string name="forward" formatted="false">ফরোয়ার্ড</string>
+    <string name="reload" formatted="false">পুনরায় লোড করুন</string>
+    <string name="home" formatted="false">বাড়ি</string>
+    <string name="bookmark" formatted="false">বুকমার্ক</string>
+    <string name="bookmarks" formatted="false">বুকমার্ক</string>
+    <string name="empty_bookmarks" formatted="false">সংরক্ষিত ওয়েবসাইট এখানে প্রদর্শিত হবে.</string>
+    <string name="saved" formatted="false">সংরক্ষিত</string>
+    <string name="remove" formatted="false">সরান</string>
+    <string name="cancel" formatted="false">বাতিল করুন</string>
+    <string name="close" formatted="false">বন্ধ</string>
+    <string name="confirm_download" formatted="false">এই ভিডিওটি সংরক্ষণ করবেন?</string>
+    <string name="filename" formatted="false">ফাইলের নাম</string>
+    <string name="download_location" formatted="false">ডাউনলোড / ভিডিও ডাউনলোডার প্রিমিয়ামে সংরক্ষিত</string>
+    <string name="permission_confirm" formatted="false">আমি এই ভিডিওটির মালিক বা এটি ডাউনলোড করার অনুমতি আছে৷</string>
+    <string name="permission_required" formatted="false">আপনার কাছে এই ভিডিওটি সংরক্ষণ করার অনুমতি আছে তা নিশ্চিত করুন৷</string>
+    <string name="invalid_url" formatted="false">একটি বৈধ HTTPS ভিডিও লিঙ্ক লিখুন।</string>
+    <string name="unsupported" formatted="false">এই লিঙ্কটি ডাউনলোডযোগ্য ভিডিও নয়। DRM, লাইভ স্ট্রিম, প্লেলিস্ট এবং YouTube ডাউনলোডগুলি অসমর্থিত।</string>
+    <string name="queued" formatted="false">ডাউনলোড সারিতে যোগ করা হয়েছে</string>
+    <string name="download_error" formatted="false">ডাউনলোড করতে অক্ষম। সংযোগ পরীক্ষা করুন বা একটি নতুন ভিডিও লিঙ্ক ব্যবহার করুন.</string>
+    <string name="collection_title" formatted="false">আপনার সংগ্রহ</string>
+    <string name="collection_subtitle" formatted="false">সংরক্ষিত ভিডিও, আপনি যখন প্রস্তুত।</string>
+    <string name="empty_downloads" formatted="false">আপনার পরবর্তী প্রিয় এখানে অন্তর্গত.</string>
+    <string name="empty_downloads_body" formatted="false">ব্রাউজে একটি ভিডিও খুঁজুন বা আপনার সংগ্রহ শুরু করতে একটি সরাসরি ভিডিও লিঙ্ক পেস্ট করুন।</string>
+    <string name="pending" formatted="false">সারিবদ্ধ</string>
+    <string name="running" formatted="false">ডাউনলোড হচ্ছে</string>
+    <string name="paused" formatted="false">নেটওয়ার্ক বা পুনরায় চেষ্টা করার জন্য অপেক্ষা করা হচ্ছে৷</string>
+    <string name="complete" formatted="false">সম্পূর্ণ</string>
+    <string name="failed" formatted="false">ব্যর্থ হয়েছে</string>
+    <string name="missing" formatted="false">ফাইল অনুপলব্ধ</string>
+    <string name="play" formatted="false">খেলা</string>
+    <string name="share" formatted="false">শেয়ার করুন</string>
+    <string name="retry" formatted="false">আবার চেষ্টা করুন</string>
+    <string name="delete_download" formatted="false">ডাউনলোড এবং তার ফাইল সরান?</string>
+    <string name="no_player" formatted="false">এই ফাইলটি খোলার জন্য কোনো সামঞ্জস্যপূর্ণ অ্যাপ উপলব্ধ নেই৷</string>
+    <string name="guide_title" formatted="false">আবিষ্কার থেকে ডাউনলোড পর্যন্ত.</string>
+    <string name="guide_subtitle" formatted="false">আপনার পছন্দের ভিডিওগুলি রাখার জন্য একটি সহজ নির্দেশিকা৷</string>
+    <string name="step_one_title" formatted="false">আপনার ভিডিও খুঁজুন</string>
+    <string name="step_one_body" formatted="false">ব্রাউজ খুলুন। অনুসন্ধান করুন বা একটি ওয়েবসাইট ঠিকানা লিখুন. আপনি অন্য অ্যাপ থেকে একটি ভিডিও লিঙ্ক শেয়ার করতে পারেন।</string>
+    <string name="step_two_title" formatted="false">উত্সটি আবিষ্কার করুন</string>
+    <string name="step_two_body" formatted="false">একটি ভিডিও চালান, তারপর ভিডিও খুঁজুন আলতো চাপুন। একটি সনাক্ত করা ফাইল চয়ন করুন, অথবা একটি সরাসরি HTTPS ভিডিও লিঙ্ক পেস্ট করুন৷</string>
+    <string name="step_three_title" formatted="false">এটা আপনার করা</string>
+    <string name="step_three_body" formatted="false">একটি ফাইলের নাম চয়ন করুন, ভিডিও সংরক্ষণ করার জন্য আপনার অনুমতি নিশ্চিত করুন এবং ডাউনলোড এ আলতো চাপুন৷ অ্যান্ড্রয়েড পটভূমিতে ডাউনলোড চালিয়ে যায়।</string>
+    <string name="step_four_title" formatted="false">আপনার সংগ্রহ উপভোগ করুন</string>
+    <string name="step_four_body" formatted="false">অগ্রগতি পরীক্ষা করতে ডাউনলোড খুলুন। সম্পূর্ণ ভিডিও চালান বা শেয়ার করুন। প্রয়োজনে একটি নতুন লিঙ্ক দিয়ে ব্যর্থ ডাউনলোডগুলি পুনরায় চেষ্টা করুন৷</string>
+    <string name="try_now" formatted="false">এখনই চেষ্টা করুন</string>
+    <string name="preferences" formatted="false">এটি আপনার নিজের করুন.</string>
+    <string name="preferences_subtitle" formatted="false">আপনার দৈনন্দিন ব্রাউজিং জন্য কিছু চিন্তাশীল নিয়ন্ত্রণ.</string>
+    <string name="dns_title" formatted="false">ভিপিএন/প্রাইভেট ডিএনএস</string>
+    <string name="dns_explanation" formatted="false">ব্যক্তিগত DNS এনক্রিপ্ট করে DNS প্রশ্ন। এটি আপনার আইপি ঠিকানা গোপন করে না বা একটি ভিপিএন টানেল তৈরি করে না। Android এর জন্য আপনাকে এই সেটিংটি ম্যানুয়ালি পরিবর্তন করতে হবে।</string>
+    <string name="connected" formatted="false">সংযুক্ত</string>
+    <string name="unconnected" formatted="false">সংযোগহীন</string>
+    <string name="connect" formatted="false">সংযোগ করুন</string>
+    <string name="disconnect" formatted="false">সংযোগ বিচ্ছিন্ন করুন</string>
+    <string name="dns_instructions" formatted="false">ব্যক্তিগত DNS প্রদানকারী হোস্টনাম নির্বাচন করুন, dns.adguard-dns.com পেস্ট করুন এবং সংরক্ষণ করুন। সংযোগ বিচ্ছিন্ন করতে, একই সিস্টেম সেটিংসে স্বয়ংক্রিয় বা বন্ধ নির্বাচন করুন।</string>
+    <string name="copy_hostname" formatted="false">হোস্টনাম কপি করুন</string>
+    <string name="copied" formatted="false">ক্লিপবোর্ডে কপি করা হয়েছে</string>
+    <string name="open_network_settings" formatted="false">নেটওয়ার্ক সেটিংস খুলুন</string>
+    <string name="language" formatted="false">অ্যাপের ভাষা</string>
+    <string name="system_language" formatted="false">ডিভাইসের ভাষা অনুসরণ করুন</string>
+    <string name="search_language" formatted="false">একটি ভাষা খুঁজুন</string>
+    <string name="language_note" formatted="false">অনুবাদ অফলাইন অন্তর্ভুক্ত করা হয়. অতালিকাভুক্ত ডিভাইস ভাষা ইংরেজি ব্যবহার করে। মেশিন অনুবাদের আঞ্চলিক পর্যালোচনার প্রয়োজন হতে পারে।</string>
+    <string name="search_engine" formatted="false">সার্চ ইঞ্জিন</string>
+    <string name="wifi_only" formatted="false">শুধুমাত্র Wi-Fi এ ডাউনলোড করুন</string>
+    <string name="wifi_body" formatted="false">নতুন ডাউনলোডগুলি Wi-Fi উপলব্ধ না হওয়া পর্যন্ত অপেক্ষা করুন৷</string>
+    <string name="javascript" formatted="false">ওয়েবসাইট জাভাস্ক্রিপ্ট</string>
+    <string name="javascript_body" formatted="false">অনেক ওয়েবসাইট এবং HTML5 ভিডিও আবিষ্কারের জন্য প্রয়োজনীয়।</string>
+    <string name="privacy" formatted="false">গোপনীয়তা</string>
+    <string name="clear_browser" formatted="false">ব্রাউজিং ডেটা সাফ করুন</string>
+    <string name="clear_browser_confirm" formatted="false">কুকিজ, ব্রাউজার ক্যাশে, ইতিহাস এবং ওয়েবসাইট স্টোরেজ মুছবেন?</string>
+    <string name="privacy_body" formatted="false">কোন বিজ্ঞাপন, বিশ্লেষণ, বা বিকাশকারী অ্যাকাউন্ট নেই. ওয়েবসাইট, সার্চ ইঞ্জিন, DNS প্রদানকারী এবং ডাউনলোড সার্ভারগুলি আপনার করা অনুরোধগুলি গ্রহণ করে৷ ডাউনলোড ইতিহাস এবং বুকমার্ক এই ডিভাইসে থাকে।</string>
+    <string name="terms" formatted="false">দায়িত্বের সাথে ব্যবহার করুন</string>
+    <string name="terms_body" formatted="false">শুধুমাত্র আপনার মালিকানাধীন বা ডাউনলোড করার অনুমতিপ্রাপ্ত ভিডিওগুলি সংরক্ষণ করুন৷ কপিরাইট এবং ওয়েবসাইট শর্তাবলী সম্মান. এই অ্যাপটি DRM, পেওয়াল বা প্ল্যাটফর্ম ডাউনলোডের বিধিনিষেধ বাইপাস করতে পারে না।</string>
+    <string name="about" formatted="false">সম্পর্কে</string>
+    <string name="version" formatted="false">সংস্করণ</string>
+    <string name="paid_app" formatted="false">একটি ক্রয়. কোন বিজ্ঞাপন নেই. কোন সাবস্ক্রিপশন নেই।</string>
+    <string name="welcome_title" formatted="false">যা আপনাকে অনুপ্রাণিত করে তা রাখুন।</string>
+    <string name="welcome_body" formatted="false">ব্রাউজ করুন, আবিষ্কার করুন এবং অনুমতিপ্রাপ্ত ভিডিওগুলি এক জায়গায় সংরক্ষণ করুন৷ শুরু করতে সচিত্র নির্দেশিকা পড়ুন।</string>
+    <string name="start_browsing" formatted="false">ব্রাউজিং শুরু করুন</string>
+    <string name="read_guide" formatted="false">গাইড পড়ুন</string>
+    <string name="browser_error" formatted="false">এই পৃষ্ঠাটি লোড করা যায়নি৷ ঠিকানা এবং সংযোগ পরীক্ষা করুন, তারপর পুনরায় লোড করুন।</string>
+    <string name="secure_only" formatted="false">এই অ্যাপটি HTTPS সংযোগ ব্যবহার করে। এই ওয়েবসাইটের সুরক্ষিত সংস্করণ চেষ্টা করুন.</string>
+    <string name="external_link" formatted="false">অন্য অ্যাপে এই লিঙ্কটি খুলবেন?</string>
+    <string name="open" formatted="false">খোলা</string>
+    <string name="refresh" formatted="false">রিফ্রেশ</string>
+    <string name="accessibility_tutorial" formatted="false">এই টিউটোরিয়াল ধাপের জন্য দৃষ্টান্ত</string>
+    <string name="download_reason" formatted="false">অ্যান্ড্রয়েড ডাউনলোড ত্রুটি কোড</string>
+    <string name="queue_full" formatted="false">ডাউনলোড ইতিহাস পূর্ণ. প্রথমে একটি পুরানো এন্ট্রি সরান।</string>
+    <string name="browser_tabs" formatted="false">ব্রাউজার ট্যাব</string>
+    <string name="tabs_subtitle" formatted="false">ওয়েবসাইটগুলি খোলা রাখুন এবং তাদের মধ্যে স্যুইচ করুন৷</string>
+    <string name="new_tab" formatted="false">নতুন ট্যাব</string>
+    <string name="close_tab" formatted="false">ট্যাব বন্ধ করুন</string>
+    <string name="active_tab" formatted="false">সক্রিয় ট্যাব</string>
+    <string name="tab_limit" formatted="false">আপনি 8টি পর্যন্ত ট্যাব খুলতে পারেন। আরেকটি যোগ করতে একটি ট্যাব বন্ধ করুন।</string>
+    <string name="history" formatted="false">ইতিহাস</string>
+    <string name="history_subtitle" formatted="false">পরিদর্শন করা ওয়েবসাইটগুলি শুধুমাত্র এই ডিভাইসে সংরক্ষিত হয়৷</string>
+    <string name="empty_history" formatted="false">আপনার ব্রাউজিং ইতিহাস এখানে প্রদর্শিত হবে.</string>
+    <string name="clear_history" formatted="false">ইতিহাস পরিষ্কার করুন</string>
+    <string name="clear_history_confirm" formatted="false">এই ডিভাইস থেকে সব ব্রাউজিং ইতিহাস মুছে ফেলবেন?</string>
+    <string name="open_new_tab" formatted="false">নতুন ট্যাবে খুলুন</string>
+    <string name="browser_menu" formatted="false">ব্রাউজার মেনু</string>
+    <string name="shortcut_note" formatted="false">ওয়েবসাইট শর্টকাট ব্রাউজারে খোলে। ডাউনলোড প্রাপ্যতা ওয়েবসাইটের উপর নির্ভর করে।</string>
+</resources>

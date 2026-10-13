@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Huli</string>
+    <string name="downloads" formatted="false">Hoʻoiho</string>
+    <string name="guide" formatted="false">Alakai</string>
+    <string name="settings" formatted="false">Nā hoʻonohonoho</string>
+    <string name="home_title" formatted="false">ʻO kāu mau wikiō. ʻO kāu hōʻiliʻili.</string>
+    <string name="home_subtitle" formatted="false">E ʻimi i kahi mea kūpono e mālama.</string>
+    <string name="search_hint" formatted="false">Huli a komo i kahi pūnaewele</string>
+    <string name="go" formatted="false">Hele</string>
+    <string name="paste_link" formatted="false">Hoʻopili i ka loulou wikiō</string>
+    <string name="direct_link" formatted="false">loulou wikiō pololei</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Hoʻoiho</string>
+    <string name="detect" formatted="false">E huli i nā wikiō</string>
+    <string name="detected" formatted="false">Nā wikiō ma kēia ʻaoʻao</string>
+    <string name="no_media" formatted="false">ʻAʻohe wikiō hiki ke hoʻoiho ʻia. E hoʻomaka i ka pāʻani wikiō, a laila e hoʻāʻo hou. ʻAʻole loaʻa nā kahawai i mālama ʻia a me nā kiʻi i hoʻopili ʻia.</string>
+    <string name="safe_note" formatted="false">Hoʻoiho wale i nā wikiō iā ʻoe a i ʻole ʻae ʻia e mālama. ʻAʻole loaʻa nā kahawai i pale ʻia a me nā hoʻoiho YouTube.</string>
+    <string name="quick_start" formatted="false">E HOOMAKA MANEI</string>
+    <string name="quick_browse" formatted="false">E ʻimi i ka pūnaewele</string>
+    <string name="quick_browse_body" formatted="false">Huli me kāu ʻenekini i makemake ʻia ma ka polokalamu kele pūnaewele.</string>
+    <string name="quick_download" formatted="false">E mālama i kahi wikiō</string>
+    <string name="quick_download_body" formatted="false">Hoʻopili i kahi loulou wikiō HTTPS pololei a i ʻole e huli i kahi wikiō ma kahi ʻaoʻao.</string>
+    <string name="quick_guide" formatted="false">He alakaʻi iki</string>
+    <string name="quick_guide_body" formatted="false">ʻEhā mau ʻanuʻu i hōʻike ʻia mai ka ʻike ʻana i kāu hōʻiliʻili.</string>
+    <string name="back" formatted="false">Ke kua</string>
+    <string name="forward" formatted="false">Imua</string>
+    <string name="reload" formatted="false">Hoʻouka hou</string>
+    <string name="home" formatted="false">Home</string>
+    <string name="bookmark" formatted="false">Kaha puke</string>
+    <string name="bookmarks" formatted="false">Nā kaha puke</string>
+    <string name="empty_bookmarks" formatted="false">E hōʻike ʻia nā pūnaewele i mālama ʻia ma aneʻi.</string>
+    <string name="saved" formatted="false">Mālama ʻia</string>
+    <string name="remove" formatted="false">Wehe</string>
+    <string name="cancel" formatted="false">Hoʻopau</string>
+    <string name="close" formatted="false">Pani</string>
+    <string name="confirm_download" formatted="false">E mālama i kēia wikiō?</string>
+    <string name="filename" formatted="false">inoa faila</string>
+    <string name="download_location" formatted="false">Mālama ʻia i nā Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Noʻu kēia wikiō a ʻae ʻia e hoʻoiho iā ia.</string>
+    <string name="permission_required" formatted="false">E hōʻoia inā loaʻa iā ʻoe ka ʻae e mālama i kēia wikiō.</string>
+    <string name="invalid_url" formatted="false">E hoʻokomo i kahi loulou wikiō HTTPS kūpono.</string>
+    <string name="unsupported" formatted="false">ʻAʻole kēia loulou he wikiō hiki ke hoʻoiho ʻia. ʻAʻole kākoʻo ʻia ʻo DRM, nā kahawai ola, nā papa mele, a me nā hoʻoiho YouTube.</string>
+    <string name="queued" formatted="false">Hoʻohui ʻia ka hoʻoiho i ka pila</string>
+    <string name="download_error" formatted="false">ʻAʻole hiki ke hoʻoiho. E nānā i ka pilina a i ʻole e hoʻohana i kahi loulou wikiō hou.</string>
+    <string name="collection_title" formatted="false">ʻO kāu hōʻiliʻili</string>
+    <string name="collection_subtitle" formatted="false">Nā wikiō i mālama ʻia, mākaukau inā ʻoe.</string>
+    <string name="empty_downloads" formatted="false">Aia kāu punahele hou ma ʻaneʻi.</string>
+    <string name="empty_downloads_body" formatted="false">E huli i wikiō ma Huli a hoʻopili i kahi loulou wikiō pololei e hoʻomaka ai i kāu hōʻiliʻili.</string>
+    <string name="pending" formatted="false">Ka laina laina</string>
+    <string name="running" formatted="false">Hoʻoiho ʻia</string>
+    <string name="paused" formatted="false">Ke kali nei no ka pūnaewele a ho\&apos;āʻo hou</string>
+    <string name="complete" formatted="false">Hoʻopiha</string>
+    <string name="failed" formatted="false">Ua hāʻule</string>
+    <string name="missing" formatted="false">ʻAʻole loaʻa ka faila</string>
+    <string name="play" formatted="false">Pāʻani</string>
+    <string name="share" formatted="false">Kaʻana like</string>
+    <string name="retry" formatted="false">E hoao hou</string>
+    <string name="delete_download" formatted="false">Wehe i ka hoʻoiho a me kāna faila?</string>
+    <string name="no_player" formatted="false">ʻAʻohe polokalamu kūpono e wehe i kēia faila.</string>
+    <string name="guide_title" formatted="false">Mai ka ʻike ʻana a hoʻoiho.</string>
+    <string name="guide_subtitle" formatted="false">He alakaʻi maʻalahi no ka mālama ʻana i nā wikiō āu e makemake ai.</string>
+    <string name="step_one_title" formatted="false">E huli i kāu wikiō</string>
+    <string name="step_one_body" formatted="false">Wehe Nānā. Huli a hoʻokomo i kahi helu wahi pūnaewele. Hiki iā ʻoe ke kaʻana like i kahi loulou wikiō mai kahi polokalamu ʻē aʻe.</string>
+    <string name="step_two_title" formatted="false">E ʻike i ke kumu</string>
+    <string name="step_two_body" formatted="false">E pāʻani i wikiō, a laila kaomi i ka ʻimi wikiō. E koho i kahi faila i ʻike ʻia, a i ʻole e hoʻopili i kahi loulou wikiō HTTPS pololei.</string>
+    <string name="step_three_title" formatted="false">E hana iā ʻoe</string>
+    <string name="step_three_body" formatted="false">E koho i kahi inoa faila, e hōʻoia i kāu ʻae e mālama i ke wikiō, a kaomi Hoʻoiho. Hoʻomau ka Android i ka hoʻoiho ʻana ma ke kua.</string>
+    <string name="step_four_title" formatted="false">E hauʻoli i kāu hōʻiliʻili</string>
+    <string name="step_four_body" formatted="false">E wehe i nā Downloads e nānā i ka holomua. Pāʻani a kaʻana like i nā wikiō i hoʻopau ʻia. E hoʻāʻo hou i nā hoʻoiho ʻole ʻana me kahi loulou hou inā pono.</string>
+    <string name="try_now" formatted="false">E ho\&apos;āʻo i kēia manawa</string>
+    <string name="preferences" formatted="false">E hana iā ʻoe iho.</string>
+    <string name="preferences_subtitle" formatted="false">ʻO kekahi mau mana noʻonoʻo no kāu mākaʻikaʻi ʻana i kēlā me kēia lā.</string>
+    <string name="dns_title" formatted="false">VPN / DNS pilikino</string>
+    <string name="dns_explanation" formatted="false">Hoʻopili ʻo DNS pilikino i nā nīnau DNS. ʻAʻole ia e hūnā i kāu helu IP a i ʻole hana i kahi tunnel VPN. Pono ʻo Android iā ʻoe e hoʻololi i kēia hoʻonohonoho me ka lima.</string>
+    <string name="connected" formatted="false">Hoʻopili ʻia</string>
+    <string name="unconnected" formatted="false">Pili ole</string>
+    <string name="connect" formatted="false">Hoʻohui</string>
+    <string name="disconnect" formatted="false">Hoʻokaʻawale</string>
+    <string name="dns_instructions" formatted="false">Koho i ka inoa hoʻolako kikowaena DNS pilikino, hoʻopili i ka dns.adguard-dns.com, a mālama. No ka wehe ʻana, koho i ka Automatic a i ʻole Off ma ka hoʻonohonoho ʻōnaehana like.</string>
+    <string name="copy_hostname" formatted="false">E kope i ka inoa hoʻokipa</string>
+    <string name="copied" formatted="false">Kope ʻia i ka papa ʻokiʻoki</string>
+    <string name="open_network_settings" formatted="false">E wehe i nā hoʻonohonoho pūnaewele</string>
+    <string name="language" formatted="false">ʻŌlelo App</string>
+    <string name="system_language" formatted="false">E hahai i ka ʻōlelo o ka mea hana</string>
+    <string name="search_language" formatted="false">E ʻimi i kahi ʻōlelo</string>
+    <string name="language_note" formatted="false">Hoʻokomo ʻia nā unuhi pahemo. Hoʻohana ʻia nā ʻōlelo ma ka papa inoa ʻole i ka ʻōlelo Pelekane. Pono paha ka unuhi ʻana o ka mīkini i ka loiloi ʻāina.</string>
+    <string name="search_engine" formatted="false">ʻenekini huli</string>
+    <string name="wifi_only" formatted="false">Hoʻoiho ma Wi-Fi wale nō</string>
+    <string name="wifi_body" formatted="false">E kali nā hoʻoiho hou a hiki i ka loaʻa ʻana o Wi-Fi.</string>
+    <string name="javascript" formatted="false">JavaScript pūnaewele</string>
+    <string name="javascript_body" formatted="false">Koi ʻia e nā pūnaewele he nui a me ka ʻike wikiō HTML5.</string>
+    <string name="privacy" formatted="false">Pilikino</string>
+    <string name="clear_browser" formatted="false">Holoi i ka ʻikepili hulina</string>
+    <string name="clear_browser_confirm" formatted="false">Holoi i nā kuki, ka huna huna, ka mōʻaukala, a me ka mālama pūnaewele?</string>
+    <string name="privacy_body" formatted="false">ʻAʻohe hoʻolaha, ʻikepili, a i ʻole moʻokāki mea hoʻomohala. Loaʻa i nā pūnaewele, nā ʻenekini huli, nā mea hoʻolako DNS, a me nā kikowaena hoʻoiho i nā noi āu e hana ai. E hoʻoiho i ka mōʻaukala a me nā bookmark ma kēia hāmeʻa.</string>
+    <string name="terms" formatted="false">E hoʻohana me ke kuleana</string>
+    <string name="terms_body" formatted="false">E mālama wale i nā wikiō iā ʻoe a i ʻae ʻia e hoʻoiho. E mahalo i ke kuleana kope a me nā ʻōlelo pūnaewele. ʻAʻole hiki i kēia polokalamu ke kāʻalo i ka DRM, nā uku uku, a i ʻole nā ​​​​palena hoʻoiho platform.</string>
+    <string name="about" formatted="false">E pili ana</string>
+    <string name="version" formatted="false">Manao</string>
+    <string name="paid_app" formatted="false">Hoʻokahi kūʻai. ʻAʻohe hoʻolaha. ʻAʻohe kau inoa.</string>
+    <string name="welcome_title" formatted="false">E mālama i ka mea e hoʻoikaika ai iā ʻoe.</string>
+    <string name="welcome_body" formatted="false">Huli, ʻike, a mālama i nā wikiō i ʻae ʻia ma kahi hoʻokahi. E heluhelu i ke alakai i hoikeia no ka hoomaka ana.</string>
+    <string name="start_browsing" formatted="false">E hoʻomaka i ka nānā ʻana</string>
+    <string name="read_guide" formatted="false">E heluhelu i ke alakai</string>
+    <string name="browser_error" formatted="false">ʻAʻole hiki ke hoʻouka ʻia kēia ʻaoʻao. E nānā i ka helu wahi a me ka pilina, a laila hoʻouka hou.</string>
+    <string name="secure_only" formatted="false">Hoʻohana kēia polokalamu i nā pilina HTTPS. E ho\&apos;āʻo i ka mana palekana o kēia pūnaewele.</string>
+    <string name="external_link" formatted="false">E wehe i kēia loulou ma kahi polokalamu ʻē aʻe?</string>
+    <string name="open" formatted="false">Wehe</string>
+    <string name="refresh" formatted="false">Hōʻano hou</string>
+    <string name="accessibility_tutorial" formatted="false">Nā kiʻi no kēia pae aʻo</string>
+    <string name="download_reason" formatted="false">Android hoʻoiho i ke code hewa</string>
+    <string name="queue_full" formatted="false">Ua piha ka mōʻaukala download. Wehe mua i kahi helu kahiko.</string>
+    <string name="browser_tabs" formatted="false">Nā ʻaoʻao pūnaewele puni honua</string>
+    <string name="tabs_subtitle" formatted="false">E wehe i nā pūnaewele a hoʻololi i waena o lākou.</string>
+    <string name="new_tab" formatted="false">Pahu hou</string>
+    <string name="close_tab" formatted="false">Pani i ka pā</string>
+    <string name="active_tab" formatted="false">Pāpā hana</string>
+    <string name="tab_limit" formatted="false">Hiki iā ʻoe ke wehe i 8 mau papa. E pani i kahi pā e hoʻohui i kekahi.</string>
+    <string name="history" formatted="false">Moolelo</string>
+    <string name="history_subtitle" formatted="false">Mālama ʻia nā pūnaewele i kipa ʻia ma kēia hāmeʻa.</string>
+    <string name="empty_history" formatted="false">E hōʻike ʻia kāu mōʻaukala mākaʻikaʻi ma aneʻi.</string>
+    <string name="clear_history" formatted="false">Holoi moʻolelo</string>
+    <string name="clear_history_confirm" formatted="false">Holoi i ka mōʻaukala mākaʻikaʻi mai kēia polokalamu?</string>
+    <string name="open_new_tab" formatted="false">Wehe i ka pā hou</string>
+    <string name="browser_menu" formatted="false">Papa koho hulina</string>
+    <string name="shortcut_note" formatted="false">Wehe nā ʻaoʻao pōkole ma ka polokalamu kele pūnaewele. Loaʻa ka loaʻa ʻana o ka download ma ka pūnaewele.</string>
+</resources>

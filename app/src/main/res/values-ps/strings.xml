@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">پریمیم</string>
+    <string name="browse" formatted="false">لټون وکړئ</string>
+    <string name="downloads" formatted="false">ډاونلوډونه</string>
+    <string name="guide" formatted="false">لارښود</string>
+    <string name="settings" formatted="false">ترتیبات</string>
+    <string name="home_title" formatted="false">ستاسو ویډیوګانې. ستاسو ټولګه.</string>
+    <string name="home_subtitle" formatted="false">د ساتلو وړ یو څه ومومئ.</string>
+    <string name="search_hint" formatted="false">ویب پاڼه وپلټئ یا داخل کړئ</string>
+    <string name="go" formatted="false">لاړ شه</string>
+    <string name="paste_link" formatted="false">د ویډیو لینک پیسټ کړئ</string>
+    <string name="direct_link" formatted="false">مستقیم ویډیو لینک</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ډاونلوډ کړئ</string>
+    <string name="detect" formatted="false">ویډیوګانې ومومئ</string>
+    <string name="detected" formatted="false">په دې پاڼه کې ویډیوګانې</string>
+    <string name="no_media" formatted="false">د ډاونلوډ وړ ویډیو ونه موندل شوه. د ویډیو غږول پیل کړئ، بیا بیا هڅه وکړئ. خوندي شوي جریانونه او سرایت شوي چوکاټونه ممکن شتون ونلري.</string>
+    <string name="safe_note" formatted="false">یوازې هغه ویډیوګانې ډاونلوډ کړئ چې تاسو یې لرئ یا د خوندي کولو اجازه لرئ. خوندي شوي جریانونه او د یوټیوب ډاونلوډونه شتون نلري.</string>
+    <string name="quick_start" formatted="false">دلته پیل کړئ</string>
+    <string name="quick_browse" formatted="false">ویب پاڼه وپلټئ</string>
+    <string name="quick_browse_body" formatted="false">په جوړ شوي براوزر کې د خپلې خوښې انجن سره لټون وکړئ.</string>
+    <string name="quick_download" formatted="false">ویډیو خوندي کړئ</string>
+    <string name="quick_download_body" formatted="false">د مستقیم HTTPS ویډیو لینک پیسټ کړئ یا په یوه پاڼه کې ویډیو ومومئ.</string>
+    <string name="quick_guide" formatted="false">لږ لارښود</string>
+    <string name="quick_guide_body" formatted="false">له کشف څخه ستاسو ټولګه پورې څلور روښانه ګامونه.</string>
+    <string name="back" formatted="false">شاته</string>
+    <string name="forward" formatted="false">مخکی</string>
+    <string name="reload" formatted="false">بیا پورته کول</string>
+    <string name="home" formatted="false">کور</string>
+    <string name="bookmark" formatted="false">بک مارک</string>
+    <string name="bookmarks" formatted="false">بک مارکونه</string>
+    <string name="empty_bookmarks" formatted="false">خوندي شوي ویب پاڼې به دلته ښکاره شي.</string>
+    <string name="saved" formatted="false">خوندي شوی</string>
+    <string name="remove" formatted="false">لرې کړئ</string>
+    <string name="cancel" formatted="false">لغوه کړئ</string>
+    <string name="close" formatted="false">تړل</string>
+    <string name="confirm_download" formatted="false">دا ویډیو خوندي کړئ؟</string>
+    <string name="filename" formatted="false">د دوتنې نوم</string>
+    <string name="download_location" formatted="false">په ډاونلوډونو / ویډیو ډاونلوډر پریمیم کې خوندي شوی</string>
+    <string name="permission_confirm" formatted="false">زه دا ویډیو لرم یا د ډاونلوډ کولو اجازه لرم.</string>
+    <string name="permission_required" formatted="false">تایید کړئ چې تاسو د دې ویډیو خوندي کولو اجازه لرئ.</string>
+    <string name="invalid_url" formatted="false">یو معتبر HTTPS ویډیو لینک دننه کړئ.</string>
+    <string name="unsupported" formatted="false">دا لینک د ډاونلوډ وړ ویډیو نه ده. DRM، ژوندی جریانونه، پلی لیستونه، او د یوټیوب ډاونلوډونه نه ملاتړ کیږي.</string>
+    <string name="queued" formatted="false">ډاونلوډ په کتار کې اضافه شوی</string>
+    <string name="download_error" formatted="false">د ډاونلوډ کولو توان نلري. اړیکه وګورئ یا د تازه ویډیو لینک وکاروئ.</string>
+    <string name="collection_title" formatted="false">ستاسو ټولګه</string>
+    <string name="collection_subtitle" formatted="false">خوندي شوي ویډیوګانې، چمتو دي کله چې تاسو یاست.</string>
+    <string name="empty_downloads" formatted="false">ستاسو راتلونکی خوښی دلته دی.</string>
+    <string name="empty_downloads_body" formatted="false">په لټون کې یوه ویډیو ومومئ یا د مستقیم ویډیو لینک پیسټ کړئ ترڅو خپل ټولګه پیل کړئ.</string>
+    <string name="pending" formatted="false">کتار</string>
+    <string name="running" formatted="false">کښته کول</string>
+    <string name="paused" formatted="false">د شبکې لپاره انتظار کول یا بیا هڅه کول</string>
+    <string name="complete" formatted="false">بشپړ</string>
+    <string name="failed" formatted="false">ناکام شو</string>
+    <string name="missing" formatted="false">دوتنه شتون نلري</string>
+    <string name="play" formatted="false">لوبه وکړئ</string>
+    <string name="share" formatted="false">شریکول</string>
+    <string name="retry" formatted="false">بیا هڅه وکړئ</string>
+    <string name="delete_download" formatted="false">ډاونلوډ او د هغې فایل لرې کړئ؟</string>
+    <string name="no_player" formatted="false">د دې فایل خلاصولو لپاره هیڅ مناسب ایپ شتون نلري.</string>
+    <string name="guide_title" formatted="false">له کشف څخه ډاونلوډ ته.</string>
+    <string name="guide_subtitle" formatted="false">ستاسو د خوښې ویډیو ساتلو لپاره یو ساده لارښود.</string>
+    <string name="step_one_title" formatted="false">خپل ویډیو ومومئ</string>
+    <string name="step_one_body" formatted="false">براؤز خلاص کړئ. د ویب پاڼې پته وپلټئ یا داخل کړئ. تاسو کولی شئ د بل اپلیکیشن څخه د ویډیو لینک هم شریک کړئ.</string>
+    <string name="step_two_title" formatted="false">سرچینه کشف کړئ</string>
+    <string name="step_two_body" formatted="false">ویډیو پلی کړئ، بیا د ویډیوګانو موندلو باندې کلیک وکړئ. یو کشف شوی فایل غوره کړئ، یا د مستقیم HTTPS ویډیو لینک پیسټ کړئ.</string>
+    <string name="step_three_title" formatted="false">دا خپل جوړ کړئ</string>
+    <string name="step_three_body" formatted="false">د فایل نوم غوره کړئ، د ویډیو خوندي کولو لپاره ستاسو اجازه تایید کړئ، او ډاونلوډ ټایپ کړئ. Android په شاليد کې ډاونلوډ ته دوام ورکوي.</string>
+    <string name="step_four_title" formatted="false">خپل ټولګه خوند واخلئ</string>
+    <string name="step_four_body" formatted="false">د پرمختګ چک کولو لپاره ډاونلوډونه خلاص کړئ. بشپړ شوي ویډیوګانې پلی یا شریک کړئ. د اړتیا په وخت کې د نوي لینک سره ناکام ډاونلوډونه بیا هڅه وکړئ.</string>
+    <string name="try_now" formatted="false">همدا اوس هڅه وکړئ</string>
+    <string name="preferences" formatted="false">دا خپل جوړ کړئ.</string>
+    <string name="preferences_subtitle" formatted="false">ستاسو د ورځني لټون لپاره یو څو فکري کنټرولونه.</string>
+    <string name="dns_title" formatted="false">VPN / شخصي DNS</string>
+    <string name="dns_explanation" formatted="false">شخصي DNS د DNS پوښتنو کوډ کوي. دا ستاسو IP پته نه پټوي یا د VPN تونل نه جوړوي. Android تاسو ته اړتیا لري چې دا ترتیب په لاسي ډول بدل کړئ.</string>
+    <string name="connected" formatted="false">نښلول شوی</string>
+    <string name="unconnected" formatted="false">بې ارتباطه</string>
+    <string name="connect" formatted="false">نښلول</string>
+    <string name="disconnect" formatted="false">منحل کول</string>
+    <string name="dns_instructions" formatted="false">د شخصي DNS چمتو کونکي کوربه نوم غوره کړئ، dns.adguard-dns.com پیسټ کړئ، او خوندي کړئ. د منحل کولو لپاره، په ورته سیسټم ترتیب کې اتوماتیک یا بند غوره کړئ.</string>
+    <string name="copy_hostname" formatted="false">د کوربه نوم کاپي کړئ</string>
+    <string name="copied" formatted="false">کلپ بورډ ته کاپي شوی</string>
+    <string name="open_network_settings" formatted="false">د شبکې تنظیمات خلاص کړئ</string>
+    <string name="language" formatted="false">د اپلیکیشن ژبه</string>
+    <string name="system_language" formatted="false">د وسیله ژبه تعقیب کړئ</string>
+    <string name="search_language" formatted="false">یوه ژبه ومومئ</string>
+    <string name="language_note" formatted="false">ژباړې په آفلاین کې شاملې دي. غیر لیست شوي وسایل ژبې انګلیسي کاروي. د ماشین ژباړې ممکن سیمه ایز بیاکتنې ته اړتیا ولري.</string>
+    <string name="search_engine" formatted="false">د لټون انجن</string>
+    <string name="wifi_only" formatted="false">یوازې په Wi-Fi کې ډاونلوډ کړئ</string>
+    <string name="wifi_body" formatted="false">نوي ډاونلوډونه تر هغه وخته پورې انتظار کوي چې وائی فای شتون ولري.</string>
+    <string name="javascript" formatted="false">ویب پاڼه جاواسکریپټ</string>
+    <string name="javascript_body" formatted="false">د ډیری ویب پاڼو او HTML5 ویډیو موندنې لخوا اړین دي.</string>
+    <string name="privacy" formatted="false">محرمیت</string>
+    <string name="clear_browser" formatted="false">د لټون کولو ډاټا پاک کړئ</string>
+    <string name="clear_browser_confirm" formatted="false">کوکیز، د براوزر کیچ، تاریخ، او د ویب پاڼې ذخیره حذف کړئ؟</string>
+    <string name="privacy_body" formatted="false">هیڅ اعلانونه، تحلیلونه، یا پراختیا کونکي حسابونه نشته. ویب پاڼې، د لټون انجنونه، د DNS چمتو کونکي، او ډاونلوډ سرورونه هغه غوښتنې ترلاسه کوي چې تاسو یې کوئ. تاریخ ډاونلوډ کړئ او بک مارکونه په دې وسیله پاتې شي.</string>
+    <string name="terms" formatted="false">په مسؤلیت سره وکاروئ</string>
+    <string name="terms_body" formatted="false">یوازې هغه ویډیوګانې خوندي کړئ چې تاسو یې لرئ یا د ډاونلوډ کولو اجازه لرئ. د کاپي حق او د ویب پاڼې شرایطو ته درناوی وکړئ. دا اپلیکیشن نشي کولی د DRM، تادیاتو، یا د پلیټ فارم ډاونلوډ محدودیتونه تیر کړي.</string>
+    <string name="about" formatted="false">په اړه</string>
+    <string name="version" formatted="false">نسخه</string>
+    <string name="paid_app" formatted="false">یو پیرود. هیڅ اعلانونه نشته. ګډون نشته.</string>
+    <string name="welcome_title" formatted="false">هغه څه وساتئ چې تاسو ته الهام ورکوي.</string>
+    <string name="welcome_body" formatted="false">په یو ځای کې اجازه ورکړل شوي ویډیوګانې براوز کړئ ، کشف کړئ او خوندي کړئ. د پیل کولو لپاره انځور شوی لارښود ولولئ.</string>
+    <string name="start_browsing" formatted="false">لټون پیل کړئ</string>
+    <string name="read_guide" formatted="false">لارښود ولولئ</string>
+    <string name="browser_error" formatted="false">دا پاڼه نشي پورته کولی. پته او پیوستون چیک کړئ، بیا بیا پورته کړئ.</string>
+    <string name="secure_only" formatted="false">دا ایپ د HTTPS پیوستون کاروي. د دې ویب پاڼې خوندي نسخه هڅه وکړئ.</string>
+    <string name="external_link" formatted="false">دا لینک په بل اپلیکیشن کې خلاص کړئ؟</string>
+    <string name="open" formatted="false">خلاص</string>
+    <string name="refresh" formatted="false">تازه کړئ</string>
+    <string name="accessibility_tutorial" formatted="false">د دې درسي ګام لپاره مثال</string>
+    <string name="download_reason" formatted="false">د Android ډاونلوډ غلطی کوډ</string>
+    <string name="queue_full" formatted="false">د ډاونلوډ تاریخ ډک دی. لومړی یو زوړ ننوتل لرې کړئ.</string>
+    <string name="browser_tabs" formatted="false">د براوزر ټبونه</string>
+    <string name="tabs_subtitle" formatted="false">ویب پاڼې خلاصې وساتئ او د دوی ترمنځ بدل کړئ.</string>
+    <string name="new_tab" formatted="false">نوی ټب</string>
+    <string name="close_tab" formatted="false">ټب بند کړئ</string>
+    <string name="active_tab" formatted="false">فعال ټب</string>
+    <string name="tab_limit" formatted="false">تاسو کولی شئ تر 8 ټبونو پورې خلاص کړئ. د بل اضافه کولو لپاره یو ټب بند کړئ.</string>
+    <string name="history" formatted="false">تاریخ</string>
+    <string name="history_subtitle" formatted="false">لیدل شوي ویب پاڼې یوازې په دې وسیله خوندي شوي.</string>
+    <string name="empty_history" formatted="false">ستاسو د لټون کولو تاریخ به دلته ښکاره شي.</string>
+    <string name="clear_history" formatted="false">تاریخ پاک کړئ</string>
+    <string name="clear_history_confirm" formatted="false">د دې وسیلې څخه د لټون کولو ټول تاریخ حذف کړئ؟</string>
+    <string name="open_new_tab" formatted="false">په نوي ټب کې خلاص کړئ</string>
+    <string name="browser_menu" formatted="false">د براوزر مینو</string>
+    <string name="shortcut_note" formatted="false">د ویب پاڼې شارټ کټونه په براوزر کې خلاصیږي. د ډاونلوډ شتون په ویب پا onه پورې اړه لري.</string>
+</resources>

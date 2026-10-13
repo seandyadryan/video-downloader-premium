@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="premium" formatted="false">PREMIUM</string>
+  <string name="browse" formatted="false">Jelajahi</string>
+  <string name="downloads" formatted="false">Unduhan</string>
+  <string name="guide" formatted="false">Panduan</string>
+  <string name="settings" formatted="false">Pengaturan</string>
+  <string name="home_title" formatted="false">Video Anda. Koleksi Anda.</string>
+  <string name="home_subtitle" formatted="false">Temukan sesuatu yang layak disimpan.</string>
+  <string name="search_hint" formatted="false">Cari atau masukkan situs web</string>
+  <string name="go" formatted="false">Buka</string>
+  <string name="paste_link" formatted="false">Tempel tautan video</string>
+  <string name="direct_link" formatted="false">Tautan video langsung</string>
+  <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+  <string name="download" formatted="false">Unduh</string>
+  <string name="detect" formatted="false">Temukan video</string>
+  <string name="detected" formatted="false">Video di halaman ini</string>
+  <string name="no_media" formatted="false">Tidak ditemukan video yang dapat diunduh. Mulai putar video, lalu coba lagi. Streaming yang dilindungi dan bingkai yang disematkan mungkin tidak tersedia.</string>
+  <string name="safe_note" formatted="false">Unduh hanya video milik Anda atau video yang diizinkan untuk disimpan. Streaming terlindungi dan unduhan YouTube tidak didukung.</string>
+  <string name="quick_start" formatted="false">MULAI DI SINI</string>
+  <string name="quick_browse" formatted="false">Jelajahi web</string>
+  <string name="quick_browse_body" formatted="false">Telusuri dengan mesin pilihan Anda di browser bawaan.</string>
+  <string name="quick_download" formatted="false">Simpan video</string>
+  <string name="quick_download_body" formatted="false">Tempel tautan video HTTPS langsung atau temukan video di halaman.</string>
+  <string name="quick_guide" formatted="false">Panduan singkat</string>
+  <string name="quick_guide_body" formatted="false">Empat langkah bergambar untuk menemukan dan menyimpan video.</string>
+  <string name="back" formatted="false">Kembali</string>
+  <string name="forward" formatted="false">Maju</string>
+  <string name="reload" formatted="false">Muat ulang</string>
+  <string name="home" formatted="false">Beranda</string>
+  <string name="bookmark" formatted="false">Bookmark</string>
+  <string name="bookmarks" formatted="false">Bookmark</string>
+  <string name="empty_bookmarks" formatted="false">Situs web yang disimpan akan muncul di sini.</string>
+  <string name="saved" formatted="false">Disimpan</string>
+  <string name="remove" formatted="false">Hapus</string>
+  <string name="cancel" formatted="false">Batalkan</string>
+  <string name="close" formatted="false">Tutup</string>
+  <string name="confirm_download" formatted="false">Simpan video ini?</string>
+  <string name="filename" formatted="false">Nama berkas</string>
+  <string name="download_location" formatted="false">Disimpan di Unduhan / Pengunduh Video Premium</string>
+  <string name="permission_confirm" formatted="false">Saya pemilik video ini atau memiliki izin untuk mengunduhnya.</string>
+  <string name="permission_required" formatted="false">Konfirmasikan bahwa Anda memiliki izin untuk menyimpan video ini.</string>
+  <string name="invalid_url" formatted="false">Masukkan tautan video HTTPS yang valid.</string>
+  <string name="unsupported" formatted="false">Tautan ini bukan video yang dapat diunduh. DRM, streaming langsung, daftar putar, dan unduhan YouTube tidak didukung.</string>
+  <string name="queued" formatted="false">Unduhan ditambahkan ke antrean</string>
+  <string name="download_error" formatted="false">Tidak dapat mengunduh. Periksa koneksi atau gunakan tautan video baru.</string>
+  <string name="collection_title" formatted="false">Koleksi Anda</string>
+  <string name="collection_subtitle" formatted="false">Video yang disimpan, siap kapan pun Anda siap.</string>
+  <string name="empty_downloads" formatted="false">Favorit Anda berikutnya ada di sini.</string>
+  <string name="empty_downloads_body" formatted="false">Temukan video di Telusuri atau tempel tautan video langsung untuk memulai koleksi Anda.</string>
+  <string name="pending" formatted="false">Mengantri</string>
+  <string name="running" formatted="false">Mengunduh</string>
+  <string name="paused" formatted="false">Menunggu jaringan atau coba lagi</string>
+  <string name="complete" formatted="false">Lengkap</string>
+  <string name="failed" formatted="false">Gagal</string>
+  <string name="missing" formatted="false">Berkas tidak tersedia</string>
+  <string name="play" formatted="false">Mainkan</string>
+  <string name="share" formatted="false">Bagikan</string>
+  <string name="retry" formatted="false">Coba lagi</string>
+  <string name="delete_download" formatted="false">Hapus unduhan dan filenya?</string>
+  <string name="no_player" formatted="false">Tidak ada aplikasi kompatibel yang tersedia untuk membuka file ini.</string>
+  <string name="guide_title" formatted="false">Temukan dan simpan video.</string>
+  <string name="guide_subtitle" formatted="false">Panduan sederhana untuk menyimpan video yang Anda sukai.</string>
+  <string name="step_one_title" formatted="false">Temukan video Anda</string>
+  <string name="step_one_body" formatted="false">Buka Telusuri. Cari atau masukkan alamat situs web. Anda juga dapat membagikan tautan video dari aplikasi lain.</string>
+  <string name="step_two_title" formatted="false">Temukan sumber video</string>
+  <string name="step_two_body" formatted="false">Putar video, lalu ketuk Temukan video. Pilih file yang terdeteksi, atau tempel tautan video HTTPS langsung.</string>
+  <string name="step_three_title" formatted="false">Simpan video Anda</string>
+  <string name="step_three_body" formatted="false">Pilih nama file, konfirmasikan izin Anda untuk menyimpan video, dan ketuk Unduh. Android melanjutkan pengunduhan di latar belakang.</string>
+  <string name="step_four_title" formatted="false">Nikmati koleksi Anda</string>
+  <string name="step_four_body" formatted="false">Buka Unduhan untuk memeriksa kemajuan. Putar atau bagikan video yang sudah selesai. Coba lagi unduhan yang gagal dengan tautan baru bila diperlukan.</string>
+  <string name="try_now" formatted="false">Cobalah sekarang</string>
+  <string name="preferences" formatted="false">Atur sesuai kebutuhan Anda.</string>
+  <string name="preferences_subtitle" formatted="false">Pengaturan praktis untuk aktivitas penelusuran sehari-hari.</string>
+  <string name="dns_title" formatted="false">VPN / DNS Pribadi</string>
+  <string name="dns_explanation" formatted="false">DNS Pribadi mengenkripsi kueri DNS. Itu tidak menyembunyikan alamat IP Anda atau membuat terowongan VPN. Android mengharuskan Anda mengubah pengaturan ini secara manual.</string>
+  <string name="connected" formatted="false">Terhubung</string>
+  <string name="unconnected" formatted="false">Tidak terhubung</string>
+  <string name="connect" formatted="false">Hubungkan</string>
+  <string name="disconnect" formatted="false">Putuskan</string>
+  <string name="dns_instructions" formatted="false">Pilih nama host penyedia DNS Pribadi, tempel dns.adguard-dns.com, dan simpan. Untuk memutuskan sambungan, pilih Otomatis atau Mati dalam pengaturan sistem yang sama.</string>
+  <string name="copy_hostname" formatted="false">Salin nama host</string>
+  <string name="copied" formatted="false">Disalin ke papan klip</string>
+  <string name="open_network_settings" formatted="false">Buka pengaturan jaringan</string>
+  <string name="language" formatted="false">Bahasa aplikasi</string>
+  <string name="system_language" formatted="false">Ikuti bahasa perangkat</string>
+  <string name="search_language" formatted="false">Temukan bahasa</string>
+  <string name="language_note" formatted="false">Terjemahan disertakan secara offline. Bahasa perangkat yang tidak tercantum menggunakan bahasa Inggris. Terjemahan mesin mungkin memerlukan tinjauan regional.</string>
+  <string name="search_engine" formatted="false">Mesin pencari</string>
+  <string name="wifi_only" formatted="false">Unduh hanya melalui Wi-Fi</string>
+  <string name="wifi_body" formatted="false">Unduhan baru menunggu hingga Wi-Fi tersedia.</string>
+  <string name="javascript" formatted="false">JavaScript situs web</string>
+  <string name="javascript_body" formatted="false">Diperlukan oleh banyak situs web dan penemuan video HTML5.</string>
+  <string name="privacy" formatted="false">Privasi</string>
+  <string name="clear_browser" formatted="false">Hapus data penjelajahan</string>
+  <string name="clear_browser_confirm" formatted="false">Hapus cookie, cache browser, riwayat, dan penyimpanan situs web?</string>
+  <string name="privacy_body" formatted="false">Tidak ada iklan, analitik, atau akun pengembang. Situs web, mesin pencari, penyedia DNS, dan server unduhan menerima permintaan yang Anda buat. Riwayat unduhan dan bookmark tetap ada di perangkat ini.</string>
+  <string name="terms" formatted="false">Gunakan secara bertanggung jawab</string>
+  <string name="terms_body" formatted="false">Simpan hanya video yang Anda miliki atau diizinkan untuk diunduh. Hormati hak cipta dan persyaratan situs web. Aplikasi ini tidak dapat melewati batasan DRM, paywall, atau unduhan platform.</string>
+  <string name="about" formatted="false">Tentang</string>
+  <string name="version" formatted="false">Versi</string>
+  <string name="paid_app" formatted="false">Sekali beli. Tanpa iklan. Tanpa langganan.</string>
+  <string name="welcome_title" formatted="false">Pertahankan apa yang menginspirasi Anda.</string>
+  <string name="welcome_body" formatted="false">Jelajahi, temukan, dan simpan video yang diizinkan di satu tempat. Baca panduan bergambar untuk memulai.</string>
+  <string name="start_browsing" formatted="false">Mulai menjelajah</string>
+  <string name="read_guide" formatted="false">Baca panduannya</string>
+  <string name="browser_error" formatted="false">Halaman ini tidak dapat dimuat. Periksa alamat dan koneksi, lalu muat ulang.</string>
+  <string name="secure_only" formatted="false">Aplikasi ini menggunakan koneksi HTTPS. Coba versi aman situs web ini.</string>
+  <string name="external_link" formatted="false">Buka tautan ini di aplikasi lain?</string>
+  <string name="open" formatted="false">Buka</string>
+  <string name="refresh" formatted="false">Segarkan</string>
+  <string name="accessibility_tutorial" formatted="false">Ilustrasi untuk langkah tutorial ini</string>
+  <string name="download_reason" formatted="false">Kode kesalahan pengunduhan Android</string>
+  <string name="queue_full" formatted="false">Riwayat unduhan penuh. Hapus entri lama terlebih dahulu.</string>
+  <string name="browser_tabs" formatted="false">Tab browser</string>
+  <string name="tabs_subtitle" formatted="false">Biarkan situs tetap terbuka dan berpindah antar-tab.</string>
+  <string name="new_tab" formatted="false">Tab baru</string>
+  <string name="close_tab" formatted="false">Tutup tab</string>
+  <string name="active_tab" formatted="false">Tab aktif</string>
+  <string name="tab_limit" formatted="false">Anda dapat membuka hingga 8 tab. Tutup satu tab untuk menambah tab baru.</string>
+  <string name="history" formatted="false">Riwayat</string>
+  <string name="history_subtitle" formatted="false">Situs yang dikunjungi hanya disimpan di perangkat ini.</string>
+  <string name="empty_history" formatted="false">Riwayat penelusuran Anda akan muncul di sini.</string>
+  <string name="clear_history" formatted="false">Hapus riwayat</string>
+  <string name="clear_history_confirm" formatted="false">Hapus seluruh riwayat penelusuran dari perangkat ini?</string>
+  <string name="open_new_tab" formatted="false">Buka di tab baru</string>
+  <string name="browser_menu" formatted="false">Menu browser</string>
+  <string name="shortcut_note" formatted="false">Pintasan situs dibuka di browser. Ketersediaan unduhan bergantung pada situs.</string>
+</resources>

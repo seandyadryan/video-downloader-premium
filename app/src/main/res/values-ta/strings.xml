@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">பிரீமியம்</string>
+    <string name="browse" formatted="false">உலாவவும்</string>
+    <string name="downloads" formatted="false">பதிவிறக்கங்கள்</string>
+    <string name="guide" formatted="false">வழிகாட்டி</string>
+    <string name="settings" formatted="false">அமைப்புகள்</string>
+    <string name="home_title" formatted="false">உங்கள் வீடியோக்கள். உங்கள் தொகுப்பு.</string>
+    <string name="home_subtitle" formatted="false">வைத்திருக்கத் தகுந்த ஒன்றைக் கண்டுபிடி.</string>
+    <string name="search_hint" formatted="false">இணையதளத்தைத் தேடவும் அல்லது உள்ளிடவும்</string>
+    <string name="go" formatted="false">போ</string>
+    <string name="paste_link" formatted="false">வீடியோ இணைப்பை ஒட்டவும்</string>
+    <string name="direct_link" formatted="false">நேரடி வீடியோ இணைப்பு</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">பதிவிறக்கவும்</string>
+    <string name="detect" formatted="false">வீடியோக்களைக் கண்டறியவும்</string>
+    <string name="detected" formatted="false">இந்தப் பக்கத்தில் உள்ள வீடியோக்கள்</string>
+    <string name="no_media" formatted="false">பதிவிறக்கம் செய்யக்கூடிய வீடியோ எதுவும் இல்லை. வீடியோவை இயக்கத் தொடங்கி, மீண்டும் முயலவும். பாதுகாக்கப்பட்ட ஸ்ட்ரீம்கள் மற்றும் உட்பொதிக்கப்பட்ட பிரேம்கள் கிடைக்காமல் போகலாம்.</string>
+    <string name="safe_note" formatted="false">உங்களுக்குச் சொந்தமான அல்லது சேமிக்க அனுமதி உள்ள வீடியோக்களை மட்டும் பதிவிறக்கவும். பாதுகாக்கப்பட்ட ஸ்ட்ரீம்கள் மற்றும் YouTube பதிவிறக்கங்கள் கிடைக்கவில்லை.</string>
+    <string name="quick_start" formatted="false">இங்கே தொடங்கு</string>
+    <string name="quick_browse" formatted="false">இணையத்தை ஆராயுங்கள்</string>
+    <string name="quick_browse_body" formatted="false">உள்ளமைக்கப்பட்ட உலாவியில் உங்களுக்கு விருப்பமான இன்ஜின் மூலம் தேடவும்.</string>
+    <string name="quick_download" formatted="false">வீடியோவைச் சேமிக்கவும்</string>
+    <string name="quick_download_body" formatted="false">நேரடி HTTPS வீடியோ இணைப்பை ஒட்டவும் அல்லது ஒரு பக்கத்தில் வீடியோவைக் கண்டறியவும்.</string>
+    <string name="quick_guide" formatted="false">ஒரு சிறிய வழிகாட்டுதல்</string>
+    <string name="quick_guide_body" formatted="false">கண்டுபிடிப்பிலிருந்து உங்கள் சேகரிப்புக்கான நான்கு விளக்கப் படிகள்.</string>
+    <string name="back" formatted="false">மீண்டும்</string>
+    <string name="forward" formatted="false">முன்னோக்கி</string>
+    <string name="reload" formatted="false">மீண்டும் ஏற்றவும்</string>
+    <string name="home" formatted="false">வீடு</string>
+    <string name="bookmark" formatted="false">புக்மார்க்</string>
+    <string name="bookmarks" formatted="false">புக்மார்க்குகள்</string>
+    <string name="empty_bookmarks" formatted="false">சேமித்த இணையதளங்கள் இங்கே தோன்றும்.</string>
+    <string name="saved" formatted="false">சேமிக்கப்பட்டது</string>
+    <string name="remove" formatted="false">அகற்று</string>
+    <string name="cancel" formatted="false">ரத்து செய்</string>
+    <string name="close" formatted="false">மூடு</string>
+    <string name="confirm_download" formatted="false">இந்த வீடியோவைச் சேமிக்கவா?</string>
+    <string name="filename" formatted="false">கோப்பு பெயர்</string>
+    <string name="download_location" formatted="false">பதிவிறக்கங்கள் / வீடியோ டவுன்லோடர் பிரீமியத்தில் சேமிக்கப்பட்டது</string>
+    <string name="permission_confirm" formatted="false">இந்த வீடியோ எனக்குச் சொந்தமானது அல்லது பதிவிறக்க அனுமதி உள்ளது.</string>
+    <string name="permission_required" formatted="false">இந்த வீடியோவைச் சேமிக்க உங்களுக்கு அனுமதி இருப்பதை உறுதிப்படுத்தவும்.</string>
+    <string name="invalid_url" formatted="false">சரியான HTTPS வீடியோ இணைப்பை உள்ளிடவும்.</string>
+    <string name="unsupported" formatted="false">இந்த இணைப்பு தரவிறக்கம் செய்யக்கூடிய வீடியோ அல்ல. DRM, லைவ் ஸ்ட்ரீம்கள், பிளேலிஸ்ட்கள் மற்றும் YouTube பதிவிறக்கங்கள் ஆதரிக்கப்படவில்லை.</string>
+    <string name="queued" formatted="false">பதிவிறக்கம் வரிசையில் சேர்க்கப்பட்டது</string>
+    <string name="download_error" formatted="false">பதிவிறக்க முடியவில்லை. இணைப்பைச் சரிபார்க்கவும் அல்லது புதிய வீடியோ இணைப்பைப் பயன்படுத்தவும்.</string>
+    <string name="collection_title" formatted="false">உங்கள் தொகுப்பு</string>
+    <string name="collection_subtitle" formatted="false">சேமித்த வீடியோக்கள், நீங்கள் இருக்கும் போது தயார்.</string>
+    <string name="empty_downloads" formatted="false">உங்களுக்கு அடுத்த விருப்பமானது இங்கே உள்ளது.</string>
+    <string name="empty_downloads_body" formatted="false">உலாவு என்பதில் வீடியோவைக் கண்டறியவும் அல்லது உங்கள் சேகரிப்பைத் தொடங்க நேரடி வீடியோ இணைப்பை ஒட்டவும்.</string>
+    <string name="pending" formatted="false">வரிசையில் நிற்கிறது</string>
+    <string name="running" formatted="false">பதிவிறக்குகிறது</string>
+    <string name="paused" formatted="false">நெட்வொர்க்கிற்காக காத்திருக்கிறது அல்லது மீண்டும் முயற்சிக்கவும்</string>
+    <string name="complete" formatted="false">நிறைவு</string>
+    <string name="failed" formatted="false">தோல்வியடைந்தது</string>
+    <string name="missing" formatted="false">கோப்பு கிடைக்கவில்லை</string>
+    <string name="play" formatted="false">விளையாடு</string>
+    <string name="share" formatted="false">பகிரவும்</string>
+    <string name="retry" formatted="false">மீண்டும் முயற்சிக்கவும்</string>
+    <string name="delete_download" formatted="false">பதிவிறக்கத்தையும் அதன் கோப்பையும் அகற்றவா?</string>
+    <string name="no_player" formatted="false">இந்தக் கோப்பைத் திறக்க இணக்கமான ஆப்ஸ் எதுவும் இல்லை.</string>
+    <string name="guide_title" formatted="false">கண்டுபிடிப்பிலிருந்து பதிவிறக்கம் வரை.</string>
+    <string name="guide_subtitle" formatted="false">நீங்கள் விரும்பும் வீடியோக்களை வைத்திருப்பதற்கான எளிய வழிகாட்டி.</string>
+    <string name="step_one_title" formatted="false">உங்கள் வீடியோவைக் கண்டறியவும்</string>
+    <string name="step_one_body" formatted="false">உலாவைத் திறக்கவும். இணையதள முகவரியைத் தேடவும் அல்லது உள்ளிடவும். மற்றொரு பயன்பாட்டிலிருந்து வீடியோ இணைப்பையும் நீங்கள் பகிரலாம்.</string>
+    <string name="step_two_title" formatted="false">மூலத்தைக் கண்டறியவும்</string>
+    <string name="step_two_body" formatted="false">வீடியோவை இயக்கி, வீடியோக்களைக் கண்டுபிடி என்பதைத் தட்டவும். கண்டறியப்பட்ட கோப்பைத் தேர்வுசெய்யவும் அல்லது நேரடி HTTPS வீடியோ இணைப்பை ஒட்டவும்.</string>
+    <string name="step_three_title" formatted="false">அதை உன்னுடையதாக ஆக்கு</string>
+    <string name="step_three_body" formatted="false">கோப்பின் பெயரைத் தேர்வுசெய்து, வீடியோவைச் சேமிப்பதற்கான உங்கள் அனுமதியை உறுதிசெய்து, பதிவிறக்கு என்பதைத் தட்டவும். Android ஆனது பின்னணியில் பதிவிறக்கத்தைத் தொடர்கிறது.</string>
+    <string name="step_four_title" formatted="false">உங்கள் சேகரிப்பை அனுபவிக்கவும்</string>
+    <string name="step_four_body" formatted="false">முன்னேற்றத்தைச் சரிபார்க்க பதிவிறக்கங்களைத் திறக்கவும். முடிக்கப்பட்ட வீடியோக்களை இயக்கவும் அல்லது பகிரவும். தேவைப்படும்போது புதிய இணைப்பைப் பயன்படுத்தி தோல்வியடைந்த பதிவிறக்கங்களை மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="try_now" formatted="false">இப்போது முயற்சிக்கவும்</string>
+    <string name="preferences" formatted="false">அதை உங்கள் சொந்தமாக்குங்கள்.</string>
+    <string name="preferences_subtitle" formatted="false">உங்கள் அன்றாட உலாவலுக்கான சில சிந்தனைக் கட்டுப்பாடுகள்.</string>
+    <string name="dns_title" formatted="false">VPN / தனியார் DNS</string>
+    <string name="dns_explanation" formatted="false">தனியார் டிஎன்எஸ் டிஎன்எஸ் வினவல்களை என்க்ரிப்ட் செய்கிறது. இது உங்கள் ஐபி முகவரியை மறைக்காது அல்லது VPN சுரங்கப்பாதையை உருவாக்காது. இந்த அமைப்பை நீங்கள் கைமுறையாக மாற்ற வேண்டும் என்று Android தேவைப்படுகிறது.</string>
+    <string name="connected" formatted="false">இணைக்கப்பட்டது</string>
+    <string name="unconnected" formatted="false">இணைக்கப்படவில்லை</string>
+    <string name="connect" formatted="false">இணைக்கவும்</string>
+    <string name="disconnect" formatted="false">துண்டிக்கவும்</string>
+    <string name="dns_instructions" formatted="false">தனியார் DNS வழங்குநரின் ஹோஸ்ட்பெயரைத் தேர்ந்தெடுத்து, dns.adguard-dns.comஐ ஒட்டவும், சேமிக்கவும். துண்டிக்க, அதே கணினி அமைப்பில் தானியங்கு அல்லது முடக்கு என்பதைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="copy_hostname" formatted="false">ஹோஸ்ட்பெயரை நகலெடுக்கவும்</string>
+    <string name="copied" formatted="false">கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது</string>
+    <string name="open_network_settings" formatted="false">பிணைய அமைப்புகளைத் திறக்கவும்</string>
+    <string name="language" formatted="false">பயன்பாட்டு மொழி</string>
+    <string name="system_language" formatted="false">சாதன மொழியைப் பின்பற்றவும்</string>
+    <string name="search_language" formatted="false">ஒரு மொழியைக் கண்டுபிடி</string>
+    <string name="language_note" formatted="false">மொழிபெயர்ப்புகள் ஆஃப்லைனில் சேர்க்கப்பட்டுள்ளன. பட்டியலிடப்படாத சாதன மொழிகள் ஆங்கிலத்தைப் பயன்படுத்துகின்றன. இயந்திர மொழிபெயர்ப்புகளுக்கு பிராந்திய மதிப்பாய்வு தேவைப்படலாம்.</string>
+    <string name="search_engine" formatted="false">தேடுபொறி</string>
+    <string name="wifi_only" formatted="false">வைஃபையில் மட்டும் பதிவிறக்கவும்</string>
+    <string name="wifi_body" formatted="false">Wi-Fi கிடைக்கும் வரை புதிய பதிவிறக்கங்கள் காத்திருக்கின்றன.</string>
+    <string name="javascript" formatted="false">ஜாவாஸ்கிரிப்ட் இணையதளம்</string>
+    <string name="javascript_body" formatted="false">பல இணையதளங்கள் மற்றும் HTML5 வீடியோ கண்டுபிடிப்புக்குத் தேவை.</string>
+    <string name="privacy" formatted="false">தனியுரிமை</string>
+    <string name="clear_browser" formatted="false">உலாவல் தரவை அழிக்கவும்</string>
+    <string name="clear_browser_confirm" formatted="false">குக்கீகள், உலாவி தற்காலிக சேமிப்பு, வரலாறு மற்றும் இணையதள சேமிப்பகத்தை நீக்கவா?</string>
+    <string name="privacy_body" formatted="false">விளம்பரங்கள், பகுப்பாய்வுகள் அல்லது டெவலப்பர் கணக்குகள் இல்லை. இணையதளங்கள், தேடுபொறிகள், DNS வழங்குநர்கள் மற்றும் பதிவிறக்க சேவையகங்கள் நீங்கள் செய்யும் கோரிக்கைகளைப் பெறுகின்றன. பதிவிறக்க வரலாறு மற்றும் புக்மார்க்குகள் இந்தச் சாதனத்தில் இருக்கும்.</string>
+    <string name="terms" formatted="false">பொறுப்புடன் பயன்படுத்தவும்</string>
+    <string name="terms_body" formatted="false">உங்களுக்குச் சொந்தமான அல்லது பதிவிறக்க அனுமதிக்கப்பட்ட வீடியோக்களை மட்டும் சேமிக்கவும். பதிப்புரிமை மற்றும் இணையதள விதிமுறைகளை மதிக்கவும். இந்த ஆப்ஸ் DRM, paywalls அல்லது இயங்குதளப் பதிவிறக்கக் கட்டுப்பாடுகளைத் தவிர்க்க முடியாது.</string>
+    <string name="about" formatted="false">பற்றி</string>
+    <string name="version" formatted="false">பதிப்பு</string>
+    <string name="paid_app" formatted="false">ஒரு கொள்முதல். விளம்பரங்கள் இல்லை. சந்தா இல்லை.</string>
+    <string name="welcome_title" formatted="false">உங்களுக்கு ஊக்கமளிப்பதை வைத்திருங்கள்.</string>
+    <string name="welcome_body" formatted="false">அனுமதிக்கப்பட்ட வீடியோக்களை ஒரே இடத்தில் உலாவவும், கண்டறியவும் மற்றும் சேமிக்கவும். தொடங்குவதற்கு விளக்கப்பட வழிகாட்டியைப் படியுங்கள்.</string>
+    <string name="start_browsing" formatted="false">உலாவத் தொடங்குங்கள்</string>
+    <string name="read_guide" formatted="false">வழிகாட்டியைப் படியுங்கள்</string>
+    <string name="browser_error" formatted="false">இந்தப் பக்கத்தை ஏற்ற முடியவில்லை. முகவரியையும் இணைப்பையும் சரிபார்த்து, மீண்டும் ஏற்றவும்.</string>
+    <string name="secure_only" formatted="false">இந்த ஆப்ஸ் HTTPS இணைப்புகளைப் பயன்படுத்துகிறது. இந்த இணையதளத்தின் பாதுகாப்பான பதிப்பை முயற்சிக்கவும்.</string>
+    <string name="external_link" formatted="false">இந்த இணைப்பை வேறொரு பயன்பாட்டில் திறக்கவா?</string>
+    <string name="open" formatted="false">திற</string>
+    <string name="refresh" formatted="false">புதுப்பிக்கவும்</string>
+    <string name="accessibility_tutorial" formatted="false">இந்த டுடோரியல் படிக்கான விளக்கம்</string>
+    <string name="download_reason" formatted="false">Android பதிவிறக்க பிழை குறியீடு</string>
+    <string name="queue_full" formatted="false">பதிவிறக்க வரலாறு நிரம்பியுள்ளது. முதலில் பழைய பதிவை அகற்றவும்.</string>
+    <string name="browser_tabs" formatted="false">உலாவி தாவல்கள்</string>
+    <string name="tabs_subtitle" formatted="false">இணையதளங்களைத் திறந்து வைத்து அவற்றுக்கிடையே மாறவும்.</string>
+    <string name="new_tab" formatted="false">புதிய தாவல்</string>
+    <string name="close_tab" formatted="false">தாவலை மூடு</string>
+    <string name="active_tab" formatted="false">செயலில் உள்ள தாவல்</string>
+    <string name="tab_limit" formatted="false">நீங்கள் 8 தாவல்கள் வரை திறக்கலாம். இன்னொன்றைச் சேர்க்க ஒரு தாவலை மூடு.</string>
+    <string name="history" formatted="false">வரலாறு</string>
+    <string name="history_subtitle" formatted="false">பார்வையிட்ட இணையதளங்கள் இந்தச் சாதனத்தில் மட்டுமே சேமிக்கப்படும்.</string>
+    <string name="empty_history" formatted="false">உங்கள் உலாவல் வரலாறு இங்கே தோன்றும்.</string>
+    <string name="clear_history" formatted="false">தெளிவான வரலாறு</string>
+    <string name="clear_history_confirm" formatted="false">இந்தச் சாதனத்திலிருந்து அனைத்து உலாவல் வரலாற்றையும் நீக்கவா?</string>
+    <string name="open_new_tab" formatted="false">புதிய தாவலில் திறக்கவும்</string>
+    <string name="browser_menu" formatted="false">உலாவி மெனு</string>
+    <string name="shortcut_note" formatted="false">உலாவியில் இணையதள குறுக்குவழிகள் திறக்கப்படும். பதிவிறக்கம் கிடைப்பது இணையதளத்தைப் பொறுத்தது.</string>
+</resources>

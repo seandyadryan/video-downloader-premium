@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Naršyti</string>
+    <string name="downloads" formatted="false">Atsisiuntimai</string>
+    <string name="guide" formatted="false">Vadovas</string>
+    <string name="settings" formatted="false">Nustatymai</string>
+    <string name="home_title" formatted="false">Jūsų vaizdo įrašai. Jūsų kolekcija.</string>
+    <string name="home_subtitle" formatted="false">Raskite ką nors, ką verta pasilikti.</string>
+    <string name="search_hint" formatted="false">Ieškokite arba įveskite svetainę</string>
+    <string name="go" formatted="false">Eik</string>
+    <string name="paste_link" formatted="false">Įklijuokite vaizdo įrašo nuorodą</string>
+    <string name="direct_link" formatted="false">Tiesioginė vaizdo nuoroda</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Atsisiųsti</string>
+    <string name="detect" formatted="false">Rasti vaizdo įrašus</string>
+    <string name="detected" formatted="false">Vaizdo įrašai šiame puslapyje</string>
+    <string name="no_media" formatted="false">Atsisiunčiamo vaizdo įrašo nerasta. Pradėkite leisti vaizdo įrašą, tada bandykite dar kartą. Apsaugoti srautai ir įterptieji rėmeliai gali būti nepasiekiami.</string>
+    <string name="safe_note" formatted="false">Atsisiųskite tik jums priklausančius vaizdo įrašus arba turite leidimą išsaugoti. Apsaugoti srautai ir „YouTube“ atsisiuntimai nepasiekiami.</string>
+    <string name="quick_start" formatted="false">PRADĖKITE ČIA</string>
+    <string name="quick_browse" formatted="false">Naršykite žiniatinklį</string>
+    <string name="quick_browse_body" formatted="false">Ieškokite naudodami pageidaujamą variklį integruotoje naršyklėje.</string>
+    <string name="quick_download" formatted="false">Išsaugoti vaizdo įrašą</string>
+    <string name="quick_download_body" formatted="false">Įklijuokite tiesioginę HTTPS vaizdo įrašo nuorodą arba suraskite vaizdo įrašą puslapyje.</string>
+    <string name="quick_guide" formatted="false">Šiek tiek nurodymų</string>
+    <string name="quick_guide_body" formatted="false">Keturi iliustruoti žingsniai nuo atradimo iki jūsų kolekcijos.</string>
+    <string name="back" formatted="false">Atgal</string>
+    <string name="forward" formatted="false">Pirmyn</string>
+    <string name="reload" formatted="false">Įkelti iš naujo</string>
+    <string name="home" formatted="false">Pradžia</string>
+    <string name="bookmark" formatted="false">Žymė</string>
+    <string name="bookmarks" formatted="false">Žymės</string>
+    <string name="empty_bookmarks" formatted="false">Išsaugotos svetainės bus rodomos čia.</string>
+    <string name="saved" formatted="false">Išsaugota</string>
+    <string name="remove" formatted="false">Pašalinti</string>
+    <string name="cancel" formatted="false">Atšaukti</string>
+    <string name="close" formatted="false">Uždaryti</string>
+    <string name="confirm_download" formatted="false">Išsaugoti šį vaizdo įrašą?</string>
+    <string name="filename" formatted="false">Failo pavadinimas</string>
+    <string name="download_location" formatted="false">Išsaugota atsisiuntimų / vaizdo įrašų atsisiuntimo programoje</string>
+    <string name="permission_confirm" formatted="false">Man priklauso šis vaizdo įrašas arba turiu leidimą jį atsisiųsti.</string>
+    <string name="permission_required" formatted="false">Patvirtinkite, kad turite leidimą išsaugoti šį vaizdo įrašą.</string>
+    <string name="invalid_url" formatted="false">Įveskite tinkamą HTTPS vaizdo įrašo nuorodą.</string>
+    <string name="unsupported" formatted="false">Ši nuoroda nėra atsisiunčiamas vaizdo įrašas. DRM, tiesioginiai srautai, grojaraščiai ir „YouTube“ atsisiuntimai nepalaikomi.</string>
+    <string name="queued" formatted="false">Atsisiuntimas įtrauktas į eilę</string>
+    <string name="download_error" formatted="false">Nepavyko atsisiųsti. Patikrinkite ryšį arba naudokite naują vaizdo įrašo nuorodą.</string>
+    <string name="collection_title" formatted="false">Jūsų kolekcija</string>
+    <string name="collection_subtitle" formatted="false">Išsaugoti vaizdo įrašai, pasiruošę, kai būsite.</string>
+    <string name="empty_downloads" formatted="false">Kitas jūsų mėgstamiausias priklauso čia.</string>
+    <string name="empty_downloads_body" formatted="false">Suraskite vaizdo įrašą skiltyje Naršyti arba įklijuokite tiesioginę vaizdo įrašo nuorodą, kad pradėtumėte savo kolekciją.</string>
+    <string name="pending" formatted="false">Eilėje</string>
+    <string name="running" formatted="false">Atsisiunčiama</string>
+    <string name="paused" formatted="false">Laukiama tinklo arba bandykite dar kartą</string>
+    <string name="complete" formatted="false">Užbaigti</string>
+    <string name="failed" formatted="false">Nepavyko</string>
+    <string name="missing" formatted="false">Failas nepasiekiamas</string>
+    <string name="play" formatted="false">Žaisti</string>
+    <string name="share" formatted="false">Dalintis</string>
+    <string name="retry" formatted="false">Bandykite dar kartą</string>
+    <string name="delete_download" formatted="false">Pašalinti atsisiuntimą ir jo failą?</string>
+    <string name="no_player" formatted="false">Nėra suderinamos programos šiam failui atidaryti.</string>
+    <string name="guide_title" formatted="false">Nuo atradimo iki atsisiuntimo.</string>
+    <string name="guide_subtitle" formatted="false">Paprastas vadovas, kaip išlaikyti mėgstamus vaizdo įrašus.</string>
+    <string name="step_one_title" formatted="false">Raskite savo vaizdo įrašą</string>
+    <string name="step_one_body" formatted="false">Atidarykite Naršyti. Ieškokite arba įveskite svetainės adresą. Taip pat galite bendrinti vaizdo įrašo nuorodą iš kitos programos.</string>
+    <string name="step_two_title" formatted="false">Atraskite šaltinį</string>
+    <string name="step_two_body" formatted="false">Leiskite vaizdo įrašą, tada bakstelėkite Rasti vaizdo įrašus. Pasirinkite aptiktą failą arba įklijuokite tiesioginę HTTPS vaizdo įrašo nuorodą.</string>
+    <string name="step_three_title" formatted="false">Padarykite tai savo</string>
+    <string name="step_three_body" formatted="false">Pasirinkite failo pavadinimą, patvirtinkite leidimą išsaugoti vaizdo įrašą ir bakstelėkite Atsisiųsti. „Android“ tęsia atsisiuntimą fone.</string>
+    <string name="step_four_title" formatted="false">Mėgaukitės savo kolekcija</string>
+    <string name="step_four_body" formatted="false">Atidarykite atsisiuntimus, kad patikrintumėte eigą. Leiskite arba bendrinkite užbaigtus vaizdo įrašus. Jei reikia, bandykite iš naujo atsisiųsti nesėkmingus atsisiuntimus naudodami naują nuorodą.</string>
+    <string name="try_now" formatted="false">Išbandykite dabar</string>
+    <string name="preferences" formatted="false">Padarykite tai savo.</string>
+    <string name="preferences_subtitle" formatted="false">Keletas apgalvotų valdiklių kasdieniam naršymui.</string>
+    <string name="dns_title" formatted="false">VPN / privatus DNS</string>
+    <string name="dns_explanation" formatted="false">Privatus DNS užšifruoja DNS užklausas. Jis neslepia jūsų IP adreso ir nesukuria VPN tunelio. „Android“ reikalauja, kad šį nustatymą pakeistumėte rankiniu būdu.</string>
+    <string name="connected" formatted="false">Prisijungta</string>
+    <string name="unconnected" formatted="false">Atsijungta</string>
+    <string name="connect" formatted="false">Prisijunkite</string>
+    <string name="disconnect" formatted="false">Atsijungti</string>
+    <string name="dns_instructions" formatted="false">Pasirinkite privataus DNS teikėjo prieglobos pavadinimą, įklijuokite dns.adguard-dns.com ir išsaugokite. Norėdami atsijungti, tame pačiame sistemos nustatyme pasirinkite Automatic arba Off.</string>
+    <string name="copy_hostname" formatted="false">Kopijuoti pagrindinio kompiuterio pavadinimą</string>
+    <string name="copied" formatted="false">Nukopijuota į mainų sritį</string>
+    <string name="open_network_settings" formatted="false">Atidarykite tinklo nustatymus</string>
+    <string name="language" formatted="false">Programos kalba</string>
+    <string name="system_language" formatted="false">Sekite įrenginio kalbą</string>
+    <string name="search_language" formatted="false">Rasti kalbą</string>
+    <string name="language_note" formatted="false">Vertimai įtraukiami neprisijungus. Į sąrašą neįtrauktų įrenginių kalbomis naudojama anglų kalba. Mašininiams vertimams gali prireikti regioninės peržiūros.</string>
+    <string name="search_engine" formatted="false">Paieškos variklis</string>
+    <string name="wifi_only" formatted="false">Atsisiųskite tik per „Wi-Fi“.</string>
+    <string name="wifi_body" formatted="false">Nauji atsisiuntimai laukia, kol bus pasiekiamas „Wi-Fi“.</string>
+    <string name="javascript" formatted="false">Svetainės JavaScript</string>
+    <string name="javascript_body" formatted="false">Reikalingas daugeliui svetainių ir HTML5 vaizdo įrašų atradimui.</string>
+    <string name="privacy" formatted="false">Privatumas</string>
+    <string name="clear_browser" formatted="false">Išvalyti naršymo duomenis</string>
+    <string name="clear_browser_confirm" formatted="false">Ištrinti slapukus, naršyklės talpyklą, istoriją ir svetainės saugyklą?</string>
+    <string name="privacy_body" formatted="false">Jokių skelbimų, analizės ar kūrėjo paskyrų. Svetainės, paieškos sistemos, DNS teikėjai ir atsisiuntimo serveriai gauna jūsų pateiktas užklausas. Atsisiuntimų istorija ir žymės lieka šiame įrenginyje.</string>
+    <string name="terms" formatted="false">Naudokite atsakingai</string>
+    <string name="terms_body" formatted="false">Išsaugokite tik jums priklausančius vaizdo įrašus arba kuriuos jums leidžiama atsisiųsti. Gerbkite autorių teises ir svetainės sąlygas. Ši programa negali apeiti DRM, mokamų sienų ar platformos atsisiuntimo apribojimų.</string>
+    <string name="about" formatted="false">Apie</string>
+    <string name="version" formatted="false">Versija</string>
+    <string name="paid_app" formatted="false">Vienas pirkinys. Jokių skelbimų. Nėra prenumeratos.</string>
+    <string name="welcome_title" formatted="false">Laikykite tai, kas jus įkvepia.</string>
+    <string name="welcome_body" formatted="false">Naršykite, atraskite ir išsaugokite leidžiamus vaizdo įrašus vienoje vietoje. Norėdami pradėti, perskaitykite iliustruotą vadovą.</string>
+    <string name="start_browsing" formatted="false">Pradėkite naršyti</string>
+    <string name="read_guide" formatted="false">Perskaitykite vadovą</string>
+    <string name="browser_error" formatted="false">Šio puslapio nepavyko įkelti. Patikrinkite adresą ir ryšį, tada įkelkite iš naujo.</string>
+    <string name="secure_only" formatted="false">Ši programa naudoja HTTPS ryšius. Išbandykite saugią šios svetainės versiją.</string>
+    <string name="external_link" formatted="false">Atidaryti šią nuorodą kitoje programoje?</string>
+    <string name="open" formatted="false">Atidaryti</string>
+    <string name="refresh" formatted="false">Atnaujinti</string>
+    <string name="accessibility_tutorial" formatted="false">Šio mokymo žingsnio iliustracija</string>
+    <string name="download_reason" formatted="false">Android atsisiuntimo klaidos kodas</string>
+    <string name="queue_full" formatted="false">Atsisiuntimų istorija pilna. Pirmiausia pašalinkite senesnį įrašą.</string>
+    <string name="browser_tabs" formatted="false">Naršyklės skirtukai</string>
+    <string name="tabs_subtitle" formatted="false">Laikykite svetaines atidarytas ir perjunkite jas.</string>
+    <string name="new_tab" formatted="false">Naujas skirtukas</string>
+    <string name="close_tab" formatted="false">Uždaryti skirtuką</string>
+    <string name="active_tab" formatted="false">Aktyvus skirtukas</string>
+    <string name="tab_limit" formatted="false">Galite atidaryti iki 8 skirtukų. Uždarykite skirtuką, kad pridėtumėte kitą.</string>
+    <string name="history" formatted="false">Istorija</string>
+    <string name="history_subtitle" formatted="false">Aplankytos svetainės išsaugomos tik šiame įrenginyje.</string>
+    <string name="empty_history" formatted="false">Čia bus rodoma jūsų naršymo istorija.</string>
+    <string name="clear_history" formatted="false">Išvalyti istoriją</string>
+    <string name="clear_history_confirm" formatted="false">Ištrinti visą naršymo istoriją iš šio įrenginio?</string>
+    <string name="open_new_tab" formatted="false">Atidaryti naujame skirtuke</string>
+    <string name="browser_menu" formatted="false">Naršyklės meniu</string>
+    <string name="shortcut_note" formatted="false">Svetainės spartieji klavišai atidaromi naršyklėje. Atsisiuntimo galimybė priklauso nuo svetainės.</string>
+</resources>

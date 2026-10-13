@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Περιήγηση</string>
+    <string name="downloads" formatted="false">Λήψεις</string>
+    <string name="guide" formatted="false">Οδηγός</string>
+    <string name="settings" formatted="false">Ρυθμίσεις</string>
+    <string name="home_title" formatted="false">Τα βίντεό σας. Η συλλογή σας.</string>
+    <string name="home_subtitle" formatted="false">Βρείτε κάτι που αξίζει να κρατήσετε.</string>
+    <string name="search_hint" formatted="false">Αναζητήστε ή εισαγάγετε έναν ιστότοπο</string>
+    <string name="go" formatted="false">Πήγαινε</string>
+    <string name="paste_link" formatted="false">Επικόλληση συνδέσμου βίντεο</string>
+    <string name="direct_link" formatted="false">Απευθείας σύνδεση βίντεο</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Λήψη</string>
+    <string name="detect" formatted="false">Βρείτε βίντεο</string>
+    <string name="detected" formatted="false">Βίντεο σε αυτή τη σελίδα</string>
+    <string name="no_media" formatted="false">Δεν βρέθηκε βίντεο με δυνατότητα λήψης. Ξεκινήστε την αναπαραγωγή ενός βίντεο και δοκιμάστε ξανά. Οι προστατευμένες ροές και τα ενσωματωμένα πλαίσια ενδέχεται να μην είναι διαθέσιμα.</string>
+    <string name="safe_note" formatted="false">Κατεβάστε μόνο βίντεο που σας ανήκουν ή έχετε άδεια αποθήκευσης. Οι προστατευμένες ροές και οι λήψεις YouTube δεν είναι διαθέσιμες.</string>
+    <string name="quick_start" formatted="false">ΞΕΚΙΝΗΣΤΕ ΕΔΩ</string>
+    <string name="quick_browse" formatted="false">Εξερευνήστε τον Ιστό</string>
+    <string name="quick_browse_body" formatted="false">Αναζητήστε με τη μηχανή που προτιμάτε στο ενσωματωμένο πρόγραμμα περιήγησης.</string>
+    <string name="quick_download" formatted="false">Αποθήκευση βίντεο</string>
+    <string name="quick_download_body" formatted="false">Επικολλήστε έναν άμεσο σύνδεσμο βίντεο HTTPS ή βρείτε ένα βίντεο σε μια σελίδα.</string>
+    <string name="quick_guide" formatted="false">Μια μικρή καθοδήγηση</string>
+    <string name="quick_guide_body" formatted="false">Τέσσερα εικονογραφημένα βήματα από την ανακάλυψη στη συλλογή σας.</string>
+    <string name="back" formatted="false">Πίσω</string>
+    <string name="forward" formatted="false">Εμπρός</string>
+    <string name="reload" formatted="false">Επαναφόρτωση</string>
+    <string name="home" formatted="false">Σπίτι</string>
+    <string name="bookmark" formatted="false">Σελιδοδείκτης</string>
+    <string name="bookmarks" formatted="false">Σελιδοδείκτες</string>
+    <string name="empty_bookmarks" formatted="false">Οι αποθηκευμένοι ιστότοποι θα εμφανίζονται εδώ.</string>
+    <string name="saved" formatted="false">Αποθηκεύτηκε</string>
+    <string name="remove" formatted="false">Αφαίρεση</string>
+    <string name="cancel" formatted="false">Ακύρωση</string>
+    <string name="close" formatted="false">Κλείσιμο</string>
+    <string name="confirm_download" formatted="false">Αποθήκευση αυτού του βίντεο;</string>
+    <string name="filename" formatted="false">Όνομα αρχείου</string>
+    <string name="download_location" formatted="false">Αποθηκεύτηκε στο Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Είμαι κάτοχος αυτού του βίντεο ή έχω άδεια να το κατεβάσω.</string>
+    <string name="permission_required" formatted="false">Επιβεβαιώστε ότι έχετε άδεια αποθήκευσης αυτού του βίντεο.</string>
+    <string name="invalid_url" formatted="false">Εισαγάγετε έναν έγκυρο σύνδεσμο βίντεο HTTPS.</string>
+    <string name="unsupported" formatted="false">Αυτός ο σύνδεσμος δεν είναι βίντεο με δυνατότητα λήψης. Το DRM, οι ζωντανές ροές, οι λίστες αναπαραγωγής και οι λήψεις από το YouTube δεν υποστηρίζονται.</string>
+    <string name="queued" formatted="false">Η λήψη προστέθηκε στην ουρά</string>
+    <string name="download_error" formatted="false">Δεν είναι δυνατή η λήψη. Ελέγξτε τη σύνδεση ή χρησιμοποιήστε έναν νέο σύνδεσμο βίντεο.</string>
+    <string name="collection_title" formatted="false">Η συλλογή σας</string>
+    <string name="collection_subtitle" formatted="false">Αποθηκευμένα βίντεο, έτοιμα όταν είστε.</string>
+    <string name="empty_downloads" formatted="false">Το επόμενο αγαπημένο σας ανήκει εδώ.</string>
+    <string name="empty_downloads_body" formatted="false">Βρείτε ένα βίντεο στην Περιήγηση ή επικολλήστε έναν άμεσο σύνδεσμο βίντεο για να ξεκινήσετε τη συλλογή σας.</string>
+    <string name="pending" formatted="false">Σε ουρά</string>
+    <string name="running" formatted="false">Λήψη</string>
+    <string name="paused" formatted="false">Αναμονή για δίκτυο ή επανάληψη</string>
+    <string name="complete" formatted="false">Ολοκληρώθηκε</string>
+    <string name="failed" formatted="false">Απέτυχε</string>
+    <string name="missing" formatted="false">Το αρχείο δεν είναι διαθέσιμο</string>
+    <string name="play" formatted="false">Παίξτε</string>
+    <string name="share" formatted="false">Κοινή χρήση</string>
+    <string name="retry" formatted="false">Επανάληψη</string>
+    <string name="delete_download" formatted="false">Να καταργηθεί η λήψη και το αρχείο της;</string>
+    <string name="no_player" formatted="false">Δεν υπάρχει διαθέσιμη συμβατή εφαρμογή για το άνοιγμα αυτού του αρχείου.</string>
+    <string name="guide_title" formatted="false">Από την ανακάλυψη στη λήψη.</string>
+    <string name="guide_subtitle" formatted="false">Ένας απλός οδηγός για να διατηρήσετε τα βίντεο που αγαπάτε.</string>
+    <string name="step_one_title" formatted="false">Βρείτε το βίντεό σας</string>
+    <string name="step_one_body" formatted="false">Ανοίξτε την Αναζήτηση. Αναζητήστε ή εισαγάγετε μια διεύθυνση ιστότοπου. Μπορείτε επίσης να μοιραστείτε έναν σύνδεσμο βίντεο από άλλη εφαρμογή.</string>
+    <string name="step_two_title" formatted="false">Ανακαλύψτε την πηγή</string>
+    <string name="step_two_body" formatted="false">Παίξτε ένα βίντεο και μετά πατήστε Εύρεση βίντεο. Επιλέξτε ένα αρχείο που εντοπίστηκε ή επικολλήστε έναν άμεσο σύνδεσμο βίντεο HTTPS.</string>
+    <string name="step_three_title" formatted="false">Κάντε το δικό σας</string>
+    <string name="step_three_body" formatted="false">Επιλέξτε ένα όνομα αρχείου, επιβεβαιώστε την άδειά σας για αποθήκευση του βίντεο και πατήστε Λήψη. Το Android συνεχίζει τη λήψη στο παρασκήνιο.</string>
+    <string name="step_four_title" formatted="false">Απολαύστε τη συλλογή σας</string>
+    <string name="step_four_body" formatted="false">Ανοίξτε τις Λήψεις για να ελέγξετε την πρόοδο. Αναπαραγωγή ή κοινή χρήση ολοκληρωμένων βίντεο. Δοκιμάστε ξανά τις αποτυχημένες λήψεις με έναν νέο σύνδεσμο όταν χρειάζεται.</string>
+    <string name="try_now" formatted="false">Δοκιμάστε το τώρα</string>
+    <string name="preferences" formatted="false">Κάντε το δικό σας.</string>
+    <string name="preferences_subtitle" formatted="false">Μερικά προσεγμένα στοιχεία ελέγχου για την καθημερινή σας περιήγηση.</string>
+    <string name="dns_title" formatted="false">VPN / Ιδιωτικό DNS</string>
+    <string name="dns_explanation" formatted="false">Το ιδιωτικό DNS κρυπτογραφεί ερωτήματα DNS. Δεν κρύβει τη διεύθυνση IP σας ούτε δημιουργεί σήραγγα VPN. Το Android απαιτεί να αλλάξετε αυτήν τη ρύθμιση με μη αυτόματο τρόπο.</string>
+    <string name="connected" formatted="false">Συνδεδεμένος</string>
+    <string name="unconnected" formatted="false">Μη συνδεδεμένος</string>
+    <string name="connect" formatted="false">Συνδεθείτε</string>
+    <string name="disconnect" formatted="false">Αποσύνδεση</string>
+    <string name="dns_instructions" formatted="false">Επιλέξτε όνομα κεντρικού υπολογιστή παροχής ιδιωτικού DNS, επικολλήστε το dns.adguard-dns.com και αποθηκεύστε. Για αποσύνδεση, επιλέξτε Αυτόματη ή Απενεργοποίηση στην ίδια ρύθμιση συστήματος.</string>
+    <string name="copy_hostname" formatted="false">Αντιγραφή ονόματος κεντρικού υπολογιστή</string>
+    <string name="copied" formatted="false">Αντιγράφηκε στο πρόχειρο</string>
+    <string name="open_network_settings" formatted="false">Ανοίξτε τις ρυθμίσεις δικτύου</string>
+    <string name="language" formatted="false">Γλώσσα εφαρμογής</string>
+    <string name="system_language" formatted="false">Ακολουθήστε τη γλώσσα της συσκευής</string>
+    <string name="search_language" formatted="false">Βρείτε μια γλώσσα</string>
+    <string name="language_note" formatted="false">Οι μεταφράσεις περιλαμβάνονται εκτός σύνδεσης. Οι μη καταχωρημένες γλώσσες της συσκευής χρησιμοποιούν τα Αγγλικά. Οι μηχανικές μεταφράσεις ενδέχεται να χρειάζονται τοπικό έλεγχο.</string>
+    <string name="search_engine" formatted="false">μηχανή αναζήτησης</string>
+    <string name="wifi_only" formatted="false">Λήψη μόνο μέσω Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Οι νέες λήψεις περιμένουν μέχρι να είναι διαθέσιμο το Wi-Fi.</string>
+    <string name="javascript" formatted="false">Ιστοσελίδα JavaScript</string>
+    <string name="javascript_body" formatted="false">Απαιτείται από πολλούς ιστότοπους και ανακάλυψη βίντεο HTML5.</string>
+    <string name="privacy" formatted="false">Απόρρητο</string>
+    <string name="clear_browser" formatted="false">Εκκαθάριση δεδομένων περιήγησης</string>
+    <string name="clear_browser_confirm" formatted="false">Διαγραφή cookie, προσωρινής μνήμης προγράμματος περιήγησης, ιστορικού και αποθήκευσης ιστότοπου;</string>
+    <string name="privacy_body" formatted="false">Χωρίς διαφημίσεις, αναλυτικά στοιχεία ή λογαριασμούς προγραμματιστή. Οι ιστότοποι, οι μηχανές αναζήτησης, οι πάροχοι DNS και οι διακομιστές λήψης λαμβάνουν τα αιτήματα που υποβάλλετε. Το ιστορικό λήψεων και οι σελιδοδείκτες παραμένουν σε αυτήν τη συσκευή.</string>
+    <string name="terms" formatted="false">Χρησιμοποιήστε υπεύθυνα</string>
+    <string name="terms_body" formatted="false">Αποθηκεύστε μόνο βίντεο που κατέχετε ή έχετε άδεια λήψης. Σεβαστείτε τα πνευματικά δικαιώματα και τους όρους του ιστότοπου. Αυτή η εφαρμογή δεν μπορεί να παρακάμψει τους περιορισμούς λήψης DRM, τοιχωμάτων πληρωμής ή πλατφόρμας.</string>
+    <string name="about" formatted="false">Περίπου</string>
+    <string name="version" formatted="false">Έκδοση</string>
+    <string name="paid_app" formatted="false">Μία αγορά. Χωρίς διαφημίσεις. Χωρίς συνδρομή.</string>
+    <string name="welcome_title" formatted="false">Κράτα αυτό που σε εμπνέει.</string>
+    <string name="welcome_body" formatted="false">Περιηγηθείτε, ανακαλύψτε και αποθηκεύστε τα επιτρεπόμενα βίντεο σε ένα μέρος. Διαβάστε τον εικονογραφημένο οδηγό για να ξεκινήσετε.</string>
+    <string name="start_browsing" formatted="false">Ξεκινήστε την περιήγηση</string>
+    <string name="read_guide" formatted="false">Διαβάστε τον οδηγό</string>
+    <string name="browser_error" formatted="false">Δεν ήταν δυνατή η φόρτωση αυτής της σελίδας. Ελέγξτε τη διεύθυνση και τη σύνδεση και, στη συνέχεια, φορτώστε ξανά.</string>
+    <string name="secure_only" formatted="false">Αυτή η εφαρμογή χρησιμοποιεί συνδέσεις HTTPS. Δοκιμάστε την ασφαλή έκδοση αυτού του ιστότοπου.</string>
+    <string name="external_link" formatted="false">Άνοιγμα αυτού του συνδέσμου σε άλλη εφαρμογή;</string>
+    <string name="open" formatted="false">Ανοίξτε</string>
+    <string name="refresh" formatted="false">Ανανέωση</string>
+    <string name="accessibility_tutorial" formatted="false">Απεικόνιση για αυτό το βήμα εκμάθησης</string>
+    <string name="download_reason" formatted="false">Κωδικός σφάλματος λήψης Android</string>
+    <string name="queue_full" formatted="false">Το ιστορικό λήψης είναι πλήρες. Καταργήστε πρώτα μια παλαιότερη καταχώριση.</string>
+    <string name="browser_tabs" formatted="false">Καρτέλες προγράμματος περιήγησης</string>
+    <string name="tabs_subtitle" formatted="false">Διατηρήστε τους ιστότοπους ανοιχτούς και κάντε εναλλαγή μεταξύ τους.</string>
+    <string name="new_tab" formatted="false">Νέα καρτέλα</string>
+    <string name="close_tab" formatted="false">Κλείσιμο καρτέλας</string>
+    <string name="active_tab" formatted="false">Ενεργή καρτέλα</string>
+    <string name="tab_limit" formatted="false">Μπορείτε να ανοίξετε έως και 8 καρτέλες. Κλείστε μια καρτέλα για να προσθέσετε μια άλλη.</string>
+    <string name="history" formatted="false">Ιστορία</string>
+    <string name="history_subtitle" formatted="false">Οι ιστότοποι που επισκέπτεστε αποθηκεύονται μόνο σε αυτήν τη συσκευή.</string>
+    <string name="empty_history" formatted="false">Το ιστορικό περιήγησής σας θα εμφανιστεί εδώ.</string>
+    <string name="clear_history" formatted="false">Εκκαθάριση ιστορικού</string>
+    <string name="clear_history_confirm" formatted="false">Διαγραφή όλου του ιστορικού περιήγησης από αυτήν τη συσκευή;</string>
+    <string name="open_new_tab" formatted="false">Άνοιγμα σε νέα καρτέλα</string>
+    <string name="browser_menu" formatted="false">Μενού προγράμματος περιήγησης</string>
+    <string name="shortcut_note" formatted="false">Οι συντομεύσεις ιστότοπου ανοίγουν στο πρόγραμμα περιήγησης. Η διαθεσιμότητα λήψης εξαρτάται από τον ιστότοπο.</string>
+</resources>

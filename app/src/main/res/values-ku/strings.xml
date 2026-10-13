@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Browse</string>
+    <string name="downloads" formatted="false">Downloads</string>
+    <string name="guide" formatted="false">Rêbertî</string>
+    <string name="settings" formatted="false">Settings</string>
+    <string name="home_title" formatted="false">Vîdyoyên we. Koleksiyona we.</string>
+    <string name="home_subtitle" formatted="false">Tiştekî hêjayî xwegirtinê bibînin.</string>
+    <string name="search_hint" formatted="false">Malperek bigerin an têkevin</string>
+    <string name="go" formatted="false">Biçe</string>
+    <string name="paste_link" formatted="false">Girêdana vîdyoyê bişînin</string>
+    <string name="direct_link" formatted="false">Girêdana vîdyoya rasterast</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Download</string>
+    <string name="detect" formatted="false">Vîdyoyan bibînin</string>
+    <string name="detected" formatted="false">Vîdyoyên li ser vê rûpelê</string>
+    <string name="no_media" formatted="false">Vîdyoyek dakêşbar nehat dîtin. Vîdyoyek dest pê bikin, paşê dîsa biceribînin. Dibe ku çemên parastî û çarçoveyên pêvekirî ne berdest bin.</string>
+    <string name="safe_note" formatted="false">Tenê vîdyoyên ku hûn xwediyê wan in an jî destûra hilanîna we heye dakêşin. Weşanên parastî û dakêşanên YouTube ne berdest in.</string>
+    <string name="quick_start" formatted="false">LI vir dest pê bike</string>
+    <string name="quick_browse" formatted="false">Webê keşif bikin</string>
+    <string name="quick_browse_body" formatted="false">Di geroka çêkirî de bi motora xweya bijarte bigerin.</string>
+    <string name="quick_download" formatted="false">Vîdyoyek tomar bike</string>
+    <string name="quick_download_body" formatted="false">Zencîreyek vîdyoyek rasterast a HTTPS bişopînin an vîdyoyek li ser rûpelek bibînin.</string>
+    <string name="quick_guide" formatted="false">Rêbernameyek piçûk</string>
+    <string name="quick_guide_body" formatted="false">Ji keşfkirinê heya berhevoka we çar gavên diyarkirî.</string>
+    <string name="back" formatted="false">Vegere</string>
+    <string name="forward" formatted="false">Pêş ve</string>
+    <string name="reload" formatted="false">Ji nû ve barkirin</string>
+    <string name="home" formatted="false">Home</string>
+    <string name="bookmark" formatted="false">Bookmark</string>
+    <string name="bookmarks" formatted="false">Bookmarks</string>
+    <string name="empty_bookmarks" formatted="false">Malperên tomarkirî dê li vir xuya bibin.</string>
+    <string name="saved" formatted="false">Saved</string>
+    <string name="remove" formatted="false">Rakirin</string>
+    <string name="cancel" formatted="false">Betal bike</string>
+    <string name="close" formatted="false">Close</string>
+    <string name="confirm_download" formatted="false">Vê vîdyoyê tomar bike?</string>
+    <string name="filename" formatted="false">Navê pelê</string>
+    <string name="download_location" formatted="false">Di Dakêşan / Dakêşkera Vîdyoyê Premium de hatî tomarkirin</string>
+    <string name="permission_confirm" formatted="false">Ez xwediyê vê vîdyoyê ye an jî destûra daxistina wê heye.</string>
+    <string name="permission_required" formatted="false">Piştrast bike ku destûra te heye ku vê vîdyoyê hilîne.</string>
+    <string name="invalid_url" formatted="false">Zencîreyek vîdyoya HTTPS ya derbasdar têkeve.</string>
+    <string name="unsupported" formatted="false">Ev girêdan ne vîdyoyek dakêşbar e. DRM, weşanên zindî, lîsteyên lîstikê, û dakêşanên YouTube nayê piştgirî kirin.</string>
+    <string name="queued" formatted="false">Daxistin li dorê hat zêdekirin</string>
+    <string name="download_error" formatted="false">Nikare were daxistin. Têkiliyê kontrol bikin an girêdanek vîdyoyek nû bikar bînin.</string>
+    <string name="collection_title" formatted="false">Koleksiyona we</string>
+    <string name="collection_subtitle" formatted="false">Vîdyoyên hilanîn, dema ku hûn amade ne.</string>
+    <string name="empty_downloads" formatted="false">Vebijarka weya din li vir e.</string>
+    <string name="empty_downloads_body" formatted="false">Vîdyoyek li Browse bibînin an girêdanek vîdyoyek rasterast bişopînin da ku berhevoka xwe bidin destpêkirin.</string>
+    <string name="pending" formatted="false">Li dorê</string>
+    <string name="running" formatted="false">Daxistin</string>
+    <string name="paused" formatted="false">Li benda torê ne an ji nû ve biceribîne</string>
+    <string name="complete" formatted="false">Temam</string>
+    <string name="failed" formatted="false">Bi ser neket</string>
+    <string name="missing" formatted="false">Pelê ne berdest e</string>
+    <string name="play" formatted="false">Play</string>
+    <string name="share" formatted="false">Parve bikin</string>
+    <string name="retry" formatted="false">Ji nû ve biceribîne</string>
+    <string name="delete_download" formatted="false">Daxistin û pelê wê jê bibe?</string>
+    <string name="no_player" formatted="false">Ji bo vekirina vê pelê serîlêdana lihevhatî tune.</string>
+    <string name="guide_title" formatted="false">Ji keşfê heta daxistinê.</string>
+    <string name="guide_subtitle" formatted="false">Rêbernameyek hêsan ku hûn vîdyoyên ku hûn jê hez dikin biparêzin.</string>
+    <string name="step_one_title" formatted="false">Vîdyoya xwe bibînin</string>
+    <string name="step_one_body" formatted="false">Browse veke. Navnîşanek malperê bigerin an têkevin. Her weha hûn dikarin girêdanek vîdyoyek ji serîlêdanek din parve bikin.</string>
+    <string name="step_two_title" formatted="false">Çavkaniyê kifş bikin</string>
+    <string name="step_two_body" formatted="false">Vîdyoyek lîstin, dûv re bikirtînin Vîdyoyan Bibînin. Pelek naskirî hilbijêrin, an girêdanek vîdyoyek rasterast a HTTPS bişopînin.</string>
+    <string name="step_three_title" formatted="false">Ji xwe re bikin</string>
+    <string name="step_three_body" formatted="false">Navekî pelê hilbijêrin, destûra xwe ya tomarkirina vîdyoyê piştrast bikin û bikirtînin Daxistin. Android daxistinê di paşperdeyê de berdewam dike.</string>
+    <string name="step_four_title" formatted="false">Enjoy berhevoka xwe</string>
+    <string name="step_four_body" formatted="false">Dakêşan vekin da ku pêşkeftinê kontrol bikin. Vîdyoyên qedandî bilîzin an parve bikin. Dema ku hewce be, dakêşanên têkçûyî bi girêdanek nû ve biceribîne.</string>
+    <string name="try_now" formatted="false">Niha biceribîne</string>
+    <string name="preferences" formatted="false">Ji xwe re bikin.</string>
+    <string name="preferences_subtitle" formatted="false">Ji bo geroka weya rojane çend kontrolên ramanî.</string>
+    <string name="dns_title" formatted="false">VPN / DNS-ya taybet</string>
+    <string name="dns_explanation" formatted="false">DNS-ya taybet pirsên DNS-ê şîfre dike. Ew navnîşana IP-ya we venaşêre an tunelek VPN çêdike. Android hewce dike ku hûn vê mîhengê bi destan biguherînin.</string>
+    <string name="connected" formatted="false">Girêdayî</string>
+    <string name="unconnected" formatted="false">Negirêdayî</string>
+    <string name="connect" formatted="false">Girêdan</string>
+    <string name="disconnect" formatted="false">Veqetandin</string>
+    <string name="dns_instructions" formatted="false">Navê mêvandarê peydakarê DNS-ya Taybet hilbijêrin, dns.adguard-dns.com binivîsin û hilînin. Ji bo veqetandinê, di heman mîhengê pergalê de Otomatîk an Off hilbijêrin.</string>
+    <string name="copy_hostname" formatted="false">Navê mêvandar kopî bikin</string>
+    <string name="copied" formatted="false">Li clipboardê hate kopî kirin</string>
+    <string name="open_network_settings" formatted="false">Mîhengên torê vekin</string>
+    <string name="language" formatted="false">Zimanê app</string>
+    <string name="system_language" formatted="false">Zimanê cîhazê bişopînin</string>
+    <string name="search_language" formatted="false">Zimanek peyda bikin</string>
+    <string name="language_note" formatted="false">Wergeran negirêdayî ne. Zimanên cîhaza nelîstkirî Îngilîzî bikar tînin. Wergerên makîneyê dibe ku hewceyê vekolîna herêmî be.</string>
+    <string name="search_engine" formatted="false">Motora lêgerînê</string>
+    <string name="wifi_only" formatted="false">Tenê li ser Wi-Fi dakêşin</string>
+    <string name="wifi_body" formatted="false">Dakêşanên nû li bendê ne ku Wi-Fi peyda bibe.</string>
+    <string name="javascript" formatted="false">Malpera JavaScript</string>
+    <string name="javascript_body" formatted="false">Ji hêla gelek malper û vedîtina vîdyoya HTML5 ve tê xwestin.</string>
+    <string name="privacy" formatted="false">Privacy</string>
+    <string name="clear_browser" formatted="false">Daneyên gerokê paqij bike</string>
+    <string name="clear_browser_confirm" formatted="false">Cookies, cache gerok, dîrok, û hilanîna malperê jêbirin?</string>
+    <string name="privacy_body" formatted="false">Reklam, analîtîk, an hesabên pêşdebiran tune. Malper, motorên lêgerînê, pêşkêşkerên DNS, û pêşkêşkerên dakêşanê daxwazên ku hûn dikin distînin. Dîroka dakêşanê û nîşangir li ser vê cîhazê dimînin.</string>
+    <string name="terms" formatted="false">Bi berpirsiyarî bikar bînin</string>
+    <string name="terms_body" formatted="false">Tenê vîdyoyên ku hûn xwediyê wan in an jî destûr in ku hûn dakêşin hilînin. Mafê copyright û şertên malperê rêz bigirin. Ev sepan nikare DRM, paywalan, an qedexeyên dakêşana platformê derbas bike.</string>
+    <string name="about" formatted="false">About</string>
+    <string name="version" formatted="false">Versiyon</string>
+    <string name="paid_app" formatted="false">Yek kirîn. Ne reklaman. No abonetiyê.</string>
+    <string name="welcome_title" formatted="false">Tiştê ku we teşwîq dike biparêze.</string>
+    <string name="welcome_body" formatted="false">Vîdyoyên destûr li yek cîhek bigerin, kifş bikin û hilînin. Ji bo ku hûn dest pê bikin, rêbernameya diyarkirî bixwînin.</string>
+    <string name="start_browsing" formatted="false">Dest bi gerê bikin</string>
+    <string name="read_guide" formatted="false">Rêbernameyê bixwînin</string>
+    <string name="browser_error" formatted="false">Ev rûpel nehat barkirin. Navnîşan û girêdanê kontrol bikin, paşê ji nû ve barkirin.</string>
+    <string name="secure_only" formatted="false">Ev sepan girêdanên HTTPS bikar tîne. Guhertoya ewledar a vê malperê biceribînin.</string>
+    <string name="external_link" formatted="false">Vê girêdanê di sepanek din de veke?</string>
+    <string name="open" formatted="false">Vekirin</string>
+    <string name="refresh" formatted="false">Refresh</string>
+    <string name="accessibility_tutorial" formatted="false">Illustration ji bo vê gavê tutorial</string>
+    <string name="download_reason" formatted="false">Koda xeletiya dakêşana Android</string>
+    <string name="queue_full" formatted="false">Dîroka dakêşandinê tije ye. Pêşî têketinek kevintir derxînin.</string>
+    <string name="browser_tabs" formatted="false">Tabloyên gerokê</string>
+    <string name="tabs_subtitle" formatted="false">Malperên vekirî bihêlin û di navbera wan de veguherînin.</string>
+    <string name="new_tab" formatted="false">Tabloya nû</string>
+    <string name="close_tab" formatted="false">Tabloyê bigire</string>
+    <string name="active_tab" formatted="false">Tabloya çalak</string>
+    <string name="tab_limit" formatted="false">Hûn dikarin heta 8 tabloyan vekin. Ji bo lêzêdekirina tabloyek din bigire.</string>
+    <string name="history" formatted="false">Dîrok</string>
+    <string name="history_subtitle" formatted="false">Malperên serdankirî tenê li ser vê cîhazê têne tomar kirin.</string>
+    <string name="empty_history" formatted="false">Dîroka geroka we dê li vir xuya bibe.</string>
+    <string name="clear_history" formatted="false">Dîrokê paqij bike</string>
+    <string name="clear_history_confirm" formatted="false">Hemî dîroka gerokê ji vê cîhazê were jêbirin?</string>
+    <string name="open_new_tab" formatted="false">Di tabloya nû de vekin</string>
+    <string name="browser_menu" formatted="false">Pêşeka gerokê</string>
+    <string name="shortcut_note" formatted="false">Kurteyên malperê di gerokê de vedibin. Hebûna dakêşanê bi malperê ve girêdayî ye.</string>
+</resources>

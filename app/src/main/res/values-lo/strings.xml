@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ພິເສດ</string>
+    <string name="browse" formatted="false">ຄົ້ນຫາ</string>
+    <string name="downloads" formatted="false">ດາວໂຫຼດ</string>
+    <string name="guide" formatted="false">ຄູ່ມື</string>
+    <string name="settings" formatted="false">ການຕັ້ງຄ່າ</string>
+    <string name="home_title" formatted="false">ວິດີໂອຂອງທ່ານ. ການເກັບກໍາຂອງທ່ານ.</string>
+    <string name="home_subtitle" formatted="false">ຊອກຫາສິ່ງທີ່ມີມູນຄ່າຮັກສາ.</string>
+    <string name="search_hint" formatted="false">ຄົ້ນຫາຫຼືເຂົ້າໄປໃນເວັບໄຊທ໌</string>
+    <string name="go" formatted="false">ໄປ</string>
+    <string name="paste_link" formatted="false">ວາງລິ້ງວິດີໂອ</string>
+    <string name="direct_link" formatted="false">ການເຊື່ອມຕໍ່ວິດີໂອໂດຍກົງ</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ດາວໂຫຼດ</string>
+    <string name="detect" formatted="false">ຊອກຫາວິດີໂອ</string>
+    <string name="detected" formatted="false">ວິດີໂອຢູ່ໃນຫນ້ານີ້</string>
+    <string name="no_media" formatted="false">ບໍ່ພົບວິດີໂອທີ່ສາມາດດາວໂຫຼດໄດ້. ເລີ່ມຫຼິ້ນວິດີໂອ, ຈາກນັ້ນລອງອີກຄັ້ງ. ສະຕຣີມທີ່ມີການປ້ອງກັນ ແລະກອບທີ່ຝັງໄວ້ອາດຈະບໍ່ສາມາດໃຊ້ໄດ້.</string>
+    <string name="safe_note" formatted="false">ພຽງແຕ່ດາວໂຫຼດວິດີໂອທີ່ທ່ານເປັນເຈົ້າຂອງ ຫຼືມີສິດອະນຸຍາດບັນທຶກ. ການຖ່າຍທອດທີ່ໄດ້ຮັບການປົກປ້ອງ ແລະ ການດາວໂຫຼດ YouTube ບໍ່ສາມາດໃຊ້ໄດ້.</string>
+    <string name="quick_start" formatted="false">ເລີ່ມຕົ້ນທີ່ນີ້</string>
+    <string name="quick_browse" formatted="false">ສຳຫຼວດເວັບ</string>
+    <string name="quick_browse_body" formatted="false">ຄົ້ນຫາດ້ວຍເຄື່ອງຈັກທີ່ທ່ານຕ້ອງການໃນຕົວທ່ອງເວັບທີ່ສ້າງຂຶ້ນໃນຕົວ.</string>
+    <string name="quick_download" formatted="false">ບັນທຶກວິດີໂອ</string>
+    <string name="quick_download_body" formatted="false">ວາງລິ້ງວິດີໂອ HTTPS ໂດຍກົງ ຫຼືຊອກຫາວິດີໂອໃນໜ້າໃດໜຶ່ງ.</string>
+    <string name="quick_guide" formatted="false">ຄໍາແນະນໍາເລັກນ້ອຍ</string>
+    <string name="quick_guide_body" formatted="false">ສີ່ຂັ້ນຕອນທີ່ສະແດງໃຫ້ເຫັນຈາກການຄົ້ນພົບໄປຫາການເກັບກໍາຂອງທ່ານ.</string>
+    <string name="back" formatted="false">ກັບຄືນໄປບ່ອນ</string>
+    <string name="forward" formatted="false">ສົ່ງຕໍ່</string>
+    <string name="reload" formatted="false">ໂຫຼດໃໝ່</string>
+    <string name="home" formatted="false">ບ້ານ</string>
+    <string name="bookmark" formatted="false">ບຸກມາກ</string>
+    <string name="bookmarks" formatted="false">ບຸກມາກ</string>
+    <string name="empty_bookmarks" formatted="false">ເວັບໄຊທ໌ທີ່ບັນທຶກໄວ້ຈະປາກົດຢູ່ທີ່ນີ້.</string>
+    <string name="saved" formatted="false">ບັນທຶກແລ້ວ</string>
+    <string name="remove" formatted="false">ເອົາອອກ</string>
+    <string name="cancel" formatted="false">ຍົກເລີກ</string>
+    <string name="close" formatted="false">ປິດ</string>
+    <string name="confirm_download" formatted="false">ບັນທຶກວິດີໂອນີ້ບໍ?</string>
+    <string name="filename" formatted="false">ຊື່ໄຟລ໌</string>
+    <string name="download_location" formatted="false">ບັນທຶກໄວ້ໃນດາວໂຫຼດ / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">ຂ້ອຍເປັນເຈົ້າຂອງວິດີໂອນີ້ ຫຼືມີການອະນຸຍາດໃຫ້ດາວໂຫຼດມັນ.</string>
+    <string name="permission_required" formatted="false">ຢືນຢັນວ່າທ່ານໄດ້ຮັບອະນຸຍາດໃຫ້ບັນທຶກວິດີໂອນີ້.</string>
+    <string name="invalid_url" formatted="false">ໃສ່ລິ້ງວິດີໂອ HTTPS ທີ່ຖືກຕ້ອງ.</string>
+    <string name="unsupported" formatted="false">ລິ້ງນີ້ບໍ່ແມ່ນວິດີໂອທີ່ສາມາດດາວໂຫລດໄດ້. ບໍ່ຮອງຮັບ DRM, ການຖ່າຍທອດສົດ, ລາຍການຫຼິ້ນ, ແລະການດາວໂຫຼດ YouTube.</string>
+    <string name="queued" formatted="false">ເພີ່ມການດາວໂຫຼດໃສ່ຄິວແລ້ວ</string>
+    <string name="download_error" formatted="false">ບໍ່ສາມາດດາວໂຫຼດໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ຫຼືໃຊ້ການເຊື່ອມຕໍ່ວິດີໂອສົດ.</string>
+    <string name="collection_title" formatted="false">ການເກັບກໍາຂອງທ່ານ</string>
+    <string name="collection_subtitle" formatted="false">ວິດີໂອທີ່ບັນທຶກໄວ້, ພ້ອມແລ້ວເມື່ອທ່ານຢູ່.</string>
+    <string name="empty_downloads" formatted="false">ສິ່ງທີ່ທ່ານມັກຕໍ່ໄປແມ່ນຢູ່ທີ່ນີ້.</string>
+    <string name="empty_downloads_body" formatted="false">ຊອກຫາວິດີໂອໃນ Browse ຫຼືວາງການເຊື່ອມຕໍ່ວິດີໂອໂດຍກົງເພື່ອເລີ່ມຕົ້ນການລວບລວມຂອງທ່ານ.</string>
+    <string name="pending" formatted="false">ຄິວ</string>
+    <string name="running" formatted="false">ກຳລັງດາວໂຫຼດ</string>
+    <string name="paused" formatted="false">ກຳລັງລໍຖ້າເຄືອຂ່າຍ ຫຼື ລອງໃໝ່</string>
+    <string name="complete" formatted="false">ສໍາເລັດ</string>
+    <string name="failed" formatted="false">ລົ້ມເຫລວ</string>
+    <string name="missing" formatted="false">ໄຟລ໌ບໍ່ສາມາດໃຊ້ໄດ້</string>
+    <string name="play" formatted="false">ຫຼິ້ນ</string>
+    <string name="share" formatted="false">ແບ່ງປັນ</string>
+    <string name="retry" formatted="false">ລອງໃໝ່</string>
+    <string name="delete_download" formatted="false">ລຶບການດາວໂຫຼດ ແລະໄຟລ໌ຂອງມັນອອກບໍ?</string>
+    <string name="no_player" formatted="false">ບໍ່ມີແອັບທີ່ເຂົ້າກັນໄດ້ເພື່ອເປີດໄຟລ໌ນີ້.</string>
+    <string name="guide_title" formatted="false">ຈາກ​ການ​ຄົ້ນ​ພົບ​ເພື່ອ​ດາວ​ໂຫລດ​.</string>
+    <string name="guide_subtitle" formatted="false">ຄຳແນະນຳງ່າຍໆໃນການຮັກສາວິດີໂອທີ່ທ່ານມັກ.</string>
+    <string name="step_one_title" formatted="false">ຊອກຫາວິດີໂອຂອງທ່ານ</string>
+    <string name="step_one_body" formatted="false">ເປີດ Browse. ຊອກຫາ ຫຼືໃສ່ທີ່ຢູ່ເວັບໄຊທ໌. ທ່ານຍັງສາມາດແບ່ງປັນລິ້ງວິດີໂອຈາກແອັບຯອື່ນໄດ້.</string>
+    <string name="step_two_title" formatted="false">ຄົ້ນພົບແຫຼ່ງ</string>
+    <string name="step_two_body" formatted="false">ຫຼິ້ນວິດີໂອ, ຈາກນັ້ນແຕະຊອກຫາວິດີໂອ. ເລືອກໄຟລ໌ທີ່ກວດພົບ, ຫຼືວາງລິ້ງວິດີໂອ HTTPS ໂດຍກົງ.</string>
+    <string name="step_three_title" formatted="false">ເຮັດໃຫ້ມັນເປັນຂອງເຈົ້າ</string>
+    <string name="step_three_body" formatted="false">ເລືອກຊື່ໄຟລ໌, ຢືນຢັນການອະນຸຍາດຂອງທ່ານເພື່ອບັນທຶກວິດີໂອ, ແລະແຕະດາວໂຫລດ. Android ສືບຕໍ່ການດາວໂຫຼດຢູ່ໃນພື້ນຫຼັງ.</string>
+    <string name="step_four_title" formatted="false">ມ່ວນກັບການເກັບກໍາຂອງທ່ານ</string>
+    <string name="step_four_body" formatted="false">ເປີດການດາວໂຫຼດເພື່ອກວດເບິ່ງຄວາມຄືບໜ້າ. ຫຼິ້ນຫຼືແບ່ງປັນວິດີໂອທີ່ສໍາເລັດ. ລອງດາວໂຫລດທີ່ລົ້ມເຫລວອີກຄັ້ງດ້ວຍລິ້ງໃໝ່ເມື່ອຕ້ອງການ.</string>
+    <string name="try_now" formatted="false">ລອງມັນດຽວນີ້</string>
+    <string name="preferences" formatted="false">ເຮັດໃຫ້ມັນເປັນຂອງຕົນເອງ.</string>
+    <string name="preferences_subtitle" formatted="false">ການ​ຄວບ​ຄຸມ​ຄວາມ​ຄິດ​ຈໍາ​ນວນ​ຫນຶ່ງ​ສໍາ​ລັບ​ການ​ຊອກ​ຫາ​ປະ​ຈໍາ​ວັນ​ຂອງ​ທ່ານ​.</string>
+    <string name="dns_title" formatted="false">VPN / DNS ສ່ວນຕົວ</string>
+    <string name="dns_explanation" formatted="false">DNS ສ່ວນຕົວເຂົ້າລະຫັດການສອບຖາມ DNS. ມັນບໍ່ໄດ້ເຊື່ອງທີ່ຢູ່ IP ຂອງທ່ານຫຼືສ້າງອຸໂມງ VPN. Android ຮຽກຮ້ອງໃຫ້ທ່ານປ່ຽນການຕັ້ງຄ່ານີ້ດ້ວຍຕົນເອງ.</string>
+    <string name="connected" formatted="false">ເຊື່ອມຕໍ່</string>
+    <string name="unconnected" formatted="false">ບໍ່ໄດ້ເຊື່ອມຕໍ່</string>
+    <string name="connect" formatted="false">ເຊື່ອມຕໍ່</string>
+    <string name="disconnect" formatted="false">ຕັດການເຊື່ອມຕໍ່</string>
+    <string name="dns_instructions" formatted="false">ເລືອກຊື່ເຈົ້າພາບຂອງຜູ້ໃຫ້ບໍລິການ DNS ສ່ວນຕົວ, ວາງ dns.adguard-dns.com, ແລະບັນທຶກ. ເພື່ອຕັດການເຊື່ອມຕໍ່, ເລືອກອັດຕະໂນມັດ ຫຼື ປິດໃນການຕັ້ງຄ່າລະບົບດຽວກັນ.</string>
+    <string name="copy_hostname" formatted="false">ສຳເນົາຊື່ເຈົ້າພາບ</string>
+    <string name="copied" formatted="false">ສຳເນົາໃສ່ຄລິບບອດແລ້ວ</string>
+    <string name="open_network_settings" formatted="false">ເປີດການຕັ້ງຄ່າເຄືອຂ່າຍ</string>
+    <string name="language" formatted="false">ພາສາແອັບ</string>
+    <string name="system_language" formatted="false">ປະຕິບັດຕາມພາສາອຸປະກອນ</string>
+    <string name="search_language" formatted="false">ຊອກຫາພາສາ</string>
+    <string name="language_note" formatted="false">ການແປແມ່ນຮວມຢູ່ໃນອອບໄລນ໌. ພາສາອຸປະກອນທີ່ບໍ່ຢູ່ໃນບັນຊີແມ່ນໃຊ້ພາສາອັງກິດ. ການແປດ້ວຍເຄື່ອງຈັກອາດຕ້ອງມີການກວດສອບພາກພື້ນ.</string>
+    <string name="search_engine" formatted="false">ເຄື່ອງຈັກຊອກຫາ</string>
+    <string name="wifi_only" formatted="false">ດາວໂຫຼດໃນ Wi-Fi ເທົ່ານັ້ນ</string>
+    <string name="wifi_body" formatted="false">ການດາວໂຫຼດໃໝ່ລໍຖ້າຈົນກ່ວາ Wi-Fi ສາມາດໃຊ້ໄດ້.</string>
+    <string name="javascript" formatted="false">ເວັບໄຊທ໌ JavaScript</string>
+    <string name="javascript_body" formatted="false">ຕ້ອງການໂດຍເວັບໄຊທ໌ຈໍານວນຫຼາຍແລະການຄົ້ນພົບວິດີໂອ HTML5.</string>
+    <string name="privacy" formatted="false">ຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="clear_browser" formatted="false">ລຶບຂໍ້ມູນການທ່ອງເວັບ</string>
+    <string name="clear_browser_confirm" formatted="false">ລຶບຄຸກກີ້, ແຄດຂອງບຣາວເຊີ, ປະຫວັດ, ແລະບ່ອນເກັບມ້ຽນເວັບໄຊທ໌ບໍ?</string>
+    <string name="privacy_body" formatted="false">ບໍ່ມີໂຄສະນາ, ການວິເຄາະ ຫຼືບັນຊີຜູ້ພັດທະນາ. ເວັບໄຊທ໌, ເຄື່ອງຈັກຊອກຫາ, ຜູ້ໃຫ້ບໍລິການ DNS, ແລະເຄື່ອງແມ່ຂ່າຍດາວໂຫລດໄດ້ຮັບການຮ້ອງຂໍທີ່ທ່ານເຮັດ. ປະຫວັດການດາວໂຫຼດ ແລະບຸກມາກຢູ່ໃນອຸປະກອນນີ້.</string>
+    <string name="terms" formatted="false">ໃຊ້ຢ່າງມີຄວາມຮັບຜິດຊອບ</string>
+    <string name="terms_body" formatted="false">ບັນທຶກພຽງແຕ່ວິດີໂອທີ່ທ່ານເປັນເຈົ້າຂອງຫຼືໄດ້ຮັບອະນຸຍາດໃຫ້ດາວໂຫຼດ. ເຄົາລົບລິຂະສິດແລະເງື່ອນໄຂຂອງເວັບໄຊທ໌. ແອັບນີ້ບໍ່ສາມາດຂ້າມ DRM, paywalls, ຫຼືຂໍ້ຈໍາກັດການດາວໂຫຼດເວທີ.</string>
+    <string name="about" formatted="false">ກ່ຽວກັບ</string>
+    <string name="version" formatted="false">ຮຸ່ນ</string>
+    <string name="paid_app" formatted="false">ການຊື້ຫນຶ່ງ. ບໍ່ມີໂຄສະນາ. ບໍ່ມີການສະໝັກໃຊ້.</string>
+    <string name="welcome_title" formatted="false">ຮັກສາສິ່ງທີ່ດົນໃຈເຈົ້າ.</string>
+    <string name="welcome_body" formatted="false">ຊອກຫາ, ຄົ້ນພົບ, ແລະບັນທຶກວິດີໂອທີ່ອະນຸຍາດໄວ້ບ່ອນດຽວ. ອ່ານຄູ່ມືທີ່ມີຮູບແຕ້ມເພື່ອເລີ່ມຕົ້ນ.</string>
+    <string name="start_browsing" formatted="false">ເລີ່ມຜົນການຊອກຫາ</string>
+    <string name="read_guide" formatted="false">ອ່ານຄູ່ມື</string>
+    <string name="browser_error" formatted="false">ໜ້ານີ້ບໍ່ສາມາດໂຫຼດໄດ້. ກວດເບິ່ງທີ່ຢູ່ ແລະການເຊື່ອມຕໍ່, ຈາກນັ້ນໂຫຼດຄືນໃໝ່.</string>
+    <string name="secure_only" formatted="false">ແອັບນີ້ໃຊ້ການເຊື່ອມຕໍ່ HTTPS. ລອງໃຊ້ສະບັບທີ່ປອດໄພຂອງເວັບໄຊທ໌ນີ້.</string>
+    <string name="external_link" formatted="false">ເປີດລິ້ງນີ້ໃນແອັບອື່ນບໍ?</string>
+    <string name="open" formatted="false">ເປີດ</string>
+    <string name="refresh" formatted="false">ໂຫຼດຂໍ້ມູນຄືນໃໝ່</string>
+    <string name="accessibility_tutorial" formatted="false">ຮູບປະກອບສໍາລັບຂັ້ນຕອນການສອນນີ້</string>
+    <string name="download_reason" formatted="false">ລະຫັດຄວາມຜິດພາດການດາວໂຫຼດ Android</string>
+    <string name="queue_full" formatted="false">ປະຫວັດການດາວໂຫຼດເຕັມແລ້ວ. ເອົາລາຍການທີ່ເກົ່າກວ່າອອກກ່ອນ.</string>
+    <string name="browser_tabs" formatted="false">ແຖບຂອງຕົວທ່ອງເວັບ</string>
+    <string name="tabs_subtitle" formatted="false">ຮັກສາເວັບໄຊທ໌ເປີດແລະປ່ຽນລະຫວ່າງພວກມັນ.</string>
+    <string name="new_tab" formatted="false">ແຖບໃໝ່</string>
+    <string name="close_tab" formatted="false">ປິດແຖບ</string>
+    <string name="active_tab" formatted="false">ແຖບເຄື່ອນໄຫວ</string>
+    <string name="tab_limit" formatted="false">ທ່ານສາມາດເປີດໄດ້ເຖິງ 8 ແຖບ. ປິດແຖບເພື່ອເພີ່ມອັນອື່ນ.</string>
+    <string name="history" formatted="false">ປະຫວັດສາດ</string>
+    <string name="history_subtitle" formatted="false">ເວັບໄຊທ໌ທີ່ເຂົ້າເບິ່ງຈະຖືກບັນທຶກໄວ້ໃນອຸປະກອນນີ້ເທົ່ານັ້ນ.</string>
+    <string name="empty_history" formatted="false">ປະຫວັດການທ່ອງເວັບຂອງທ່ານຈະປາກົດຢູ່ທີ່ນີ້.</string>
+    <string name="clear_history" formatted="false">ລຶບລ້າງປະຫວັດ</string>
+    <string name="clear_history_confirm" formatted="false">ລຶບປະຫວັດການທ່ອງເວັບທັງໝົດອອກຈາກອຸປະກອນນີ້ບໍ?</string>
+    <string name="open_new_tab" formatted="false">ເປີດໃນແຖບໃໝ່</string>
+    <string name="browser_menu" formatted="false">ເມນູຂອງຕົວທ່ອງເວັບ</string>
+    <string name="shortcut_note" formatted="false">ທາງລັດເວັບໄຊທ໌ເປີດຢູ່ໃນຕົວທ່ອງເວັບ. ການມີໃຫ້ດາວໂຫຼດແມ່ນຂຶ້ນກັບເວັບໄຊທ໌.</string>
+</resources>

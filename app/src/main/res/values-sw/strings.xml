@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Vinjari</string>
+    <string name="downloads" formatted="false">Vipakuliwa</string>
+    <string name="guide" formatted="false">Mwongozo</string>
+    <string name="settings" formatted="false">Mipangilio</string>
+    <string name="home_title" formatted="false">Video zako. Mkusanyiko wako.</string>
+    <string name="home_subtitle" formatted="false">Tafuta kitu cha kutunza.</string>
+    <string name="search_hint" formatted="false">Tafuta au ingiza tovuti</string>
+    <string name="go" formatted="false">Nenda</string>
+    <string name="paste_link" formatted="false">Bandika kiungo cha video</string>
+    <string name="direct_link" formatted="false">Kiungo cha video moja kwa moja</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Pakua</string>
+    <string name="detect" formatted="false">Tafuta video</string>
+    <string name="detected" formatted="false">Video kwenye ukurasa huu</string>
+    <string name="no_media" formatted="false">Hakuna video inayoweza kupakuliwa iliyopatikana. Anza kucheza video, kisha ujaribu tena. Mitiririko iliyolindwa na fremu zilizopachikwa huenda zisipatikane.</string>
+    <string name="safe_note" formatted="false">Pakua tu video unazomiliki au una ruhusa ya kuhifadhi. Mitiririko iliyolindwa na vipakuliwa vya YouTube havipatikani.</string>
+    <string name="quick_start" formatted="false">ANZA HAPA</string>
+    <string name="quick_browse" formatted="false">Chunguza wavuti</string>
+    <string name="quick_browse_body" formatted="false">Tafuta ukitumia injini unayopendelea katika kivinjari kilichojengewa ndani.</string>
+    <string name="quick_download" formatted="false">Hifadhi video</string>
+    <string name="quick_download_body" formatted="false">Bandika kiungo cha video cha HTTPS cha moja kwa moja au pata video kwenye ukurasa.</string>
+    <string name="quick_guide" formatted="false">Mwongozo mdogo</string>
+    <string name="quick_guide_body" formatted="false">Hatua nne zilizoonyeshwa kutoka kwa ugunduzi hadi mkusanyiko wako.</string>
+    <string name="back" formatted="false">Nyuma</string>
+    <string name="forward" formatted="false">Mbele</string>
+    <string name="reload" formatted="false">Pakia upya</string>
+    <string name="home" formatted="false">Nyumbani</string>
+    <string name="bookmark" formatted="false">Alamisho</string>
+    <string name="bookmarks" formatted="false">Alamisho</string>
+    <string name="empty_bookmarks" formatted="false">Tovuti zilizohifadhiwa zitaonekana hapa.</string>
+    <string name="saved" formatted="false">Imehifadhiwa</string>
+    <string name="remove" formatted="false">Ondoa</string>
+    <string name="cancel" formatted="false">Ghairi</string>
+    <string name="close" formatted="false">Funga</string>
+    <string name="confirm_download" formatted="false">Ungependa kuhifadhi video hii?</string>
+    <string name="filename" formatted="false">Jina la faili</string>
+    <string name="download_location" formatted="false">Imehifadhiwa katika Premium ya Vipakuliwa / Kipakua Video</string>
+    <string name="permission_confirm" formatted="false">Ninamiliki video hii au nina ruhusa ya kuipakua.</string>
+    <string name="permission_required" formatted="false">Thibitisha kuwa una ruhusa ya kuhifadhi video hii.</string>
+    <string name="invalid_url" formatted="false">Weka kiungo sahihi cha video cha HTTPS.</string>
+    <string name="unsupported" formatted="false">Kiungo hiki si video inayoweza kupakuliwa. DRM, mitiririko ya moja kwa moja, orodha za kucheza na vipakuliwa vya YouTube havitumiki.</string>
+    <string name="queued" formatted="false">Upakuaji umeongezwa kwenye foleni</string>
+    <string name="download_error" formatted="false">Haiwezi kupakua. Angalia muunganisho au utumie kiungo kipya cha video.</string>
+    <string name="collection_title" formatted="false">Mkusanyiko wako</string>
+    <string name="collection_subtitle" formatted="false">Video zilizohifadhiwa, tayari ukiwa.</string>
+    <string name="empty_downloads" formatted="false">Kipendwa chako kinachofuata kiko hapa.</string>
+    <string name="empty_downloads_body" formatted="false">Tafuta video katika Vinjari au ubandike kiungo cha video moja kwa moja ili kuanza mkusanyiko wako.</string>
+    <string name="pending" formatted="false">Imewekwa kwenye foleni</string>
+    <string name="running" formatted="false">Inapakua</string>
+    <string name="paused" formatted="false">Inasubiri mtandao au ujaribu tena</string>
+    <string name="complete" formatted="false">Kamilisha</string>
+    <string name="failed" formatted="false">Imeshindwa</string>
+    <string name="missing" formatted="false">Faili haipatikani</string>
+    <string name="play" formatted="false">Cheza</string>
+    <string name="share" formatted="false">Shiriki</string>
+    <string name="retry" formatted="false">Jaribu tena</string>
+    <string name="delete_download" formatted="false">Ungependa kuondoa upakuaji na faili yake?</string>
+    <string name="no_player" formatted="false">Hakuna programu inayooana inayopatikana ili kufungua faili hii.</string>
+    <string name="guide_title" formatted="false">Kutoka kwa ugunduzi hadi kupakua.</string>
+    <string name="guide_subtitle" formatted="false">Mwongozo rahisi wa kuhifadhi video unazopenda.</string>
+    <string name="step_one_title" formatted="false">Tafuta video yako</string>
+    <string name="step_one_body" formatted="false">Fungua Vinjari. Tafuta au ingiza anwani ya tovuti. Unaweza pia kushiriki kiungo cha video kutoka kwa programu nyingine.</string>
+    <string name="step_two_title" formatted="false">Gundua chanzo</string>
+    <string name="step_two_body" formatted="false">Cheza video, kisha uguse Tafuta video. Chagua faili iliyotambuliwa, au ubandike kiungo cha moja kwa moja cha video cha HTTPS.</string>
+    <string name="step_three_title" formatted="false">Fanya iwe yako</string>
+    <string name="step_three_body" formatted="false">Chagua jina la faili, thibitisha ruhusa yako ili kuhifadhi video, na uguse Pakua. Android inaendelea kupakua chinichini.</string>
+    <string name="step_four_title" formatted="false">Furahia mkusanyiko wako</string>
+    <string name="step_four_body" formatted="false">Fungua Vipakuliwa ili kuangalia maendeleo. Cheza au ushiriki video zilizokamilishwa. Jaribu tena vipakuliwa vilivyoshindwa kwa kiungo kipya inapohitajika.</string>
+    <string name="try_now" formatted="false">Ijaribu sasa</string>
+    <string name="preferences" formatted="false">Fanya iwe yako.</string>
+    <string name="preferences_subtitle" formatted="false">Vidhibiti vichache vyema vya kuvinjari kwako kila siku.</string>
+    <string name="dns_title" formatted="false">VPN / DNS ya kibinafsi</string>
+    <string name="dns_explanation" formatted="false">DNS ya kibinafsi husimba kwa njia fiche hoja za DNS. Haifichi anwani yako ya IP au kuunda handaki ya VPN. Android inakuhitaji ubadilishe mpangilio huu wewe mwenyewe.</string>
+    <string name="connected" formatted="false">Imeunganishwa</string>
+    <string name="unconnected" formatted="false">Haijaunganishwa</string>
+    <string name="connect" formatted="false">Unganisha</string>
+    <string name="disconnect" formatted="false">Tenganisha</string>
+    <string name="dns_instructions" formatted="false">Chagua jina la mpangishaji la mtoa huduma wa DNS Binafsi, bandika dns.adguard-dns.com, na uhifadhi. Ili kukata muunganisho, chagua Otomatiki au Zima katika mpangilio sawa wa mfumo.</string>
+    <string name="copy_hostname" formatted="false">Nakili jina la mwenyeji</string>
+    <string name="copied" formatted="false">Imenakiliwa kwenye ubao wa kunakili</string>
+    <string name="open_network_settings" formatted="false">Fungua mipangilio ya mtandao</string>
+    <string name="language" formatted="false">Lugha ya programu</string>
+    <string name="system_language" formatted="false">Fuata lugha ya kifaa</string>
+    <string name="search_language" formatted="false">Tafuta lugha</string>
+    <string name="language_note" formatted="false">Tafsiri zimejumuishwa nje ya mtandao. Lugha za kifaa ambazo hazijaorodheshwa zinatumia Kiingereza. Huenda tafsiri za mashine zikahitaji ukaguzi wa kimaeneo.</string>
+    <string name="search_engine" formatted="false">Injini ya utafutaji</string>
+    <string name="wifi_only" formatted="false">Pakua kwenye Wi-Fi pekee</string>
+    <string name="wifi_body" formatted="false">Vipakuliwa vipya vinasubiri hadi Wi-Fi ipatikane.</string>
+    <string name="javascript" formatted="false">JavaScript ya tovuti</string>
+    <string name="javascript_body" formatted="false">Inahitajika na tovuti nyingi na ugunduzi wa video wa HTML5.</string>
+    <string name="privacy" formatted="false">Faragha</string>
+    <string name="clear_browser" formatted="false">Futa data ya kuvinjari</string>
+    <string name="clear_browser_confirm" formatted="false">Je, ungependa kufuta vidakuzi, akiba ya kivinjari, historia na hifadhi ya tovuti?</string>
+    <string name="privacy_body" formatted="false">Hakuna matangazo, takwimu, au akaunti za wasanidi programu. Tovuti, injini za utafutaji, watoa huduma za DNS na seva za kupakua hupokea maombi unayotuma. Historia ya upakuaji na alamisho hukaa kwenye kifaa hiki.</string>
+    <string name="terms" formatted="false">Tumia kwa kuwajibika</string>
+    <string name="terms_body" formatted="false">Hifadhi video unazomiliki pekee au unaruhusiwa kupakua. Heshimu hakimiliki na masharti ya tovuti. Programu hii haiwezi kukwepa DRM, ngome, au vikwazo vya upakuaji wa jukwaa.</string>
+    <string name="about" formatted="false">Kuhusu</string>
+    <string name="version" formatted="false">Toleo</string>
+    <string name="paid_app" formatted="false">Ununuzi mmoja. Hakuna matangazo. Hakuna usajili.</string>
+    <string name="welcome_title" formatted="false">Weka kile kinachokuhimiza.</string>
+    <string name="welcome_body" formatted="false">Vinjari, gundua na uhifadhi video zinazoruhusiwa katika sehemu moja. Soma mwongozo ulioonyeshwa ili kuanza.</string>
+    <string name="start_browsing" formatted="false">Anza kuvinjari</string>
+    <string name="read_guide" formatted="false">Soma mwongozo</string>
+    <string name="browser_error" formatted="false">Ukurasa huu haukuweza kupakiwa. Angalia anwani na muunganisho, kisha upakie upya.</string>
+    <string name="secure_only" formatted="false">Programu hii hutumia miunganisho ya HTTPS. Jaribu toleo salama la tovuti hii.</string>
+    <string name="external_link" formatted="false">Ungependa kufungua kiungo hiki katika programu nyingine?</string>
+    <string name="open" formatted="false">Fungua</string>
+    <string name="refresh" formatted="false">Onyesha upya</string>
+    <string name="accessibility_tutorial" formatted="false">Mchoro wa hatua hii ya mafunzo</string>
+    <string name="download_reason" formatted="false">msimbo wa hitilafu ya upakuaji wa Android</string>
+    <string name="queue_full" formatted="false">Historia ya upakuaji imejaa. Ondoa ingizo la zamani kwanza.</string>
+    <string name="browser_tabs" formatted="false">Vichupo vya kivinjari</string>
+    <string name="tabs_subtitle" formatted="false">Weka tovuti wazi na ubadilishe kati yao.</string>
+    <string name="new_tab" formatted="false">Kichupo kipya</string>
+    <string name="close_tab" formatted="false">Funga kichupo</string>
+    <string name="active_tab" formatted="false">Kichupo kinachotumika</string>
+    <string name="tab_limit" formatted="false">Unaweza kufungua hadi vichupo 8. Funga kichupo ili kuongeza kingine.</string>
+    <string name="history" formatted="false">Historia</string>
+    <string name="history_subtitle" formatted="false">Tovuti ulizotembelea zinahifadhiwa kwenye kifaa hiki pekee.</string>
+    <string name="empty_history" formatted="false">Historia yako ya kuvinjari itaonekana hapa.</string>
+    <string name="clear_history" formatted="false">Futa historia</string>
+    <string name="clear_history_confirm" formatted="false">Je, ungependa kufuta historia yote ya kuvinjari kwenye kifaa hiki?</string>
+    <string name="open_new_tab" formatted="false">Fungua kwenye kichupo kipya</string>
+    <string name="browser_menu" formatted="false">Menyu ya kivinjari</string>
+    <string name="shortcut_note" formatted="false">Njia za mkato za tovuti hufunguliwa kwenye kivinjari. Upatikanaji wa upakuaji unategemea tovuti.</string>
+</resources>

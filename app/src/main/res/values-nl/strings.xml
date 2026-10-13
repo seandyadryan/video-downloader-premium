@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Blader</string>
+    <string name="downloads" formatted="false">Downloads</string>
+    <string name="guide" formatted="false">Gids</string>
+    <string name="settings" formatted="false">Instellingen</string>
+    <string name="home_title" formatted="false">Jouw video\&apos;s. Jouw verzameling.</string>
+    <string name="home_subtitle" formatted="false">Zoek iets dat de moeite waard is om te bewaren.</string>
+    <string name="search_hint" formatted="false">Zoek of voer een website in</string>
+    <string name="go" formatted="false">Ga</string>
+    <string name="paste_link" formatted="false">Videolink plakken</string>
+    <string name="direct_link" formatted="false">Directe videolink</string>
+    <string name="url_hint" formatted="false">https://voorbeeld.com/video.mp4</string>
+    <string name="download" formatted="false">Downloaden</string>
+    <string name="detect" formatted="false">Vind video\&apos;s</string>
+    <string name="detected" formatted="false">Video\&apos;s op deze pagina</string>
+    <string name="no_media" formatted="false">Geen downloadbare video gevonden. Begin met het afspelen van een video en probeer het opnieuw. Beschermde streams en ingebedde frames zijn mogelijk niet beschikbaar.</string>
+    <string name="safe_note" formatted="false">Download alleen video\&apos;s waarvan u de eigenaar bent of waarvoor u toestemming heeft om deze op te slaan. Beveiligde streams en YouTube-downloads zijn niet beschikbaar.</string>
+    <string name="quick_start" formatted="false">BEGIN HIER</string>
+    <string name="quick_browse" formatted="false">Verken het internet</string>
+    <string name="quick_browse_body" formatted="false">Zoek met uw favoriete engine in de ingebouwde browser.</string>
+    <string name="quick_download" formatted="false">Sla een video op</string>
+    <string name="quick_download_body" formatted="false">Plak een directe HTTPS-videolink of zoek een video op een pagina.</string>
+    <string name="quick_guide" formatted="false">Een beetje begeleiding</string>
+    <string name="quick_guide_body" formatted="false">Vier geïllustreerde stappen van ontdekking tot uw verzameling.</string>
+    <string name="back" formatted="false">Terug</string>
+    <string name="forward" formatted="false">Vooruit</string>
+    <string name="reload" formatted="false">Herladen</string>
+    <string name="home" formatted="false">Thuis</string>
+    <string name="bookmark" formatted="false">Bladwijzer</string>
+    <string name="bookmarks" formatted="false">Bladwijzers</string>
+    <string name="empty_bookmarks" formatted="false">Opgeslagen websites verschijnen hier.</string>
+    <string name="saved" formatted="false">Opgeslagen</string>
+    <string name="remove" formatted="false">Verwijderen</string>
+    <string name="cancel" formatted="false">Annuleer</string>
+    <string name="close" formatted="false">Sluiten</string>
+    <string name="confirm_download" formatted="false">Deze video opslaan?</string>
+    <string name="filename" formatted="false">Bestandsnaam</string>
+    <string name="download_location" formatted="false">Opgeslagen in Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Ik ben eigenaar van deze video of heb toestemming om deze te downloaden.</string>
+    <string name="permission_required" formatted="false">Bevestig dat je toestemming hebt om deze video op te slaan.</string>
+    <string name="invalid_url" formatted="false">Voer een geldige HTTPS-videolink in.</string>
+    <string name="unsupported" formatted="false">Deze link is geen downloadbare video. DRM, livestreams, afspeellijsten en YouTube-downloads worden niet ondersteund.</string>
+    <string name="queued" formatted="false">Download toegevoegd aan de wachtrij</string>
+    <string name="download_error" formatted="false">Kan niet downloaden. Controleer de verbinding of gebruik een nieuwe videolink.</string>
+    <string name="collection_title" formatted="false">Jouw verzameling</string>
+    <string name="collection_subtitle" formatted="false">Opgeslagen video\&apos;s, klaar wanneer jij dat bent.</string>
+    <string name="empty_downloads" formatted="false">Je volgende favoriet hoort hier thuis.</string>
+    <string name="empty_downloads_body" formatted="false">Zoek een video in Bladeren of plak een directe videolink om uw verzameling te starten.</string>
+    <string name="pending" formatted="false">In de wachtrij</string>
+    <string name="running" formatted="false">Downloaden</string>
+    <string name="paused" formatted="false">Wachten op netwerk of opnieuw proberen</string>
+    <string name="complete" formatted="false">Compleet</string>
+    <string name="failed" formatted="false">Mislukt</string>
+    <string name="missing" formatted="false">Bestand niet beschikbaar</string>
+    <string name="play" formatted="false">Spelen</string>
+    <string name="share" formatted="false">Deel</string>
+    <string name="retry" formatted="false">Opnieuw proberen</string>
+    <string name="delete_download" formatted="false">Download en het bijbehorende bestand verwijderen?</string>
+    <string name="no_player" formatted="false">Er is geen compatibele app beschikbaar om dit bestand te openen.</string>
+    <string name="guide_title" formatted="false">Van ontdekken tot downloaden.</string>
+    <string name="guide_subtitle" formatted="false">Een eenvoudige handleiding voor het bewaren van de video\&apos;s waar je van houdt.</string>
+    <string name="step_one_title" formatted="false">Vind uw video</string>
+    <string name="step_one_body" formatted="false">Open Bladeren. Zoek of voer een websiteadres in. Je kunt ook een videolink delen vanuit een andere app.</string>
+    <string name="step_two_title" formatted="false">Ontdek de bron</string>
+    <string name="step_two_body" formatted="false">Speel een video af en tik vervolgens op Video\&apos;s zoeken. Kies een gedetecteerd bestand of plak een directe HTTPS-videolink.</string>
+    <string name="step_three_title" formatted="false">Maak het de jouwe</string>
+    <string name="step_three_body" formatted="false">Kies een bestandsnaam, bevestig uw toestemming om de video op te slaan en tik op Downloaden. Android zet de download op de achtergrond voort.</string>
+    <string name="step_four_title" formatted="false">Geniet van je verzameling</string>
+    <string name="step_four_body" formatted="false">Open Downloads om de voortgang te controleren. Speel of deel voltooide video\&apos;s. Probeer mislukte downloads opnieuw met een nieuwe link wanneer dat nodig is.</string>
+    <string name="try_now" formatted="false">Probeer het nu</string>
+    <string name="preferences" formatted="false">Maak het je eigen.</string>
+    <string name="preferences_subtitle" formatted="false">Een paar doordachte bedieningselementen voor uw dagelijkse browsen.</string>
+    <string name="dns_title" formatted="false">VPN / Privé-DNS</string>
+    <string name="dns_explanation" formatted="false">Privé-DNS codeert DNS-query\&apos;s. Het verbergt uw IP-adres niet en creëert geen VPN-tunnel. Android vereist dat u deze instelling handmatig wijzigt.</string>
+    <string name="connected" formatted="false">Verbonden</string>
+    <string name="unconnected" formatted="false">Niet verbonden</string>
+    <string name="connect" formatted="false">Verbinden</string>
+    <string name="disconnect" formatted="false">Verbreek de verbinding</string>
+    <string name="dns_instructions" formatted="false">Selecteer Hostnaam van privé-DNS-provider, plak dns.adguard-dns.com en sla op. Om de verbinding te verbreken, selecteert u Automatisch of Uit in dezelfde systeeminstelling.</string>
+    <string name="copy_hostname" formatted="false">Kopieer hostnaam</string>
+    <string name="copied" formatted="false">Gekopieerd naar klembord</string>
+    <string name="open_network_settings" formatted="false">Netwerkinstellingen openen</string>
+    <string name="language" formatted="false">App-taal</string>
+    <string name="system_language" formatted="false">Volg de apparaattaal</string>
+    <string name="search_language" formatted="false">Zoek een taal</string>
+    <string name="language_note" formatted="false">Vertalingen zijn offline opgenomen. Bij niet-vermelde apparaattalen wordt Engels gebruikt. Machinevertalingen hebben mogelijk een regionale beoordeling nodig.</string>
+    <string name="search_engine" formatted="false">Zoekmachine</string>
+    <string name="wifi_only" formatted="false">Alleen downloaden via wifi</string>
+    <string name="wifi_body" formatted="false">Nieuwe downloads wachten totdat Wi-Fi beschikbaar is.</string>
+    <string name="javascript" formatted="false">JavaScript voor websites</string>
+    <string name="javascript_body" formatted="false">Vereist voor veel websites en HTML5-videodetectie.</string>
+    <string name="privacy" formatted="false">Privacy</string>
+    <string name="clear_browser" formatted="false">Browsegegevens wissen</string>
+    <string name="clear_browser_confirm" formatted="false">Cookies, browsercache, geschiedenis en website-opslag verwijderen?</string>
+    <string name="privacy_body" formatted="false">Geen advertenties, analyses of ontwikkelaarsaccounts. Websites, zoekmachines, DNS-providers en downloadservers ontvangen de verzoeken die u doet. Downloadgeschiedenis en bladwijzers blijven op dit apparaat staan.</string>
+    <string name="terms" formatted="false">Gebruik verantwoord</string>
+    <string name="terms_body" formatted="false">Sla alleen video\&apos;s op waarvan u de eigenaar bent of die u mag downloaden. Respecteer copyright en websitevoorwaarden. Deze app kan de beperkingen voor DRM, betaalmuren of platformdownloads niet omzeilen.</string>
+    <string name="about" formatted="false">Over</string>
+    <string name="version" formatted="false">Versie</string>
+    <string name="paid_app" formatted="false">Eén aankoop. Geen advertenties. Geen abonnement.</string>
+    <string name="welcome_title" formatted="false">Bewaar wat je inspireert.</string>
+    <string name="welcome_body" formatted="false">Blader, ontdek en bewaar toegestane video\&apos;s op één plek. Lees de geïllustreerde handleiding om aan de slag te gaan.</string>
+    <string name="start_browsing" formatted="false">Begin met browsen</string>
+    <string name="read_guide" formatted="false">Lees de gids</string>
+    <string name="browser_error" formatted="false">Deze pagina kon niet worden geladen. Controleer het adres en de verbinding en laad opnieuw.</string>
+    <string name="secure_only" formatted="false">Deze app maakt gebruik van HTTPS-verbindingen. Probeer de beveiligde versie van deze website.</string>
+    <string name="external_link" formatted="false">Deze link openen in een andere app?</string>
+    <string name="open" formatted="false">Openen</string>
+    <string name="refresh" formatted="false">Vernieuwen</string>
+    <string name="accessibility_tutorial" formatted="false">Illustratie voor deze tutorialstap</string>
+    <string name="download_reason" formatted="false">Android-downloadfoutcode</string>
+    <string name="queue_full" formatted="false">De downloadgeschiedenis is vol. Verwijder eerst een ouder item.</string>
+    <string name="browser_tabs" formatted="false">Browser-tabbladen</string>
+    <string name="tabs_subtitle" formatted="false">Houd websites open en schakel ertussen.</string>
+    <string name="new_tab" formatted="false">Nieuw tabblad</string>
+    <string name="close_tab" formatted="false">Tabblad sluiten</string>
+    <string name="active_tab" formatted="false">Actief tabblad</string>
+    <string name="tab_limit" formatted="false">U kunt maximaal 8 tabbladen openen. Sluit een tabblad om een ​​nieuw tabblad toe te voegen.</string>
+    <string name="history" formatted="false">Geschiedenis</string>
+    <string name="history_subtitle" formatted="false">Bezochte websites worden alleen op dit apparaat opgeslagen.</string>
+    <string name="empty_history" formatted="false">Uw browsegeschiedenis wordt hier weergegeven.</string>
+    <string name="clear_history" formatted="false">Geschiedenis wissen</string>
+    <string name="clear_history_confirm" formatted="false">Alle browsegeschiedenis van dit apparaat verwijderen?</string>
+    <string name="open_new_tab" formatted="false">Openen in nieuw tabblad</string>
+    <string name="browser_menu" formatted="false">Browsermenu</string>
+    <string name="shortcut_note" formatted="false">Websitesnelkoppelingen worden geopend in de browser. De beschikbaarheid van downloads is afhankelijk van de website.</string>
+</resources>

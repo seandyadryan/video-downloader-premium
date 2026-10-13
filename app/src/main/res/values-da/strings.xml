@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Gennemse</string>
+    <string name="downloads" formatted="false">Downloads</string>
+    <string name="guide" formatted="false">Vejledning</string>
+    <string name="settings" formatted="false">Indstillinger</string>
+    <string name="home_title" formatted="false">Dine videoer. Din samling.</string>
+    <string name="home_subtitle" formatted="false">Find noget der er værd at beholde.</string>
+    <string name="search_hint" formatted="false">Søg eller indtast et websted</string>
+    <string name="go" formatted="false">Gå</string>
+    <string name="paste_link" formatted="false">Indsæt videolink</string>
+    <string name="direct_link" formatted="false">Direkte videolink</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Download</string>
+    <string name="detect" formatted="false">Find videoer</string>
+    <string name="detected" formatted="false">Videoer på denne side</string>
+    <string name="no_media" formatted="false">Der blev ikke fundet nogen video, der kan downloades. Begynd at afspille en video, og prøv derefter igen. Beskyttede streams og indlejrede rammer kan være utilgængelige.</string>
+    <string name="safe_note" formatted="false">Download kun videoer, du ejer eller har tilladelse til at gemme. Beskyttede streams og YouTube-downloads er ikke tilgængelige.</string>
+    <string name="quick_start" formatted="false">START HER</string>
+    <string name="quick_browse" formatted="false">Udforsk nettet</string>
+    <string name="quick_browse_body" formatted="false">Søg med din foretrukne maskine i den indbyggede browser.</string>
+    <string name="quick_download" formatted="false">Gem en video</string>
+    <string name="quick_download_body" formatted="false">Indsæt et direkte HTTPS-videolink, eller find en video på en side.</string>
+    <string name="quick_guide" formatted="false">Lidt vejledning</string>
+    <string name="quick_guide_body" formatted="false">Fire illustrerede trin fra opdagelse til din samling.</string>
+    <string name="back" formatted="false">Tilbage</string>
+    <string name="forward" formatted="false">Fremad</string>
+    <string name="reload" formatted="false">Genindlæs</string>
+    <string name="home" formatted="false">Hjem</string>
+    <string name="bookmark" formatted="false">Bogmærke</string>
+    <string name="bookmarks" formatted="false">Bogmærker</string>
+    <string name="empty_bookmarks" formatted="false">Gemte websteder vises her.</string>
+    <string name="saved" formatted="false">Gemt</string>
+    <string name="remove" formatted="false">Fjern</string>
+    <string name="cancel" formatted="false">Annuller</string>
+    <string name="close" formatted="false">Luk</string>
+    <string name="confirm_download" formatted="false">Vil du gemme denne video?</string>
+    <string name="filename" formatted="false">Filnavn</string>
+    <string name="download_location" formatted="false">Gemt i Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Jeg ejer denne video eller har tilladelse til at downloade den.</string>
+    <string name="permission_required" formatted="false">Bekræft, at du har tilladelse til at gemme denne video.</string>
+    <string name="invalid_url" formatted="false">Indtast et gyldigt HTTPS-videolink.</string>
+    <string name="unsupported" formatted="false">Dette link er ikke en video, der kan downloades. DRM, livestreams, afspilningslister og YouTube-downloads understøttes ikke.</string>
+    <string name="queued" formatted="false">Download tilføjet til køen</string>
+    <string name="download_error" formatted="false">Kan ikke downloades. Tjek forbindelsen, eller brug et nyt videolink.</string>
+    <string name="collection_title" formatted="false">Din samling</string>
+    <string name="collection_subtitle" formatted="false">Gemte videoer, klar, når du er.</string>
+    <string name="empty_downloads" formatted="false">Din næste favorit hører hjemme her.</string>
+    <string name="empty_downloads_body" formatted="false">Find en video i Gennemse eller indsæt et direkte videolink for at starte din samling.</string>
+    <string name="pending" formatted="false">I kø</string>
+    <string name="running" formatted="false">Downloader</string>
+    <string name="paused" formatted="false">Venter på netværk eller prøv igen</string>
+    <string name="complete" formatted="false">Komplet</string>
+    <string name="failed" formatted="false">Mislykkedes</string>
+    <string name="missing" formatted="false">Filen er ikke tilgængelig</string>
+    <string name="play" formatted="false">Spil</string>
+    <string name="share" formatted="false">Del</string>
+    <string name="retry" formatted="false">Prøv igen</string>
+    <string name="delete_download" formatted="false">Vil du fjerne download og dens fil?</string>
+    <string name="no_player" formatted="false">Ingen kompatibel app er tilgængelig til at åbne denne fil.</string>
+    <string name="guide_title" formatted="false">Fra opdagelse til download.</string>
+    <string name="guide_subtitle" formatted="false">En simpel guide til at opbevare de videoer, du elsker.</string>
+    <string name="step_one_title" formatted="false">Find din video</string>
+    <string name="step_one_body" formatted="false">Åbn Gennemse. Søg eller indtast en hjemmesideadresse. Du kan også dele et videolink fra en anden app.</string>
+    <string name="step_two_title" formatted="false">Find kilden</string>
+    <string name="step_two_body" formatted="false">Afspil en video, og tryk derefter på Find videoer. Vælg en registreret fil, eller indsæt et direkte HTTPS-videolink.</string>
+    <string name="step_three_title" formatted="false">Gør det til dit</string>
+    <string name="step_three_body" formatted="false">Vælg et filnavn, bekræft din tilladelse til at gemme videoen, og tryk på Download. Android fortsætter med at downloade i baggrunden.</string>
+    <string name="step_four_title" formatted="false">Nyd din samling</string>
+    <string name="step_four_body" formatted="false">Åbn Downloads for at kontrollere fremskridt. Afspil eller del færdige videoer. Prøv igen mislykkede downloads med et nyt link, når det er nødvendigt.</string>
+    <string name="try_now" formatted="false">Prøv det nu</string>
+    <string name="preferences" formatted="false">Gør det til dit eget.</string>
+    <string name="preferences_subtitle" formatted="false">Et par gennemtænkte kontroller til din daglige browsing.</string>
+    <string name="dns_title" formatted="false">VPN / Privat DNS</string>
+    <string name="dns_explanation" formatted="false">Privat DNS krypterer DNS-forespørgsler. Den skjuler ikke din IP-adresse eller opretter en VPN-tunnel. Android kræver, at du ændrer denne indstilling manuelt.</string>
+    <string name="connected" formatted="false">Forbundet</string>
+    <string name="unconnected" formatted="false">Ikke forbundet</string>
+    <string name="connect" formatted="false">Forbind</string>
+    <string name="disconnect" formatted="false">Afbryd forbindelsen</string>
+    <string name="dns_instructions" formatted="false">Vælg Private DNS-udbyderens værtsnavn, indsæt dns.adguard-dns.com, og gem. For at afbryde forbindelsen skal du vælge Automatisk eller Fra i samme systemindstilling.</string>
+    <string name="copy_hostname" formatted="false">Kopiér værtsnavn</string>
+    <string name="copied" formatted="false">Kopieret til udklipsholder</string>
+    <string name="open_network_settings" formatted="false">Åbn netværksindstillinger</string>
+    <string name="language" formatted="false">App sprog</string>
+    <string name="system_language" formatted="false">Følg enhedens sprog</string>
+    <string name="search_language" formatted="false">Find et sprog</string>
+    <string name="language_note" formatted="false">Oversættelser er inkluderet offline. Ikke-listede enhedssprog bruger engelsk. Maskinoversættelser kan kræve regional gennemgang.</string>
+    <string name="search_engine" formatted="false">Søgemaskine</string>
+    <string name="wifi_only" formatted="false">Download kun på Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Nye downloads venter, indtil Wi-Fi er tilgængeligt.</string>
+    <string name="javascript" formatted="false">Website JavaScript</string>
+    <string name="javascript_body" formatted="false">Påkrævet af mange websteder og HTML5-videoopdagelse.</string>
+    <string name="privacy" formatted="false">Privatliv</string>
+    <string name="clear_browser" formatted="false">Ryd browserdata</string>
+    <string name="clear_browser_confirm" formatted="false">Vil du slette cookies, browsercache, historik og webstedslagring?</string>
+    <string name="privacy_body" formatted="false">Ingen annoncer, analyser eller udviklerkonti. Websites, søgemaskiner, DNS-udbydere og downloadservere modtager de anmodninger, du laver. Downloadhistorik og bogmærker forbliver på denne enhed.</string>
+    <string name="terms" formatted="false">Brug ansvarligt</string>
+    <string name="terms_body" formatted="false">Gem kun videoer, du ejer eller har tilladelse til at downloade. Respekter copyright og webstedsvilkår. Denne app kan ikke omgå begrænsninger for DRM, betalingsvægge eller platformsdownload.</string>
+    <string name="about" formatted="false">Om</string>
+    <string name="version" formatted="false">version</string>
+    <string name="paid_app" formatted="false">Et køb. Ingen annoncer. Intet abonnement.</string>
+    <string name="welcome_title" formatted="false">Behold det, der inspirerer dig.</string>
+    <string name="welcome_body" formatted="false">Gennemse, opdag og gem tilladte videoer ét sted. Læs den illustrerede guide for at komme i gang.</string>
+    <string name="start_browsing" formatted="false">Begynd at browse</string>
+    <string name="read_guide" formatted="false">Læs guiden</string>
+    <string name="browser_error" formatted="false">Denne side kunne ikke indlæses. Tjek adressen og forbindelsen, og genindlæs derefter.</string>
+    <string name="secure_only" formatted="false">Denne app bruger HTTPS-forbindelser. Prøv den sikre version af denne hjemmeside.</string>
+    <string name="external_link" formatted="false">Vil du åbne dette link i en anden app?</string>
+    <string name="open" formatted="false">Åbn</string>
+    <string name="refresh" formatted="false">Opdater</string>
+    <string name="accessibility_tutorial" formatted="false">Illustration til dette selvstudietrin</string>
+    <string name="download_reason" formatted="false">Android download fejlkode</string>
+    <string name="queue_full" formatted="false">Downloadhistorikken er fuld. Fjern først en ældre post.</string>
+    <string name="browser_tabs" formatted="false">Browserfaner</string>
+    <string name="tabs_subtitle" formatted="false">Hold websteder åbne, og skift mellem dem.</string>
+    <string name="new_tab" formatted="false">Ny fane</string>
+    <string name="close_tab" formatted="false">Luk fanen</string>
+    <string name="active_tab" formatted="false">Aktiv fane</string>
+    <string name="tab_limit" formatted="false">Du kan åbne op til 8 faner. Luk en fane for at tilføje en anden.</string>
+    <string name="history" formatted="false">Historie</string>
+    <string name="history_subtitle" formatted="false">Besøgte websteder gemmes kun på denne enhed.</string>
+    <string name="empty_history" formatted="false">Din browserhistorik vises her.</string>
+    <string name="clear_history" formatted="false">Ryd historik</string>
+    <string name="clear_history_confirm" formatted="false">Vil du slette al browserhistorik fra denne enhed?</string>
+    <string name="open_new_tab" formatted="false">Åbn i ny fane</string>
+    <string name="browser_menu" formatted="false">Browser menu</string>
+    <string name="shortcut_note" formatted="false">Hjemmesidegenveje åbnes i browseren. Download tilgængelighed afhænger af webstedet.</string>
+</resources>

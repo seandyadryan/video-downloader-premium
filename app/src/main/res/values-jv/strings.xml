@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Browse</string>
+    <string name="downloads" formatted="false">Ngundhuh</string>
+    <string name="guide" formatted="false">Panuntun</string>
+    <string name="settings" formatted="false">Setelan</string>
+    <string name="home_title" formatted="false">Video sampeyan. Koleksi sampeyan.</string>
+    <string name="home_subtitle" formatted="false">Golek soko worth tetep.</string>
+    <string name="search_hint" formatted="false">Telusuri utawa ketik situs web</string>
+    <string name="go" formatted="false">lunga</string>
+    <string name="paste_link" formatted="false">Tempel link video</string>
+    <string name="direct_link" formatted="false">Link video langsung</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Ngundhuh</string>
+    <string name="detect" formatted="false">Golek video</string>
+    <string name="detected" formatted="false">Video ing kaca iki</string>
+    <string name="no_media" formatted="false">Ora ana video sing bisa didownload. Mulai muter video, banjur coba maneh. Aliran sing dilindhungi lan pigura sing dipasang bisa uga ora kasedhiya.</string>
+    <string name="safe_note" formatted="false">Mung ngundhuh video sing sampeyan duwe utawa duwe ijin kanggo nyimpen. Aliran sing dilindhungi lan download YouTube ora kasedhiya.</string>
+    <string name="quick_start" formatted="false">Miwiti kene</string>
+    <string name="quick_browse" formatted="false">Jelajahi web</string>
+    <string name="quick_browse_body" formatted="false">Telusuri nganggo mesin sing disenengi ing browser sing dibangun.</string>
+    <string name="quick_download" formatted="false">Simpen video</string>
+    <string name="quick_download_body" formatted="false">Tempel link video HTTPS langsung utawa golek video ing kaca.</string>
+    <string name="quick_guide" formatted="false">A panuntun dhumateng sethitik</string>
+    <string name="quick_guide_body" formatted="false">Papat langkah sing digambarake saka panemuan nganti koleksi sampeyan.</string>
+    <string name="back" formatted="false">Mbalik</string>
+    <string name="forward" formatted="false">Maju</string>
+    <string name="reload" formatted="false">Muat maneh</string>
+    <string name="home" formatted="false">Ngarep</string>
+    <string name="bookmark" formatted="false">Tetenger</string>
+    <string name="bookmarks" formatted="false">Tetenger</string>
+    <string name="empty_bookmarks" formatted="false">Situs web sing disimpen bakal katon ing kene.</string>
+    <string name="saved" formatted="false">Disimpen</string>
+    <string name="remove" formatted="false">Mbusak</string>
+    <string name="cancel" formatted="false">Batal</string>
+    <string name="close" formatted="false">Nutup</string>
+    <string name="confirm_download" formatted="false">Simpen video iki?</string>
+    <string name="filename" formatted="false">Jeneng berkas</string>
+    <string name="download_location" formatted="false">Disimpen ing Downloads / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Aku duwe video iki utawa duwe ijin kanggo ngundhuh.</string>
+    <string name="permission_required" formatted="false">Konfirmasi yen sampeyan duwe ijin kanggo nyimpen video iki.</string>
+    <string name="invalid_url" formatted="false">Ketik link video HTTPS sing bener.</string>
+    <string name="unsupported" formatted="false">Link iki dudu video sing bisa didownload. DRM, live stream, dhaptar lagu, lan download YouTube ora didhukung.</string>
+    <string name="queued" formatted="false">Download ditambahake menyang antrian</string>
+    <string name="download_error" formatted="false">Ora bisa ngundhuh. Priksa sambungan utawa gunakake link video anyar.</string>
+    <string name="collection_title" formatted="false">Koleksi sampeyan</string>
+    <string name="collection_subtitle" formatted="false">Video sing disimpen, siap nalika sampeyan lagi.</string>
+    <string name="empty_downloads" formatted="false">Favorit sabanjure sampeyan ana ing kene.</string>
+    <string name="empty_downloads_body" formatted="false">Temokake video ing Telusuri utawa tempel link video langsung kanggo miwiti koleksi sampeyan.</string>
+    <string name="pending" formatted="false">antri</string>
+    <string name="running" formatted="false">Ngundhuh</string>
+    <string name="paused" formatted="false">Ngenteni jaringan utawa nyoba maneh</string>
+    <string name="complete" formatted="false">jangkep</string>
+    <string name="failed" formatted="false">Gagal</string>
+    <string name="missing" formatted="false">File ora kasedhiya</string>
+    <string name="play" formatted="false">Dolanan</string>
+    <string name="share" formatted="false">Nuduhake</string>
+    <string name="retry" formatted="false">Coba maneh</string>
+    <string name="delete_download" formatted="false">Mbusak download lan file?</string>
+    <string name="no_player" formatted="false">Ora ana aplikasi sing kompatibel kanggo mbukak file iki.</string>
+    <string name="guide_title" formatted="false">Saka panemuan kanggo ngundhuh.</string>
+    <string name="guide_subtitle" formatted="false">Pandhuan prasaja kanggo nyimpen video sing disenengi.</string>
+    <string name="step_one_title" formatted="false">Golek video sampeyan</string>
+    <string name="step_one_body" formatted="false">Bukak Browse. Telusuri utawa ketik alamat situs web. Sampeyan uga bisa nuduhake link video saka app liyane.</string>
+    <string name="step_two_title" formatted="false">Temokake sumber</string>
+    <string name="step_two_body" formatted="false">Puter video, banjur tutul Temokake video. Pilih file sing dideteksi, utawa tempel link video HTTPS langsung.</string>
+    <string name="step_three_title" formatted="false">Gawea duwekmu</string>
+    <string name="step_three_body" formatted="false">Pilih jeneng file, konfirmasi ijin kanggo nyimpen video, banjur tutul Download. Android nerusake download ing latar mburi.</string>
+    <string name="step_four_title" formatted="false">Seneng koleksi sampeyan</string>
+    <string name="step_four_body" formatted="false">Bukak Unduh kanggo mriksa kemajuan. Puter utawa enggo bareng video sing wis rampung. Coba maneh download sing gagal karo link anyar yen perlu.</string>
+    <string name="try_now" formatted="false">Coba saiki</string>
+    <string name="preferences" formatted="false">Nggawe dhewe.</string>
+    <string name="preferences_subtitle" formatted="false">Sawetara kontrol sing dipikirake kanggo browsing saben dina.</string>
+    <string name="dns_title" formatted="false">VPN / DNS pribadi</string>
+    <string name="dns_explanation" formatted="false">DNS pribadi ngenkripsi pitakon DNS. Ora ndhelikake alamat IP sampeyan utawa nggawe trowongan VPN. Android mbutuhake sampeyan ngganti setelan iki kanthi manual.</string>
+    <string name="connected" formatted="false">Nyambung</string>
+    <string name="unconnected" formatted="false">Ora nyambung</string>
+    <string name="connect" formatted="false">Nyambung</string>
+    <string name="disconnect" formatted="false">Pedhot</string>
+    <string name="dns_instructions" formatted="false">Pilih Jeneng host panyedhiya DNS pribadi, tempel dns.adguard-dns.com, lan simpen. Kanggo medhot sambungan, pilih Otomatis utawa Pateni ing setelan sistem sing padha.</string>
+    <string name="copy_hostname" formatted="false">Nyalin jeneng host</string>
+    <string name="copied" formatted="false">Disalin menyang clipboard</string>
+    <string name="open_network_settings" formatted="false">Bukak setelan jaringan</string>
+    <string name="language" formatted="false">Basa aplikasi</string>
+    <string name="system_language" formatted="false">Tindakake basa piranti</string>
+    <string name="search_language" formatted="false">Golek basa</string>
+    <string name="language_note" formatted="false">Terjemahan kalebu offline. Basa piranti sing ora kadhaptar nggunakake basa Inggris. Terjemahan mesin mbutuhake review regional.</string>
+    <string name="search_engine" formatted="false">Mesin telusur</string>
+    <string name="wifi_only" formatted="false">Ngundhuh mung ing Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Download anyar ngenteni nganti Wi-Fi kasedhiya.</string>
+    <string name="javascript" formatted="false">JavaScript situs web</string>
+    <string name="javascript_body" formatted="false">Dibutuhake dening akeh situs web lan panemuan video HTML5.</string>
+    <string name="privacy" formatted="false">Privasi</string>
+    <string name="clear_browser" formatted="false">Mbusak data browsing</string>
+    <string name="clear_browser_confirm" formatted="false">Mbusak cookie, cache browser, riwayat, lan panyimpenan situs web?</string>
+    <string name="privacy_body" formatted="false">Ora ana iklan, analytics, utawa akun pangembang. Situs web, mesin telusur, panyedhiya DNS, lan server download nampa panjaluk sing sampeyan lakoni. Download riwayat lan tetenger tetep ing piranti iki.</string>
+    <string name="terms" formatted="false">Gunakake kanthi tanggung jawab</string>
+    <string name="terms_body" formatted="false">Mung simpen video sing diduweni utawa diijini diundhuh. Hormati hak cipta lan syarat situs web. Aplikasi iki ora bisa ngliwati DRM, paywall, utawa watesan download platform.</string>
+    <string name="about" formatted="false">Babagan</string>
+    <string name="version" formatted="false">Versi</string>
+    <string name="paid_app" formatted="false">siji tuku. Ora ana iklan. Ora langganan.</string>
+    <string name="welcome_title" formatted="false">Tansah apa sing menehi inspirasi.</string>
+    <string name="welcome_body" formatted="false">Telusuri, temokake, lan simpen video sing diidini ing sak panggonan. Waca pandhuan sing digambarake kanggo miwiti.</string>
+    <string name="start_browsing" formatted="false">Mulai browsing</string>
+    <string name="read_guide" formatted="false">Maca pandhuan</string>
+    <string name="browser_error" formatted="false">Kaca iki ora bisa dimuat. Priksa alamat lan sambungan, banjur muat ulang.</string>
+    <string name="secure_only" formatted="false">Aplikasi iki nggunakake sambungan HTTPS. Coba versi aman saka situs web iki.</string>
+    <string name="external_link" formatted="false">Bukak link iki ing app liyane?</string>
+    <string name="open" formatted="false">Mbukak</string>
+    <string name="refresh" formatted="false">Refresh</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustrasi kanggo langkah tutorial iki</string>
+    <string name="download_reason" formatted="false">Kode kesalahan download Android</string>
+    <string name="queue_full" formatted="false">Sajarah download lengkap. Mbusak entri lawas dhisik.</string>
+    <string name="browser_tabs" formatted="false">Tab browser</string>
+    <string name="tabs_subtitle" formatted="false">Tansah situs web mbukak lan ngalih ing antarane.</string>
+    <string name="new_tab" formatted="false">Tab anyar</string>
+    <string name="close_tab" formatted="false">Nutup tab</string>
+    <string name="active_tab" formatted="false">Tab aktif</string>
+    <string name="tab_limit" formatted="false">Sampeyan bisa mbukak nganti 8 tab. Nutup tab kanggo nambah liyane.</string>
+    <string name="history" formatted="false">Sajarah</string>
+    <string name="history_subtitle" formatted="false">Situs web sing dibukak disimpen mung ing piranti iki.</string>
+    <string name="empty_history" formatted="false">Riwayat telusuran sampeyan bakal katon ing kene.</string>
+    <string name="clear_history" formatted="false">Mbusak riwayat</string>
+    <string name="clear_history_confirm" formatted="false">Busak kabeh riwayat telusuran saka piranti iki?</string>
+    <string name="open_new_tab" formatted="false">Bukak ing tab anyar</string>
+    <string name="browser_menu" formatted="false">menu browser</string>
+    <string name="shortcut_note" formatted="false">Trabasan situs web mbukak ing browser. kasedhiyan download gumantung ing website.</string>
+</resources>

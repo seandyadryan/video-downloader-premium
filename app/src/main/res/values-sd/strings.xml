@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">پريميئم</string>
+    <string name="browse" formatted="false">برائوز</string>
+    <string name="downloads" formatted="false">ڊائون لوڊ</string>
+    <string name="guide" formatted="false">ھدايت</string>
+    <string name="settings" formatted="false">سيٽنگون</string>
+    <string name="home_title" formatted="false">توهان جون وڊيوز. توهان جو مجموعو.</string>
+    <string name="home_subtitle" formatted="false">رکڻ جي لائق شيء ڳوليو.</string>
+    <string name="search_hint" formatted="false">ڳولا ڪريو يا ويب سائيٽ داخل ڪريو</string>
+    <string name="go" formatted="false">وڃ</string>
+    <string name="paste_link" formatted="false">وڊيو لنڪ پيسٽ ڪريو</string>
+    <string name="direct_link" formatted="false">سڌو وڊيو لنڪ</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ڊائون لوڊ ڪريو</string>
+    <string name="detect" formatted="false">وڊيوز ڳوليو</string>
+    <string name="detected" formatted="false">هن صفحي تي وڊيوز</string>
+    <string name="no_media" formatted="false">ڪابه ڊائون لوڊ ڪرڻ جي قابل وڊيو نه ملي. ھڪ وڊيو کيڏڻ شروع ڪريو، وري ڪوشش ڪريو. محفوظ اسٽريمز ۽ ايمبيڊڊ فريم شايد دستياب نه هوندا.</string>
+    <string name="safe_note" formatted="false">صرف اهي وڊيوز ڊائون لوڊ ڪريو جيڪي توهان وٽ آهن يا محفوظ ڪرڻ جي اجازت آهي. محفوظ اسٽريمز ۽ يوٽيوب ڊائون لوڊ دستياب نه آهن.</string>
+    <string name="quick_start" formatted="false">ھتي شروع ڪريو</string>
+    <string name="quick_browse" formatted="false">ويب جي ڳولا ڪريو</string>
+    <string name="quick_browse_body" formatted="false">بلٽ ان برائوزر ۾ پنھنجي پسند جي انجڻ سان ڳولھيو.</string>
+    <string name="quick_download" formatted="false">هڪ وڊيو محفوظ ڪريو</string>
+    <string name="quick_download_body" formatted="false">سڌو HTTPS وڊيو لنڪ پيسٽ ڪريو يا صفحي تي وڊيو ڳولھيو.</string>
+    <string name="quick_guide" formatted="false">ٿوري ھدايت</string>
+    <string name="quick_guide_body" formatted="false">دريافت کان وٺي توهان جي گڏ ڪرڻ تائين چار واضح قدم.</string>
+    <string name="back" formatted="false">پوئتي</string>
+    <string name="forward" formatted="false">اڳتي</string>
+    <string name="reload" formatted="false">ٻيهر لوڊ ڪريو</string>
+    <string name="home" formatted="false">گهر</string>
+    <string name="bookmark" formatted="false">بک مارڪ</string>
+    <string name="bookmarks" formatted="false">بک مارڪ</string>
+    <string name="empty_bookmarks" formatted="false">محفوظ ڪيل ويب سائيٽون هتي ظاهر ٿينديون.</string>
+    <string name="saved" formatted="false">محفوظ ٿيل</string>
+    <string name="remove" formatted="false">هٽايو</string>
+    <string name="cancel" formatted="false">منسوخ ڪريو</string>
+    <string name="close" formatted="false">بند</string>
+    <string name="confirm_download" formatted="false">هي وڊيو محفوظ ڪريو؟</string>
+    <string name="filename" formatted="false">فائل جو نالو</string>
+    <string name="download_location" formatted="false">ڊائون لوڊ ۾ محفوظ ٿيل / وڊيو ڊائون لوڊ ڪندڙ پريميئم</string>
+    <string name="permission_confirm" formatted="false">مون وٽ هي وڊيو آهي يا مون وٽ ان کي ڊائونلوڊ ڪرڻ جي اجازت آهي.</string>
+    <string name="permission_required" formatted="false">پڪ ڪريو ته توهان کي هن وڊيو کي محفوظ ڪرڻ جي اجازت آهي.</string>
+    <string name="invalid_url" formatted="false">هڪ صحيح HTTPS وڊيو لنڪ داخل ڪريو.</string>
+    <string name="unsupported" formatted="false">هي لنڪ ڊائون لوڊ ڪرڻ جي قابل وڊيو ناهي. DRM، لائيو اسٽريمز، پبليڪيشن، ۽ يوٽيوب ڊائون لوڊ غير معاون آھن.</string>
+    <string name="queued" formatted="false">ڊائون لوڊ قطار ۾ شامل ڪيو ويو</string>
+    <string name="download_error" formatted="false">ڊائون لوڊ نه ٿي سگھي. ڪنيڪشن چيڪ ڪريو يا تازو وڊيو لنڪ استعمال ڪريو.</string>
+    <string name="collection_title" formatted="false">توهان جو مجموعو</string>
+    <string name="collection_subtitle" formatted="false">محفوظ ڪيل وڊيوز، تيار جڏهن توهان آهيو.</string>
+    <string name="empty_downloads" formatted="false">توھان جو ايندڙ پسنديده ھتي آھي.</string>
+    <string name="empty_downloads_body" formatted="false">برائوز ۾ هڪ وڊيو ڳولھيو يا سڌو وڊيو لنڪ پيسٽ ڪريو توھان جو مجموعو شروع ڪرڻ لاءِ.</string>
+    <string name="pending" formatted="false">قطار</string>
+    <string name="running" formatted="false">ڊائون لوڊ ڪندي</string>
+    <string name="paused" formatted="false">نيٽ ورڪ جي انتظار ۾ يا ٻيهر ڪوشش ڪريو</string>
+    <string name="complete" formatted="false">مڪمل</string>
+    <string name="failed" formatted="false">ناڪام ٿيو</string>
+    <string name="missing" formatted="false">فائل دستياب ناهي</string>
+    <string name="play" formatted="false">راند</string>
+    <string name="share" formatted="false">شيئر ڪريو</string>
+    <string name="retry" formatted="false">ٻيهر ڪوشش ڪريو</string>
+    <string name="delete_download" formatted="false">ڊائون لوڊ ۽ ان جي فائل کي هٽايو؟</string>
+    <string name="no_player" formatted="false">هن فائل کي کولڻ لاءِ ڪابه مطابقت رکندڙ ائپ موجود ناهي.</string>
+    <string name="guide_title" formatted="false">دريافت کان ڊائون لوڊ ڪرڻ لاء.</string>
+    <string name="guide_subtitle" formatted="false">توهان جي پسند ڪيل وڊيوز کي رکڻ لاءِ هڪ سادي گائيڊ.</string>
+    <string name="step_one_title" formatted="false">پنھنجي وڊيو ڳولھيو</string>
+    <string name="step_one_body" formatted="false">کوليو برائوز. ويب سائيٽ جو پتو ڳولھيو يا داخل ڪريو. توهان ٻئي ايپ مان هڪ وڊيو لنڪ پڻ شيئر ڪري سگهو ٿا.</string>
+    <string name="step_two_title" formatted="false">ذريعو دريافت ڪريو</string>
+    <string name="step_two_body" formatted="false">هڪ وڊيو کيڏيو، پوءِ ٽيپ ڪريو وڊيوز ڳولھيو. منتخب ٿيل فائل چونڊيو، يا سڌو HTTPS وڊيو لنڪ پيسٽ ڪريو.</string>
+    <string name="step_three_title" formatted="false">ان کي پنهنجو ٺاهيو</string>
+    <string name="step_three_body" formatted="false">فائل جو نالو چونڊيو، وڊيو محفوظ ڪرڻ جي اجازت جي تصديق ڪريو، ۽ ٽيپ ڪريو ڊائون لوڊ. Android پس منظر ۾ ڊائون لوڊ جاري رکي ٿو.</string>
+    <string name="step_four_title" formatted="false">پنهنجي جمع جو مزو وٺو</string>
+    <string name="step_four_body" formatted="false">ترقي چيڪ ڪرڻ لاءِ ڊائون لوڊ کوليو. مڪمل ڪيل وڊيوز کيڏيو يا حصيداري ڪريو. ٻيهر ڪوشش ڪريو ناڪام ڊائون لوڊ کي نئين لنڪ سان جڏهن ضرورت هجي.</string>
+    <string name="try_now" formatted="false">هاڻي ڪوشش ڪريو</string>
+    <string name="preferences" formatted="false">ان کي پنهنجو ٺاهيو.</string>
+    <string name="preferences_subtitle" formatted="false">توھان جي روزاني برائوزنگ لاءِ ڪجھ سمجھدار ڪنٽرول.</string>
+    <string name="dns_title" formatted="false">VPN / نجي DNS</string>
+    <string name="dns_explanation" formatted="false">پرائيويٽ DNS encrypts DNS سوالن کي. اهو توهان جي IP پتي کي لڪائي نه ٿو يا هڪ VPN سرنگ ٺاهي. Android توهان کي هن سيٽنگ کي دستي طور تبديل ڪرڻ جي ضرورت آهي.</string>
+    <string name="connected" formatted="false">ڳنڍيل</string>
+    <string name="unconnected" formatted="false">اڻ ڳنڍيل</string>
+    <string name="connect" formatted="false">ڳنڍڻ</string>
+    <string name="disconnect" formatted="false">ڌار ٿيڻ</string>
+    <string name="dns_instructions" formatted="false">منتخب ڪريو پرائيويٽ DNS فراهم ڪندڙ ميزبان جو نالو، پيسٽ ڪريو dns.adguard-dns.com، ۽ محفوظ ڪريو. ڊسڪنيڪٽ ڪرڻ لاء، ساڳئي سسٽم سيٽنگ ۾ خودڪار يا بند چونڊيو.</string>
+    <string name="copy_hostname" formatted="false">ڪاپي ميزباني جو نالو</string>
+    <string name="copied" formatted="false">ڪلپ بورڊ تي نقل ڪيو ويو</string>
+    <string name="open_network_settings" formatted="false">نيٽ ورڪ سيٽنگون کوليو</string>
+    <string name="language" formatted="false">ايپ جي ٻولي</string>
+    <string name="system_language" formatted="false">ڊوائيس جي ٻولي جي تابعداري ڪريو</string>
+    <string name="search_language" formatted="false">هڪ ٻولي ڳوليو</string>
+    <string name="language_note" formatted="false">ترجما شامل آهن آف لائن. غير فهرست ٿيل ڊوائيس ٻوليون انگريزي استعمال ڪن ٿيون. مشيني ترجمي کي شايد علائقائي جائزو جي ضرورت هجي.</string>
+    <string name="search_engine" formatted="false">سرچ انجڻ</string>
+    <string name="wifi_only" formatted="false">صرف وائي فائي تي ڊائون لوڊ ڪريو</string>
+    <string name="wifi_body" formatted="false">نيون ڊائون لوڊ انتظار ڪريو جيستائين وائي فائي دستياب ناهي.</string>
+    <string name="javascript" formatted="false">ويب سائيٽ جاوا اسڪرپٽ</string>
+    <string name="javascript_body" formatted="false">ڪيترن ئي ويب سائيٽن ۽ HTML5 وڊيو دريافت جي ضرورت آهي.</string>
+    <string name="privacy" formatted="false">رازداري</string>
+    <string name="clear_browser" formatted="false">برائوزنگ ڊيٽا صاف ڪريو</string>
+    <string name="clear_browser_confirm" formatted="false">ڪوڪيز، برائوزر ڪيش، تاريخ، ۽ ويب سائيٽ اسٽوريج کي حذف ڪريو؟</string>
+    <string name="privacy_body" formatted="false">ڪوبه اشتهار، تجزياتي، يا ڊولپر اڪائونٽس. ويب سائيٽون، سرچ انجڻ، ڊي اين ايس فراهم ڪندڙ، ۽ ڊائون لوڊ سرور جيڪي توهان جي درخواستون حاصل ڪندا آهن. ڊائون لوڊ جي تاريخ ۽ بک مارڪس هن ڊوائيس تي رهن ٿا.</string>
+    <string name="terms" formatted="false">ذميواري سان استعمال ڪريو</string>
+    <string name="terms_body" formatted="false">صرف اهي وڊيوز محفوظ ڪريو جيڪي توهان وٽ آهن يا توهان کي ڊائون لوڊ ڪرڻ جي اجازت آهي. ڪاپي رائيٽ ۽ ويب سائيٽ جي شرطن جو احترام ڪريو. هي ائپ DRM، paywalls، يا پليٽ فارم ڊائون لوڊ جي پابندين کي نظرانداز نٿو ڪري سگهي.</string>
+    <string name="about" formatted="false">بابت</string>
+    <string name="version" formatted="false">نسخو</string>
+    <string name="paid_app" formatted="false">ھڪڙي خريداري. ڪوبه اشتهار نه. ڪابه رڪنيت.</string>
+    <string name="welcome_title" formatted="false">رکو جيڪو توهان کي متاثر ڪري ٿو.</string>
+    <string name="welcome_body" formatted="false">ھڪڙي جڳھ تي اجازت ڏنل وڊيوز کي براؤز ڪريو، دريافت ڪريو ۽ محفوظ ڪريو. شروع ڪرڻ لاءِ بيان ڪيل گائيڊ پڙهو.</string>
+    <string name="start_browsing" formatted="false">برائوزنگ شروع ڪريو</string>
+    <string name="read_guide" formatted="false">ھدايت پڙھو</string>
+    <string name="browser_error" formatted="false">هي صفحو لوڊ نه ٿي سگهيو. پتو ۽ ڪنيڪشن چيڪ ڪريو، وري لوڊ ڪريو.</string>
+    <string name="secure_only" formatted="false">هي ايپ استعمال ڪري ٿي HTTPS ڪنيڪشن. ڪوشش ڪريو هن ويب سائيٽ جو محفوظ نسخو.</string>
+    <string name="external_link" formatted="false">هن لنڪ کي ڪنهن ٻئي ايپ ۾ کوليو؟</string>
+    <string name="open" formatted="false">کليل</string>
+    <string name="refresh" formatted="false">تازو ڪريو</string>
+    <string name="accessibility_tutorial" formatted="false">هن سبق جي قدم لاء مثال</string>
+    <string name="download_reason" formatted="false">Android ڊائون لوڊ غلطي ڪوڊ</string>
+    <string name="queue_full" formatted="false">ڊائون لوڊ جي تاريخ مڪمل آهي. پهرين هڪ پراڻي داخلا هٽايو.</string>
+    <string name="browser_tabs" formatted="false">برائوزر ٽيب</string>
+    <string name="tabs_subtitle" formatted="false">ويب سائيٽن کي کليل رکو ۽ انهن جي وچ ۾ سوئچ ڪريو.</string>
+    <string name="new_tab" formatted="false">نئون ٽيب</string>
+    <string name="close_tab" formatted="false">بند ڪريو ٽيب</string>
+    <string name="active_tab" formatted="false">فعال ٽيب</string>
+    <string name="tab_limit" formatted="false">توھان 8 ٽيب تائين کولي سگھو ٿا. ٻيو شامل ڪرڻ لاءِ ٽيب بند ڪريو.</string>
+    <string name="history" formatted="false">تاريخ</string>
+    <string name="history_subtitle" formatted="false">دورو ڪيل ويب سائيٽون صرف هن ڊوائيس تي محفوظ ڪيون ويون آهن.</string>
+    <string name="empty_history" formatted="false">توهان جي برائوزنگ تاريخ هتي ظاهر ٿيندي.</string>
+    <string name="clear_history" formatted="false">صاف تاريخ</string>
+    <string name="clear_history_confirm" formatted="false">هن ڊوائيس مان سڀ برائوزنگ تاريخ کي حذف ڪريو؟</string>
+    <string name="open_new_tab" formatted="false">نئين ٽيب ۾ کوليو</string>
+    <string name="browser_menu" formatted="false">برائوزر مينيو</string>
+    <string name="shortcut_note" formatted="false">ويب سائيٽ شارٽ ڪٽس برائوزر ۾ کليل آهن. ڊائون لوڊ جي دستيابي ويب سائيٽ تي منحصر آهي.</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Dèan brobhsadh</string>
+    <string name="downloads" formatted="false">Luchdaich sìos</string>
+    <string name="guide" formatted="false">Stiùiridh</string>
+    <string name="settings" formatted="false">Suidhichidhean</string>
+    <string name="home_title" formatted="false">Na bhideothan agad. Do chruinneachadh.</string>
+    <string name="home_subtitle" formatted="false">Lorg rudeigin as fhiach a chumail.</string>
+    <string name="search_hint" formatted="false">Rannsaich no cuir a-steach làrach-lìn</string>
+    <string name="go" formatted="false">Rachaibh</string>
+    <string name="paste_link" formatted="false">Cuir a-steach ceangal bhidio</string>
+    <string name="direct_link" formatted="false">Ceangal bhidio dìreach</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Luchdaich sìos</string>
+    <string name="detect" formatted="false">Lorg bhidiothan</string>
+    <string name="detected" formatted="false">Bhideothan air an duilleag seo</string>
+    <string name="no_media" formatted="false">Cha deach bhidio a luchdachadh sìos a lorg. Tòisich a’ cluich bhidio, agus feuch a-rithist. Is dòcha nach bi sruthan dìon agus frèaman freumhaichte rim faighinn.</string>
+    <string name="safe_note" formatted="false">Na luchdaich sìos ach bhideothan a tha agad no a tha cead agad a shàbhaladh. Chan eil sruthan dìon agus luchdachadh sìos YouTube rim faighinn.</string>
+    <string name="quick_start" formatted="false">Tòiseachadh AN SEO</string>
+    <string name="quick_browse" formatted="false">Rannsaich an lìon</string>
+    <string name="quick_browse_body" formatted="false">Rannsaich leis an einnsean as fheàrr leat sa bhrobhsair togte.</string>
+    <string name="quick_download" formatted="false">Sàbhail bhidio</string>
+    <string name="quick_download_body" formatted="false">Cuir a-steach ceangal bhidio HTTPS dìreach no lorg bhidio air duilleag.</string>
+    <string name="quick_guide" formatted="false">Beagan stiùiridh</string>
+    <string name="quick_guide_body" formatted="false">Ceithir ceumannan le dealbhan bhon lorg chun chruinneachadh agad.</string>
+    <string name="back" formatted="false">Air ais</string>
+    <string name="forward" formatted="false">Air adhart</string>
+    <string name="reload" formatted="false">Ath-luchdaich</string>
+    <string name="home" formatted="false">Dhachaigh</string>
+    <string name="bookmark" formatted="false">Comharra-leabhair</string>
+    <string name="bookmarks" formatted="false">Comharran-leabhair</string>
+    <string name="empty_bookmarks" formatted="false">Nochdaidh làraichean-lìn glèidhte an seo.</string>
+    <string name="saved" formatted="false">Air a shàbhaladh</string>
+    <string name="remove" formatted="false">Thoir air falbh</string>
+    <string name="cancel" formatted="false">Sguir dheth</string>
+    <string name="close" formatted="false">Dùin</string>
+    <string name="confirm_download" formatted="false">Sàbhail a\&apos; bhidio seo?</string>
+    <string name="filename" formatted="false">Ainm faidhle</string>
+    <string name="download_location" formatted="false">Air a shàbhaladh ann an luchdachadh sìos / luchdachadh sìos bhidio Premium</string>
+    <string name="permission_confirm" formatted="false">Tha sealbh agam air a’ bhidio seo no tha cead agam a luchdachadh sìos.</string>
+    <string name="permission_required" formatted="false">Dearbhaich gu bheil cead agad a’ bhidio seo a shàbhaladh.</string>
+    <string name="invalid_url" formatted="false">Cuir a-steach ceangal bhidio HTTPS dligheach.</string>
+    <string name="unsupported" formatted="false">Chan e bhidio a ghabhas luchdachadh a-nuas a th’ anns a’ cheangal seo. Chan eil taic ri DRM, sruthan beò, liostaichean-cluiche, agus luchdachadh sìos YouTube.</string>
+    <string name="queued" formatted="false">Luchdaich a-nuas air a chur ris an t-sreath</string>
+    <string name="download_error" formatted="false">Cha ghabh luchdadh a-nuas. Thoir sùil air a’ cheangal no cleachd ceangal bhidio ùr.</string>
+    <string name="collection_title" formatted="false">Do chruinneachadh</string>
+    <string name="collection_subtitle" formatted="false">Bhideothan air an sàbhaladh, deiseil nuair a tha thu.</string>
+    <string name="empty_downloads" formatted="false">Buinidh an ath rud as fheàrr leat an seo.</string>
+    <string name="empty_downloads_body" formatted="false">Lorg bhidio ann an Browse no cuir a-steach ceangal bhidio dìreach gus do chruinneachadh a thòiseachadh.</string>
+    <string name="pending" formatted="false">ciudha</string>
+    <string name="running" formatted="false">A\&apos; luchdachadh sìos</string>
+    <string name="paused" formatted="false">A \&apos;feitheamh airson lìonra no ath-fheuchainn</string>
+    <string name="complete" formatted="false">Crìochnaich</string>
+    <string name="failed" formatted="false">Dh\&apos;fhàillig</string>
+    <string name="missing" formatted="false">Chan eil am faidhle ri fhaighinn</string>
+    <string name="play" formatted="false">Seinn</string>
+    <string name="share" formatted="false">Roinn</string>
+    <string name="retry" formatted="false">Feuch a-rithist</string>
+    <string name="delete_download" formatted="false">Thoir air falbh luchdachadh sìos agus am faidhle aige?</string>
+    <string name="no_player" formatted="false">Chan eil aplacaid co-chòrdail ri fhaighinn gus am faidhle seo fhosgladh.</string>
+    <string name="guide_title" formatted="false">Bho lorg gus a luchdadh a-nuas.</string>
+    <string name="guide_subtitle" formatted="false">Stiùireadh sìmplidh airson na bhideothan as fheàrr leat a chumail.</string>
+    <string name="step_one_title" formatted="false">Lorg do bhidio</string>
+    <string name="step_one_body" formatted="false">Fosgail Browse. Rannsaich no cuir a-steach seòladh làrach-lìn. Faodaidh tu cuideachd ceangal bhidio a cho-roinn bho app eile.</string>
+    <string name="step_two_title" formatted="false">Faigh a-mach an stòr</string>
+    <string name="step_two_body" formatted="false">Cluich bhidio, an uairsin tap air Lorg bhideothan. Tagh faidhle a chaidh a lorg, no cuir a-steach ceangal bhidio HTTPS dìreach.</string>
+    <string name="step_three_title" formatted="false">Dèan e leatsa</string>
+    <string name="step_three_body" formatted="false">Tagh ainm faidhle, dearbhaich do chead airson a’ bhidio a shàbhaladh, agus tap air Luchdaich sìos. Tha Android a \&apos;leantainn air adhart leis an luchdachadh sìos air a\&apos; chùl.</string>
+    <string name="step_four_title" formatted="false">Bain sult as do chruinneachadh</string>
+    <string name="step_four_body" formatted="false">Luchdaich sìos Fosgailte gus sùil a thoirt air adhartas. Cluich no roinn bhideothan crìochnaichte. Feuch ris a-rithist air fàilligeadh le ceangal ùr nuair a bhios feum air.</string>
+    <string name="try_now" formatted="false">Feuch e a-nis</string>
+    <string name="preferences" formatted="false">Dèan e leat fhèin.</string>
+    <string name="preferences_subtitle" formatted="false">Beagan smachdan smaoineachail airson do bhrabhsadh làitheil.</string>
+    <string name="dns_title" formatted="false">VPN / DNS prìobhaideach</string>
+    <string name="dns_explanation" formatted="false">Bidh DNS prìobhaideach a’ crioptachadh cheistean DNS. Cha bhith e a’ falach do sheòladh IP no a’ cruthachadh tunail VPN. Tha Android ag iarraidh ort an suidheachadh seo atharrachadh le làimh.</string>
+    <string name="connected" formatted="false">Ceangailte</string>
+    <string name="unconnected" formatted="false">Neo-cheangailte</string>
+    <string name="connect" formatted="false">Ceangail</string>
+    <string name="disconnect" formatted="false">Disconnect</string>
+    <string name="dns_instructions" formatted="false">Tagh ainm aoigheachd solaraiche DNS prìobhaideach, cuir a-steach dns.adguard-dns.com, agus sàbhail. Gus dì-cheangal, tagh fèin-ghluasadach no dheth san aon suidheachadh siostam.</string>
+    <string name="copy_hostname" formatted="false">Dèan lethbhreac den ainm aoigheachd</string>
+    <string name="copied" formatted="false">Air a chopaigeadh gu clipboard</string>
+    <string name="open_network_settings" formatted="false">Fosgail roghainnean lìonra</string>
+    <string name="language" formatted="false">Cànain app</string>
+    <string name="system_language" formatted="false">Lean cànan an uidheim</string>
+    <string name="search_language" formatted="false">Lorg cànan</string>
+    <string name="language_note" formatted="false">Tha eadar-theangachaidhean air an toirt a-steach far loidhne. Bidh cànanan innealan neo-chlàraichte a’ cleachdadh Beurla. Dh’ fhaodadh gum bi feum aig eadar-theangachadh inneal air ath-sgrùdadh roinneil.</string>
+    <string name="search_engine" formatted="false">Inneal-rannsachaidh</string>
+    <string name="wifi_only" formatted="false">Luchdaich a-nuas am beurla a-mhàin Wi Fi</string>
+    <string name="wifi_body" formatted="false">Bidh luchdachadh sìos ùr a’ feitheamh gus am bi Wi-Fi ri fhaighinn.</string>
+    <string name="javascript" formatted="false">Làrach-lìn javascript a</string>
+    <string name="javascript_body" formatted="false">Riatanach le mòran làraich-lìn agus lorg bhidio HTML5.</string>
+    <string name="privacy" formatted="false">Prìobhaideachd</string>
+    <string name="clear_browser" formatted="false">Glan dàta brabhsaidh</string>
+    <string name="clear_browser_confirm" formatted="false">Sguab às briosgaidean, tasgadan brabhsair, eachdraidh, agus stòradh làrach-lìn?</string>
+    <string name="privacy_body" formatted="false">Gun shanasan, anailisean, no cunntasan leasaiche. Bidh làraichean-lìn, innealan rannsachaidh, solaraichean DNS, agus luchd-frithealaidh luchdachadh sìos a \&apos;faighinn na h-iarrtasan a nì thu. Luchdaich sìos eachdraidh agus comharran leabhraichean fuireach air an inneal seo.</string>
+    <string name="terms" formatted="false">Cleachd gu ciallach</string>
+    <string name="terms_body" formatted="false">Sàbhail dìreach bhideothan a bhuineas dhut no a tha ceadaichte an luchdachadh sìos. Thoir spèis do chòraichean dlighe-sgrìobhaidh agus teirmean làrach-lìn. Chan urrainn don aplacaid seo a dhol seachad air DRM, ballachan pàighidh no cuingealachaidhean luchdachadh sìos àrd-ùrlar.</string>
+    <string name="about" formatted="false">Mu dheidhinn</string>
+    <string name="version" formatted="false">Tionndadh</string>
+    <string name="paid_app" formatted="false">Aon cheannach. Gun shanasan. Gun fho-sgrìobhadh.</string>
+    <string name="welcome_title" formatted="false">Cùm na tha gad bhrosnachadh.</string>
+    <string name="welcome_body" formatted="false">Dèan brobhsadh, lorg, agus sàbhail bhideothan ceadaichte ann an aon àite. Leugh an stiùireadh le dealbhan airson tòiseachadh.</string>
+    <string name="start_browsing" formatted="false">Tòisich a \&apos;brabhsadh</string>
+    <string name="read_guide" formatted="false">Leugh an stiùireadh</string>
+    <string name="browser_error" formatted="false">Cha b\&apos; urrainn dhuinn an duilleag seo a luchdachadh. Thoir sùil air an t-seòladh agus an ceangal, an uairsin ath-luchdaich.</string>
+    <string name="secure_only" formatted="false">Bidh an aplacaid seo a’ cleachdadh ceanglaichean HTTPS. Feuch an tionndadh tèarainte den làrach-lìn seo.</string>
+    <string name="external_link" formatted="false">Fosgail an ceangal seo ann an aplacaid eile?</string>
+    <string name="open" formatted="false">Fosgailte</string>
+    <string name="refresh" formatted="false">Ùraich</string>
+    <string name="accessibility_tutorial" formatted="false">Dealbh airson a’ cheum oideachaidh seo</string>
+    <string name="download_reason" formatted="false">Còd na mearachd Android luchdadh a-nuas saor an asgaidh</string>
+    <string name="queue_full" formatted="false">Tha an eachdraidh luchdachadh sìos làn. Thoir air falbh seann inntrigeadh an toiseach.</string>
+    <string name="browser_tabs" formatted="false">Tabaichean brabhsair</string>
+    <string name="tabs_subtitle" formatted="false">Cùm làraichean-lìn fosgailte agus gluais eatorra.</string>
+    <string name="new_tab" formatted="false">Clàr ùr</string>
+    <string name="close_tab" formatted="false">Dùin tab</string>
+    <string name="active_tab" formatted="false">Clàr gnìomhach</string>
+    <string name="tab_limit" formatted="false">Faodaidh tu suas ri 8 tabaichean fhosgladh. Dùin taba gus fear eile a chur ris.</string>
+    <string name="history" formatted="false">Eachdraidh</string>
+    <string name="history_subtitle" formatted="false">Chan eil ach làraich-lìn air an deach tadhal air an sàbhaladh air an inneal seo.</string>
+    <string name="empty_history" formatted="false">Nochdaidh an eachdraidh brabhsaidh agad an seo.</string>
+    <string name="clear_history" formatted="false">Eachdraidh soilleir</string>
+    <string name="clear_history_confirm" formatted="false">A bheil thu airson an eachdraidh brabhsaidh gu lèir a sguabadh às an inneal seo?</string>
+    <string name="open_new_tab" formatted="false">Fosgail ann an taba ùr</string>
+    <string name="browser_menu" formatted="false">Clàr-taice brabhsair</string>
+    <string name="shortcut_note" formatted="false">Bidh ath-ghoiridean làrach-lìn fosgailte sa bhrobhsair. Tha ruigsinneachd luchdachadh sìos an urra ris an làrach-lìn.</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ПРЕМИУМ</string>
+    <string name="browse" formatted="false">Шолу</string>
+    <string name="downloads" formatted="false">Жүктеулер</string>
+    <string name="guide" formatted="false">Гид</string>
+    <string name="settings" formatted="false">Параметрлер</string>
+    <string name="home_title" formatted="false">Бейнелеріңіз. Сіздің коллекцияңыз.</string>
+    <string name="home_subtitle" formatted="false">Сақтауға тұрарлық нәрсені табыңыз.</string>
+    <string name="search_hint" formatted="false">Веб-сайтты іздеңіз немесе енгізіңіз</string>
+    <string name="go" formatted="false">Бар</string>
+    <string name="paste_link" formatted="false">Бейне сілтемесін қойыңыз</string>
+    <string name="direct_link" formatted="false">Тікелей бейне сілтемесі</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Жүктеп алу</string>
+    <string name="detect" formatted="false">Бейнелерді табыңыз</string>
+    <string name="detected" formatted="false">Бұл беттегі бейнелер</string>
+    <string name="no_media" formatted="false">Жүктеп алынатын бейне табылмады. Бейнені ойнатуды бастаңыз, содан кейін әрекетті қайталаңыз. Қорғалған ағындар мен ендірілген кадрлар қолжетімсіз болуы мүмкін.</string>
+    <string name="safe_note" formatted="false">Сізге тиесілі немесе сақтауға рұқсатыңыз бар бейнелерді ғана жүктеп алыңыз. Қорғалған ағындар мен YouTube жүктеп алулары қолжетімді емес.</string>
+    <string name="quick_start" formatted="false">ОСЫ ЖЕРДЕ БАСТАҢЫЗ</string>
+    <string name="quick_browse" formatted="false">Интернетті зерттеңіз</string>
+    <string name="quick_browse_body" formatted="false">Кірістірілген браузерде қалаған қозғалтқышпен іздеңіз.</string>
+    <string name="quick_download" formatted="false">Бейнені сақтаңыз</string>
+    <string name="quick_download_body" formatted="false">Тікелей HTTPS бейне сілтемесін қойыңыз немесе бетте бейнені табыңыз.</string>
+    <string name="quick_guide" formatted="false">Кішкене нұсқаулық</string>
+    <string name="quick_guide_body" formatted="false">Табудан бастап коллекцияңызға дейінгі төрт суреттелген қадам.</string>
+    <string name="back" formatted="false">Артқа</string>
+    <string name="forward" formatted="false">Алға</string>
+    <string name="reload" formatted="false">Қайта жүктеңіз</string>
+    <string name="home" formatted="false">Үй</string>
+    <string name="bookmark" formatted="false">Бетбелгі</string>
+    <string name="bookmarks" formatted="false">Бетбелгілер</string>
+    <string name="empty_bookmarks" formatted="false">Сақталған веб-сайттар осы жерде пайда болады.</string>
+    <string name="saved" formatted="false">Сақталды</string>
+    <string name="remove" formatted="false">Жою</string>
+    <string name="cancel" formatted="false">Болдырмау</string>
+    <string name="close" formatted="false">Жабу</string>
+    <string name="confirm_download" formatted="false">Бұл бейнені сақтау керек пе?</string>
+    <string name="filename" formatted="false">Файл атауы</string>
+    <string name="download_location" formatted="false">Жүктеулер / Video Downloader Premium ішінде сақталған</string>
+    <string name="permission_confirm" formatted="false">Бұл бейне маған тиесілі немесе оны жүктеп алуға рұқсатым бар.</string>
+    <string name="permission_required" formatted="false">Бұл бейнені сақтауға рұқсатыңыз бар екенін растаңыз.</string>
+    <string name="invalid_url" formatted="false">Жарамды HTTPS бейне сілтемесін енгізіңіз.</string>
+    <string name="unsupported" formatted="false">Бұл сілтеме жүктеп алуға болатын бейне емес. DRM, тікелей трансляциялар, ойнату тізімдері және YouTube жүктеп алуларына қолдау көрсетілмейді.</string>
+    <string name="queued" formatted="false">Жүктеп алу кезекке қосылды</string>
+    <string name="download_error" formatted="false">Жүктеп алу мүмкін емес. Қосылымды тексеріңіз немесе жаңа бейне сілтемесін пайдаланыңыз.</string>
+    <string name="collection_title" formatted="false">Сіздің коллекцияңыз</string>
+    <string name="collection_subtitle" formatted="false">Сақталған бейнелер, дайын болғанда дайын.</string>
+    <string name="empty_downloads" formatted="false">Сіздің келесі таңдауыңыз осында.</string>
+    <string name="empty_downloads_body" formatted="false">Топтамаңызды бастау үшін Шолудан бейнені табыңыз немесе тікелей бейне сілтемесін қойыңыз.</string>
+    <string name="pending" formatted="false">Кезекте</string>
+    <string name="running" formatted="false">Жүктеп алынуда</string>
+    <string name="paused" formatted="false">Желі күтілуде немесе әрекетті қайталаңыз</string>
+    <string name="complete" formatted="false">Аяқталды</string>
+    <string name="failed" formatted="false">Сәтсіз</string>
+    <string name="missing" formatted="false">Файл қолжетімсіз</string>
+    <string name="play" formatted="false">Ойнау</string>
+    <string name="share" formatted="false">Бөлісу</string>
+    <string name="retry" formatted="false">Қайталап көріңіз</string>
+    <string name="delete_download" formatted="false">Жүктеп алуды және оның файлын жою керек пе?</string>
+    <string name="no_player" formatted="false">Бұл файлды ашу үшін үйлесімді қолданба жоқ.</string>
+    <string name="guide_title" formatted="false">Табылғаннан жүктеп алуға дейін.</string>
+    <string name="guide_subtitle" formatted="false">Сізге ұнайтын бейнелерді сақтауға арналған қарапайым нұсқаулық.</string>
+    <string name="step_one_title" formatted="false">Бейнеңізді табыңыз</string>
+    <string name="step_one_body" formatted="false">Шолуды ашыңыз. Веб-сайт мекенжайын іздеңіз немесе енгізіңіз. Сондай-ақ басқа қолданбадан бейне сілтемесін ортақ пайдалануға болады.</string>
+    <string name="step_two_title" formatted="false">Дерек көзін ашыңыз</string>
+    <string name="step_two_body" formatted="false">Бейнені ойнатып, Бейнелерді табу түймесін түртіңіз. Choose a detected file, or paste a direct HTTPS video link.</string>
+    <string name="step_three_title" formatted="false">Оны сіздікі етіңіз</string>
+    <string name="step_three_body" formatted="false">Choose a file name, confirm your permission to save the video, and tap Download. Android continues the download in the background.</string>
+    <string name="step_four_title" formatted="false">Коллекцияңыздан ләззат алыңыз</string>
+    <string name="step_four_body" formatted="false">Орындалу барысын тексеру үшін Жүктеулерді ашыңыз. Аяқталған бейнелерді ойнату немесе бөлісу. Retry failed downloads with a fresh link when needed.</string>
+    <string name="try_now" formatted="false">Қазір көріңіз</string>
+    <string name="preferences" formatted="false">Оны өзіңіздікі жасаңыз.</string>
+    <string name="preferences_subtitle" formatted="false">A few thoughtful controls for your everyday browsing.</string>
+    <string name="dns_title" formatted="false">VPN / Жеке DNS</string>
+    <string name="dns_explanation" formatted="false">Жеке DNS DNS сұрауларын шифрлайды. It does not hide your IP address or create a VPN tunnel. Android requires you to change this setting manually.</string>
+    <string name="connected" formatted="false">Қосылды</string>
+    <string name="unconnected" formatted="false">Байланыссыз</string>
+    <string name="connect" formatted="false">Қосылу</string>
+    <string name="disconnect" formatted="false">Ажырату</string>
+    <string name="dns_instructions" formatted="false">Select Private DNS provider hostname, paste dns.adguard-dns.com, and save. To disconnect, select Automatic or Off in the same system setting.</string>
+    <string name="copy_hostname" formatted="false">Хост атын көшіріңіз</string>
+    <string name="copied" formatted="false">Буферге көшірілді</string>
+    <string name="open_network_settings" formatted="false">Желі параметрлерін ашыңыз</string>
+    <string name="language" formatted="false">Қолданба тілі</string>
+    <string name="system_language" formatted="false">Құрылғы тілін орындаңыз</string>
+    <string name="search_language" formatted="false">Тіл табыңыз</string>
+    <string name="language_note" formatted="false">Аудармалар желіден тыс қосылған. Тізімде жоқ құрылғы тілдері ағылшын тілін пайдаланады. Машиналық аудармалар аймақтық тексеруді қажет етуі мүмкін.</string>
+    <string name="search_engine" formatted="false">Іздеу жүйесі</string>
+    <string name="wifi_only" formatted="false">Тек Wi-Fi арқылы жүктеп алыңыз</string>
+    <string name="wifi_body" formatted="false">Жаңа жүктеп алулар Wi-Fi қолжетімді болғанша күтеді.</string>
+    <string name="javascript" formatted="false">JavaScript веб-сайты</string>
+    <string name="javascript_body" formatted="false">Көптеген веб-сайттар мен HTML5 бейнені табу үшін қажет.</string>
+    <string name="privacy" formatted="false">Құпиялық</string>
+    <string name="clear_browser" formatted="false">Шолу деректерін өшіру</string>
+    <string name="clear_browser_confirm" formatted="false">Cookie файлдарын, шолғыш кэшін, тарихты және веб-сайт жадын жою керек пе?</string>
+    <string name="privacy_body" formatted="false">Жарнамалар, аналитика немесе әзірлеуші ​​тіркелгілері жоқ. Веб-сайттар, іздеу жүйелері, DNS провайдерлері және жүктеп алу серверлері сіз жасаған сұрауларды алады. Жүктеп алу тарихы мен бетбелгілер осы құрылғыда қалады.</string>
+    <string name="terms" formatted="false">Жауапкершілікпен пайдаланыңыз</string>
+    <string name="terms_body" formatted="false">Save only videos you own or are permitted to download. Авторлық құқық пен веб-сайт шарттарын құрметтеңіз. This app cannot bypass DRM, paywalls, or platform download restrictions.</string>
+    <string name="about" formatted="false">туралы</string>
+    <string name="version" formatted="false">Нұсқа</string>
+    <string name="paid_app" formatted="false">Бір сатып алу. Жарнамалар жоқ. Жазылым жоқ.</string>
+    <string name="welcome_title" formatted="false">Сізді шабыттандыратын нәрсені сақтаңыз.</string>
+    <string name="welcome_body" formatted="false">Browse, discover, and save permitted videos in one place. Бастау үшін суреттелген нұсқаулықты оқыңыз.</string>
+    <string name="start_browsing" formatted="false">Қарауды бастаңыз</string>
+    <string name="read_guide" formatted="false">Нұсқаулықты оқыңыз</string>
+    <string name="browser_error" formatted="false">Бұл бетті жүктеу мүмкін емес. Мекенжай мен қосылымды тексеріңіз, содан кейін қайта жүктеңіз.</string>
+    <string name="secure_only" formatted="false">Бұл қолданба HTTPS қосылымдарын пайдаланады. Осы веб-сайттың қауіпсіз нұсқасын қолданып көріңіз.</string>
+    <string name="external_link" formatted="false">Бұл сілтемені басқа қолданбада ашу керек пе?</string>
+    <string name="open" formatted="false">Ашық</string>
+    <string name="refresh" formatted="false">Жаңарту</string>
+    <string name="accessibility_tutorial" formatted="false">Осы оқулық қадамына арналған иллюстрация</string>
+    <string name="download_reason" formatted="false">Android жүктеп алу қате коды</string>
+    <string name="queue_full" formatted="false">Жүктеп алу тарихы толық. Алдымен ескі жазбаны жойыңыз.</string>
+    <string name="browser_tabs" formatted="false">Браузер қойындылары</string>
+    <string name="tabs_subtitle" formatted="false">Веб-сайттарды ашық ұстаңыз және олардың арасында ауысыңыз.</string>
+    <string name="new_tab" formatted="false">Жаңа қойынды</string>
+    <string name="close_tab" formatted="false">Қойындыны жабу</string>
+    <string name="active_tab" formatted="false">Белсенді қойынды</string>
+    <string name="tab_limit" formatted="false">Сіз 8 қойындыға дейін аша аласыз. Басқасын қосу үшін қойындыны жабыңыз.</string>
+    <string name="history" formatted="false">Тарих</string>
+    <string name="history_subtitle" formatted="false">Кірген веб-сайттар тек осы құрылғыда сақталады.</string>
+    <string name="empty_history" formatted="false">Шолу журналы осы жерде пайда болады.</string>
+    <string name="clear_history" formatted="false">Тарихты тазалау</string>
+    <string name="clear_history_confirm" formatted="false">Осы құрылғыдан барлық шолу журналын жою қажет пе?</string>
+    <string name="open_new_tab" formatted="false">Жаңа қойындыда ашыңыз</string>
+    <string name="browser_menu" formatted="false">Браузер мәзірі</string>
+    <string name="shortcut_note" formatted="false">Веб-сайт таңбашалары браузерде ашылады. Жүктеп алу мүмкіндігі веб-сайтқа байланысты.</string>
+</resources>

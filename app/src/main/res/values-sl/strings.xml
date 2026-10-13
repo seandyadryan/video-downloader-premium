@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Prebrskaj</string>
+    <string name="downloads" formatted="false">Prenosi</string>
+    <string name="guide" formatted="false">Vodnik</string>
+    <string name="settings" formatted="false">nastavitve</string>
+    <string name="home_title" formatted="false">Vaši videi. Vaša zbirka.</string>
+    <string name="home_subtitle" formatted="false">Poiščite nekaj, kar je vredno obdržati.</string>
+    <string name="search_hint" formatted="false">Iščite ali vnesite spletno mesto</string>
+    <string name="go" formatted="false">pojdi</string>
+    <string name="paste_link" formatted="false">Prilepi video povezavo</string>
+    <string name="direct_link" formatted="false">Neposredna video povezava</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Prenos</string>
+    <string name="detect" formatted="false">Poiščite videoposnetke</string>
+    <string name="detected" formatted="false">Videoposnetki na tej strani</string>
+    <string name="no_media" formatted="false">Videoposnetka za prenos ni bilo mogoče najti. Začnite predvajati video, nato poskusite znova. Zaščiteni tokovi in ​​vdelani okvirji morda niso na voljo.</string>
+    <string name="safe_note" formatted="false">Prenesite samo videoposnetke, ki jih imate ali imate dovoljenje za shranjevanje. Zaščiteni tokovi in ​​prenosi z YouTuba niso na voljo.</string>
+    <string name="quick_start" formatted="false">ZAČNI TUKAJ</string>
+    <string name="quick_browse" formatted="false">Raziščite splet</string>
+    <string name="quick_browse_body" formatted="false">Iščite z želenim motorjem v vgrajenem brskalniku.</string>
+    <string name="quick_download" formatted="false">Shranite video</string>
+    <string name="quick_download_body" formatted="false">Prilepite neposredno video povezavo HTTPS ali poiščite video na strani.</string>
+    <string name="quick_guide" formatted="false">Majhen napotek</string>
+    <string name="quick_guide_body" formatted="false">Štirje ilustrirani koraki od odkritja do vaše zbirke.</string>
+    <string name="back" formatted="false">Nazaj</string>
+    <string name="forward" formatted="false">Naprej</string>
+    <string name="reload" formatted="false">Ponovno naloži</string>
+    <string name="home" formatted="false">domov</string>
+    <string name="bookmark" formatted="false">Zaznamek</string>
+    <string name="bookmarks" formatted="false">Zaznamki</string>
+    <string name="empty_bookmarks" formatted="false">Tukaj bodo prikazana shranjena spletna mesta.</string>
+    <string name="saved" formatted="false">Shranjeno</string>
+    <string name="remove" formatted="false">Odstrani</string>
+    <string name="cancel" formatted="false">Prekliči</string>
+    <string name="close" formatted="false">Zapri</string>
+    <string name="confirm_download" formatted="false">Shrani ta video?</string>
+    <string name="filename" formatted="false">Ime datoteke</string>
+    <string name="download_location" formatted="false">Shranjeno v Prenosi / Video Downloader Premium</string>
+    <string name="permission_confirm" formatted="false">Sem lastnik tega videa ali imam dovoljenje za prenos.</string>
+    <string name="permission_required" formatted="false">Potrdite, da imate dovoljenje za shranjevanje tega videa.</string>
+    <string name="invalid_url" formatted="false">Vnesite veljavno video povezavo HTTPS.</string>
+    <string name="unsupported" formatted="false">Ta povezava ni videoposnetek za prenos. DRM, prenosi v živo, seznami predvajanja in prenosi z YouTuba niso podprti.</string>
+    <string name="queued" formatted="false">Prenos dodan v čakalno vrsto</string>
+    <string name="download_error" formatted="false">Prenos ni mogoč. Preverite povezavo ali uporabite novo video povezavo.</string>
+    <string name="collection_title" formatted="false">Vaša zbirka</string>
+    <string name="collection_subtitle" formatted="false">Shranjeni videoposnetki, pripravljeni, ko ste.</string>
+    <string name="empty_downloads" formatted="false">Vaš naslednji najljubši sodi sem.</string>
+    <string name="empty_downloads_body" formatted="false">Poiščite video v Brskanju ali prilepite neposredno video povezavo, da začnete svojo zbirko.</string>
+    <string name="pending" formatted="false">V čakalni vrsti</string>
+    <string name="running" formatted="false">Prenašanje</string>
+    <string name="paused" formatted="false">Čakanje na omrežje ali poskusite znova</string>
+    <string name="complete" formatted="false">Popolna</string>
+    <string name="failed" formatted="false">Ni uspelo</string>
+    <string name="missing" formatted="false">Datoteka ni na voljo</string>
+    <string name="play" formatted="false">Igraj</string>
+    <string name="share" formatted="false">Delite</string>
+    <string name="retry" formatted="false">Poskusite znova</string>
+    <string name="delete_download" formatted="false">Odstraniti prenos in njegovo datoteko?</string>
+    <string name="no_player" formatted="false">Za odpiranje te datoteke ni na voljo združljive aplikacije.</string>
+    <string name="guide_title" formatted="false">Od odkritja do prenosa.</string>
+    <string name="guide_subtitle" formatted="false">Preprost vodnik za ohranjanje vaših najljubših videoposnetkov.</string>
+    <string name="step_one_title" formatted="false">Poiščite svoj video</string>
+    <string name="step_one_body" formatted="false">Odprite Prebrskaj. Poiščite ali vnesite naslov spletnega mesta. Prav tako lahko delite video povezavo iz druge aplikacije.</string>
+    <string name="step_two_title" formatted="false">Odkrijte izvor</string>
+    <string name="step_two_body" formatted="false">Predvajajte videoposnetek in nato tapnite Najdi videoposnetke. Izberite zaznano datoteko ali prilepite neposredno video povezavo HTTPS.</string>
+    <string name="step_three_title" formatted="false">Naj bo vaše</string>
+    <string name="step_three_body" formatted="false">Izberite ime datoteke, potrdite svoje dovoljenje za shranjevanje videoposnetka in tapnite Prenos. Android nadaljuje prenos v ozadju.</string>
+    <string name="step_four_title" formatted="false">Uživajte v svoji zbirki</string>
+    <string name="step_four_body" formatted="false">Odprite Prenose, da preverite napredek. Predvajajte ali delite dokončane videoposnetke. Po potrebi poskusite neuspele prenose z novo povezavo.</string>
+    <string name="try_now" formatted="false">Poskusite zdaj</string>
+    <string name="preferences" formatted="false">Naredite ga po svoje.</string>
+    <string name="preferences_subtitle" formatted="false">Nekaj ​​premišljenih kontrolnikov za vsakodnevno brskanje.</string>
+    <string name="dns_title" formatted="false">VPN / zasebni DNS</string>
+    <string name="dns_explanation" formatted="false">Zasebni DNS šifrira poizvedbe DNS. Ne skriva vašega naslova IP ali ustvarja tunela VPN. Android zahteva, da to nastavitev spremenite ročno.</string>
+    <string name="connected" formatted="false">Povezan</string>
+    <string name="unconnected" formatted="false">Brez povezave</string>
+    <string name="connect" formatted="false">Povežite se</string>
+    <string name="disconnect" formatted="false">Prekini povezavo</string>
+    <string name="dns_instructions" formatted="false">Izberite ime gostitelja zasebnega ponudnika DNS, prilepite dns.adguard-dns.com in shranite. Za prekinitev povezave izberite Samodejno ali Izklopljeno v isti sistemski nastavitvi.</string>
+    <string name="copy_hostname" formatted="false">Kopiraj ime gostitelja</string>
+    <string name="copied" formatted="false">Kopirano v odložišče</string>
+    <string name="open_network_settings" formatted="false">Odprite omrežne nastavitve</string>
+    <string name="language" formatted="false">Jezik aplikacije</string>
+    <string name="system_language" formatted="false">Sledite jeziku naprave</string>
+    <string name="search_language" formatted="false">Najdi jezik</string>
+    <string name="language_note" formatted="false">Prevodi so vključeni brez povezave. Nenavedeni jeziki naprave uporabljajo angleščino. Za strojne prevode bo morda potreben regionalni pregled.</string>
+    <string name="search_engine" formatted="false">Iskalnik</string>
+    <string name="wifi_only" formatted="false">Prenos samo prek Wi-Fi</string>
+    <string name="wifi_body" formatted="false">Novi prenosi počakajo, dokler ni na voljo Wi-Fi.</string>
+    <string name="javascript" formatted="false">Spletno mesto JavaScript</string>
+    <string name="javascript_body" formatted="false">Zahtevajo ga številna spletna mesta in odkrivanje videoposnetkov HTML5.</string>
+    <string name="privacy" formatted="false">Zasebnost</string>
+    <string name="clear_browser" formatted="false">Počisti podatke brskanja</string>
+    <string name="clear_browser_confirm" formatted="false">Želite izbrisati piškotke, predpomnilnik brskalnika, zgodovino in shrambo spletnega mesta?</string>
+    <string name="privacy_body" formatted="false">Brez oglasov, analitike ali računov razvijalcev. Spletna mesta, iskalniki, ponudniki DNS in strežniki za prenos prejmejo vaše zahteve. Zgodovina prenosov in zaznamki ostanejo v tej napravi.</string>
+    <string name="terms" formatted="false">Uporabljajte odgovorno</string>
+    <string name="terms_body" formatted="false">Shranite samo videoposnetke, ki jih imate ali jih lahko prenesete. Spoštujte avtorske pravice in pogoje spletne strani. Ta aplikacija ne more zaobiti omejitev DRM, plačilnih zidov ali platforme za prenos.</string>
+    <string name="about" formatted="false">O tem</string>
+    <string name="version" formatted="false">Različica</string>
+    <string name="paid_app" formatted="false">En nakup. Brez oglasov. Brez naročnine.</string>
+    <string name="welcome_title" formatted="false">Ohranite tisto, kar vas navdihuje.</string>
+    <string name="welcome_body" formatted="false">Brskajte, odkrijte in shranite dovoljene videoposnetke na enem mestu. Za začetek preberite ilustrirani vodnik.</string>
+    <string name="start_browsing" formatted="false">Začni brskati</string>
+    <string name="read_guide" formatted="false">Preberite vodnik</string>
+    <string name="browser_error" formatted="false">Te strani ni bilo mogoče naložiti. Preverite naslov in povezavo, nato znova naložite.</string>
+    <string name="secure_only" formatted="false">Ta aplikacija uporablja povezave HTTPS. Preizkusite varno različico tega spletnega mesta.</string>
+    <string name="external_link" formatted="false">Odpreti to povezavo v drugi aplikaciji?</string>
+    <string name="open" formatted="false">Odpri</string>
+    <string name="refresh" formatted="false">Osveži</string>
+    <string name="accessibility_tutorial" formatted="false">Ilustracija za ta korak vadnice</string>
+    <string name="download_reason" formatted="false">Koda napake pri prenosu Android</string>
+    <string name="queue_full" formatted="false">Zgodovina prenosov je polna. Najprej odstranite starejši vnos.</string>
+    <string name="browser_tabs" formatted="false">Zavihki brskalnika</string>
+    <string name="tabs_subtitle" formatted="false">Pustite spletna mesta odprta in preklapljajte med njimi.</string>
+    <string name="new_tab" formatted="false">Nov zavihek</string>
+    <string name="close_tab" formatted="false">Zapri zavihek</string>
+    <string name="active_tab" formatted="false">Aktivni zavihek</string>
+    <string name="tab_limit" formatted="false">Odprete lahko do 8 zavihkov. Zaprite zavihek, če želite dodati drugega.</string>
+    <string name="history" formatted="false">Zgodovina</string>
+    <string name="history_subtitle" formatted="false">Obiskana spletna mesta se shranjujejo samo v tej napravi.</string>
+    <string name="empty_history" formatted="false">Vaša zgodovina brskanja bo prikazana tukaj.</string>
+    <string name="clear_history" formatted="false">Počisti zgodovino</string>
+    <string name="clear_history_confirm" formatted="false">Želite izbrisati vso zgodovino brskanja iz te naprave?</string>
+    <string name="open_new_tab" formatted="false">Odpri v novem zavihku</string>
+    <string name="browser_menu" formatted="false">Meni brskalnika</string>
+    <string name="shortcut_note" formatted="false">Bližnjice do spletnih mest se odprejo v brskalniku. Razpoložljivost prenosa je odvisna od spletnega mesta.</string>
+</resources>

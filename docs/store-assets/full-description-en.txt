@@ -1,0 +1,32 @@
+Browse. Save. Keep exploring.
+
+Video Downloader Premium brings web browsing and your video collection together in a native Android app. Search, keep websites open in tabs, revisit your browsing history, and save accessible videos you own or have permission to download.
+
+A browser built for discovery
+• Search with DuckDuckGo, Google or Bing.
+• Open familiar websites from the Browse shortcut grid.
+• Keep up to eight browser tabs open and switch between them.
+• Return to recent pages with device-local history and bookmarks.
+• Reopen your tabs after restarting the app.
+
+Save permitted video files
+• Paste a direct HTTPS video link or share a link from another app.
+• Find accessible HTML5 video files on the page you are viewing.
+• Choose a file name and confirm your permission before downloading.
+• Follow progress while Android manages background transfers.
+• Open and share completed videos with compatible apps.
+• Choose Wi-Fi-only downloading and retry failed transfers with a fresh link.
+
+Get started with confidence
+Four illustrated tutorial steps explain browsing, finding a video source, starting a download, and enjoying your collection. The interface includes 110 offline language and locale choices, with English as the fallback for unlisted languages.
+
+Useful controls, clear privacy choices
+Select your search provider, control website JavaScript, and clear browsing history, cookies, cache and website storage from the app. Browser tabs, history, bookmarks and download records remain on your device. No developer account or analytics SDK is required.
+
+The Private DNS menu helps you open Android settings for dns.adguard-dns.com and displays its active connection status. Private DNS encrypts DNS requests; it does not hide your IP address or create a VPN tunnel. Android requires you to apply this system setting manually.
+
+One purchase. No in-app ads. No subscription.
+Websites opened in the browser may display their own advertising. Website shortcuts are browsing links, not a guarantee that videos from those services can be downloaded.
+
+Please download responsibly
+Save only videos you own or are allowed to download, and respect copyright and website terms. The app cannot bypass DRM, paywalls, or platform restrictions. YouTube downloads, protected or live streams, HLS/DASH playlists, and some embedded sources are unsupported. Browsing and downloading require an Internet connection. Playback requires a compatible player app.

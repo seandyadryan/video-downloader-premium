@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ପ୍ରିମିୟମ୍ |</string>
+    <string name="browse" formatted="false">ବ୍ରାଉଜ୍ କରନ୍ତୁ |</string>
+    <string name="downloads" formatted="false">ଡାଉନଲୋଡ୍ |</string>
+    <string name="guide" formatted="false">ଗାଇଡ୍</string>
+    <string name="settings" formatted="false">ସେଟିଂସମୂହ</string>
+    <string name="home_title" formatted="false">ତୁମର ଭିଡିଓଗୁଡିକ ତୁମର ସଂଗ୍ରହ</string>
+    <string name="home_subtitle" formatted="false">ରଖିବାକୁ ମୂଲ୍ୟବାନ କିଛି ଖୋଜ |</string>
+    <string name="search_hint" formatted="false">ଏକ ୱେବସାଇଟ୍ ସନ୍ଧାନ କରନ୍ତୁ କିମ୍ବା ପ୍ରବେଶ କରନ୍ତୁ |</string>
+    <string name="go" formatted="false">ଯାଅ |</string>
+    <string name="paste_link" formatted="false">ଭିଡିଓ ଲିଙ୍କ୍ ଲେପନ କରନ୍ତୁ |</string>
+    <string name="direct_link" formatted="false">ସିଧାସଳଖ ଭିଡିଓ ଲିଙ୍କ୍ |</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">ଡାଉନଲୋଡ୍ କରନ୍ତୁ |</string>
+    <string name="detect" formatted="false">ଭିଡିଓ ଖୋଜ |</string>
+    <string name="detected" formatted="false">ଏହି ପୃଷ୍ଠାରେ ଭିଡିଓଗୁଡିକ |</string>
+    <string name="no_media" formatted="false">କ download ଣସି ଡାଉନଲୋଡ୍ ଯୋଗ୍ୟ ଭିଡିଓ ମିଳିଲା ନାହିଁ | ଏକ ଭିଡିଓ ଖେଳିବା ଆରମ୍ଭ କରନ୍ତୁ, ତାପରେ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ | ସୁରକ୍ଷିତ ଷ୍ଟ୍ରିମ୍ ଏବଂ ଏମ୍ବେଡ୍ ହୋଇଥିବା ଫ୍ରେମ୍ ଉପଲବ୍ଧ ହୋଇନପାରେ |</string>
+    <string name="safe_note" formatted="false">କେବଳ ଆପଣଙ୍କର ଥିବା ଭିଡିଓଗୁଡ଼ିକୁ ଡାଉନଲୋଡ୍ କରନ୍ତୁ କିମ୍ବା ସେଭ୍ କରିବାକୁ ଅନୁମତି ଅଛି | ସୁରକ୍ଷିତ ଷ୍ଟ୍ରିମ୍ ଏବଂ ୟୁଟ୍ୟୁବ୍ ଡାଉନଲୋଡ୍ ଉପଲବ୍ଧ ନାହିଁ |</string>
+    <string name="quick_start" formatted="false">ଏଠାରେ ଆରମ୍ଭ କରନ୍ତୁ |</string>
+    <string name="quick_browse" formatted="false">ୱେବ୍ ଏକ୍ସପ୍ଲୋର୍ କରନ୍ତୁ |</string>
+    <string name="quick_browse_body" formatted="false">ବିଲ୍ଟ-ଇନ୍ ବ୍ରାଉଜରରେ ଆପଣଙ୍କର ପସନ୍ଦିତ ଇଞ୍ଜିନ୍ ସହିତ ସନ୍ଧାନ କରନ୍ତୁ |</string>
+    <string name="quick_download" formatted="false">ଏକ ଭିଡିଓ ସେଭ୍ କରନ୍ତୁ |</string>
+    <string name="quick_download_body" formatted="false">ଏକ ସିଧାସଳଖ HTTPS ଭିଡିଓ ଲିଙ୍କ୍ ଲେପନ କରନ୍ତୁ କିମ୍ବା ଏକ ପୃଷ୍ଠାରେ ଏକ ଭିଡିଓ ଖୋଜ |</string>
+    <string name="quick_guide" formatted="false">ଟିକିଏ ମାର୍ଗଦର୍ଶନ |</string>
+    <string name="quick_guide_body" formatted="false">ଆବିଷ୍କାରରୁ ଆପଣଙ୍କ ସଂଗ୍ରହ ପର୍ଯ୍ୟନ୍ତ ଚାରୋଟି ଚିତ୍ରିତ ପଦକ୍ଷେପ |</string>
+    <string name="back" formatted="false">ପଛକୁ</string>
+    <string name="forward" formatted="false">ଅଗ୍ରଗାମୀ</string>
+    <string name="reload" formatted="false">ପୁନ elo ଲୋଡ୍ କରନ୍ତୁ |</string>
+    <string name="home" formatted="false">ଘର</string>
+    <string name="bookmark" formatted="false">ବୁକମାର୍କ</string>
+    <string name="bookmarks" formatted="false">ବୁକମାର୍କଗୁଡିକ</string>
+    <string name="empty_bookmarks" formatted="false">ସଞ୍ଚିତ ୱେବସାଇଟ୍ ଏଠାରେ ଦେଖାଯିବ |</string>
+    <string name="saved" formatted="false">ସଞ୍ଚୟ ହୋଇଛି |</string>
+    <string name="remove" formatted="false">ଅପସାରଣ କରନ୍ତୁ |</string>
+    <string name="cancel" formatted="false">ବାତିଲ୍ କରନ୍ତୁ |</string>
+    <string name="close" formatted="false">ବନ୍ଦ</string>
+    <string name="confirm_download" formatted="false">ଏହି ଭିଡିଓ ସଞ୍ଚୟ କରନ୍ତୁ?</string>
+    <string name="filename" formatted="false">ଫାଇଲ୍ ନାମ</string>
+    <string name="download_location" formatted="false">ଡାଉନଲୋଡ୍ / ଭିଡିଓ ଡାଉନଲୋଡର୍ ପ୍ରିମିୟମ୍ ରେ ସେଭ୍ ହୋଇଛି |</string>
+    <string name="permission_confirm" formatted="false">ମୋର ଏହି ଭିଡିଓର ମାଲିକ ଅଛି କିମ୍ବା ଏହାକୁ ଡାଉନଲୋଡ୍ କରିବାକୁ ଅନୁମତି ଅଛି |</string>
+    <string name="permission_required" formatted="false">ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଏହି ଭିଡିଓକୁ ସେଭ୍ କରିବାକୁ ଆପଣଙ୍କର ଅନୁମତି ଅଛି |</string>
+    <string name="invalid_url" formatted="false">ଏକ ବ valid ଧ HTTPS ଭିଡିଓ ଲିଙ୍କ୍ ପ୍ରବେଶ କରନ୍ତୁ |</string>
+    <string name="unsupported" formatted="false">ଏହି ଲିଙ୍କ୍ ଏକ ଡାଉନଲୋଡ୍ ଯୋଗ୍ୟ ଭିଡିଓ ନୁହେଁ | DRM, ଲାଇଭ୍ ଷ୍ଟ୍ରିମ୍, ପ୍ଲେଲିଷ୍ଟ ଏବଂ ୟୁଟ୍ୟୁବ୍ ଡାଉନଲୋଡ୍ ଅସମର୍ଥିତ |</string>
+    <string name="queued" formatted="false">ଡାଉନଲୋଡ୍ ଧାଡିରେ ଯୋଡା ଯାଇଛି |</string>
+    <string name="download_error" formatted="false">ଡାଉନଲୋଡ୍ କରିବାକୁ ଅସମର୍ଥ | ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ କିମ୍ବା ଏକ ନୂତନ ଭିଡିଓ ଲିଙ୍କ୍ ବ୍ୟବହାର କରନ୍ତୁ |</string>
+    <string name="collection_title" formatted="false">ତୁମର ସଂଗ୍ରହ</string>
+    <string name="collection_subtitle" formatted="false">ସେଭ୍ ହୋଇଥିବା ଭିଡିଓଗୁଡିକ, ଯେତେବେଳେ ଆପଣ ଥାଆନ୍ତି |</string>
+    <string name="empty_downloads" formatted="false">ତୁମର ପରବର୍ତ୍ତୀ ପ୍ରିୟ ଏଠାରେ ଅଛି |</string>
+    <string name="empty_downloads_body" formatted="false">ବ୍ରାଉଜ୍ ରେ ଏକ ଭିଡିଓ ସନ୍ଧାନ କରନ୍ତୁ କିମ୍ବା ଆପଣଙ୍କର ସଂଗ୍ରହ ଆରମ୍ଭ କରିବାକୁ ଏକ ସିଧାସଳଖ ଭିଡିଓ ଲିଙ୍କ୍ ଲେପନ କରନ୍ତୁ |</string>
+    <string name="pending" formatted="false">ଧାଡିରେ |</string>
+    <string name="running" formatted="false">ଡାଉନଲୋଡ୍ କରୁଛି |</string>
+    <string name="paused" formatted="false">ନେଟୱାର୍କ ପାଇଁ ଅପେକ୍ଷା କରନ୍ତୁ କିମ୍ବା ପୁନ ry ଚେଷ୍ଟା କରନ୍ତୁ |</string>
+    <string name="complete" formatted="false">ସଂପୂର୍ଣ୍ଣ</string>
+    <string name="failed" formatted="false">ବିଫଳ</string>
+    <string name="missing" formatted="false">ଫାଇଲ୍ ଉପଲବ୍ଧ ନାହିଁ |</string>
+    <string name="play" formatted="false">ଖେଳନ୍ତୁ |</string>
+    <string name="share" formatted="false">ଅଂଶୀଦାର କରନ୍ତୁ |</string>
+    <string name="retry" formatted="false">ପୁନ ry ଚେଷ୍ଟା କରନ୍ତୁ |</string>
+    <string name="delete_download" formatted="false">ଡାଉନଲୋଡ୍ ଏବଂ ଏହାର ଫାଇଲ୍ ଅପସାରଣ କରିବେ କି?</string>
+    <string name="no_player" formatted="false">ଏହି ଫାଇଲ୍ ଖୋଲିବା ପାଇଁ କ compat ଣସି ସୁସଙ୍ଗତ ଆପ୍ ଉପଲବ୍ଧ ନାହିଁ |</string>
+    <string name="guide_title" formatted="false">ଆବିଷ୍କାରରୁ ଡାଉନଲୋଡ୍ କରିବାକୁ |</string>
+    <string name="guide_subtitle" formatted="false">ଆପଣ ଭଲ ପାଉଥିବା ଭିଡିଓଗୁଡିକ ରଖିବା ପାଇଁ ଏକ ସରଳ ଗାଇଡ୍ |</string>
+    <string name="step_one_title" formatted="false">ଆପଣଙ୍କର ଭିଡିଓ ଖୋଜ |</string>
+    <string name="step_one_body" formatted="false">ବ୍ରାଉଜ୍ ଖୋଲନ୍ତୁ | ଏକ ୱେବସାଇଟ୍ ଠିକଣା ଖୋଜ କିମ୍ବା ପ୍ରବେଶ କର | ଆପଣ ଅନ୍ୟ ଏକ ଆପରୁ ଏକ ଭିଡିଓ ଲିଙ୍କ୍ ମଧ୍ୟ ଅଂଶୀଦାର କରିପାରିବେ |</string>
+    <string name="step_two_title" formatted="false">ଉତ୍ସ ଆବିଷ୍କାର କରନ୍ତୁ |</string>
+    <string name="step_two_body" formatted="false">ଏକ ଭିଡିଓ ଚଲାନ୍ତୁ, ତାପରେ ଭିଡିଓ ଖୋଜ ଟ୍ୟାପ୍ କରନ୍ତୁ | ଏକ ଚିହ୍ନିତ ଫାଇଲ ବାଛନ୍ତୁ, କିମ୍ବା ସିଧାସଳଖ HTTPS ଭିଡିଓ ଲିଙ୍କ ଲେପନ କରନ୍ତୁ |</string>
+    <string name="step_three_title" formatted="false">ଏହାକୁ ତୁମର କର |</string>
+    <string name="step_three_body" formatted="false">ଏକ ଫାଇଲ୍ ନାମ ବାଛନ୍ତୁ, ଭିଡିଓ ସେଭ୍ କରିବାକୁ ଆପଣଙ୍କର ଅନୁମତି ନିଶ୍ଚିତ କରନ୍ତୁ ଏବଂ ଡାଉନଲୋଡ୍ ଟ୍ୟାପ୍ କରନ୍ତୁ | ଆଣ୍ଡ୍ରଏଡ୍ ପୃଷ୍ଠଭୂମିରେ ଡାଉନଲୋଡ୍ ଜାରି ରଖିଛି |</string>
+    <string name="step_four_title" formatted="false">ତୁମର ସଂଗ୍ରହକୁ ଉପଭୋଗ କର |</string>
+    <string name="step_four_body" formatted="false">ଅଗ୍ରଗତି ଯାଞ୍ଚ କରିବାକୁ ଡାଉନଲୋଡ୍ ଖୋଲନ୍ତୁ | ସମାପ୍ତ ଭିଡିଓଗୁଡିକ ଚଲାନ୍ତୁ କିମ୍ବା ଅଂଶୀଦାର କରନ୍ତୁ | ଆବଶ୍ୟକ ସମୟରେ ଏକ ନୂତନ ଲିଙ୍କ୍ ସହିତ ଡାଉନଲୋଡ୍ ପୁନ ret ଚେଷ୍ଟା କରନ୍ତୁ |</string>
+    <string name="try_now" formatted="false">ବର୍ତ୍ତମାନ ଏହାକୁ ଚେଷ୍ଟା କରନ୍ତୁ |</string>
+    <string name="preferences" formatted="false">ଏହାକୁ ତୁମର ନିଜର କର |</string>
+    <string name="preferences_subtitle" formatted="false">ତୁମର ଦ day ନନ୍ଦିନ ବ୍ରାଉଜିଂ ପାଇଁ କିଛି ଚିନ୍ତିତ ନିୟନ୍ତ୍ରଣ |</string>
+    <string name="dns_title" formatted="false">VPN / ବ୍ୟକ୍ତିଗତ DNS |</string>
+    <string name="dns_explanation" formatted="false">ବ୍ୟକ୍ତିଗତ DNS DNS ପ୍ରଶ୍ନଗୁଡ଼ିକୁ ଏନକ୍ରିପ୍ଟ କରିଥାଏ | ଏହା ଆପଣଙ୍କର IP ଠିକଣା ଲୁଚାଏ ନାହିଁ କିମ୍ବା ଏକ VPN ଟନେଲ୍ ସୃଷ୍ଟି କରେ ନାହିଁ | ଆଣ୍ଡ୍ରଏଡ୍ ଆପଣଙ୍କୁ ଏହି ସେଟିଂକୁ ହସ୍ତକୃତ ଭାବରେ ପରିବର୍ତ୍ତନ କରିବାକୁ ଆବଶ୍ୟକ କରେ |</string>
+    <string name="connected" formatted="false">ସଂଯୋଗ ହୋଇଛି |</string>
+    <string name="unconnected" formatted="false">ସଂଯୋଗ ହୋଇନାହିଁ |</string>
+    <string name="connect" formatted="false">ସଂଯୋଗ କରନ୍ତୁ |</string>
+    <string name="disconnect" formatted="false">ବିଚ୍ଛିନ୍ନ କରନ୍ତୁ |</string>
+    <string name="dns_instructions" formatted="false">ବ୍ୟକ୍ତିଗତ DNS ପ୍ରଦାନକାରୀ ହୋଷ୍ଟନାମ ଚୟନ କରନ୍ତୁ, dns.adguard-dns.com କୁ ପେଷ୍ଟ କରନ୍ତୁ ଏବଂ ସଂରକ୍ଷଣ କରନ୍ତୁ | ସଂଯୋଗ ବିଚ୍ଛିନ୍ନ କରିବାକୁ, ସମାନ ସିଷ୍ଟମ୍ ସେଟିଂରେ ସ୍ୱୟଂଚାଳିତ କିମ୍ବା ଅଫ୍ ଚୟନ କରନ୍ତୁ |</string>
+    <string name="copy_hostname" formatted="false">ହୋଷ୍ଟନାମ କପି କରନ୍ତୁ |</string>
+    <string name="copied" formatted="false">କ୍ଲିପବୋର୍ଡରେ କପି କରାଯାଇଛି |</string>
+    <string name="open_network_settings" formatted="false">ନେଟୱର୍କ ସେଟିଂସମୂହ ଖୋଲନ୍ତୁ |</string>
+    <string name="language" formatted="false">ଆପ୍ ଭାଷା |</string>
+    <string name="system_language" formatted="false">ଉପକରଣ ଭାଷା ଅନୁସରଣ କରନ୍ତୁ |</string>
+    <string name="search_language" formatted="false">ଏକ ଭାଷା ଖୋଜ |</string>
+    <string name="language_note" formatted="false">ଅନୁବାଦଗୁଡ଼ିକ ଅଫଲାଇନରେ ଅନ୍ତର୍ଭୂକ୍ତ କରାଯାଇଛି | ତାଲିକାଭୁକ୍ତ ଉପକରଣ ଭାଷା ଇଂରାଜୀ ବ୍ୟବହାର କରେ | ମେସିନ୍ ଅନୁବାଦଗୁଡିକ ଆଞ୍ଚଳିକ ସମୀକ୍ଷା ଆବଶ୍ୟକ କରିପାରନ୍ତି |</string>
+    <string name="search_engine" formatted="false">ସର୍ଚ୍ଚ ଇଞ୍ଜିନ୍ |</string>
+    <string name="wifi_only" formatted="false">କେବଳ ୱାଇ-ଫାଇରେ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |</string>
+    <string name="wifi_body" formatted="false">ୱାଇ-ଫାଇ ଉପଲବ୍ଧ ନହେବା ପର୍ଯ୍ୟନ୍ତ ନୂତନ ଡାଉନଲୋଡ୍ ଅପେକ୍ଷା କରେ |</string>
+    <string name="javascript" formatted="false">ୱେବସାଇଟ୍ ଜାଭାସ୍କ୍ରିପ୍ଟ |</string>
+    <string name="javascript_body" formatted="false">ଅନେକ ୱେବସାଇଟ୍ ଏବଂ HTML5 ଭିଡିଓ ଆବିଷ୍କାର ଦ୍ୱାରା ଆବଶ୍ୟକ |</string>
+    <string name="privacy" formatted="false">ଗୋପନୀୟତା</string>
+    <string name="clear_browser" formatted="false">ବ୍ରାଉଜିଂ ଡାଟା ସଫା କରନ୍ତୁ |</string>
+    <string name="clear_browser_confirm" formatted="false">କୁକିଜ୍, ବ୍ରାଉଜର୍ କ୍ୟାଚ୍, ଇତିହାସ, ଏବଂ ୱେବସାଇଟ୍ ଷ୍ଟୋରେଜ୍ ଡିଲିଟ୍ କରନ୍ତୁ?</string>
+    <string name="privacy_body" formatted="false">କ ads ଣସି ବିଜ୍ଞାପନ, ଆନାଲିଟିକ୍ସ, କିମ୍ବା ବିକାଶକାରୀ ଖାତା ନାହିଁ | ୱେବସାଇଟ୍, ସର୍ଚ୍ଚ ଇଞ୍ଜିନ୍, DNS ପ୍ରଦାନକାରୀ, ଏବଂ ଡାଉନଲୋଡ୍ ସର୍ଭରଗୁଡ଼ିକ ଆପଣ କରିଥିବା ଅନୁରୋଧ ଗ୍ରହଣ କରନ୍ତି | ଏହି ଡିଭାଇସରେ ଇତିହାସ ଏବଂ ବୁକମାର୍କଗୁଡିକ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |</string>
+    <string name="terms" formatted="false">ଦାୟିତ୍ ibly ପୂର୍ଣ୍ଣ ଭାବରେ ବ୍ୟବହାର କରନ୍ତୁ |</string>
+    <string name="terms_body" formatted="false">କେବଳ ଆପଣଙ୍କର ଥିବା ଭିଡିଓଗୁଡିକ ସଞ୍ଚୟ କରନ୍ତୁ କିମ୍ବା ଡାଉନଲୋଡ୍ କରିବାକୁ ଅନୁମତି ଦିଆଯାଇଛି | କପିରାଇଟ୍ ଏବଂ ୱେବସାଇଟ୍ ସର୍ତ୍ତାବଳୀକୁ ସମ୍ମାନ ଦିଅ | ଏହି ଆପ୍ DRM, ପେୱାଲ୍, କିମ୍ବା ପ୍ଲାଟଫର୍ମ ଡାଉନଲୋଡ୍ ପ୍ରତିବନ୍ଧକକୁ ବାଇପାସ୍ କରିପାରିବ ନାହିଁ |</string>
+    <string name="about" formatted="false">ବିଷୟରେ</string>
+    <string name="version" formatted="false">ସଂସ୍କରଣ</string>
+    <string name="paid_app" formatted="false">ଗୋଟିଏ କ୍ରୟ | କ ads ଣସି ବିଜ୍ଞାପନ ନାହିଁ | କ subs ଣସି ସଦସ୍ୟତା ନାହିଁ |</string>
+    <string name="welcome_title" formatted="false">ଯାହା ଆପଣଙ୍କୁ ପ୍ରେରଣା ଦିଏ |</string>
+    <string name="welcome_body" formatted="false">ଗୋଟିଏ ସ୍ଥାନରେ ଅନୁମତି ପ୍ରାପ୍ତ ଭିଡିଓ ବ୍ରାଉଜ୍, ଆବିଷ୍କାର ଏବଂ ସଂରକ୍ଷଣ କରନ୍ତୁ | ଆରମ୍ଭ କରିବାକୁ ଚିତ୍ରିତ ଗାଇଡ୍ ପ Read ନ୍ତୁ |</string>
+    <string name="start_browsing" formatted="false">ବ୍ରାଉଜିଂ ଆରମ୍ଭ କରନ୍ତୁ |</string>
+    <string name="read_guide" formatted="false">ଗାଇଡ୍ ପ Read ଼ନ୍ତୁ |</string>
+    <string name="browser_error" formatted="false">ଏହି ପୃଷ୍ଠା ଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ | ଠିକଣା ଏବଂ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ, ତାପରେ ପୁନ o ଲୋଡ୍ କରନ୍ତୁ |</string>
+    <string name="secure_only" formatted="false">ଏହି ଆପ୍ HTTPS ସଂଯୋଗ ବ୍ୟବହାର କରେ | ଏହି ୱେବସାଇଟ୍ ର ସୁରକ୍ଷିତ ସଂସ୍କରଣ ଚେଷ୍ଟା କରନ୍ତୁ |</string>
+    <string name="external_link" formatted="false">ଅନ୍ୟ ଏକ ଆପରେ ଏହି ଲିଙ୍କ୍ ଖୋଲନ୍ତୁ?</string>
+    <string name="open" formatted="false">ଖୋଲନ୍ତୁ |</string>
+    <string name="refresh" formatted="false">ସତେଜ କରନ୍ତୁ |</string>
+    <string name="accessibility_tutorial" formatted="false">ଏହି ଟ୍ୟୁଟୋରିଆଲ୍ ଷ୍ଟେପ୍ ପାଇଁ ଉଦାହରଣ |</string>
+    <string name="download_reason" formatted="false">ଆଣ୍ଡ୍ରଏଡ୍ ଡାଉନଲୋଡ୍ ତ୍ରୁଟି କୋଡ୍ |</string>
+    <string name="queue_full" formatted="false">ଡାଉନଲୋଡ୍ ଇତିହାସ ପୂର୍ଣ୍ଣ | ପ୍ରଥମେ ଏକ ପୁରୁଣା ଏଣ୍ଟ୍ରି ହଟାନ୍ତୁ |</string>
+    <string name="browser_tabs" formatted="false">ବ୍ରାଉଜର୍ ଟ୍ୟାବ୍ସ |</string>
+    <string name="tabs_subtitle" formatted="false">ୱେବସାଇଟ୍ ଖୋଲା ରଖନ୍ତୁ ଏବଂ ସେମାନଙ୍କ ମଧ୍ୟରେ ସୁଇଚ୍ କରନ୍ତୁ |</string>
+    <string name="new_tab" formatted="false">ନୂଆ ଟ୍ୟାବ୍ |</string>
+    <string name="close_tab" formatted="false">ଟ୍ୟାବ୍ ବନ୍ଦ କରନ୍ତୁ |</string>
+    <string name="active_tab" formatted="false">ସକ୍ରିୟ ଟ୍ୟାବ୍ |</string>
+    <string name="tab_limit" formatted="false">ଆପଣ 8 ଟି ଟ୍ୟାବ୍ ଖୋଲିପାରିବେ | ଅନ୍ୟକୁ ଯୋଡିବା ପାଇଁ ଏକ ଟ୍ୟାବ୍ ବନ୍ଦ କରନ୍ତୁ |</string>
+    <string name="history" formatted="false">ଇତିହାସ</string>
+    <string name="history_subtitle" formatted="false">ପରିଦର୍ଶିତ ୱେବସାଇଟ୍ କେବଳ ଏହି ଡିଭାଇସରେ ସେଭ୍ ହୋଇଛି |</string>
+    <string name="empty_history" formatted="false">ତୁମର ବ୍ରାଉଜିଂ ଇତିହାସ ଏଠାରେ ଦେଖାଯିବ |</string>
+    <string name="clear_history" formatted="false">ଇତିହାସ ସଫା କରନ୍ତୁ |</string>
+    <string name="clear_history_confirm" formatted="false">ଏହି ଉପକରଣରୁ ସମସ୍ତ ବ୍ରାଉଜିଂ ଇତିହାସ ବିଲୋପ କରିବେ କି?</string>
+    <string name="open_new_tab" formatted="false">ନୂଆ ଟ୍ୟାବରେ ଖୋଲ |</string>
+    <string name="browser_menu" formatted="false">ବ୍ରାଉଜର୍ ମେନୁ |</string>
+    <string name="shortcut_note" formatted="false">ବ୍ରାଉଜରରେ ୱେବସାଇଟ୍ ସର୍ଟକଟ୍ ଖୋଲା | ଡାଉନଲୋଡ୍ ଉପଲବ୍ଧତା ୱେବସାଇଟ୍ ଉପରେ ନିର୍ଭର କରେ |</string>
+</resources>

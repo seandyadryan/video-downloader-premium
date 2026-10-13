@@ -1,0 +1,114 @@
+[
+  {
+    "File": "feature-graphic-1024x500.png",
+    "Width": 1024,
+    "Height": 500,
+    "BitsPerPixel": 24,
+    "Bytes": 109165,
+    "SHA256": "D2D3812E6DE13B28F7D98DB22548E531AB15080DB38BC5672EA0E6AB594B0886"
+  },
+  {
+    "File": "play-icon-512.png",
+    "Width": 512,
+    "Height": 512,
+    "BitsPerPixel": 32,
+    "Bytes": 66857,
+    "SHA256": "FEED94DD1A979505C465A3DB7CED0AB0AA3DF63BFE70241C948D9B9125FCF30F"
+  },
+  {
+    "File": "desktop/01-browse.png",
+    "Width": 1920,
+    "Height": 1080,
+    "BitsPerPixel": 24,
+    "Bytes": 79931,
+    "SHA256": "D5BA72B0B38433721997C467CBDF71E71E25A97BF057B711366604B46F90AA44"
+  },
+  {
+    "File": "desktop/02-tabs.png",
+    "Width": 1920,
+    "Height": 1080,
+    "BitsPerPixel": 24,
+    "Bytes": 74738,
+    "SHA256": "18CB6734BDA86E7B0615920329DC255123C2874DB0A68CADA923E9A6C7E9EB8E"
+  },
+  {
+    "File": "desktop/03-history.png",
+    "Width": 1920,
+    "Height": 1080,
+    "BitsPerPixel": 24,
+    "Bytes": 71105,
+    "SHA256": "FB3F02910C7C420018A3CE10759139486BA3BC82E67B30B5F2A11DD354BE2A73"
+  },
+  {
+    "File": "desktop/04-downloads.png",
+    "Width": 1920,
+    "Height": 1080,
+    "BitsPerPixel": 24,
+    "Bytes": 52860,
+    "SHA256": "FBDBBD2A5F2C7D5EAB0543010054B379B343E87B0E088DBCADA8C741BDFB99A1"
+  },
+  {
+    "File": "desktop/05-guide.png",
+    "Width": 1920,
+    "Height": 1080,
+    "BitsPerPixel": 24,
+    "Bytes": 65110,
+    "SHA256": "D90457B614C6C7CF186980680D47928F391F9D4E812762D5C15E16993E0278FD"
+  },
+  {
+    "File": "desktop/06-settings.png",
+    "Width": 1920,
+    "Height": 1080,
+    "BitsPerPixel": 24,
+    "Bytes": 88650,
+    "SHA256": "1F5F53AACDA0EB10CDC7767435F2E632A5FF48705AD4F0D5F9A8B90D37C0CE28"
+  },
+  {
+    "File": "phone/01-browse.png",
+    "Width": 1080,
+    "Height": 1920,
+    "BitsPerPixel": 24,
+    "Bytes": 141148,
+    "SHA256": "68FEAF3805028A8EA14F8858A36B91EFE83AA7A999555C71C309269D5F71E4F6"
+  },
+  {
+    "File": "phone/02-tabs.png",
+    "Width": 1080,
+    "Height": 1920,
+    "BitsPerPixel": 24,
+    "Bytes": 131523,
+    "SHA256": "7B98355B8758A911BE105BDE652901C80FE2361A3EB13C5113449E2F02427CCA"
+  },
+  {
+    "File": "phone/03-history.png",
+    "Width": 1080,
+    "Height": 1920,
+    "BitsPerPixel": 24,
+    "Bytes": 121201,
+    "SHA256": "938A7E9307946F42B6AFC43CE0765DAB3B2381AB8834060C0D6C882F8564C362"
+  },
+  {
+    "File": "phone/04-downloads.png",
+    "Width": 1080,
+    "Height": 1920,
+    "BitsPerPixel": 24,
+    "Bytes": 89382,
+    "SHA256": "9701EAEC411A70367700075E782AC1FD453E991703B7103382816F0B292AFFFA"
+  },
+  {
+    "File": "phone/05-guide.png",
+    "Width": 1080,
+    "Height": 1920,
+    "BitsPerPixel": 24,
+    "Bytes": 106961,
+    "SHA256": "8F9A6FA14D9B78F9A717D424111C02363C02D371684133454E4C5CB46B0DAEC0"
+  },
+  {
+    "File": "phone/06-settings.png",
+    "Width": 1080,
+    "Height": 1920,
+    "BitsPerPixel": 24,
+    "Bytes": 161536,
+    "SHA256": "2114D3F85D80C3C9660AD884FDC0111132DCD9D12B51A09D13568A88BECFC1CB"
+  }
+]

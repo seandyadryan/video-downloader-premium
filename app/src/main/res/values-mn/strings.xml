@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">ДЭЭДЛЭГ</string>
+    <string name="browse" formatted="false">Үзэх</string>
+    <string name="downloads" formatted="false">Татаж авсан зүйлс</string>
+    <string name="guide" formatted="false">Хөтөч</string>
+    <string name="settings" formatted="false">Тохиргоо</string>
+    <string name="home_title" formatted="false">Таны видеонууд. Таны цуглуулга.</string>
+    <string name="home_subtitle" formatted="false">Хадгалах үнэ цэнэтэй зүйлийг олоорой.</string>
+    <string name="search_hint" formatted="false">Вэбсайт хайх эсвэл оруулна уу</string>
+    <string name="go" formatted="false">Яв</string>
+    <string name="paste_link" formatted="false">Видеоны холбоосыг буулгана уу</string>
+    <string name="direct_link" formatted="false">Шууд видео холбоос</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Татаж авах</string>
+    <string name="detect" formatted="false">Видео хайх</string>
+    <string name="detected" formatted="false">Энэ хуудсан дээрх видеонууд</string>
+    <string name="no_media" formatted="false">Татаж авах боломжтой видео олдсонгүй. Видео тоглуулж эхлээд, дахин оролдоно уу. Хамгаалагдсан урсгалууд болон суулгагдсан фреймүүд боломжгүй байж магадгүй.</string>
+    <string name="safe_note" formatted="false">Зөвхөн өөрийн эзэмшдэг эсвэл хадгалах зөвшөөрөлтэй видеог татаж аваарай. Хамгаалагдсан дамжуулалт болон YouTube-ээс татаж авах боломжгүй.</string>
+    <string name="quick_start" formatted="false">ЭНДЭЭС ЭХЭЛНЭ</string>
+    <string name="quick_browse" formatted="false">Вэбийг судлах</string>
+    <string name="quick_browse_body" formatted="false">Баригдсан хөтчөөс өөрийн хүссэн хөдөлгүүрээр хайна уу.</string>
+    <string name="quick_download" formatted="false">Видео хадгалах</string>
+    <string name="quick_download_body" formatted="false">Шууд HTTPS видео холбоосыг буулгах эсвэл хуудаснаас видеог олоорой.</string>
+    <string name="quick_guide" formatted="false">Бага зэрэг удирдамж</string>
+    <string name="quick_guide_body" formatted="false">Нээлтээс цуглуулга хүртэлх дөрвөн зурагтай алхам.</string>
+    <string name="back" formatted="false">Буцах</string>
+    <string name="forward" formatted="false">Урагшаа</string>
+    <string name="reload" formatted="false">Дахин ачаалах</string>
+    <string name="home" formatted="false">Гэр</string>
+    <string name="bookmark" formatted="false">Хавчуурга</string>
+    <string name="bookmarks" formatted="false">Хавчуурга</string>
+    <string name="empty_bookmarks" formatted="false">Хадгалсан вэбсайтууд энд харагдах болно.</string>
+    <string name="saved" formatted="false">Хадгалсан</string>
+    <string name="remove" formatted="false">Устгах</string>
+    <string name="cancel" formatted="false">Цуцлах</string>
+    <string name="close" formatted="false">Хаах</string>
+    <string name="confirm_download" formatted="false">Энэ видеог хадгалах уу?</string>
+    <string name="filename" formatted="false">Файлын нэр</string>
+    <string name="download_location" formatted="false">Татаж авсан / Video Downloader Premium-д хадгалагдсан</string>
+    <string name="permission_confirm" formatted="false">Би энэ видеог эзэмшдэг эсвэл татаж авах зөвшөөрөлтэй.</string>
+    <string name="permission_required" formatted="false">Та энэ видеог хадгалах зөвшөөрөлтэй гэдгээ баталгаажуулна уу.</string>
+    <string name="invalid_url" formatted="false">Хүчинтэй HTTPS видео холбоос оруулна уу.</string>
+    <string name="unsupported" formatted="false">Энэ холбоос нь татаж авах видео биш юм. DRM, шууд дамжуулалт, тоглуулах жагсаалт, YouTube татан авалтыг дэмждэггүй.</string>
+    <string name="queued" formatted="false">Татаж авахыг дараалалд нэмсэн</string>
+    <string name="download_error" formatted="false">Татаж авах боломжгүй. Холболтыг шалгах эсвэл шинэ видео холбоосыг ашиглана уу.</string>
+    <string name="collection_title" formatted="false">Таны цуглуулга</string>
+    <string name="collection_subtitle" formatted="false">Хадгалсан видеонууд таныг байгаа үед бэлэн болно.</string>
+    <string name="empty_downloads" formatted="false">Таны дараагийн дуртай зүйл энд байна.</string>
+    <string name="empty_downloads_body" formatted="false">Цуглуулгаа эхлүүлэхийн тулд Browse хэсгээс видео хайж эсвэл шууд видеоны холбоосыг буулгана уу.</string>
+    <string name="pending" formatted="false">Дараалалд орсон</string>
+    <string name="running" formatted="false">Татаж байна</string>
+    <string name="paused" formatted="false">Сүлжээг хүлээж байна эсвэл дахин оролдоно уу</string>
+    <string name="complete" formatted="false">Бүрэн</string>
+    <string name="failed" formatted="false">Амжилтгүй</string>
+    <string name="missing" formatted="false">Файл боломжгүй</string>
+    <string name="play" formatted="false">Тоглох</string>
+    <string name="share" formatted="false">Хуваалцах</string>
+    <string name="retry" formatted="false">Дахин оролдоно уу</string>
+    <string name="delete_download" formatted="false">Татаж авах болон түүний файлыг устгах уу?</string>
+    <string name="no_player" formatted="false">Энэ файлыг нээх тохирох програм байхгүй байна.</string>
+    <string name="guide_title" formatted="false">Нээлтээс татаж авах хүртэл.</string>
+    <string name="guide_subtitle" formatted="false">Дуртай видеогоо хадгалах энгийн гарын авлага.</string>
+    <string name="step_one_title" formatted="false">Видеогоо олоорой</string>
+    <string name="step_one_body" formatted="false">Хайлтыг нээнэ үү. Вэбсайт хаяг хайх эсвэл оруулна уу. Та мөн өөр програмаас видео холбоосыг хуваалцаж болно.</string>
+    <string name="step_two_title" formatted="false">Эх сурвалжийг олж мэд</string>
+    <string name="step_two_body" formatted="false">Видео тоглуулсны дараа \&quot;Видео хайх\&quot; гэснийг товшино уу. Илэрсэн файлыг сонгох эсвэл шууд HTTPS видео холбоосыг буулгана уу.</string>
+    <string name="step_three_title" formatted="false">Үүнийг өөрийн болго</string>
+    <string name="step_three_body" formatted="false">Файлын нэрийг сонгоод, видеог хадгалах зөвшөөрлөө баталгаажуулаад Татаж авах гэснийг товшино уу. Android нь арын дэвсгэр дээр татан авалтаа үргэлжлүүлнэ.</string>
+    <string name="step_four_title" formatted="false">Цуглуулгаа сайхан өнгөрүүлээрэй</string>
+    <string name="step_four_body" formatted="false">Явцыг шалгахын тулд Татаж авахыг нээнэ үү. Дууссан видеог тоглуулах эсвэл хуваалцах. Шаардлагатай үед шинэ холбоосоор бүтэлгүй таталтуудыг дахин оролдоно уу.</string>
+    <string name="try_now" formatted="false">Одоо туршаад үзээрэй</string>
+    <string name="preferences" formatted="false">Үүнийг өөрийн болго.</string>
+    <string name="preferences_subtitle" formatted="false">Таны өдөр тутмын хайлтын системд зориулсан цөөн хэдэн удирдамж.</string>
+    <string name="dns_title" formatted="false">VPN / Хувийн DNS</string>
+    <string name="dns_explanation" formatted="false">Хувийн DNS нь DNS асуулгыг шифрлэдэг. Энэ нь таны IP хаягийг нуухгүй эсвэл VPN туннель үүсгэдэггүй. Android танаас энэ тохиргоог гараар өөрчлөхийг шаарддаг.</string>
+    <string name="connected" formatted="false">Холбогдсон</string>
+    <string name="unconnected" formatted="false">Холбогдоогүй</string>
+    <string name="connect" formatted="false">Холбох</string>
+    <string name="disconnect" formatted="false">Салга</string>
+    <string name="dns_instructions" formatted="false">Хувийн DNS үйлчилгээ үзүүлэгчийн хостын нэрийг сонгоод dns.adguard-dns.com-г буулгаад хадгална уу. Салгахын тулд ижил системийн тохиргооноос Автомат эсвэл Унтраахыг сонгоно уу.</string>
+    <string name="copy_hostname" formatted="false">Хост нэрийг хуулах</string>
+    <string name="copied" formatted="false">Түр санах ой руу хуулсан</string>
+    <string name="open_network_settings" formatted="false">Сүлжээний тохиргоог нээнэ үү</string>
+    <string name="language" formatted="false">Програмын хэл</string>
+    <string name="system_language" formatted="false">Төхөөрөмжийн хэлийг дагаж мөрдөөрэй</string>
+    <string name="search_language" formatted="false">Хэл олоорой</string>
+    <string name="language_note" formatted="false">Орчуулгууд офлайнаар орсон. Жагсаалтад ороогүй төхөөрөмжийн хэл англи хэлийг ашигладаг. Машины орчуулгад бүс нутгийн хяналт шаардлагатай байж магадгүй.</string>
+    <string name="search_engine" formatted="false">Хайлтын систем</string>
+    <string name="wifi_only" formatted="false">Зөвхөн Wi-Fi дээр татаж авах</string>
+    <string name="wifi_body" formatted="false">Шинэ таталтууд Wi-Fi ашиглах боломжтой болтол хүлээнэ.</string>
+    <string name="javascript" formatted="false">JavaScript вэбсайт</string>
+    <string name="javascript_body" formatted="false">Олон вэбсайтууд болон HTML5 видео нээлтэд шаардлагатай.</string>
+    <string name="privacy" formatted="false">Нууцлал</string>
+    <string name="clear_browser" formatted="false">Хайлтын өгөгдлийг арилгах</string>
+    <string name="clear_browser_confirm" formatted="false">Күүки, хөтчийн кэш, түүх, вэб сайтын санг устгах уу?</string>
+    <string name="privacy_body" formatted="false">Зар сурталчилгаа, аналитик эсвэл хөгжүүлэгчийн бүртгэл байхгүй. Вэбсайт, хайлтын систем, DNS үйлчилгээ үзүүлэгч, татаж авах серверүүд таны хүсэлтийг хүлээн авдаг. Татаж авсан түүх болон хавчуурга энэ төхөөрөмж дээр үлдэнэ.</string>
+    <string name="terms" formatted="false">Хариуцлагатай ашиглах</string>
+    <string name="terms_body" formatted="false">Зөвхөн өөрийн эзэмшдэг эсвэл татаж авахыг зөвшөөрсөн видеогоо хадгална уу. Зохиогчийн эрх болон вэбсайтын нөхцөлийг хүндэтгэ. Энэ апп нь DRM, төлбөрийн хана эсвэл платформ татаж авах хязгаарлалтыг тойрч гарах боломжгүй.</string>
+    <string name="about" formatted="false">тухай</string>
+    <string name="version" formatted="false">Хувилбар</string>
+    <string name="paid_app" formatted="false">Нэг худалдан авалт. Зар байхгүй. Захиалга байхгүй.</string>
+    <string name="welcome_title" formatted="false">Чамд урам зориг өгсөн зүйлийг хадгал.</string>
+    <string name="welcome_body" formatted="false">Зөвшөөрөгдсөн видеог нэг дороос үзэж, олж, хадгалаарай. Эхлэхийн тулд зурагтай гарын авлагыг уншина уу.</string>
+    <string name="start_browsing" formatted="false">Хайлт хийж эхлээрэй</string>
+    <string name="read_guide" formatted="false">Гарын авлагыг уншина уу</string>
+    <string name="browser_error" formatted="false">Энэ хуудсыг ачаалж чадсангүй. Хаяг болон холболтыг шалгаад дахин ачаална уу.</string>
+    <string name="secure_only" formatted="false">Энэ програм нь HTTPS холболтыг ашигладаг. Энэ вэб сайтын аюулгүй хувилбарыг туршиж үзээрэй.</string>
+    <string name="external_link" formatted="false">Энэ холбоосыг өөр апп дээр нээх үү?</string>
+    <string name="open" formatted="false">Нээлттэй</string>
+    <string name="refresh" formatted="false">Сэргээх</string>
+    <string name="accessibility_tutorial" formatted="false">Энэхүү зааварчилгааны алхамд зориулсан зураг</string>
+    <string name="download_reason" formatted="false">Android татаж авах алдааны код</string>
+    <string name="queue_full" formatted="false">Татаж авах түүх дүүрэн байна. Эхлээд хуучин оруулгыг устгана уу.</string>
+    <string name="browser_tabs" formatted="false">Хөтөчийн таб</string>
+    <string name="tabs_subtitle" formatted="false">Вэбсайтуудыг нээлттэй байлгаж, тэдгээрийн хооронд сэлгээрэй.</string>
+    <string name="new_tab" formatted="false">Шинэ таб</string>
+    <string name="close_tab" formatted="false">Табыг хаах</string>
+    <string name="active_tab" formatted="false">Идэвхтэй таб</string>
+    <string name="tab_limit" formatted="false">Та 8 хүртэл таб нээх боломжтой. Өөр нэг таб нэмэхийн тулд табыг хаа.</string>
+    <string name="history" formatted="false">Түүх</string>
+    <string name="history_subtitle" formatted="false">Зочилсон вэбсайтуудыг зөвхөн энэ төхөөрөмжид хадгална.</string>
+    <string name="empty_history" formatted="false">Таны хайлтын түүх энд харагдах болно.</string>
+    <string name="clear_history" formatted="false">Түүхийг цэвэрлэх</string>
+    <string name="clear_history_confirm" formatted="false">Энэ төхөөрөмжөөс хайлтын бүх түүхийг устгах уу?</string>
+    <string name="open_new_tab" formatted="false">Шинэ таб дээр нээх</string>
+    <string name="browser_menu" formatted="false">Хөтөч цэс</string>
+    <string name="shortcut_note" formatted="false">Вэб сайтын товчлолууд хөтөч дээр нээгдэнэ. Татаж авах боломжтой эсэх нь вэбсайтаас хамаарна.</string>
+</resources>

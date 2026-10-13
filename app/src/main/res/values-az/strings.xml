@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">Gözdən keçirin</string>
+    <string name="downloads" formatted="false">Yükləmələr</string>
+    <string name="guide" formatted="false">Bələdçi</string>
+    <string name="settings" formatted="false">Parametrlər</string>
+    <string name="home_title" formatted="false">Videolarınız. Sizin kolleksiyanız.</string>
+    <string name="home_subtitle" formatted="false">Saxlamağa dəyər bir şey tapın.</string>
+    <string name="search_hint" formatted="false">Veb saytı axtarın və ya daxil edin</string>
+    <string name="go" formatted="false">Get</string>
+    <string name="paste_link" formatted="false">Video linkini yapışdırın</string>
+    <string name="direct_link" formatted="false">Birbaşa video keçid</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Yüklə</string>
+    <string name="detect" formatted="false">Videoları tapın</string>
+    <string name="detected" formatted="false">Bu səhifədəki videolar</string>
+    <string name="no_media" formatted="false">Yüklənə bilən video tapılmadı. Videonu oynatmağa başlayın, sonra yenidən cəhd edin. Qorunan axınlar və daxil edilmiş çərçivələr əlçatan olmaya bilər.</string>
+    <string name="safe_note" formatted="false">Yalnız sizə məxsus və ya saxlamaq icazəniz olan videoları endirin. Qorunan yayımlar və YouTube endirmələri əlçatan deyil.</string>
+    <string name="quick_start" formatted="false">BURADAN BAŞLAYIN</string>
+    <string name="quick_browse" formatted="false">Vebi araşdırın</string>
+    <string name="quick_browse_body" formatted="false">Daxili brauzerdə üstünlük verdiyiniz mühərriklə axtarın.</string>
+    <string name="quick_download" formatted="false">Videonu yadda saxlayın</string>
+    <string name="quick_download_body" formatted="false">Birbaşa HTTPS video linkini yapışdırın və ya səhifədə video tapın.</string>
+    <string name="quick_guide" formatted="false">Bir az rəhbərlik</string>
+    <string name="quick_guide_body" formatted="false">Kəşfdən kolleksiyanıza qədər dörd təsvirli addım.</string>
+    <string name="back" formatted="false">Geri</string>
+    <string name="forward" formatted="false">İrəli</string>
+    <string name="reload" formatted="false">Yenidən yükləyin</string>
+    <string name="home" formatted="false">Ev</string>
+    <string name="bookmark" formatted="false">Əlfəcin</string>
+    <string name="bookmarks" formatted="false">Əlfəcinlər</string>
+    <string name="empty_bookmarks" formatted="false">Yadda saxlanmış veb-saytlar burada görünəcək.</string>
+    <string name="saved" formatted="false">Saxlandı</string>
+    <string name="remove" formatted="false">Sil</string>
+    <string name="cancel" formatted="false">Ləğv et</string>
+    <string name="close" formatted="false">Bağlayın</string>
+    <string name="confirm_download" formatted="false">Bu video yadda saxlanılsın?</string>
+    <string name="filename" formatted="false">Fayl adı</string>
+    <string name="download_location" formatted="false">Endirmələr / Video Yükləyici Premium-da saxlandı</string>
+    <string name="permission_confirm" formatted="false">Bu video mənə məxsusdur və ya onu endirməyə icazəm var.</string>
+    <string name="permission_required" formatted="false">Bu videonu saxlamaq üçün icazəniz olduğunu təsdiqləyin.</string>
+    <string name="invalid_url" formatted="false">Etibarlı HTTPS video linki daxil edin.</string>
+    <string name="unsupported" formatted="false">Bu link endirilə bilən video deyil. DRM, canlı yayımlar, pleylistlər və YouTube endirmələri dəstəklənmir.</string>
+    <string name="queued" formatted="false">Yükləmə növbəyə əlavə edildi</string>
+    <string name="download_error" formatted="false">Endirmək mümkün deyil. Bağlantını yoxlayın və ya yeni video linkindən istifadə edin.</string>
+    <string name="collection_title" formatted="false">Sizin kolleksiyanız</string>
+    <string name="collection_subtitle" formatted="false">Yadda saxlanmış videolar, istədiyiniz zaman hazırdır.</string>
+    <string name="empty_downloads" formatted="false">Növbəti sevimliniz buraya aiddir.</string>
+    <string name="empty_downloads_body" formatted="false">Kolleksiyanıza başlamaq üçün Axtarışda video tapın və ya birbaşa video linkini yapışdırın.</string>
+    <string name="pending" formatted="false">Növbədə</string>
+    <string name="running" formatted="false">Endirilir</string>
+    <string name="paused" formatted="false">Şəbəkə gözlənilir və ya yenidən cəhd edin</string>
+    <string name="complete" formatted="false">Tamamlayın</string>
+    <string name="failed" formatted="false">Uğursuz oldu</string>
+    <string name="missing" formatted="false">Fayl əlçatan deyil</string>
+    <string name="play" formatted="false">Oyna</string>
+    <string name="share" formatted="false">Paylaşın</string>
+    <string name="retry" formatted="false">Yenidən cəhd edin</string>
+    <string name="delete_download" formatted="false">Endirmə və onun faylı silinsin?</string>
+    <string name="no_player" formatted="false">Bu faylı açmaq üçün uyğun proqram yoxdur.</string>
+    <string name="guide_title" formatted="false">Kəşfdən endirməyə qədər.</string>
+    <string name="guide_subtitle" formatted="false">Sevdiyiniz videoları saxlamaq üçün sadə bələdçi.</string>
+    <string name="step_one_title" formatted="false">Videonuzu tapın</string>
+    <string name="step_one_body" formatted="false">Axtarışı açın. Veb sayt ünvanını axtarın və ya daxil edin. Siz həmçinin başqa proqramdan video linkini paylaşa bilərsiniz.</string>
+    <string name="step_two_title" formatted="false">Mənbəni kəşf edin</string>
+    <string name="step_two_body" formatted="false">Videonu oynatın, sonra Videoları tap vurun. Aşkar edilmiş faylı seçin və ya birbaşa HTTPS video linkini yapışdırın.</string>
+    <string name="step_three_title" formatted="false">Bunu sizin edin</string>
+    <string name="step_three_body" formatted="false">Fayl adı seçin, videonu saxlamaq üçün icazənizi təsdiqləyin və Yüklə vurun. Android arxa planda endirməyə davam edir.</string>
+    <string name="step_four_title" formatted="false">Kolleksiyanızdan həzz alın</string>
+    <string name="step_four_body" formatted="false">Tərəqqini yoxlamaq üçün Yükləmələri açın. Tamamlanmış videoları oynayın və ya paylaşın. Uğursuz endirmələri lazım olduqda təzə linklə yenidən cəhd edin.</string>
+    <string name="try_now" formatted="false">İndi cəhd edin</string>
+    <string name="preferences" formatted="false">Bunu özünüz edin.</string>
+    <string name="preferences_subtitle" formatted="false">Gündəlik baxışınız üçün bir neçə düşünülmüş nəzarət.</string>
+    <string name="dns_title" formatted="false">VPN / Şəxsi DNS</string>
+    <string name="dns_explanation" formatted="false">Şəxsi DNS DNS sorğularını şifrələyir. IP ünvanınızı gizlətmir və ya VPN tuneli yaratmır. Android sizdən bu ayarı əl ilə dəyişməyi tələb edir.</string>
+    <string name="connected" formatted="false">Qoşuldu</string>
+    <string name="unconnected" formatted="false">Bağlantısız</string>
+    <string name="connect" formatted="false">Qoşun</string>
+    <string name="disconnect" formatted="false">Bağlantını kəsin</string>
+    <string name="dns_instructions" formatted="false">Şəxsi DNS provayderinin host adını seçin, dns.adguard-dns.com-u yapışdırın və yadda saxlayın. Bağlantını kəsmək üçün eyni sistem parametrində Avtomatik və ya Off seçin.</string>
+    <string name="copy_hostname" formatted="false">Host adını kopyalayın</string>
+    <string name="copied" formatted="false">Buferə kopyalandı</string>
+    <string name="open_network_settings" formatted="false">Şəbəkə parametrlərini açın</string>
+    <string name="language" formatted="false">Proqram dili</string>
+    <string name="system_language" formatted="false">Cihaz dilini izləyin</string>
+    <string name="search_language" formatted="false">Dil tapın</string>
+    <string name="language_note" formatted="false">Tərcümələr oflayn daxil edilir. Siyahıda olmayan cihaz dilləri ingilis dilindən istifadə edir. Maşın tərcümələrinin regional nəzərdən keçirilməsi tələb oluna bilər.</string>
+    <string name="search_engine" formatted="false">Axtarış motoru</string>
+    <string name="wifi_only" formatted="false">Yalnız Wi-Fi ilə endirin</string>
+    <string name="wifi_body" formatted="false">Yeni endirmələr Wi-Fi mövcud olana qədər gözləyir.</string>
+    <string name="javascript" formatted="false">Veb sayt JavaScript</string>
+    <string name="javascript_body" formatted="false">Bir çox vebsayt və HTML5 video kəşfi üçün tələb olunur.</string>
+    <string name="privacy" formatted="false">Məxfilik</string>
+    <string name="clear_browser" formatted="false">Baxış məlumatlarını silin</string>
+    <string name="clear_browser_confirm" formatted="false">Kukilər, brauzer keşi, tarixçə və vebsayt yaddaşı silinsin?</string>
+    <string name="privacy_body" formatted="false">Reklamlar, analitiklər və ya tərtibatçı hesabları yoxdur. Veb saytlar, axtarış motorları, DNS provayderləri və yükləmə serverləri etdiyiniz sorğuları qəbul edir. Endirmə tarixçəsi və əlfəcinlər bu cihazda qalır.</string>
+    <string name="terms" formatted="false">Məsuliyyətlə istifadə edin</string>
+    <string name="terms_body" formatted="false">Yalnız sizə məxsus və ya endirməyə icazə verilən videoları yadda saxlayın. Müəllif hüquqlarına və vebsayt şərtlərinə hörmət edin. Bu proqram DRM, ödəniş divarları və ya platforma yükləmə məhdudiyyətlərini aşa bilməz.</string>
+    <string name="about" formatted="false">Haqqında</string>
+    <string name="version" formatted="false">Versiya</string>
+    <string name="paid_app" formatted="false">Bir alış. Reklam yoxdur. Abunə yoxdur.</string>
+    <string name="welcome_title" formatted="false">Sizi ruhlandıran şeyi saxlayın.</string>
+    <string name="welcome_body" formatted="false">İcazə verilən videoları bir yerdə axtarın, kəşf edin və yadda saxlayın. Başlamaq üçün təsvir edilmiş təlimatı oxuyun.</string>
+    <string name="start_browsing" formatted="false">Baxmağa başlayın</string>
+    <string name="read_guide" formatted="false">Bələdçi oxuyun</string>
+    <string name="browser_error" formatted="false">Bu səhifəni yükləmək mümkün olmadı. Ünvanı və əlaqəni yoxlayın, sonra yenidən yükləyin.</string>
+    <string name="secure_only" formatted="false">Bu proqram HTTPS bağlantılarından istifadə edir. Bu veb-saytın təhlükəsiz versiyasını sınayın.</string>
+    <string name="external_link" formatted="false">Bu link başqa tətbiqdə açılsın?</string>
+    <string name="open" formatted="false">Açıq</string>
+    <string name="refresh" formatted="false">Yeniləyin</string>
+    <string name="accessibility_tutorial" formatted="false">Bu dərslik addımı üçün illüstrasiya</string>
+    <string name="download_reason" formatted="false">Android yükləmə xətası kodu</string>
+    <string name="queue_full" formatted="false">Yükləmə tarixçəsi doludur. Əvvəlcə köhnə girişi silin.</string>
+    <string name="browser_tabs" formatted="false">Brauzer nişanları</string>
+    <string name="tabs_subtitle" formatted="false">Veb saytları açıq saxlayın və onlar arasında keçid edin.</string>
+    <string name="new_tab" formatted="false">Yeni tab</string>
+    <string name="close_tab" formatted="false">Nişanı bağlayın</string>
+    <string name="active_tab" formatted="false">Aktiv tab</string>
+    <string name="tab_limit" formatted="false">8 tab aça bilərsiniz. Başqasını əlavə etmək üçün nişanı bağlayın.</string>
+    <string name="history" formatted="false">Tarix</string>
+    <string name="history_subtitle" formatted="false">Ziyarət edilən vebsaytlar yalnız bu cihazda yadda saxlanılır.</string>
+    <string name="empty_history" formatted="false">Baxış tarixçəniz burada görünəcək.</string>
+    <string name="clear_history" formatted="false">Tarixi təmizləyin</string>
+    <string name="clear_history_confirm" formatted="false">Bu cihazdan bütün baxış tarixçəsi silinsin?</string>
+    <string name="open_new_tab" formatted="false">Yeni tabda açın</string>
+    <string name="browser_menu" formatted="false">Brauzer menyusu</string>
+    <string name="shortcut_note" formatted="false">Veb sayt qısa yolları brauzerdə açılır. Yükləmənin mövcudluğu vebsaytdan asılıdır.</string>
+</resources>

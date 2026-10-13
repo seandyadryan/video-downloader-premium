@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium" formatted="false">PREMIUM</string>
+    <string name="browse" formatted="false">baadh</string>
+    <string name="downloads" formatted="false">Soo dejinta</string>
+    <string name="guide" formatted="false">Hagaha</string>
+    <string name="settings" formatted="false">Dejinta</string>
+    <string name="home_title" formatted="false">Fiidyowyadaada Ururintaada.</string>
+    <string name="home_subtitle" formatted="false">Hel wax mudan in la xafido.</string>
+    <string name="search_hint" formatted="false">Ka raadi ama geli shabakad</string>
+    <string name="go" formatted="false">Tag</string>
+    <string name="paste_link" formatted="false">Ku dheji xiriirka fiidiyowga</string>
+    <string name="direct_link" formatted="false">Isku xirka fiidiyowga tooska ah</string>
+    <string name="url_hint" formatted="false">https://example.com/video.mp4</string>
+    <string name="download" formatted="false">Download</string>
+    <string name="detect" formatted="false">Soo hel fiidiyowyada</string>
+    <string name="detected" formatted="false">Muuqaalada boggan</string>
+    <string name="no_media" formatted="false">Fiidiyow la soo dajin karo lama helin Bilow daawashada fiidyowga, ka dib isku day mar kale. durdurrada la ilaaliyo iyo fiimyada ku dhex jira ayaa laga yaabaa in aan la heli karin.</string>
+    <string name="safe_note" formatted="false">Kaliya soo deji fiidyowyada aad leedahay ama aad fasax u leedahay inaad kaydiso. durdurrada la ilaaliyo iyo soo dejinta YouTube lama heli karo</string>
+    <string name="quick_start" formatted="false">HALKAN KA BILAAB</string>
+    <string name="quick_browse" formatted="false">Baadh shabakada</string>
+    <string name="quick_browse_body" formatted="false">Ku raadi matoorka aad doorbidayso browser-ka ku dhex jira.</string>
+    <string name="quick_download" formatted="false">Keydi muuqaal</string>
+    <string name="quick_download_body" formatted="false">Ku dheji xiriiriyaha fiidyowga HTTPS ee tooska ah ama ka hel muuqaal bog.</string>
+    <string name="quick_guide" formatted="false">Hanuun yar</string>
+    <string name="quick_guide_body" formatted="false">Afar tilaabo oo sawiran laga soo bilaabo daahfurka ilaa ururintaada.</string>
+    <string name="back" formatted="false">Dib u noqo</string>
+    <string name="forward" formatted="false">Horey</string>
+    <string name="reload" formatted="false">Dib u soo deji</string>
+    <string name="home" formatted="false">Guriga</string>
+    <string name="bookmark" formatted="false">Bookmark</string>
+    <string name="bookmarks" formatted="false">Bookmarks</string>
+    <string name="empty_bookmarks" formatted="false">Mareegaha la keydiyay ayaa halkan ka muuqan doona.</string>
+    <string name="saved" formatted="false">Badbaadiyay</string>
+    <string name="remove" formatted="false">Ka saar</string>
+    <string name="cancel" formatted="false">Jooji</string>
+    <string name="close" formatted="false">Xir</string>
+    <string name="confirm_download" formatted="false">Keydi muuqaalkan?</string>
+    <string name="filename" formatted="false">Magaca faylka</string>
+    <string name="download_location" formatted="false">Lagu kaydiyay Soodejiyaasha / Soo dejiyaha Fiidiyowga Premium</string>
+    <string name="permission_confirm" formatted="false">Aniga ayaa leh muqaalkan ama fasax ayaan u haystaa inaan soo dejiyo</string>
+    <string name="permission_required" formatted="false">Xaqiiji inaad fasax u leedahay inaad kaydiso muuqaalkan.</string>
+    <string name="invalid_url" formatted="false">Geli isku xidhka fiidyowga HTTPS sax ah</string>
+    <string name="unsupported" formatted="false">Xidhiidhkani maaha muuqaal la soo dejisan karo. DRM, durdurrada tooska ah, liisaska-ciyaaraha, iyo soo dejinta YouTube lama taageero.</string>
+    <string name="queued" formatted="false">Soo dejinta ayaa lagu daray safka</string>
+    <string name="download_error" formatted="false">Aan awoodin in la soo dejiyo Hubi xidhiidhka ama isticmaal xidhiidhiyaha fiidyaha cusub.</string>
+    <string name="collection_title" formatted="false">Ururintaada</string>
+    <string name="collection_subtitle" formatted="false">Fiidiyowyo la keydiyay, diyaar ah markaad tahay.</string>
+    <string name="empty_downloads" formatted="false">Jaceylkaaga xiga halkan ayaa iska leh.</string>
+    <string name="empty_downloads_body" formatted="false">Fiidiyow ku dhex raadi ama ku dheji xiriiriyaha fiidyaha tooska ah si aad u bilowdo ururintaada.</string>
+    <string name="pending" formatted="false">Kuyuu galay</string>
+    <string name="running" formatted="false">Soo dejinta</string>
+    <string name="paused" formatted="false">Sugitaanka shabakad ama isku day</string>
+    <string name="complete" formatted="false">Dhameystiran</string>
+    <string name="failed" formatted="false">Fashilmay</string>
+    <string name="missing" formatted="false">Faylka lama heli karo</string>
+    <string name="play" formatted="false">Ciyaar</string>
+    <string name="share" formatted="false">La wadaag</string>
+    <string name="retry" formatted="false">Isku day</string>
+    <string name="delete_download" formatted="false">Ka saar soo dejinta iyo faylkeeda?</string>
+    <string name="no_player" formatted="false">Ma jiro abka ku habboon oo la heli karo si loo furo faylkan.</string>
+    <string name="guide_title" formatted="false">Laga soo bilaabo daahfurka ilaa soo dejinta.</string>
+    <string name="guide_subtitle" formatted="false">Hage fudud oo lagu ilaalinayo fiidiyowyada aad jeceshahay.</string>
+    <string name="step_one_title" formatted="false">Soo hel muuqaalkaaga</string>
+    <string name="step_one_body" formatted="false">Fur Browse Ka raadi ama geli ciwaanka mareegta Waxa kale oo aad wadaagi kartaa isku xirka fiidiyowga ee abka kale.</string>
+    <string name="step_two_title" formatted="false">Soo ogow isha</string>
+    <string name="step_two_body" formatted="false">Daar fiidiyow, ka dibna taabo Raadi fiidiyowyo. Dooro faylka la ogaaday, ama ku dheji xiriiriyaha fiidyowga HTTPS ee tooska ah.</string>
+    <string name="step_three_title" formatted="false">Ka dhig kaaga</string>
+    <string name="step_three_body" formatted="false">Dooro magaca faylka, xaqiiji oggolaanshahaaga si aad u kaydiso fiidyaha, oo tabo Soo dejiso. Android waxay sii wadaa soo dejinta gadaasha</string>
+    <string name="step_four_title" formatted="false">Ku raaxayso ururintaada</string>
+    <string name="step_four_body" formatted="false">Fur Downloads si aad u hubiso horumarka Daar ama wadaag muuqaalada la dhammeeyay. Isku day soodejintu guuldarraysatay oo leh xiriir cusub marka loo baahdo.</string>
+    <string name="try_now" formatted="false">Isku day hadda</string>
+    <string name="preferences" formatted="false">Ka dhig mid adiga kuu gaar ah.</string>
+    <string name="preferences_subtitle" formatted="false">Dhawr kontaroolo oo feker ah oo ku saabsan wax baadh maalinle ah.</string>
+    <string name="dns_title" formatted="false">VPN / DNS gaar ah</string>
+    <string name="dns_explanation" formatted="false">DNS gaarka ah wuxuu sireeyaa weydiimaha DNS. Ma qarinayso ciwaankaaga IP-ga ama ma abuurto tunnel VPN. Android waxa ay kaaga baahantahay in aad gacanta ku badasho goobtan</string>
+    <string name="connected" formatted="false">Ku xidhan</string>
+    <string name="unconnected" formatted="false">Aan isku xidhnayn</string>
+    <string name="connect" formatted="false">Ku xidhnow</string>
+    <string name="disconnect" formatted="false">Xiriirka ka jar</string>
+    <string name="dns_instructions" formatted="false">Dooro bixiyaha DNS gaarka ah magaca martida, ku dheji dns.adguard-dns.com, oo kaydi. Si aad u go\&apos;do, doorato Toos ah ama Demin isla goobta nidaamka.</string>
+    <string name="copy_hostname" formatted="false">Nuqul ka samee magaca martida</string>
+    <string name="copied" formatted="false">Loo guuriyay sabuuraddii</string>
+    <string name="open_network_settings" formatted="false">Fur goobaha shabakada</string>
+    <string name="language" formatted="false">Luuqada App-ka</string>
+    <string name="system_language" formatted="false">Raac luqadda aaladda</string>
+    <string name="search_language" formatted="false">Hel luqad</string>
+    <string name="language_note" formatted="false">Turjumaada waxaa lagu daray offline Luuqadaha aan liiska ku jirin waxay isticmaalaan Ingiriis. Turjumaada mashiinka ayaa laga yaabaa inay u baahdaan dib u eegis goboleed.</string>
+    <string name="search_engine" formatted="false">mashiinka raadinta</string>
+    <string name="wifi_only" formatted="false">Ku soo dejiso Wi-Fi kaliya</string>
+    <string name="wifi_body" formatted="false">Soodejin cusub ayaa sugaya ilaa Wi-Fi la heli karo.</string>
+    <string name="javascript" formatted="false">Mareegta JavaScript</string>
+    <string name="javascript_body" formatted="false">Waxaa u baahan shabakado badan iyo HTML5 daahfurka muqaal.</string>
+    <string name="privacy" formatted="false">Qarsoodi</string>
+    <string name="clear_browser" formatted="false">Nadiifi xogta daalacashada</string>
+    <string name="clear_browser_confirm" formatted="false">Ma tirtirtaa cookies, cache browser, taariikhda, iyo kaydinta mareegta?</string>
+    <string name="privacy_body" formatted="false">Ma jiraan xayaysiisyo, falanqayn, ama xisaab horumariye Mareegaha, makiinadaha raadinta, bixiyeyaasha DNS, iyo soo dejinta server-yada waxay helayaan codsiyada aad sameyso. Soo deji taariikhda iyo bookmarks ku joog qalabkan.</string>
+    <string name="terms" formatted="false">U isticmaal si xilkasnimo leh</string>
+    <string name="terms_body" formatted="false">Keliya fiidiyowyada aad leedahay ama laguu oggol yahay inaad soo dejiso. Ixtiraam xuquuqda daabacaada iyo shuruudaha mareegta. Abkan ma dhaafi karo DRM, derbiyada lacag-bixinta, ama xayiraadaha soo dejinta.</string>
+    <string name="about" formatted="false">Ku saabsan</string>
+    <string name="version" formatted="false">Nooca</string>
+    <string name="paid_app" formatted="false">Hal iibsi. Xayeysiis ma jiro Ma jiro rukunsasho</string>
+    <string name="welcome_title" formatted="false">Hayso waxa ku dhiiri galinaya.</string>
+    <string name="welcome_body" formatted="false">Baadh, ogow, oo kaydi fiidyaha la oggol yahay hal meel. Akhri hagaha la sawiran si aad u bilowdo.</string>
+    <string name="start_browsing" formatted="false">Bilow daalacashada</string>
+    <string name="read_guide" formatted="false">Akhri hagaha</string>
+    <string name="browser_error" formatted="false">Boggan lama rari karo Hubi ciwaanka iyo xidhiidhka, ka dibna dib u soo deji.</string>
+    <string name="secure_only" formatted="false">Abkan waxa uu isticmaalaa isku xidhka HTTPS Isku day nooca aaminka ah ee shabakadan.</string>
+    <string name="external_link" formatted="false">Ka fur linkigan app kale?</string>
+    <string name="open" formatted="false">Furan</string>
+    <string name="refresh" formatted="false">Dib u cusboonaysii</string>
+    <string name="accessibility_tutorial" formatted="false">Sawirka tallaabadan casharrada</string>
+    <string name="download_reason" formatted="false">Soo dejinta Android code qaladka</string>
+    <string name="queue_full" formatted="false">Taariikhda soo dajintu way buuxdaa Marka hore ka saar gelid duug ah.</string>
+    <string name="browser_tabs" formatted="false">Browser tabs</string>
+    <string name="tabs_subtitle" formatted="false">Mareegaha ha furnaadaan oo kala beddel.</string>
+    <string name="new_tab" formatted="false">tab cusub</string>
+    <string name="close_tab" formatted="false">Xir tab</string>
+    <string name="active_tab" formatted="false">tab firfircoon</string>
+    <string name="tab_limit" formatted="false">Waxaad furi kartaa ilaa 8 tabs. Xir tab si aad mid kale ugu darto.</string>
+    <string name="history" formatted="false">Taariikhda</string>
+    <string name="history_subtitle" formatted="false">Mareegaha la booqday waxa lagu kaydiyaa qalabkan oo keliya.</string>
+    <string name="empty_history" formatted="false">Taariikhdaada daalacashada ayaa halkan ka muuqan doonta.</string>
+    <string name="clear_history" formatted="false">Nadiifi taariikhda</string>
+    <string name="clear_history_confirm" formatted="false">Ka tirtir dhammaan taariikhda baarista qalabkan?</string>
+    <string name="open_new_tab" formatted="false">Ku fur tab cusub</string>
+    <string name="browser_menu" formatted="false">menu browser</string>
+    <string name="shortcut_note" formatted="false">Mareegaha gaaban ee shabakada waxay ka furan yihiin browserka. Helitaanka soo dejinta waxay kuxirantahay mareegaha.</string>
+</resources>
